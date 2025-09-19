@@ -1,0 +1,1312 @@
+[
+    {
+        "lineage_level": 1,
+        "lineage_data": [
+            {
+                "lineage": 1,
+                "price": 1000,
+                "material_data": [
+                    {
+                        "grow_item_id": 4,
+                        "grow_item_num": 15
+                    }
+                ]
+            },
+            {
+                "lineage": 2,
+                "price": 1000,
+                "material_data": [
+                    {
+                        "grow_item_id": 7,
+                        "grow_item_num": 15
+                    }
+                ]
+            },
+            {
+                "lineage": 3,
+                "price": 1000,
+                "material_data": [
+                    {
+                        "grow_item_id": 10,
+                        "grow_item_num": 15
+                    }
+                ]
+            },
+            {
+                "lineage": 4,
+                "price": 1000,
+                "material_data": [
+                    {
+                        "grow_item_id": 13,
+                        "grow_item_num": 15
+                    }
+                ]
+            },
+            {
+                "lineage": 5,
+                "price": 1000,
+                "material_data": [
+                    {
+                        "grow_item_id": 16,
+                        "grow_item_num": 15
+                    }
+                ]
+            }
+        ],
+        "parameter_data": [
+            {
+                "rarity": 1,
+                "add_gp": 100
+            },
+            {
+                "rarity": 2,
+                "add_gp": 75
+            },
+            {
+                "rarity": 3,
+                "add_gp": 60
+            },
+            {
+                "rarity": 4,
+                "add_gp": 60
+            },
+            {
+                "rarity": 5,
+                "add_gp": 40
+            },
+            {
+                "rarity": 6,
+                "add_gp": 40
+            },
+            {
+                "rarity": 7,
+                "add_gp": 30
+            },
+            {
+                "rarity": 8,
+                "add_gp": 30
+            }
+        ]
+    },
+    {
+        "lineage_level": 2,
+        "lineage_data": [
+            {
+                "lineage": 1,
+                "price": 3000,
+                "material_data": [
+                    {
+                        "grow_item_id": 4,
+                        "grow_item_num": 30
+                    }
+                ]
+            },
+            {
+                "lineage": 2,
+                "price": 3000,
+                "material_data": [
+                    {
+                        "grow_item_id": 7,
+                        "grow_item_num": 30
+                    }
+                ]
+            },
+            {
+                "lineage": 3,
+                "price": 3000,
+                "material_data": [
+                    {
+                        "grow_item_id": 10,
+                        "grow_item_num": 30
+                    }
+                ]
+            },
+            {
+                "lineage": 4,
+                "price": 3000,
+                "material_data": [
+                    {
+                        "grow_item_id": 13,
+                        "grow_item_num": 30
+                    }
+                ]
+            },
+            {
+                "lineage": 5,
+                "price": 3000,
+                "material_data": [
+                    {
+                        "grow_item_id": 16,
+                        "grow_item_num": 30
+                    }
+                ]
+            }
+        ],
+        "parameter_data": [
+            {
+                "rarity": 1,
+                "add_gp": 200
+            },
+            {
+                "rarity": 2,
+                "add_gp": 150
+            },
+            {
+                "rarity": 3,
+                "add_gp": 120
+            },
+            {
+                "rarity": 4,
+                "add_gp": 120
+            },
+            {
+                "rarity": 5,
+                "add_gp": 80
+            },
+            {
+                "rarity": 6,
+                "add_gp": 80
+            },
+            {
+                "rarity": 7,
+                "add_gp": 60
+            },
+            {
+                "rarity": 8,
+                "add_gp": 60
+            }
+        ]
+    },
+    {
+        "lineage_level": 3,
+        "lineage_data": [
+            {
+                "lineage": 1,
+                "price": 5000,
+                "material_data": [
+                    {
+                        "grow_item_id": 4,
+                        "grow_item_num": 45
+                    },
+                    {
+                        "grow_item_id": 5,
+                        "grow_item_num": 9
+                    }
+                ]
+            },
+            {
+                "lineage": 2,
+                "price": 5000,
+                "material_data": [
+                    {
+                        "grow_item_id": 7,
+                        "grow_item_num": 45
+                    },
+                    {
+                        "grow_item_id": 8,
+                        "grow_item_num": 9
+                    }
+                ]
+            },
+            {
+                "lineage": 3,
+                "price": 5000,
+                "material_data": [
+                    {
+                        "grow_item_id": 10,
+                        "grow_item_num": 45
+                    },
+                    {
+                        "grow_item_id": 11,
+                        "grow_item_num": 9
+                    }
+                ]
+            },
+            {
+                "lineage": 4,
+                "price": 5000,
+                "material_data": [
+                    {
+                        "grow_item_id": 13,
+                        "grow_item_num": 45
+                    },
+                    {
+                        "grow_item_id": 14,
+                        "grow_item_num": 9
+                    }
+                ]
+            },
+            {
+                "lineage": 5,
+                "price": 5000,
+                "material_data": [
+                    {
+                        "grow_item_id": 16,
+                        "grow_item_num": 45
+                    },
+                    {
+                        "grow_item_id": 17,
+                        "grow_item_num": 9
+                    }
+                ]
+            }
+        ],
+        "parameter_data": [
+            {
+                "rarity": 1,
+                "add_gp": 340
+            },
+            {
+                "rarity": 2,
+                "add_gp": 255
+            },
+            {
+                "rarity": 3,
+                "add_gp": 204
+            },
+            {
+                "rarity": 4,
+                "add_gp": 204
+            },
+            {
+                "rarity": 5,
+                "add_gp": 136
+            },
+            {
+                "rarity": 6,
+                "add_gp": 136
+            },
+            {
+                "rarity": 7,
+                "add_gp": 102
+            },
+            {
+                "rarity": 8,
+                "add_gp": 102
+            }
+        ]
+    },
+    {
+        "lineage_level": 4,
+        "lineage_data": [
+            {
+                "lineage": 1,
+                "price": 7500,
+                "material_data": [
+                    {
+                        "grow_item_id": 4,
+                        "grow_item_num": 60
+                    },
+                    {
+                        "grow_item_id": 5,
+                        "grow_item_num": 15
+                    }
+                ]
+            },
+            {
+                "lineage": 2,
+                "price": 7500,
+                "material_data": [
+                    {
+                        "grow_item_id": 7,
+                        "grow_item_num": 60
+                    },
+                    {
+                        "grow_item_id": 8,
+                        "grow_item_num": 15
+                    }
+                ]
+            },
+            {
+                "lineage": 3,
+                "price": 7500,
+                "material_data": [
+                    {
+                        "grow_item_id": 10,
+                        "grow_item_num": 60
+                    },
+                    {
+                        "grow_item_id": 11,
+                        "grow_item_num": 15
+                    }
+                ]
+            },
+            {
+                "lineage": 4,
+                "price": 7500,
+                "material_data": [
+                    {
+                        "grow_item_id": 13,
+                        "grow_item_num": 60
+                    },
+                    {
+                        "grow_item_id": 14,
+                        "grow_item_num": 15
+                    }
+                ]
+            },
+            {
+                "lineage": 5,
+                "price": 7500,
+                "material_data": [
+                    {
+                        "grow_item_id": 16,
+                        "grow_item_num": 60
+                    },
+                    {
+                        "grow_item_id": 17,
+                        "grow_item_num": 15
+                    }
+                ]
+            }
+        ],
+        "parameter_data": [
+            {
+                "rarity": 1,
+                "add_gp": 480
+            },
+            {
+                "rarity": 2,
+                "add_gp": 360
+            },
+            {
+                "rarity": 3,
+                "add_gp": 288
+            },
+            {
+                "rarity": 4,
+                "add_gp": 288
+            },
+            {
+                "rarity": 5,
+                "add_gp": 192
+            },
+            {
+                "rarity": 6,
+                "add_gp": 192
+            },
+            {
+                "rarity": 7,
+                "add_gp": 144
+            },
+            {
+                "rarity": 8,
+                "add_gp": 144
+            }
+        ]
+    },
+    {
+        "lineage_level": 5,
+        "lineage_data": [
+            {
+                "lineage": 1,
+                "price": 10000,
+                "material_data": [
+                    {
+                        "grow_item_id": 4,
+                        "grow_item_num": 75
+                    },
+                    {
+                        "grow_item_id": 5,
+                        "grow_item_num": 21
+                    },
+                    {
+                        "grow_item_id": 6,
+                        "grow_item_num": 7
+                    }
+                ]
+            },
+            {
+                "lineage": 2,
+                "price": 10000,
+                "material_data": [
+                    {
+                        "grow_item_id": 7,
+                        "grow_item_num": 75
+                    },
+                    {
+                        "grow_item_id": 8,
+                        "grow_item_num": 21
+                    },
+                    {
+                        "grow_item_id": 9,
+                        "grow_item_num": 7
+                    }
+                ]
+            },
+            {
+                "lineage": 3,
+                "price": 10000,
+                "material_data": [
+                    {
+                        "grow_item_id": 10,
+                        "grow_item_num": 75
+                    },
+                    {
+                        "grow_item_id": 11,
+                        "grow_item_num": 21
+                    },
+                    {
+                        "grow_item_id": 12,
+                        "grow_item_num": 7
+                    }
+                ]
+            },
+            {
+                "lineage": 4,
+                "price": 10000,
+                "material_data": [
+                    {
+                        "grow_item_id": 13,
+                        "grow_item_num": 75
+                    },
+                    {
+                        "grow_item_id": 14,
+                        "grow_item_num": 21
+                    },
+                    {
+                        "grow_item_id": 15,
+                        "grow_item_num": 7
+                    }
+                ]
+            },
+            {
+                "lineage": 5,
+                "price": 10000,
+                "material_data": [
+                    {
+                        "grow_item_id": 16,
+                        "grow_item_num": 75
+                    },
+                    {
+                        "grow_item_id": 17,
+                        "grow_item_num": 21
+                    },
+                    {
+                        "grow_item_id": 18,
+                        "grow_item_num": 7
+                    }
+                ]
+            }
+        ],
+        "parameter_data": [
+            {
+                "rarity": 1,
+                "add_gp": 680
+            },
+            {
+                "rarity": 2,
+                "add_gp": 510
+            },
+            {
+                "rarity": 3,
+                "add_gp": 408
+            },
+            {
+                "rarity": 4,
+                "add_gp": 408
+            },
+            {
+                "rarity": 5,
+                "add_gp": 272
+            },
+            {
+                "rarity": 6,
+                "add_gp": 272
+            },
+            {
+                "rarity": 7,
+                "add_gp": 204
+            },
+            {
+                "rarity": 8,
+                "add_gp": 204
+            }
+        ]
+    },
+    {
+        "lineage_level": 6,
+        "lineage_data": [
+            {
+                "lineage": 1,
+                "price": 20000,
+                "material_data": [
+                    {
+                        "grow_item_id": 4,
+                        "grow_item_num": 90
+                    },
+                    {
+                        "grow_item_id": 5,
+                        "grow_item_num": 30
+                    },
+                    {
+                        "grow_item_id": 6,
+                        "grow_item_num": 13
+                    }
+                ]
+            },
+            {
+                "lineage": 2,
+                "price": 20000,
+                "material_data": [
+                    {
+                        "grow_item_id": 7,
+                        "grow_item_num": 90
+                    },
+                    {
+                        "grow_item_id": 8,
+                        "grow_item_num": 30
+                    },
+                    {
+                        "grow_item_id": 9,
+                        "grow_item_num": 13
+                    }
+                ]
+            },
+            {
+                "lineage": 3,
+                "price": 20000,
+                "material_data": [
+                    {
+                        "grow_item_id": 10,
+                        "grow_item_num": 90
+                    },
+                    {
+                        "grow_item_id": 11,
+                        "grow_item_num": 30
+                    },
+                    {
+                        "grow_item_id": 12,
+                        "grow_item_num": 13
+                    }
+                ]
+            },
+            {
+                "lineage": 4,
+                "price": 20000,
+                "material_data": [
+                    {
+                        "grow_item_id": 13,
+                        "grow_item_num": 90
+                    },
+                    {
+                        "grow_item_id": 14,
+                        "grow_item_num": 30
+                    },
+                    {
+                        "grow_item_id": 15,
+                        "grow_item_num": 13
+                    }
+                ]
+            },
+            {
+                "lineage": 5,
+                "price": 20000,
+                "material_data": [
+                    {
+                        "grow_item_id": 16,
+                        "grow_item_num": 90
+                    },
+                    {
+                        "grow_item_id": 17,
+                        "grow_item_num": 30
+                    },
+                    {
+                        "grow_item_id": 18,
+                        "grow_item_num": 13
+                    }
+                ]
+            }
+        ],
+        "parameter_data": [
+            {
+                "rarity": 1,
+                "add_gp": 880
+            },
+            {
+                "rarity": 2,
+                "add_gp": 660
+            },
+            {
+                "rarity": 3,
+                "add_gp": 528
+            },
+            {
+                "rarity": 4,
+                "add_gp": 528
+            },
+            {
+                "rarity": 5,
+                "add_gp": 352
+            },
+            {
+                "rarity": 6,
+                "add_gp": 352
+            },
+            {
+                "rarity": 7,
+                "add_gp": 264
+            },
+            {
+                "rarity": 8,
+                "add_gp": 264
+            }
+        ]
+    },
+    {
+        "lineage_level": 7,
+        "lineage_data": [
+            {
+                "lineage": 1,
+                "price": 40000,
+                "material_data": [
+                    {
+                        "grow_item_id": 4,
+                        "grow_item_num": 120
+                    },
+                    {
+                        "grow_item_id": 5,
+                        "grow_item_num": 60
+                    },
+                    {
+                        "grow_item_id": 6,
+                        "grow_item_num": 18
+                    },
+                    {
+                        "grow_item_id": 19,
+                        "grow_item_num": 10
+                    }
+                ]
+            },
+            {
+                "lineage": 2,
+                "price": 40000,
+                "material_data": [
+                    {
+                        "grow_item_id": 7,
+                        "grow_item_num": 120
+                    },
+                    {
+                        "grow_item_id": 8,
+                        "grow_item_num": 60
+                    },
+                    {
+                        "grow_item_id": 9,
+                        "grow_item_num": 18
+                    },
+                    {
+                        "grow_item_id": 19,
+                        "grow_item_num": 10
+                    }
+                ]
+            },
+            {
+                "lineage": 3,
+                "price": 40000,
+                "material_data": [
+                    {
+                        "grow_item_id": 10,
+                        "grow_item_num": 120
+                    },
+                    {
+                        "grow_item_id": 11,
+                        "grow_item_num": 60
+                    },
+                    {
+                        "grow_item_id": 12,
+                        "grow_item_num": 18
+                    },
+                    {
+                        "grow_item_id": 19,
+                        "grow_item_num": 10
+                    }
+                ]
+            },
+            {
+                "lineage": 4,
+                "price": 40000,
+                "material_data": [
+                    {
+                        "grow_item_id": 13,
+                        "grow_item_num": 120
+                    },
+                    {
+                        "grow_item_id": 14,
+                        "grow_item_num": 60
+                    },
+                    {
+                        "grow_item_id": 15,
+                        "grow_item_num": 18
+                    },
+                    {
+                        "grow_item_id": 19,
+                        "grow_item_num": 10
+                    }
+                ]
+            },
+            {
+                "lineage": 5,
+                "price": 40000,
+                "material_data": [
+                    {
+                        "grow_item_id": 16,
+                        "grow_item_num": 120
+                    },
+                    {
+                        "grow_item_id": 17,
+                        "grow_item_num": 60
+                    },
+                    {
+                        "grow_item_id": 18,
+                        "grow_item_num": 18
+                    },
+                    {
+                        "grow_item_id": 19,
+                        "grow_item_num": 10
+                    }
+                ]
+            }
+        ],
+        "parameter_data": [
+            {
+                "rarity": 1,
+                "add_gp": 1140
+            },
+            {
+                "rarity": 2,
+                "add_gp": 855
+            },
+            {
+                "rarity": 3,
+                "add_gp": 684
+            },
+            {
+                "rarity": 4,
+                "add_gp": 684
+            },
+            {
+                "rarity": 5,
+                "add_gp": 456
+            },
+            {
+                "rarity": 6,
+                "add_gp": 456
+            },
+            {
+                "rarity": 7,
+                "add_gp": 342
+            },
+            {
+                "rarity": 8,
+                "add_gp": 342
+            }
+        ]
+    },
+    {
+        "lineage_level": 8,
+        "lineage_data": [
+            {
+                "lineage": 1,
+                "price": 60000,
+                "material_data": [
+                    {
+                        "grow_item_id": 4,
+                        "grow_item_num": 150
+                    },
+                    {
+                        "grow_item_id": 5,
+                        "grow_item_num": 90
+                    },
+                    {
+                        "grow_item_id": 6,
+                        "grow_item_num": 25
+                    },
+                    {
+                        "grow_item_id": 19,
+                        "grow_item_num": 20
+                    },
+                    {
+                        "grow_item_id": 20,
+                        "grow_item_num": 2
+                    }
+                ]
+            },
+            {
+                "lineage": 2,
+                "price": 60000,
+                "material_data": [
+                    {
+                        "grow_item_id": 7,
+                        "grow_item_num": 150
+                    },
+                    {
+                        "grow_item_id": 8,
+                        "grow_item_num": 90
+                    },
+                    {
+                        "grow_item_id": 9,
+                        "grow_item_num": 25
+                    },
+                    {
+                        "grow_item_id": 19,
+                        "grow_item_num": 20
+                    },
+                    {
+                        "grow_item_id": 20,
+                        "grow_item_num": 2
+                    }
+                ]
+            },
+            {
+                "lineage": 3,
+                "price": 60000,
+                "material_data": [
+                    {
+                        "grow_item_id": 10,
+                        "grow_item_num": 150
+                    },
+                    {
+                        "grow_item_id": 11,
+                        "grow_item_num": 90
+                    },
+                    {
+                        "grow_item_id": 12,
+                        "grow_item_num": 25
+                    },
+                    {
+                        "grow_item_id": 19,
+                        "grow_item_num": 20
+                    },
+                    {
+                        "grow_item_id": 20,
+                        "grow_item_num": 2
+                    }
+                ]
+            },
+            {
+                "lineage": 4,
+                "price": 60000,
+                "material_data": [
+                    {
+                        "grow_item_id": 13,
+                        "grow_item_num": 150
+                    },
+                    {
+                        "grow_item_id": 14,
+                        "grow_item_num": 90
+                    },
+                    {
+                        "grow_item_id": 15,
+                        "grow_item_num": 25
+                    },
+                    {
+                        "grow_item_id": 19,
+                        "grow_item_num": 20
+                    },
+                    {
+                        "grow_item_id": 20,
+                        "grow_item_num": 2
+                    }
+                ]
+            },
+            {
+                "lineage": 5,
+                "price": 60000,
+                "material_data": [
+                    {
+                        "grow_item_id": 16,
+                        "grow_item_num": 150
+                    },
+                    {
+                        "grow_item_id": 17,
+                        "grow_item_num": 90
+                    },
+                    {
+                        "grow_item_id": 18,
+                        "grow_item_num": 25
+                    },
+                    {
+                        "grow_item_id": 19,
+                        "grow_item_num": 20
+                    },
+                    {
+                        "grow_item_id": 20,
+                        "grow_item_num": 2
+                    }
+                ]
+            }
+        ],
+        "parameter_data": [
+            {
+                "rarity": 1,
+                "add_gp": 1400
+            },
+            {
+                "rarity": 2,
+                "add_gp": 1050
+            },
+            {
+                "rarity": 3,
+                "add_gp": 840
+            },
+            {
+                "rarity": 4,
+                "add_gp": 840
+            },
+            {
+                "rarity": 5,
+                "add_gp": 560
+            },
+            {
+                "rarity": 6,
+                "add_gp": 560
+            },
+            {
+                "rarity": 7,
+                "add_gp": 420
+            },
+            {
+                "rarity": 8,
+                "add_gp": 420
+            }
+        ]
+    },
+    {
+        "lineage_level": 9,
+        "lineage_data": [
+            {
+                "lineage": 1,
+                "price": 80000,
+                "material_data": [
+                    {
+                        "grow_item_id": 4,
+                        "grow_item_num": 180
+                    },
+                    {
+                        "grow_item_id": 5,
+                        "grow_item_num": 120
+                    },
+                    {
+                        "grow_item_id": 6,
+                        "grow_item_num": 50
+                    },
+                    {
+                        "grow_item_id": 19,
+                        "grow_item_num": 30
+                    },
+                    {
+                        "grow_item_id": 20,
+                        "grow_item_num": 10
+                    }
+                ]
+            },
+            {
+                "lineage": 2,
+                "price": 80000,
+                "material_data": [
+                    {
+                        "grow_item_id": 7,
+                        "grow_item_num": 180
+                    },
+                    {
+                        "grow_item_id": 8,
+                        "grow_item_num": 120
+                    },
+                    {
+                        "grow_item_id": 9,
+                        "grow_item_num": 50
+                    },
+                    {
+                        "grow_item_id": 19,
+                        "grow_item_num": 30
+                    },
+                    {
+                        "grow_item_id": 20,
+                        "grow_item_num": 10
+                    }
+                ]
+            },
+            {
+                "lineage": 3,
+                "price": 80000,
+                "material_data": [
+                    {
+                        "grow_item_id": 10,
+                        "grow_item_num": 180
+                    },
+                    {
+                        "grow_item_id": 11,
+                        "grow_item_num": 120
+                    },
+                    {
+                        "grow_item_id": 12,
+                        "grow_item_num": 50
+                    },
+                    {
+                        "grow_item_id": 19,
+                        "grow_item_num": 30
+                    },
+                    {
+                        "grow_item_id": 20,
+                        "grow_item_num": 10
+                    }
+                ]
+            },
+            {
+                "lineage": 4,
+                "price": 80000,
+                "material_data": [
+                    {
+                        "grow_item_id": 13,
+                        "grow_item_num": 180
+                    },
+                    {
+                        "grow_item_id": 14,
+                        "grow_item_num": 120
+                    },
+                    {
+                        "grow_item_id": 15,
+                        "grow_item_num": 50
+                    },
+                    {
+                        "grow_item_id": 19,
+                        "grow_item_num": 30
+                    },
+                    {
+                        "grow_item_id": 20,
+                        "grow_item_num": 10
+                    }
+                ]
+            },
+            {
+                "lineage": 5,
+                "price": 80000,
+                "material_data": [
+                    {
+                        "grow_item_id": 16,
+                        "grow_item_num": 180
+                    },
+                    {
+                        "grow_item_id": 17,
+                        "grow_item_num": 120
+                    },
+                    {
+                        "grow_item_id": 18,
+                        "grow_item_num": 50
+                    },
+                    {
+                        "grow_item_id": 19,
+                        "grow_item_num": 30
+                    },
+                    {
+                        "grow_item_id": 20,
+                        "grow_item_num": 10
+                    }
+                ]
+            }
+        ],
+        "parameter_data": [
+            {
+                "rarity": 1,
+                "add_gp": 1700
+            },
+            {
+                "rarity": 2,
+                "add_gp": 1275
+            },
+            {
+                "rarity": 3,
+                "add_gp": 1020
+            },
+            {
+                "rarity": 4,
+                "add_gp": 1020
+            },
+            {
+                "rarity": 5,
+                "add_gp": 680
+            },
+            {
+                "rarity": 6,
+                "add_gp": 680
+            },
+            {
+                "rarity": 7,
+                "add_gp": 510
+            },
+            {
+                "rarity": 8,
+                "add_gp": 510
+            }
+        ]
+    },
+    {
+        "lineage_level": 10,
+        "lineage_data": [
+            {
+                "lineage": 1,
+                "price": 100000,
+                "material_data": [
+                    {
+                        "grow_item_id": 4,
+                        "grow_item_num": 210
+                    },
+                    {
+                        "grow_item_id": 5,
+                        "grow_item_num": 150
+                    },
+                    {
+                        "grow_item_id": 6,
+                        "grow_item_num": 75
+                    },
+                    {
+                        "grow_item_id": 19,
+                        "grow_item_num": 60
+                    },
+                    {
+                        "grow_item_id": 20,
+                        "grow_item_num": 20
+                    }
+                ]
+            },
+            {
+                "lineage": 2,
+                "price": 100000,
+                "material_data": [
+                    {
+                        "grow_item_id": 7,
+                        "grow_item_num": 210
+                    },
+                    {
+                        "grow_item_id": 8,
+                        "grow_item_num": 150
+                    },
+                    {
+                        "grow_item_id": 9,
+                        "grow_item_num": 75
+                    },
+                    {
+                        "grow_item_id": 19,
+                        "grow_item_num": 60
+                    },
+                    {
+                        "grow_item_id": 20,
+                        "grow_item_num": 20
+                    }
+                ]
+            },
+            {
+                "lineage": 3,
+                "price": 100000,
+                "material_data": [
+                    {
+                        "grow_item_id": 10,
+                        "grow_item_num": 210
+                    },
+                    {
+                        "grow_item_id": 11,
+                        "grow_item_num": 150
+                    },
+                    {
+                        "grow_item_id": 12,
+                        "grow_item_num": 75
+                    },
+                    {
+                        "grow_item_id": 19,
+                        "grow_item_num": 60
+                    },
+                    {
+                        "grow_item_id": 20,
+                        "grow_item_num": 20
+                    }
+                ]
+            },
+            {
+                "lineage": 4,
+                "price": 100000,
+                "material_data": [
+                    {
+                        "grow_item_id": 13,
+                        "grow_item_num": 210
+                    },
+                    {
+                        "grow_item_id": 14,
+                        "grow_item_num": 150
+                    },
+                    {
+                        "grow_item_id": 15,
+                        "grow_item_num": 75
+                    },
+                    {
+                        "grow_item_id": 19,
+                        "grow_item_num": 60
+                    },
+                    {
+                        "grow_item_id": 20,
+                        "grow_item_num": 20
+                    }
+                ]
+            },
+            {
+                "lineage": 5,
+                "price": 100000,
+                "material_data": [
+                    {
+                        "grow_item_id": 16,
+                        "grow_item_num": 210
+                    },
+                    {
+                        "grow_item_id": 17,
+                        "grow_item_num": 150
+                    },
+                    {
+                        "grow_item_id": 18,
+                        "grow_item_num": 75
+                    },
+                    {
+                        "grow_item_id": 19,
+                        "grow_item_num": 60
+                    },
+                    {
+                        "grow_item_id": 20,
+                        "grow_item_num": 20
+                    }
+                ]
+            }
+        ],
+        "parameter_data": [
+            {
+                "rarity": 1,
+                "add_gp": 2000
+            },
+            {
+                "rarity": 2,
+                "add_gp": 1500
+            },
+            {
+                "rarity": 3,
+                "add_gp": 1200
+            },
+            {
+                "rarity": 4,
+                "add_gp": 1200
+            },
+            {
+                "rarity": 5,
+                "add_gp": 800
+            },
+            {
+                "rarity": 6,
+                "add_gp": 800
+            },
+            {
+                "rarity": 7,
+                "add_gp": 600
+            },
+            {
+                "rarity": 8,
+                "add_gp": 600
+            }
+        ]
+    }
+]

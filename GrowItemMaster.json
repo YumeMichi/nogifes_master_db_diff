@@ -1,0 +1,191 @@
+[
+    {
+        "grow_item_id": 1,
+        "grow_item_name": "レッスンブック（初級）",
+        "grow_item_type": 1,
+        "type_param": 20,
+        "disp_order": 1,
+        "max_possession": 99999,
+        "description": "タイプレッスンでアイドルLvを上げるためのアイテム。"
+    },
+    {
+        "grow_item_id": 2,
+        "grow_item_name": "レッスンブック（中級）",
+        "grow_item_type": 1,
+        "type_param": 200,
+        "disp_order": 2,
+        "max_possession": 99999,
+        "description": "タイプレッスンでアイドルLvを上げるためのアイテム。"
+    },
+    {
+        "grow_item_id": 3,
+        "grow_item_name": "レッスンブック（上級）",
+        "grow_item_type": 1,
+        "type_param": 1000,
+        "disp_order": 3,
+        "max_possession": 99999,
+        "description": "タイプレッスンでアイドルLvを上げるためのアイテム。"
+    },
+    {
+        "grow_item_id": 4,
+        "grow_item_name": "リズムマイク",
+        "grow_item_type": 2,
+        "type_param": 0,
+        "disp_order": 4,
+        "max_possession": 99999,
+        "description": "タイプレッスンでリズムタイプのLvを上げるためのアイテム。"
+    },
+    {
+        "grow_item_id": 5,
+        "grow_item_name": "リズムシューズ",
+        "grow_item_type": 2,
+        "type_param": 0,
+        "disp_order": 5,
+        "max_possession": 99999,
+        "description": "タイプレッスンでリズムタイプのLvを上げるためのアイテム。"
+    },
+    {
+        "grow_item_id": 6,
+        "grow_item_name": "リズムドレス",
+        "grow_item_type": 2,
+        "type_param": 0,
+        "disp_order": 6,
+        "max_possession": 99999,
+        "description": "タイプレッスンでリズムタイプのLvを上げるためのアイテム。"
+    },
+    {
+        "grow_item_id": 7,
+        "grow_item_name": "メロディマイク",
+        "grow_item_type": 2,
+        "type_param": 0,
+        "disp_order": 7,
+        "max_possession": 99999,
+        "description": "タイプレッスンでメロディタイプのLvを上げるためのアイテム。"
+    },
+    {
+        "grow_item_id": 8,
+        "grow_item_name": "メロディシューズ",
+        "grow_item_type": 2,
+        "type_param": 0,
+        "disp_order": 8,
+        "max_possession": 99999,
+        "description": "タイプレッスンでメロディタイプのLvを上げるためのアイテム。"
+    },
+    {
+        "grow_item_id": 9,
+        "grow_item_name": "メロディドレス",
+        "grow_item_type": 2,
+        "type_param": 0,
+        "disp_order": 9,
+        "max_possession": 99999,
+        "description": "タイプレッスンでメロディタイプのLvを上げるためのアイテム。"
+    },
+    {
+        "grow_item_id": 10,
+        "grow_item_name": "ハーモニーマイク",
+        "grow_item_type": 2,
+        "type_param": 0,
+        "disp_order": 10,
+        "max_possession": 99999,
+        "description": "タイプレッスンでハーモニータイプのLvを上げるためのアイテム。"
+    },
+    {
+        "grow_item_id": 11,
+        "grow_item_name": "ハーモニーシューズ",
+        "grow_item_type": 2,
+        "type_param": 0,
+        "disp_order": 11,
+        "max_possession": 99999,
+        "description": "タイプレッスンでハーモニータイプのLvを上げるためのアイテム。"
+    },
+    {
+        "grow_item_id": 12,
+        "grow_item_name": "ハーモニードレス",
+        "grow_item_type": 2,
+        "type_param": 0,
+        "disp_order": 12,
+        "max_possession": 99999,
+        "description": "タイプレッスンでハーモニータイプのLvを上げるためのアイテム。"
+    },
+    {
+        "grow_item_id": 13,
+        "grow_item_name": "グルーヴマイク",
+        "grow_item_type": 2,
+        "type_param": 0,
+        "disp_order": 13,
+        "max_possession": 99999,
+        "description": "タイプレッスンでグルーヴタイプのLvを上げるためのアイテム。"
+    },
+    {
+        "grow_item_id": 14,
+        "grow_item_name": "グルーヴシューズ",
+        "grow_item_type": 2,
+        "type_param": 0,
+        "disp_order": 14,
+        "max_possession": 99999,
+        "description": "タイプレッスンでグルーヴタイプのLvを上げるためのアイテム。"
+    },
+    {
+        "grow_item_id": 15,
+        "grow_item_name": "グルーヴドレス",
+        "grow_item_type": 2,
+        "type_param": 0,
+        "disp_order": 15,
+        "max_possession": 99999,
+        "description": "タイプレッスンでグルーヴタイプのLvを上げるためのアイテム。"
+    },
+    {
+        "grow_item_id": 16,
+        "grow_item_name": "ビートマイク",
+        "grow_item_type": 2,
+        "type_param": 0,
+        "disp_order": 16,
+        "max_possession": 99999,
+        "description": "タイプレッスンでビートタイプのLvを上げるためのアイテム。"
+    },
+    {
+        "grow_item_id": 17,
+        "grow_item_name": "ビートシューズ",
+        "grow_item_type": 2,
+        "type_param": 0,
+        "disp_order": 17,
+        "max_possession": 99999,
+        "description": "タイプレッスンでビートタイプのLvを上げるためのアイテム。"
+    },
+    {
+        "grow_item_id": 18,
+        "grow_item_name": "ビートドレス",
+        "grow_item_type": 2,
+        "type_param": 0,
+        "disp_order": 18,
+        "max_possession": 99999,
+        "description": "タイプレッスンでビートタイプのLvを上げるためのアイテム。"
+    },
+    {
+        "grow_item_id": 19,
+        "grow_item_name": "五色のブレスレット",
+        "grow_item_type": 2,
+        "type_param": 0,
+        "disp_order": 19,
+        "max_possession": 99999,
+        "description": "タイプレッスンで各タイプのLvを上げるためのアイテム。"
+    },
+    {
+        "grow_item_id": 20,
+        "grow_item_name": "五色のバレッタ",
+        "grow_item_type": 2,
+        "type_param": 0,
+        "disp_order": 20,
+        "max_possession": 99999,
+        "description": "タイプレッスンで各タイプのLvを上げるためのアイテム。"
+    },
+    {
+        "grow_item_id": 21,
+        "grow_item_name": "神秘の砂時計",
+        "grow_item_type": 3,
+        "type_param": 0,
+        "disp_order": 21,
+        "max_possession": 999,
+        "description": "タイプLvをリセットする時に育成に使用したアイテムを返還できるアイテム。"
+    }
+]

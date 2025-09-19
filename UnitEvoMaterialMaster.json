@@ -1,0 +1,182 @@
+[
+    {
+        "id": 1,
+        "rarity": 3,
+        "attribute": 1,
+        "price": 20000,
+        "evo_material_data": [
+            {
+                "evo_material_id": 3,
+                "evo_material_num": 60
+            },
+            {
+                "evo_material_id": 6,
+                "evo_material_num": 40
+            },
+            {
+                "evo_material_id": 13,
+                "evo_material_num": 2
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "rarity": 3,
+        "attribute": 2,
+        "price": 20000,
+        "evo_material_data": [
+            {
+                "evo_material_id": 1,
+                "evo_material_num": 60
+            },
+            {
+                "evo_material_id": 4,
+                "evo_material_num": 40
+            },
+            {
+                "evo_material_id": 13,
+                "evo_material_num": 2
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "rarity": 3,
+        "attribute": 3,
+        "price": 20000,
+        "evo_material_data": [
+            {
+                "evo_material_id": 2,
+                "evo_material_num": 60
+            },
+            {
+                "evo_material_id": 5,
+                "evo_material_num": 40
+            },
+            {
+                "evo_material_id": 13,
+                "evo_material_num": 2
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "rarity": 5,
+        "attribute": 1,
+        "price": 30000,
+        "evo_material_data": [
+            {
+                "evo_material_id": 9,
+                "evo_material_num": 30
+            },
+            {
+                "evo_material_id": 12,
+                "evo_material_num": 10
+            },
+            {
+                "evo_material_id": 13,
+                "evo_material_num": 4
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "rarity": 5,
+        "attribute": 2,
+        "price": 30000,
+        "evo_material_data": [
+            {
+                "evo_material_id": 7,
+                "evo_material_num": 30
+            },
+            {
+                "evo_material_id": 10,
+                "evo_material_num": 10
+            },
+            {
+                "evo_material_id": 13,
+                "evo_material_num": 4
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "rarity": 5,
+        "attribute": 3,
+        "price": 30000,
+        "evo_material_data": [
+            {
+                "evo_material_id": 8,
+                "evo_material_num": 30
+            },
+            {
+                "evo_material_id": 11,
+                "evo_material_num": 10
+            },
+            {
+                "evo_material_id": 13,
+                "evo_material_num": 4
+            }
+        ]
+    },
+    {
+        "id": 19,
+        "rarity": 7,
+        "attribute": 1,
+        "price": 30000,
+        "evo_material_data": [
+            {
+                "evo_material_id": 9,
+                "evo_material_num": 30
+            },
+            {
+                "evo_material_id": 12,
+                "evo_material_num": 10
+            },
+            {
+                "evo_material_id": 13,
+                "evo_material_num": 4
+            }
+        ]
+    },
+    {
+        "id": 22,
+        "rarity": 7,
+        "attribute": 2,
+        "price": 30000,
+        "evo_material_data": [
+            {
+                "evo_material_id": 7,
+                "evo_material_num": 30
+            },
+            {
+                "evo_material_id": 10,
+                "evo_material_num": 10
+            },
+            {
+                "evo_material_id": 13,
+                "evo_material_num": 4
+            }
+        ]
+    },
+    {
+        "id": 25,
+        "rarity": 7,
+        "attribute": 3,
+        "price": 30000,
+        "evo_material_data": [
+            {
+                "evo_material_id": 8,
+                "evo_material_num": 30
+            },
+            {
+                "evo_material_id": 11,
+                "evo_material_num": 10
+            },
+            {
+                "evo_material_id": 13,
+                "evo_material_num": 4
+            }
+        ]
+    }
+]

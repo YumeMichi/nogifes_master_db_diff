@@ -1,0 +1,106 @@
+[
+    {
+        "evo_material_id": 1,
+        "evo_material_name": "スタークォーツ(小)",
+        "attribute": 2,
+        "max_possession": 9999,
+        "price": 100,
+        "description": "星属性のカードを進化させるためのアイテム。"
+    },
+    {
+        "evo_material_id": 2,
+        "evo_material_name": "ムーンクォーツ(小)",
+        "attribute": 3,
+        "max_possession": 9999,
+        "price": 100,
+        "description": "月属性のカードを進化させるためのアイテム。"
+    },
+    {
+        "evo_material_id": 3,
+        "evo_material_name": "サンクォーツ(小)",
+        "attribute": 1,
+        "max_possession": 9999,
+        "price": 100,
+        "description": "太陽属性のカードを進化させるためのアイテム。"
+    },
+    {
+        "evo_material_id": 4,
+        "evo_material_name": "スタークォーツ(中)",
+        "attribute": 2,
+        "max_possession": 9999,
+        "price": 500,
+        "description": "星属性のカードを進化させるためのアイテム。"
+    },
+    {
+        "evo_material_id": 5,
+        "evo_material_name": "ムーンクォーツ(中)",
+        "attribute": 3,
+        "max_possession": 9999,
+        "price": 500,
+        "description": "月属性のカードを進化させるためのアイテム。"
+    },
+    {
+        "evo_material_id": 6,
+        "evo_material_name": "サンクォーツ(中)",
+        "attribute": 1,
+        "max_possession": 9999,
+        "price": 500,
+        "description": "太陽属性のカードを進化させるためのアイテム。"
+    },
+    {
+        "evo_material_id": 7,
+        "evo_material_name": "スタークォーツ(大)",
+        "attribute": 2,
+        "max_possession": 9999,
+        "price": 2000,
+        "description": "星属性のカードを進化させるためのアイテム。"
+    },
+    {
+        "evo_material_id": 8,
+        "evo_material_name": "ムーンクォーツ(大)",
+        "attribute": 3,
+        "max_possession": 9999,
+        "price": 2000,
+        "description": "月属性のカードを進化させるためのアイテム。"
+    },
+    {
+        "evo_material_id": 9,
+        "evo_material_name": "サンクォーツ(大)",
+        "attribute": 1,
+        "max_possession": 9999,
+        "price": 2000,
+        "description": "太陽属性のカードを進化させるためのアイテム。"
+    },
+    {
+        "evo_material_id": 10,
+        "evo_material_name": "スタークォーツ(特大)",
+        "attribute": 2,
+        "max_possession": 9999,
+        "price": 8000,
+        "description": "星属性のカードを進化させるためのアイテム。"
+    },
+    {
+        "evo_material_id": 11,
+        "evo_material_name": "ムーンクォーツ(特大)",
+        "attribute": 3,
+        "max_possession": 9999,
+        "price": 8000,
+        "description": "月属性のカードを進化させるためのアイテム。"
+    },
+    {
+        "evo_material_id": 12,
+        "evo_material_name": "サンクォーツ(特大)",
+        "attribute": 1,
+        "max_possession": 9999,
+        "price": 8000,
+        "description": "太陽属性のカードを進化させるためのアイテム。"
+    },
+    {
+        "evo_material_id": 13,
+        "evo_material_name": "ミラクルクォーツ",
+        "attribute": 0,
+        "max_possession": 9999,
+        "price": 20000,
+        "description": "カードを進化させるためのアイテム。"
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "piece_id": 1,
+        "piece_name": "銀のハネ",
+        "piece_type": 1,
+        "max_possession": 9999,
+        "description": "銀のツバサと交換できるアイテム。",
+        "resource_id": 1
+    },
+    {
+        "piece_id": 2,
+        "piece_name": "金のハネ",
+        "piece_type": 1,
+        "max_possession": 9999,
+        "description": "金のツバサと交換できるアイテム。",
+        "resource_id": 2
+    },
+    {
+        "piece_id": 3,
+        "piece_name": "壊れた高画質鑑賞の鍵",
+        "piece_type": 2,
+        "max_possession": 9999,
+        "description": "高画質鑑賞の鍵と交換できるアイテムトレード専用アイテム。",
+        "resource_id": 3
+    },
+    {
+        "piece_id": 4,
+        "piece_name": "虹のハネ",
+        "piece_type": 1,
+        "max_possession": 9999,
+        "description": "虹のツバサと交換できるアイテム。",
+        "resource_id": 4
+    }
+]

@@ -1,0 +1,4004 @@
+[
+    {
+        "real_goods_id": 1,
+        "real_goods_name": "<girl_name> 直筆サインTシャツ",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 2,
+        "real_goods_name": "<girl_name> 直筆サイン色紙抽選券",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 3,
+        "real_goods_name": "<girl_name> 直筆ｻｲﾝ入りｽﾃｨｯｸﾗｲﾄﾎﾙﾀﾞｰ",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 4,
+        "real_goods_name": "<girl_name> 直筆サイン入りトートバッグ",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 5,
+        "real_goods_name": "<girl_name> 直筆サインTシャツ抽選券",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 6,
+        "real_goods_name": "<girl_name> 直筆ｻｲﾝ入りﾐﾆﾀｵﾙ",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 7,
+        "real_goods_name": "<girl_name> 直筆ｻｲﾝ入りﾐﾆﾀｵﾙ抽選券",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 8,
+        "real_goods_name": "<girl_name> 直筆ｻｲﾝ入りﾌﾟﾘﾝﾄｶｰﾄﾞ",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 9,
+        "real_goods_name": "<girl_name> 直筆ｻｲﾝ入りﾌﾟﾘﾝﾄｶｰﾄﾞ抽選券",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 10,
+        "real_goods_name": "<girl_name> 直筆ｻｲﾝ入りﾏﾌﾗｰﾀｵﾙ",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 11,
+        "real_goods_name": "<girl_name> ﾌﾟﾘﾝﾄｶｰﾄﾞ5枚ｾｯﾄ(推しﾒﾝ入り)",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 12,
+        "real_goods_name": "<girl_name> ﾌﾟﾘﾝﾄｶｰﾄﾞ4枚ｾｯﾄ(推しﾒﾝ入り)",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 13,
+        "real_goods_name": "<girl_name> ﾌﾟﾘﾝﾄｶｰﾄﾞ3枚ｾｯﾄ(推しﾒﾝ入り)",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 14,
+        "real_goods_name": "<girl_name> ﾌﾟﾘﾝﾄｶｰﾄﾞ2枚ｾｯﾄ(推しﾒﾝ入り)",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 15,
+        "real_goods_name": "<girl_name> 推しﾒﾝﾌﾟﾘﾝﾄｶｰﾄﾞ1枚",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 16,
+        "real_goods_name": "<girl_name> 直筆ｻｲﾝ入りﾏﾌﾗｰﾀｵﾙ抽選券",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 17,
+        "real_goods_name": "<girl_name> 直筆ｻｲﾝ入りｱｸﾘﾙｽﾀﾝﾄﾞ",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 18,
+        "real_goods_name": "<girl_name> 直筆ｻｲﾝ入りｱｸﾘﾙｽﾀﾝﾄﾞ抽選券",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 19,
+        "real_goods_name": "<girl_name> 直筆ｻｲﾝ入りｽﾃｨｯｸﾗｲﾄ",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 20,
+        "real_goods_name": "<girl_name> 直筆ｻｲﾝ入りｽﾃｨｯｸﾗｲﾄ抽選券",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 21,
+        "real_goods_name": "<girl_name> 直筆ｻｲﾝ入りﾁｹｯﾄﾎﾙﾀﾞｰ",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 22,
+        "real_goods_name": "<girl_name> 直筆ｻｲﾝ入りﾁｹｯﾄﾎﾙﾀﾞｰ抽選券",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 23,
+        "real_goods_name": "【秋元 真夏】<br />サイン入りカードパネル",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 24,
+        "real_goods_name": "【生田 絵梨花】<br />サイン入りカードパネル",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 25,
+        "real_goods_name": "【桜井 玲香】<br />サイン入りカードパネル",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 26,
+        "real_goods_name": "【白石 麻衣】<br />サイン入りカードパネル",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 27,
+        "real_goods_name": "【松村 沙友理】<br />サイン入りカードパネル",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 28,
+        "real_goods_name": "直筆サイン入りデカ缶バッジ",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 29,
+        "real_goods_name": "直筆サイン入りデカ缶バッジ抽選券",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 30,
+        "real_goods_name": "<girl_name> 直筆サイン入りヘッドホン",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 31,
+        "real_goods_name": "<girl_name> 直筆サイン入りクリスマスプリントカード",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 32,
+        "real_goods_name": "<girl_name> 直筆サイン入りクリスマスプリントカード抽選券",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 33,
+        "real_goods_name": "<girl_name> 直筆サイン入りヘッドホン",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 34,
+        "real_goods_name": "<girl_name> 直筆サイン入り新年記念プリントカード",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 35,
+        "real_goods_name": "<girl_name> 直筆サイン入り新年記念プリントカード抽選券",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 36,
+        "real_goods_name": "【秋元 真夏】直筆サイン入り猪イラスト",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 37,
+        "real_goods_name": "【生田 絵梨花】直筆サイン入り猪イラスト",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 38,
+        "real_goods_name": "【井上 小百合】直筆サイン入り猪イラスト",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 39,
+        "real_goods_name": "【衛藤 美彩】直筆サイン入り猪イラスト",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 40,
+        "real_goods_name": "【川後 陽菜】直筆サイン入り猪イラスト",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 41,
+        "real_goods_name": "【齋藤 飛鳥】直筆サイン入り猪イラスト",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 42,
+        "real_goods_name": "【斉藤 優里】直筆サイン入り猪イラスト",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 43,
+        "real_goods_name": "【桜井 玲香】直筆サイン入り猪イラスト",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 44,
+        "real_goods_name": "【白石 麻衣】直筆サイン入り猪イラスト",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 45,
+        "real_goods_name": "【高山 一実】直筆サイン入り猪イラスト",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 46,
+        "real_goods_name": "【中田 花奈】直筆サイン入り猪イラスト",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 47,
+        "real_goods_name": "【西野 七瀬】直筆サイン入り猪イラスト",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 48,
+        "real_goods_name": "【能條 愛未】直筆サイン入り猪イラスト",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 49,
+        "real_goods_name": "【樋口 日奈】直筆サイン入り猪イラスト",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 50,
+        "real_goods_name": "【星野 みなみ】直筆サイン入り猪イラスト",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 51,
+        "real_goods_name": "【松村 沙友理】直筆サイン入り猪イラスト",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 52,
+        "real_goods_name": "【若月 佑美】直筆サイン入り猪イラスト",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 53,
+        "real_goods_name": "【和田 まあや】直筆サイン入り猪イラスト",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 54,
+        "real_goods_name": "【伊藤 かりん】直筆サイン入り猪イラスト",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 55,
+        "real_goods_name": "【伊藤 純奈】直筆サイン入り猪イラスト",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 56,
+        "real_goods_name": "【北野 日奈子】直筆サイン入り猪イラスト",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 57,
+        "real_goods_name": "【佐々木 琴子】直筆サイン入り猪イラスト",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 58,
+        "real_goods_name": "【新内 眞衣】直筆サイン入り猪イラスト",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 59,
+        "real_goods_name": "【鈴木 絢音】直筆サイン入り猪イラスト",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 60,
+        "real_goods_name": "【寺田 蘭世】直筆サイン入り猪イラスト",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 61,
+        "real_goods_name": "【堀 未央奈】直筆サイン入り猪イラスト",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 62,
+        "real_goods_name": "【山崎 怜奈】直筆サイン入り猪イラスト",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 63,
+        "real_goods_name": "【渡辺 みり愛】直筆サイン入り猪イラスト",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 64,
+        "real_goods_name": "【伊藤 理々杏】直筆サイン入り猪イラスト",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 65,
+        "real_goods_name": "【岩本 蓮加】直筆サイン入り猪イラスト",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 66,
+        "real_goods_name": "【梅澤 美波】直筆サイン入り猪イラスト",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 67,
+        "real_goods_name": "【大園 桃子】直筆サイン入り猪イラスト",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 68,
+        "real_goods_name": "【阪口 珠美】直筆サイン入り猪イラスト",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 69,
+        "real_goods_name": "【佐藤 楓】直筆サイン入り猪イラスト",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 70,
+        "real_goods_name": "【中村 麗乃】直筆サイン入り猪イラスト",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 71,
+        "real_goods_name": "【向井 葉月】直筆サイン入り猪イラスト",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 72,
+        "real_goods_name": "【山下 美月】直筆サイン入り猪イラスト",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 73,
+        "real_goods_name": "【吉田 綾乃ｸﾘｽﾃｨｰ】直筆サイン入り猪イラスト",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 74,
+        "real_goods_name": "【与田 祐希】直筆サイン入り猪イラスト",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 75,
+        "real_goods_name": "<girl_name> 直筆サイン入りクリアファイル",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 76,
+        "real_goods_name": "<girl_name> バレンタインプリントカード5枚セット",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 77,
+        "real_goods_name": "<girl_name> バレンタインプリントカード4枚セット",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 78,
+        "real_goods_name": "<girl_name> バレンタインプリントカード3枚セット",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 79,
+        "real_goods_name": "<girl_name> バレンタインプリントカード2枚セット",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 80,
+        "real_goods_name": "<girl_name> バレンタインプリントカード1枚",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 81,
+        "real_goods_name": "<girl_name> 直筆サイン入りクリアファイル抽選券",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 82,
+        "real_goods_name": "【秋元 真夏】<br />サイン入りヘッドホン<br />（型番MDR-H600A）",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 83,
+        "real_goods_name": "【秋元 真夏】<br />サイン入りヘッドホン<br />（型番WH-1000XM2）",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 84,
+        "real_goods_name": "【生田 絵梨花】<br />サイン入りヘッドホン<br />（型番MDR-H600A）",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 85,
+        "real_goods_name": "【生田 絵梨花】<br />サイン入りヘッドホン<br />（型番WH-1000XM2）",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 86,
+        "real_goods_name": "【井上 小百合】<br />サイン入りヘッドホン<br />（型番MDR-H600A）",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 87,
+        "real_goods_name": "【井上 小百合】<br />サイン入りヘッドホン<br />（型番WH-1000XM2）",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 88,
+        "real_goods_name": "【衛藤 美彩】<br />サイン入りヘッドホン<br />（型番MDR-H600A）",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 89,
+        "real_goods_name": "【衛藤 美彩】<br />サイン入りヘッドホン<br />（型番WH-1000XM2）",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 90,
+        "real_goods_name": "【齋藤 飛鳥】<br />サイン入りヘッドホン<br />（型番MDR-H600A）",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 91,
+        "real_goods_name": "【齋藤 飛鳥】<br />サイン入りヘッドホン<br />（型番WH-1000XM2）",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 92,
+        "real_goods_name": "【斉藤 優里】<br />サイン入りヘッドホン<br />（型番MDR-H600A）",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 93,
+        "real_goods_name": "【斉藤 優里】<br />サイン入りヘッドホン<br />（型番WH-1000XM2）",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 94,
+        "real_goods_name": "【桜井 玲香】<br />サイン入りヘッドホン<br />（型番MDR-H600A）",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 95,
+        "real_goods_name": "【桜井 玲香】<br />サイン入りヘッドホン<br />（型番WH-1000XM2）",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 96,
+        "real_goods_name": "【白石 麻衣】<br />サイン入りヘッドホン<br />（型番MDR-H600A）",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 97,
+        "real_goods_name": "【白石 麻衣】<br />サイン入りヘッドホン<br />（型番WH-1000XM2）",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 98,
+        "real_goods_name": "【高山 一実】<br />サイン入りヘッドホン<br />（型番MDR-H600A）",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 99,
+        "real_goods_name": "【高山 一実】<br />サイン入りヘッドホン<br />（型番WH-1000XM2）",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 100,
+        "real_goods_name": "【西野 七瀬】<br />サイン入りヘッドホン<br />（型番MDR-H600A）",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 101,
+        "real_goods_name": "【西野 七瀬】<br />サイン入りヘッドホン<br />（型番WH-1000XM2）",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 102,
+        "real_goods_name": "【星野 みなみ】<br />サイン入りヘッドホン<br />（型番MDR-H600A）",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 103,
+        "real_goods_name": "【星野 みなみ】<br />サイン入りヘッドホン<br />（型番WH-1000XM2）",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 104,
+        "real_goods_name": "【松村 沙友理】<br />サイン入りヘッドホン<br />（型番MDR-H600A）",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 105,
+        "real_goods_name": "【松村 沙友理】<br />サイン入りヘッドホン<br />（型番WH-1000XM2）",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 106,
+        "real_goods_name": "【若月 佑美】<br />サイン入りヘッドホン<br />（型番MDR-H600A）",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 107,
+        "real_goods_name": "【若月 佑美】<br />サイン入りヘッドホン<br />（型番WH-1000XM2）",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 108,
+        "real_goods_name": "【新内 眞衣】<br />サイン入りヘッドホン<br />（型番MDR-H600A）",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 109,
+        "real_goods_name": "【新内 眞衣】<br />サイン入りヘッドホン<br />（型番WH-1000XM2）",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 110,
+        "real_goods_name": "【鈴木 絢音】<br />サイン入りヘッドホン<br />（型番MDR-H600A）",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 111,
+        "real_goods_name": "【鈴木 絢音】<br />サイン入りヘッドホン<br />（型番WH-1000XM2）",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 112,
+        "real_goods_name": "【堀 未央奈】<br />サイン入りヘッドホン<br />（型番MDR-H600A）",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 113,
+        "real_goods_name": "【堀 未央奈】<br />サイン入りヘッドホン<br />（型番WH-1000XM2）",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 114,
+        "real_goods_name": "【岩本 蓮加】<br />サイン入りヘッドホン<br />（型番MDR-H600A）",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 115,
+        "real_goods_name": "【岩本 蓮加】<br />サイン入りヘッドホン<br />（型番WH-1000XM2）",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 116,
+        "real_goods_name": "【梅澤 美波】<br />サイン入りヘッドホン<br />（型番MDR-H600A）",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 117,
+        "real_goods_name": "【梅澤 美波】<br />サイン入りヘッドホン<br />（型番WH-1000XM2）",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 118,
+        "real_goods_name": "【大園 桃子】<br />サイン入りヘッドホン<br />（型番MDR-H600A）",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 119,
+        "real_goods_name": "【大園 桃子】<br />サイン入りヘッドホン<br />（型番WH-1000XM2）",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 120,
+        "real_goods_name": "【山下 美月】<br />サイン入りヘッドホン<br />（型番MDR-H600A）",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 121,
+        "real_goods_name": "【山下 美月】<br />サイン入りヘッドホン<br />（型番WH-1000XM2）",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 122,
+        "real_goods_name": "【与田 祐希】<br />サイン入りヘッドホン<br />（型番MDR-H600A）",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 123,
+        "real_goods_name": "【与田 祐希】<br />サイン入りヘッドホン<br />（型番WH-1000XM2）",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 124,
+        "real_goods_name": "<girl_name> 直筆サイン入りタペストリー",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 125,
+        "real_goods_name": "<girl_name> 直筆サイン入りタペストリー抽選券",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 126,
+        "real_goods_name": "<girl_name> 直筆サイン入りオリジナルTシャツ",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 127,
+        "real_goods_name": "<girl_name> 直筆サイン入りオリジナルTシャツ抽選券",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 128,
+        "real_goods_name": "【遠藤 さくら】ヘッドホン(MDR-H600A)",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 129,
+        "real_goods_name": "【遠藤 さくら】ヘッドホン(WH-1000XM2)",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 130,
+        "real_goods_name": "【賀喜 遥香】ヘッドホン(MDR-H600A)",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 131,
+        "real_goods_name": "【賀喜 遥香】ヘッドホン(WH-1000XM2)",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 132,
+        "real_goods_name": "【掛橋 沙耶香】ヘッドホン(MDR-H600A)",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 133,
+        "real_goods_name": "【掛橋 沙耶香】ヘッドホン(WH-1000XM2)",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 134,
+        "real_goods_name": "【金川 紗耶】ヘッドホン(MDR-H600A)",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 135,
+        "real_goods_name": "【金川 紗耶】ヘッドホン(WH-1000XM2)",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 136,
+        "real_goods_name": "【北川 悠理】ヘッドホン(MDR-H600A)",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 137,
+        "real_goods_name": "【北川 悠理】ヘッドホン(WH-1000XM2)",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 138,
+        "real_goods_name": "【柴田 柚菜】ヘッドホン(MDR-H600A)",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 139,
+        "real_goods_name": "【柴田 柚菜】ヘッドホン(WH-1000XM2)",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 140,
+        "real_goods_name": "【清宮 レイ】ヘッドホン(MDR-H600A)",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 141,
+        "real_goods_name": "【清宮 レイ】ヘッドホン(WH-1000XM2)",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 142,
+        "real_goods_name": "【田村 真佑】ヘッドホン(MDR-H600A)",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 143,
+        "real_goods_name": "【田村 真佑】ヘッドホン(WH-1000XM2)",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 144,
+        "real_goods_name": "【筒井 あやめ】ヘッドホン(MDR-H600A)",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 145,
+        "real_goods_name": "【筒井 あやめ】ヘッドホン(WH-1000XM2)",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 146,
+        "real_goods_name": "【早川 聖来】ヘッドホン(MDR-H600A)",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 147,
+        "real_goods_name": "【早川 聖来】ヘッドホン(WH-1000XM2)",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 148,
+        "real_goods_name": "【矢久保 美緒】ヘッドホン(MDR-H600A)",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 149,
+        "real_goods_name": "【矢久保 美緒】ヘッドホン(WH-1000XM2)",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 150,
+        "real_goods_name": "<girl_name> 直筆サイン入りクリアポスター",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 151,
+        "real_goods_name": "<girl_name> 直筆サイン入りクリアポスター抽選券",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 152,
+        "real_goods_name": "<girl_name> 直筆サイン入り手ぬぐい",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 153,
+        "real_goods_name": "<girl_name> 直筆サイン入り手ぬぐい抽選券",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 154,
+        "real_goods_name": "<girl_name> 直筆サイン入りキャップ",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 155,
+        "real_goods_name": "<girl_name> 直筆サイン入りキャップ抽選券",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 156,
+        "real_goods_name": "<girl_name> SSレア1st プリントカードセット",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 157,
+        "real_goods_name": "<girl_name> 直筆サイン入りデカ缶バッジ",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 158,
+        "real_goods_name": "<girl_name> 直筆サイン入りデカ缶バッジ抽選券",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 159,
+        "real_goods_name": "真夏の全国ツアー2019明治神宮野球場 公演DAY １（8月30日）",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 160,
+        "real_goods_name": "真夏の全国ツアー2019明治神宮野球場 公演DAY ２（8月31日）",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 161,
+        "real_goods_name": "真夏の全国ツアー2019明治神宮野球場 公演DAY ３（9月1日）",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 162,
+        "real_goods_name": "全メンバーサイン入り<br />ツアーフラッグ",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 163,
+        "real_goods_name": "サイン入りセットリスト<br />【愛知公演】",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 164,
+        "real_goods_name": "サイン入りセットリスト<br />【福岡公演】",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 165,
+        "real_goods_name": "サイン入りセットリスト<br />【大阪公演】",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 166,
+        "real_goods_name": "サイン入りセットリスト<br />【東京公演】",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 167,
+        "real_goods_name": "看板<br />【愛知公演】",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 168,
+        "real_goods_name": "看板<br />【福岡公演】",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 169,
+        "real_goods_name": "看板<br />【大阪公演】",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 170,
+        "real_goods_name": "看板<br />【東京公演】",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 171,
+        "real_goods_name": "1期生サイン入り<br />ツアーロゴのぼり",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 172,
+        "real_goods_name": "2期生サイン入り<br />ツアーロゴのぼり",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 173,
+        "real_goods_name": "3期生サイン入り<br />ツアーロゴのぼり",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 174,
+        "real_goods_name": "4期生サイン入り<br />ツアーロゴのぼり",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 175,
+        "real_goods_name": "【秋元真夏】<br />のぼり",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 176,
+        "real_goods_name": "【秋元真夏】<br />神宮懸垂幕",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 177,
+        "real_goods_name": "【生田絵梨花】<br />のぼり",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 178,
+        "real_goods_name": "【生田絵梨花】<br />神宮懸垂幕",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 179,
+        "real_goods_name": "【井上小百合】<br />のぼり",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 180,
+        "real_goods_name": "【井上小百合】<br />神宮懸垂幕",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 181,
+        "real_goods_name": "【齋藤飛鳥】<br />のぼり",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 182,
+        "real_goods_name": "【齋藤飛鳥】<br />神宮懸垂幕",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 183,
+        "real_goods_name": "【桜井玲香】<br />のぼり",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 184,
+        "real_goods_name": "【桜井玲香】<br />神宮懸垂幕",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 185,
+        "real_goods_name": "【白石麻衣】<br />のぼり",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 186,
+        "real_goods_name": "【白石麻衣】<br />神宮懸垂幕",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 187,
+        "real_goods_name": "【高山一実】<br />のぼり",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 188,
+        "real_goods_name": "【高山一実】<br />神宮懸垂幕",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 189,
+        "real_goods_name": "【中田花奈】<br />のぼり",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 190,
+        "real_goods_name": "【中田花奈】<br />神宮懸垂幕",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 191,
+        "real_goods_name": "【樋口日奈】<br />のぼり",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 192,
+        "real_goods_name": "【樋口日奈】<br />神宮懸垂幕",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 193,
+        "real_goods_name": "【星野みなみ】<br />のぼり",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 194,
+        "real_goods_name": "【星野みなみ】<br />神宮懸垂幕",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 195,
+        "real_goods_name": "【松村沙友理】<br />のぼり",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 196,
+        "real_goods_name": "【松村沙友理】<br />神宮懸垂幕",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 197,
+        "real_goods_name": "【和田まあや】<br />のぼり",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 198,
+        "real_goods_name": "【和田まあや】<br />神宮懸垂幕",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 199,
+        "real_goods_name": "【伊藤純奈】<br />のぼり",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 200,
+        "real_goods_name": "【伊藤純奈】<br />神宮懸垂幕",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 201,
+        "real_goods_name": "【北野日奈子】<br />のぼり",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 202,
+        "real_goods_name": "【北野日奈子】<br />神宮懸垂幕",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 203,
+        "real_goods_name": "【佐々木琴子】<br />のぼり",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 204,
+        "real_goods_name": "【佐々木琴子】<br />神宮懸垂幕",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 205,
+        "real_goods_name": "【新内眞衣】<br />のぼり",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 206,
+        "real_goods_name": "【新内眞衣】<br />神宮懸垂幕",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 207,
+        "real_goods_name": "【鈴木絢音】<br />のぼり",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 208,
+        "real_goods_name": "【鈴木絢音】<br />神宮懸垂幕",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 209,
+        "real_goods_name": "【寺田蘭世】<br />のぼり",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 210,
+        "real_goods_name": "【寺田蘭世】<br />神宮懸垂幕",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 211,
+        "real_goods_name": "【堀未央奈】<br />のぼり",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 212,
+        "real_goods_name": "【堀未央奈】<br />神宮懸垂幕",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 213,
+        "real_goods_name": "【山崎怜奈】<br />のぼり",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 214,
+        "real_goods_name": "【山崎怜奈】<br />神宮懸垂幕",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 215,
+        "real_goods_name": "【渡辺みり愛】<br />のぼり",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 216,
+        "real_goods_name": "【渡辺みり愛】<br />神宮懸垂幕",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 217,
+        "real_goods_name": "【伊藤理々杏】<br />のぼり",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 218,
+        "real_goods_name": "【伊藤理々杏】<br />神宮懸垂幕",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 219,
+        "real_goods_name": "【岩本蓮加】<br />のぼり",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 220,
+        "real_goods_name": "【岩本蓮加】<br />神宮懸垂幕",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 221,
+        "real_goods_name": "【梅澤美波】<br />のぼり",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 222,
+        "real_goods_name": "【梅澤美波】<br />神宮懸垂幕",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 223,
+        "real_goods_name": "【大園桃子】<br />のぼり",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 224,
+        "real_goods_name": "【大園桃子】<br />神宮懸垂幕",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 225,
+        "real_goods_name": "【久保史緒里】<br />のぼり",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 226,
+        "real_goods_name": "【久保史緒里】<br />神宮懸垂幕",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 227,
+        "real_goods_name": "【阪口珠美】<br />のぼり",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 228,
+        "real_goods_name": "【阪口珠美】<br />神宮懸垂幕",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 229,
+        "real_goods_name": "【佐藤楓】<br />のぼり",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 230,
+        "real_goods_name": "【佐藤楓】<br />神宮懸垂幕",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 231,
+        "real_goods_name": "【中村麗乃】<br />のぼり",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 232,
+        "real_goods_name": "【中村麗乃】<br />神宮懸垂幕",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 233,
+        "real_goods_name": "【向井葉月】<br />のぼり",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 234,
+        "real_goods_name": "【向井葉月】<br />神宮懸垂幕",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 235,
+        "real_goods_name": "【山下美月】<br />のぼり",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 236,
+        "real_goods_name": "【山下美月】<br />神宮懸垂幕",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 237,
+        "real_goods_name": "【吉田綾乃クリスティー】<br />のぼり",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 238,
+        "real_goods_name": "【吉田綾乃クリスティー】<br />神宮懸垂幕",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 239,
+        "real_goods_name": "【与田祐希】<br />のぼり",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 240,
+        "real_goods_name": "【与田祐希】<br />神宮懸垂幕",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 241,
+        "real_goods_name": "【遠藤さくら】<br />のぼり",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 242,
+        "real_goods_name": "【遠藤さくら】<br />神宮懸垂幕",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 243,
+        "real_goods_name": "【賀喜遥香】<br />のぼり",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 244,
+        "real_goods_name": "【賀喜遥香】<br />神宮懸垂幕",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 245,
+        "real_goods_name": "【掛橋沙耶香】<br />のぼり",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 246,
+        "real_goods_name": "【掛橋沙耶香】<br />神宮懸垂幕",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 247,
+        "real_goods_name": "【金川紗耶】<br />のぼり",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 248,
+        "real_goods_name": "【金川紗耶】<br />神宮懸垂幕",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 249,
+        "real_goods_name": "【北川悠理】<br />のぼり",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 250,
+        "real_goods_name": "【北川悠理】<br />神宮懸垂幕",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 251,
+        "real_goods_name": "【柴田柚菜】<br />のぼり",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 252,
+        "real_goods_name": "【柴田柚菜】<br />神宮懸垂幕",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 253,
+        "real_goods_name": "【清宮レイ】<br />のぼり",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 254,
+        "real_goods_name": "【清宮レイ】<br />神宮懸垂幕",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 255,
+        "real_goods_name": "【田村真佑】<br />のぼり",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 256,
+        "real_goods_name": "【田村真佑】<br />神宮懸垂幕",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 257,
+        "real_goods_name": "【筒井あやめ】<br />のぼり",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 258,
+        "real_goods_name": "【筒井あやめ】<br />神宮懸垂幕",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 259,
+        "real_goods_name": "【早川聖来】<br />のぼり",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 260,
+        "real_goods_name": "【早川聖来】<br />神宮懸垂幕",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 261,
+        "real_goods_name": "【矢久保美緒】<br />のぼり",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 262,
+        "real_goods_name": "【矢久保美緒】<br />神宮懸垂幕",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 263,
+        "real_goods_name": "<girl_name> 直筆サイン入りワイヤレススピーカー",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 264,
+        "real_goods_name": "<girl_name> 直筆サイン入りプリントカード＋ランダムプリントカード4枚",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 265,
+        "real_goods_name": "<girl_name> 直筆サイン入りプリントカード＋ランダムプリントカード3枚",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 266,
+        "real_goods_name": "<girl_name> 直筆サイン入りプリントカード＋ランダムプリントカード2枚",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 267,
+        "real_goods_name": "<girl_name> 直筆サイン入りプリントカード＋ランダムプリントカード1枚",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 268,
+        "real_goods_name": "<girl_name> 直筆サイン入りプリントカード",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 269,
+        "real_goods_name": "<girl_name> 直筆サイン入りプリントカード抽選券",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 270,
+        "real_goods_name": "<girl_name> 直筆サイン入りウェアラブルネックスピーカー",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 271,
+        "real_goods_name": "【秋元 真夏】<br />直筆サイン入りイラスト",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 272,
+        "real_goods_name": "【生田 絵梨花】<br />直筆サイン入りイラスト",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 273,
+        "real_goods_name": "【井上 小百合】<br />直筆サイン入りイラスト",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 274,
+        "real_goods_name": "【齋藤 飛鳥】<br />直筆サイン入りイラスト",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 275,
+        "real_goods_name": "【白石 麻衣】<br />直筆サイン入りイラスト",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 276,
+        "real_goods_name": "【高山 一実】<br />直筆サイン入りイラスト",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 277,
+        "real_goods_name": "【中田 花奈】<br />直筆サイン入りイラスト",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 278,
+        "real_goods_name": "【樋口 日奈】<br />直筆サイン入りイラスト",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 279,
+        "real_goods_name": "【星野 みなみ】<br />直筆サイン入りイラスト",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 280,
+        "real_goods_name": "【松村 沙友理】<br />直筆サイン入りイラスト",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 281,
+        "real_goods_name": "【和田 まあや】<br />直筆サイン入りイラスト",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 282,
+        "real_goods_name": "【伊藤 純奈】<br />直筆サイン入りイラスト",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 283,
+        "real_goods_name": "【北野 日奈子】<br />直筆サイン入りイラスト",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 284,
+        "real_goods_name": "【佐々木 琴子】<br />直筆サイン入りイラスト",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 285,
+        "real_goods_name": "【新内 眞衣】<br />直筆サイン入りイラスト",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 286,
+        "real_goods_name": "【鈴木 絢音】<br />直筆サイン入りイラスト",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 287,
+        "real_goods_name": "【寺田 蘭世】<br />直筆サイン入りイラスト",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 288,
+        "real_goods_name": "【堀 未央奈】<br />直筆サイン入りイラスト",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 289,
+        "real_goods_name": "【山崎 怜奈】<br />直筆サイン入りイラスト",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 290,
+        "real_goods_name": "【渡辺 みり愛】<br />直筆サイン入りイラスト",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 291,
+        "real_goods_name": "【伊藤 理々杏】<br />直筆サイン入りイラスト",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 292,
+        "real_goods_name": "【岩本 蓮加】<br />直筆サイン入りイラスト",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 293,
+        "real_goods_name": "【梅澤 美波】<br />直筆サイン入りイラスト",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 294,
+        "real_goods_name": "【大園 桃子】<br />直筆サイン入りイラスト",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 295,
+        "real_goods_name": "【久保 史緒里】<br />直筆サイン入りイラスト",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 296,
+        "real_goods_name": "【阪口 珠美】<br />直筆サイン入りイラスト",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 297,
+        "real_goods_name": "【佐藤 楓】<br />直筆サイン入りイラスト",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 298,
+        "real_goods_name": "【中村 麗乃】<br />直筆サイン入りイラスト",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 299,
+        "real_goods_name": "【向井 葉月】<br />直筆サイン入りイラスト",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 300,
+        "real_goods_name": "【山下 美月】<br />直筆サイン入りイラスト",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 301,
+        "real_goods_name": "【吉田 綾乃ｸﾘｽﾃｨｰ】<br />直筆サイン入りイラスト",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 302,
+        "real_goods_name": "【与田 祐希】<br />直筆サイン入りイラスト",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 303,
+        "real_goods_name": "【遠藤 さくら】<br />直筆サイン入りイラスト",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 304,
+        "real_goods_name": "【賀喜 遥香】<br />直筆サイン入りイラスト",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 305,
+        "real_goods_name": "【掛橋 沙耶香】<br />直筆サイン入りイラスト",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 306,
+        "real_goods_name": "【金川 紗耶】<br />直筆サイン入りイラスト",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 307,
+        "real_goods_name": "【北川 悠理】<br />直筆サイン入りイラスト",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 308,
+        "real_goods_name": "【柴田 柚菜】<br />直筆サイン入りイラスト",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 309,
+        "real_goods_name": "【清宮 レイ】<br />直筆サイン入りイラスト",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 310,
+        "real_goods_name": "【田村 真佑】<br />直筆サイン入りイラスト",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 311,
+        "real_goods_name": "【筒井 あやめ】<br />直筆サイン入りイラスト",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 312,
+        "real_goods_name": "【早川 聖来】<br />直筆サイン入りイラスト",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 313,
+        "real_goods_name": "【矢久保 美緒】<br />直筆サイン入りイラスト",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 314,
+        "real_goods_name": "8th YEAR <br />BIRTHDAY LIVE <br />DAY １（2月21日）",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 315,
+        "real_goods_name": "8th YEAR <br />BIRTHDAY LIVE <br />DAY ２（2月22日）",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 316,
+        "real_goods_name": "8th YEAR <br />BIRTHDAY LIVE <br />DAY ３（2月23日）",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 317,
+        "real_goods_name": "8th YEAR <br />BIRTHDAY LIVE <br />DAY ４（2月24日）",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 318,
+        "real_goods_name": "<girl_name> 8周年プリントカード5枚セット（推しメン入り）",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 319,
+        "real_goods_name": "<girl_name> 8周年プリントカード4枚セット（推しメン入り）",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 320,
+        "real_goods_name": "<girl_name> 8周年プリントカード3枚セット（推しメン入り）",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 321,
+        "real_goods_name": "<girl_name> 8周年プリントカード2枚セット（推しメン入り）",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 322,
+        "real_goods_name": "<girl_name> 8周年プリントカード（推しメン）",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 323,
+        "real_goods_name": "<girl_name> 直筆サイン入りスティックライトホルダー",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 324,
+        "real_goods_name": "<girl_name> 直筆サイン入りスティックライトホルダー抽選券",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 325,
+        "real_goods_name": "<girl_name> 直筆サイン入りチケットホルダー",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 326,
+        "real_goods_name": "<girl_name> 直筆サイン入りチケットホルダー抽選券",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 327,
+        "real_goods_name": "<girl_name> 直筆サイン入りTシャツ",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 328,
+        "real_goods_name": "<girl_name> 直筆サイン入りTシャツ抽選券",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 329,
+        "real_goods_name": "<girl_name> 直筆サイン入りネ－ムプレート",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 330,
+        "real_goods_name": "<girl_name> 直筆サイン入りネームプレート抽選券",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 331,
+        "real_goods_name": "<girl_name> 直筆サイン入りミニのぼりセット",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 332,
+        "real_goods_name": "<girl_name> 直筆サイン入りミニのぼりセット抽選券",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 333,
+        "real_goods_name": "【メンバーランダム】<br />ハロウィンミニポスター",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 334,
+        "real_goods_name": "【秋元 真夏】<br />ハロウィンミニポスター",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 335,
+        "real_goods_name": "【生田 絵梨花】<br />ハロウィンミニポスター",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 336,
+        "real_goods_name": "【齋藤 飛鳥】<br />ハロウィンミニポスター",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 337,
+        "real_goods_name": "【高山 一実】<br />ハロウィンミニポスター",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 338,
+        "real_goods_name": "【中田 花奈】<br />ハロウィンミニポスター",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 339,
+        "real_goods_name": "【樋口 日奈】<br />ハロウィンミニポスター",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 340,
+        "real_goods_name": "【星野 みなみ】<br />ハロウィンミニポスター",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 341,
+        "real_goods_name": "【松村 沙友理】<br />ハロウィンミニポスター",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 342,
+        "real_goods_name": "【和田 まあや】<br />ハロウィンミニポスター",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 343,
+        "real_goods_name": "【伊藤 純奈】<br />ハロウィンミニポスター",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 344,
+        "real_goods_name": "【北野 日奈子】<br />ハロウィンミニポスター",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 345,
+        "real_goods_name": "【新内 眞衣】<br />ハロウィンミニポスター",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 346,
+        "real_goods_name": "【鈴木 絢音】<br />ハロウィンミニポスター",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 347,
+        "real_goods_name": "【寺田 蘭世】<br />ハロウィンミニポスター",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 348,
+        "real_goods_name": "【堀 未央奈】<br />ハロウィンミニポスター",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 349,
+        "real_goods_name": "【山崎 怜奈】<br />ハロウィンミニポスター",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 350,
+        "real_goods_name": "【渡辺 みり愛】<br />ハロウィンミニポスター",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 351,
+        "real_goods_name": "【伊藤 理々杏】<br />ハロウィンミニポスター",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 352,
+        "real_goods_name": "【岩本 蓮加】<br />ハロウィンミニポスター",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 353,
+        "real_goods_name": "【梅澤 美波】<br />ハロウィンミニポスター",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 354,
+        "real_goods_name": "【大園 桃子】<br />ハロウィンミニポスター",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 355,
+        "real_goods_name": "【久保 史緒里】<br />ハロウィンミニポスター",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 356,
+        "real_goods_name": "【阪口 珠美】<br />ハロウィンミニポスター",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 357,
+        "real_goods_name": "【佐藤 楓】<br />ハロウィンミニポスター",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 358,
+        "real_goods_name": "【中村 麗乃】<br />ハロウィンミニポスター",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 359,
+        "real_goods_name": "【向井 葉月】<br />ハロウィンミニポスター",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 360,
+        "real_goods_name": "【山下 美月】<br />ハロウィンミニポスター",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 361,
+        "real_goods_name": "【吉田 綾乃ｸﾘｽﾃｨｰ】<br />ハロウィンミニポスター",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 362,
+        "real_goods_name": "【与田 祐希】<br />ハロウィンミニポスター",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 363,
+        "real_goods_name": "【遠藤 さくら】<br />ハロウィンミニポスター",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 364,
+        "real_goods_name": "【賀喜 遥香】<br />ハロウィンミニポスター",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 365,
+        "real_goods_name": "【掛橋 沙耶香】<br />ハロウィンミニポスター",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 366,
+        "real_goods_name": "【金川 紗耶】<br />ハロウィンミニポスター",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 367,
+        "real_goods_name": "【北川 悠理】<br />ハロウィンミニポスター",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 368,
+        "real_goods_name": "【柴田 柚菜】<br />ハロウィンミニポスター",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 369,
+        "real_goods_name": "【清宮 レイ】<br />ハロウィンミニポスター",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 370,
+        "real_goods_name": "【田村 真佑】<br />ハロウィンミニポスター",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 371,
+        "real_goods_name": "【筒井 あやめ】<br />ハロウィンミニポスター",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 372,
+        "real_goods_name": "【早川 聖来】<br />ハロウィンミニポスター",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 373,
+        "real_goods_name": "【矢久保 美緒】<br />ハロウィンミニポスター",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 374,
+        "real_goods_name": "<girl_name> 直筆サイン入りチェキ&マフラータオル",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 375,
+        "real_goods_name": "<girl_name> 直筆サイン入りチェキ&マフラータオル抽選券",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 376,
+        "real_goods_name": "<girl_name> クリスマスプリントカード5枚セット",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 377,
+        "real_goods_name": "<girl_name> クリスマスプリントカード4枚セット",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 378,
+        "real_goods_name": "<girl_name> クリスマスプリントカード3枚セット",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 379,
+        "real_goods_name": "<girl_name> クリスマスプリントカード2枚セット",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 380,
+        "real_goods_name": "<girl_name> クリスマスプリントカード1枚",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 381,
+        "real_goods_name": "<girl_name> 直筆サイン入りオリジナルTシャツ",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 382,
+        "real_goods_name": "<girl_name> オリジナルTシャツ抽選券",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 383,
+        "real_goods_name": "<girl_name> 直筆書初め",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 384,
+        "real_goods_name": "<girl_name> 新春プリントカード5枚セット（推しメン入り）",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 385,
+        "real_goods_name": "<girl_name> 新春プリントカード4枚セット（推しメン入り）",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 386,
+        "real_goods_name": "<girl_name> 新春プリントカード3枚セット（推しメン入り）",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 387,
+        "real_goods_name": "<girl_name> 新春プリントカード2枚セット（推しメン入り）",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 388,
+        "real_goods_name": "<girl_name> 推しメン新春プリントカード",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 389,
+        "real_goods_name": "<girl_name> 直筆サイン入りバレンタインミニポスター",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 390,
+        "real_goods_name": "<girl_name> 直筆サイン入りバレンタインミニポスター抽選券",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 391,
+        "real_goods_name": "<girl_name> 直筆メッセージカード",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 392,
+        "real_goods_name": "【メンバーランダム】<br />桜花爛漫ミニポスター",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 393,
+        "real_goods_name": "【秋元 真夏】<br />桜花爛漫ミニポスター",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 394,
+        "real_goods_name": "【生田 絵梨花】<br />桜花爛漫ミニポスター",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 395,
+        "real_goods_name": "【齋藤 飛鳥】<br />桜花爛漫ミニポスター",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 396,
+        "real_goods_name": "【高山 一実】<br />桜花爛漫ミニポスター",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 397,
+        "real_goods_name": "【樋口 日奈】<br />桜花爛漫ミニポスター",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 398,
+        "real_goods_name": "【星野 みなみ】<br />桜花爛漫ミニポスター",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 399,
+        "real_goods_name": "【松村 沙友理】<br />桜花爛漫ミニポスター",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 400,
+        "real_goods_name": "【和田 まあや】<br />桜花爛漫ミニポスター",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 401,
+        "real_goods_name": "【伊藤 純奈】<br />桜花爛漫ミニポスター",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 402,
+        "real_goods_name": "【北野 日奈子】<br />桜花爛漫ミニポスター",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 403,
+        "real_goods_name": "【新内 眞衣】<br />桜花爛漫ミニポスター",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 404,
+        "real_goods_name": "【鈴木 絢音】<br />桜花爛漫ミニポスター",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 405,
+        "real_goods_name": "【寺田 蘭世】<br />桜花爛漫ミニポスター",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 406,
+        "real_goods_name": "【堀 未央奈】<br />桜花爛漫ミニポスター",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 407,
+        "real_goods_name": "【山崎 怜奈】<br />桜花爛漫ミニポスター",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 408,
+        "real_goods_name": "【渡辺 みり愛】<br />桜花爛漫ミニポスター",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 409,
+        "real_goods_name": "【伊藤 理々杏】<br />桜花爛漫ミニポスター",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 410,
+        "real_goods_name": "【岩本 蓮加】<br />桜花爛漫ミニポスター",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 411,
+        "real_goods_name": "【梅澤 美波】<br />桜花爛漫ミニポスター",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 412,
+        "real_goods_name": "【大園 桃子】<br />桜花爛漫ミニポスター",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 413,
+        "real_goods_name": "【久保 史緒里】<br />桜花爛漫ミニポスター",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 414,
+        "real_goods_name": "【阪口 珠美】<br />桜花爛漫ミニポスター",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 415,
+        "real_goods_name": "【佐藤 楓】<br />桜花爛漫ミニポスター",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 416,
+        "real_goods_name": "【中村 麗乃】<br />桜花爛漫ミニポスター",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 417,
+        "real_goods_name": "【向井 葉月】<br />桜花爛漫ミニポスター",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 418,
+        "real_goods_name": "【山下 美月】<br />桜花爛漫ミニポスター",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 419,
+        "real_goods_name": "【吉田 綾乃ｸﾘｽﾃｨｰ】<br />桜花爛漫ミニポスター",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 420,
+        "real_goods_name": "【与田 祐希】<br />桜花爛漫ミニポスター",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 421,
+        "real_goods_name": "【遠藤 さくら】<br />桜花爛漫ミニポスター",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 422,
+        "real_goods_name": "【賀喜 遥香】<br />桜花爛漫ミニポスター",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 423,
+        "real_goods_name": "【掛橋 沙耶香】<br />桜花爛漫ミニポスター",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 424,
+        "real_goods_name": "【金川 紗耶】<br />桜花爛漫ミニポスター",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 425,
+        "real_goods_name": "【北川 悠理】<br />桜花爛漫ミニポスター",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 426,
+        "real_goods_name": "【黒見 明香】<br />桜花爛漫ミニポスター",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 427,
+        "real_goods_name": "【佐藤 璃果】<br />桜花爛漫ミニポスター",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 428,
+        "real_goods_name": "【柴田 柚菜】<br />桜花爛漫ミニポスター",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 429,
+        "real_goods_name": "【清宮 レイ】<br />桜花爛漫ミニポスター",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 430,
+        "real_goods_name": "【田村 真佑】<br />桜花爛漫ミニポスター",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 431,
+        "real_goods_name": "【筒井 あやめ】<br />桜花爛漫ミニポスター",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 432,
+        "real_goods_name": "【早川 聖来】<br />桜花爛漫ミニポスター",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 433,
+        "real_goods_name": "【林 瑠奈】<br />桜花爛漫ミニポスター",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 434,
+        "real_goods_name": "【松尾 美佑】<br />桜花爛漫ミニポスター",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 435,
+        "real_goods_name": "【矢久保 美緒】<br />桜花爛漫ミニポスター",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 436,
+        "real_goods_name": "【弓木 奈於】<br />桜花爛漫ミニポスター",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 437,
+        "real_goods_name": "<girl_name> 直筆サイン入りトートバッグ抽選券",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 438,
+        "real_goods_name": "<girl_name> 直筆サイン入りオリジナルVRゴーグル",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 439,
+        "real_goods_name": "<girl_name> 直筆サイン入りオリジナルVRゴーグル抽選券",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 440,
+        "real_goods_name": "オリジナルVRゴーグル",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 441,
+        "real_goods_name": "<girl_name> 直筆サイン入りチェキ",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 442,
+        "real_goods_name": "<girl_name> 直筆サイン入りチェキ抽選券",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 443,
+        "real_goods_name": "<girl_name> 直筆サイン入りウォールデコ",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 444,
+        "real_goods_name": "<girl_name> 直筆サイン入りウォールデコ抽選券",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 445,
+        "real_goods_name": "<girl_name> 直筆サイン入りバースデーミニポスター",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 446,
+        "real_goods_name": "<girl_name> 直筆サイン入りバースデーミニポスター抽選券",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 447,
+        "real_goods_name": "<girl_name> 直筆サイン入りチェキ&ウォールデコ",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 448,
+        "real_goods_name": "<girl_name> 直筆サイン入りグッズ（チェキorウォールデコ）抽選券",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 449,
+        "real_goods_name": "<girl_name> 直筆サイン入りクリスマスミニポスター",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 450,
+        "real_goods_name": "<girl_name> 直筆サイン入りクリスマスミニポスター抽選券",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 451,
+        "real_goods_name": "<girl_name> 直筆サイン入りヘッドホン（WH-CH710N）",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 452,
+        "real_goods_name": "<girl_name> 直筆サイン入りヘッドホン（WH-XB700）",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 453,
+        "real_goods_name": "<girl_name> 直筆メッセージ入りバレンタインフォトレター",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 454,
+        "real_goods_name": "<girl_name> 直筆メッセージ入りバレンタインフォトレター抽選券",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 455,
+        "real_goods_name": "<girl_name> 直筆サイン入りオリジナルブランケット",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 456,
+        "real_goods_name": "<girl_name> 直筆サイン入りオリジナルブランケット抽選券",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 457,
+        "real_goods_name": "<girl_name> オリジナルブランケット（サイン無し）抽選券",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 458,
+        "real_goods_name": "<girl_name> 直筆サイン入り個別うちわ",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 459,
+        "real_goods_name": "<girl_name> 直筆サイン入り個別うちわ抽選券",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 460,
+        "real_goods_name": "<girl_name> 直筆サイン入りフォトアルバム",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 461,
+        "real_goods_name": "<girl_name> 直筆サイン入りフォトアルバム抽選券",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 462,
+        "real_goods_name": "<girl_name> 直筆サイン入りチェキ&オリジナルラウンドタオル",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 463,
+        "real_goods_name": "<girl_name> 直筆サイン入りオリジナルラウンドタオル抽選券",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 464,
+        "real_goods_name": "<girl_name> オリジナルラウンドタオル（サイン無し）抽選券",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 465,
+        "real_goods_name": "<girl_name> 直筆サイン入りオリジナルマルチホルダー",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 466,
+        "real_goods_name": "<girl_name> 直筆サイン入りオリジナルマルチホルダー抽選券",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 467,
+        "real_goods_name": "<girl_name> オリジナルマルチホルダー（サイン無し）抽選券",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 468,
+        "real_goods_name": "<girl_name> 直筆サイン入り自画像",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 469,
+        "real_goods_name": "<girl_name> 直筆サイン入りTシャツ",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 470,
+        "real_goods_name": "<girl_name> 直筆サイン入りTシャツ抽選券",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 471,
+        "real_goods_name": "<girl_name> 直筆サイン入りサインプレート",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 472,
+        "real_goods_name": "<girl_name> 直筆サイン入りサインプレート抽選券",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 473,
+        "real_goods_name": "<girl_name> 直筆サイン入りオリジナルクッション",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 474,
+        "real_goods_name": "<girl_name> 直筆サイン入りオリジナルクッション抽選券",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 475,
+        "real_goods_name": "オリジナルクッション（サイン無し）抽選券",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 476,
+        "real_goods_name": "<girl_name> 直筆サイン入り逃げ水Tシャツ",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 477,
+        "real_goods_name": "<girl_name> 直筆サイン入り逃げ水Tシャツ抽選券",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 478,
+        "real_goods_name": "<girl_name> 直筆サイン入りチェキ&宛名入りオリジナルパブミラー",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 479,
+        "real_goods_name": "<girl_name> 直筆サイン入りオリジナルパブミラー（宛名無し）抽選券",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 480,
+        "real_goods_name": "<girl_name> 直筆サイン入りチェキ&宛名入りオリジナルキャラファイングラフ",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 481,
+        "real_goods_name": "<girl_name> 直筆サイン入りオリジナルキャラファイングラフ（宛名無し）抽選券",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 482,
+        "real_goods_name": "<girl_name> 直筆サイン入りプリントカード+ランダム4枚セット",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 483,
+        "real_goods_name": "<girl_name> 直筆サイン入りプリントカード+ランダム3枚セット",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 484,
+        "real_goods_name": "<girl_name> 直筆サイン入りプリントカード+ランダム2枚セット",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 485,
+        "real_goods_name": "<girl_name> 直筆サイン入りプリントカード+ランダム1枚セット",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 486,
+        "real_goods_name": "<girl_name> 直筆サイン入りプリントカード",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 487,
+        "real_goods_name": "<girl_name> 直筆サイン入りオリジナルパーカー",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 488,
+        "real_goods_name": "<girl_name> 直筆サイン入りオリジナルパーカー抽選券",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 489,
+        "real_goods_name": "オリジナルパーカー（サイン無し）抽選券",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 490,
+        "real_goods_name": "<girl_name> 直筆サイン入りオリジナルバッグ+オリジナル缶バッジ2個セット（サイン無し）",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 491,
+        "real_goods_name": "<girl_name> 直筆サイン入りオリジナルバッグ+オリジナル缶バッジ2個セット（サイン無し）抽選券",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 492,
+        "real_goods_name": "<girl_name> オリジナルバッグ（サイン無し）+オリジナル缶バッジ2個セット（サイン無し）抽選券",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 493,
+        "real_goods_name": "<girl_name> 直筆サイン入りオリジナルプリントカードホルダー",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 494,
+        "real_goods_name": "オリジナルプリントカードホルダー（サイン無し）&推しメンプリントカード抽選券",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 495,
+        "real_goods_name": "オリジナルプリントカードホルダー（サイン無し）&推しメンプリントカード抽選券",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 496,
+        "real_goods_name": "<girl_name> 直筆サイン入りオリジナルプリントカードホルダー&推しメンプリントカード抽選券",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 497,
+        "real_goods_name": "<girl_name> プリントカード6枚セット（推しメン入り）",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 498,
+        "real_goods_name": "<girl_name> プリントカード5枚セット（推しメン入り）",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 499,
+        "real_goods_name": "<girl_name> プリントカード4枚セット（推しメン入り）",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 500,
+        "real_goods_name": "<girl_name> プリントカード3枚セット（推しメン入り）",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 501,
+        "real_goods_name": "<girl_name> プリントカード2枚セット（推しメン入り）",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 502,
+        "real_goods_name": "<girl_name> 推しメンプリントカード",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 503,
+        "real_goods_name": "<girl_name> 直筆サイン入りオリジナルB2タペストリー",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 504,
+        "real_goods_name": "<girl_name> 直筆サイン入りオリジナルB2タペストリー抽選券",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 505,
+        "real_goods_name": "オリジナルB2タペストリー（サイン無し）抽選券",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 506,
+        "real_goods_name": "<girl_name> 直筆サイン入りウォールデコ",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 507,
+        "real_goods_name": "<girl_name> 直筆サイン入りウォールデコ抽選券",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 508,
+        "real_goods_name": "ウォールデコ（サイン無し）抽選券",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 509,
+        "real_goods_name": "<girl_name> 直筆サイン入りオリジナル飾り絵皿",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 510,
+        "real_goods_name": "<girl_name> 直筆サイン入りオリジナル飾り絵皿抽選券",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 511,
+        "real_goods_name": "<girl_name> オリジナル飾り絵皿（サイン無し）抽選券",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 512,
+        "real_goods_name": "【メンバーランダム】<br />朱翠天華缶バッジ",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 513,
+        "real_goods_name": "【秋元 真夏】<br />朱翠天華缶バッジ",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 514,
+        "real_goods_name": "【齋藤 飛鳥】<br />朱翠天華缶バッジ",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 515,
+        "real_goods_name": "【鈴木 絢音】<br />朱翠天華缶バッジ",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 516,
+        "real_goods_name": "【伊藤 理々杏】<br />朱翠天華缶バッジ",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 517,
+        "real_goods_name": "【岩本 蓮加】<br />朱翠天華缶バッジ",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 518,
+        "real_goods_name": "【梅澤 美波】<br />朱翠天華缶バッジ",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 519,
+        "real_goods_name": "【久保 史緒里】<br />朱翠天華缶バッジ",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 520,
+        "real_goods_name": "【阪口 珠美】<br />朱翠天華缶バッジ",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 521,
+        "real_goods_name": "【佐藤 楓】<br />朱翠天華缶バッジ",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 522,
+        "real_goods_name": "【中村 麗乃】<br />朱翠天華缶バッジ",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 523,
+        "real_goods_name": "【向井 葉月】<br />朱翠天華缶バッジ",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 524,
+        "real_goods_name": "【山下 美月】<br />朱翠天華缶バッジ",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 525,
+        "real_goods_name": "【吉田 綾乃ｸﾘｽﾃｨｰ】<br />朱翠天華缶バッジ",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 526,
+        "real_goods_name": "【与田 祐希】<br />朱翠天華缶バッジ",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 527,
+        "real_goods_name": "【遠藤 さくら】<br />朱翠天華缶バッジ",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 528,
+        "real_goods_name": "【賀喜 遥香】<br />朱翠天華缶バッジ",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 529,
+        "real_goods_name": "【金川 紗耶】<br />朱翠天華缶バッジ",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 530,
+        "real_goods_name": "【北川 悠理】<br />朱翠天華缶バッジ",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 531,
+        "real_goods_name": "【黒見 明香】<br />朱翠天華缶バッジ",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 532,
+        "real_goods_name": "【佐藤 璃果】<br />朱翠天華缶バッジ",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 533,
+        "real_goods_name": "【柴田 柚菜】<br />朱翠天華缶バッジ",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 534,
+        "real_goods_name": "【清宮 レイ】<br />朱翠天華缶バッジ",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 535,
+        "real_goods_name": "【田村 真佑】<br />朱翠天華缶バッジ",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 536,
+        "real_goods_name": "【筒井 あやめ】<br />朱翠天華缶バッジ",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 537,
+        "real_goods_name": "【早川 聖来】<br />朱翠天華缶バッジ",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 538,
+        "real_goods_name": "【林 瑠奈】<br />朱翠天華缶バッジ",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 539,
+        "real_goods_name": "【松尾 美佑】<br />朱翠天華缶バッジ",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 540,
+        "real_goods_name": "【矢久保 美緒】<br />朱翠天華缶バッジ",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 541,
+        "real_goods_name": "【弓木 奈於】<br />朱翠天華缶バッジ",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 542,
+        "real_goods_name": "【五百城 茉央】<br />朱翠天華缶バッジ",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 543,
+        "real_goods_name": "【池田 瑛紗】<br />朱翠天華缶バッジ",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 544,
+        "real_goods_name": "【一ノ瀬 美空】<br />朱翠天華缶バッジ",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 545,
+        "real_goods_name": "【井上 和】<br />朱翠天華缶バッジ",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 546,
+        "real_goods_name": "【岡本 姫奈】<br />朱翠天華缶バッジ",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 547,
+        "real_goods_name": "【小川 彩】<br />朱翠天華缶バッジ",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 548,
+        "real_goods_name": "【奥田 いろは】<br />朱翠天華缶バッジ",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 549,
+        "real_goods_name": "【川崎 桜】<br />朱翠天華缶バッジ",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 550,
+        "real_goods_name": "【菅原 咲月】<br />朱翠天華缶バッジ",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 551,
+        "real_goods_name": "【冨里 奈央】<br />朱翠天華缶バッジ",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 552,
+        "real_goods_name": "【中西 アルノ】<br />朱翠天華缶バッジ",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 553,
+        "real_goods_name": "<girl_name> 直筆サイン入りチェキ&オリジナルブランケット",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 554,
+        "real_goods_name": "<girl_name> 直筆サイン入りチェキ抽選券",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 555,
+        "real_goods_name": "<girl_name> 直筆サイン入りオリジナルブランケット抽選券",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 556,
+        "real_goods_name": "オリジナルブランケット（サイン無し）抽選券",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 557,
+        "real_goods_name": "<girl_name> 直筆サイン入りチェキ&オリジナルフルグラフィックTシャツ",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 558,
+        "real_goods_name": "<girl_name> 直筆サイン入りオリジナルフルグラフィックTシャツ抽選券",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 559,
+        "real_goods_name": "<girl_name> 直筆サイン入りチェキ抽選券",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 560,
+        "real_goods_name": "オリジナルフルグラフィックTシャツ（サイン無し）抽選券",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 561,
+        "real_goods_name": "<girl_name> 直筆サイン入りオリジナルアクアフォトフレーム",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 562,
+        "real_goods_name": "<girl_name> 直筆サイン入りオリジナルアクアフォトフレーム抽選券",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 563,
+        "real_goods_name": "<girl_name> オリジナルアクアフォトフレーム（サイン無し）抽選券",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 564,
+        "real_goods_name": "<girl_name> 直筆サイン入りananコラボ記念プリントカード+ランダム4枚セット",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 565,
+        "real_goods_name": "<girl_name> 直筆サイン入りananコラボ記念プリントカード+ランダム3枚セット",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 566,
+        "real_goods_name": "<girl_name> 直筆サイン入りananコラボ記念プリントカード+ランダム2枚セット",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 567,
+        "real_goods_name": "<girl_name> 直筆サイン入りananコラボ記念プリントカード+ランダム1枚セット",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 568,
+        "real_goods_name": "<girl_name> 直筆サイン入りananコラボ記念プリントカード",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 569,
+        "real_goods_name": "<girl_name> 直筆サイン入りananコラボ記念プリントカード抽選券",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 570,
+        "real_goods_name": "<girl_name> 直筆サイン入りオリジナルスマートフォンケース",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 571,
+        "real_goods_name": "<girl_name> 直筆サイン入りオリジナルスマートフォンケース抽選券",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 572,
+        "real_goods_name": "オリジナルスマートフォンケース（サイン無し）抽選券",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 573,
+        "real_goods_name": "<girl_name> 直筆サイン入りオリジナルタオル",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 574,
+        "real_goods_name": "<girl_name> 直筆サイン入りオリジナルタオル抽選券",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 575,
+        "real_goods_name": "オリジナルタオル（サイン無し）抽選券",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 576,
+        "real_goods_name": "<girl_name> 直筆サイン入りオリジナルTシャツ",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 577,
+        "real_goods_name": "<girl_name> 直筆サイン入りオリジナルTシャツ抽選券",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 578,
+        "real_goods_name": "オリジナルTシャツ（サイン無し）抽選券",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 579,
+        "real_goods_name": "<girl_name> 直筆サイン入りオリジナルサコッシュ",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 580,
+        "real_goods_name": "<girl_name> 直筆サイン入りオリジナルサコッシュ抽選券",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 581,
+        "real_goods_name": "オリジナルサコッシュ（サイン無し）抽選券",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 582,
+        "real_goods_name": "<girl_name> 直筆サイン入りチェキ&宛名入り6周年メモリアルLEDライトパネル",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 583,
+        "real_goods_name": "<girl_name> 直筆サイン入りチェキ抽選券",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 584,
+        "real_goods_name": "<girl_name> 直筆サイン入り6周年メモリアルLEDライトパネル（宛名無し）抽選券",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 585,
+        "real_goods_name": "6周年メモリアルLEDライトパネル（宛名無し・サイン無し）抽選券",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 586,
+        "real_goods_name": "<girl_name> 直筆サイン入りチェキ&宛名入り6周年メモリアルムービーブック",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 587,
+        "real_goods_name": "<girl_name> 直筆サイン入り6周年メモリアルムービーブック（宛名無し）抽選券",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 588,
+        "real_goods_name": "<girl_name> 直筆サイン入りチェキ抽選券",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 589,
+        "real_goods_name": "6周年メモリアルムービーブック（宛名無し・サイン無し）抽選券",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 590,
+        "real_goods_name": "<girl_name> 直筆サイン入りオリジナルレンチキュラー",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 591,
+        "real_goods_name": "<girl_name> 直筆サイン入りオリジナルレンチキュラー抽選券",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 592,
+        "real_goods_name": "<girl_name> オリジナルレンチキュラー（サイン無し）抽選券",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 593,
+        "real_goods_name": "<girl_name> 直筆サイン入りオリジナル掛け軸",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 594,
+        "real_goods_name": "<girl_name> 直筆サイン入りオリジナル掛け軸抽選券",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 595,
+        "real_goods_name": "<girl_name> オリジナル掛け軸（サイン無し）抽選券",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 596,
+        "real_goods_name": "<girl_name> 直筆サイン入りオリジナルボイスPOP",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 597,
+        "real_goods_name": "<girl_name> 直筆サイン入りオリジナルボイスPOP抽選券",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 598,
+        "real_goods_name": "<girl_name> オリジナルボイスPOP（サイン無し）抽選券",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 599,
+        "real_goods_name": "<girl_name> 直筆サイン入りチケットホルダー",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 600,
+        "real_goods_name": "<girl_name> 直筆サイン入りチケットホルダー抽選券",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 601,
+        "real_goods_name": "<girl_name> 直筆サイン入りオリジナルのれん",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 602,
+        "real_goods_name": "<girl_name> 直筆サイン入りオリジナルのれん抽選券",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 603,
+        "real_goods_name": "<girl_name> オリジナルのれん（サイン無し）抽選券",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 604,
+        "real_goods_name": "<girl_name> 直筆サイン入りオリジナルアーティフィシャルフラワーBOX",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 605,
+        "real_goods_name": "<girl_name> 直筆サイン入りオリジナルアーティフィシャルフラワーBOX抽選券",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 606,
+        "real_goods_name": "<girl_name> オリジナルアーティフィシャルフラワーBOX（サイン無し）抽選券",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 607,
+        "real_goods_name": "<girl_name> 直筆サイン入りチェキ&おひとりさま天国フォトフレーム",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 608,
+        "real_goods_name": "<girl_name> 直筆サイン入りおひとりさま天国フォトフレーム抽選券",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 609,
+        "real_goods_name": "<girl_name> おひとりさま天国フォトフレーム（サイン無し）抽選券",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 610,
+        "real_goods_name": "<girl_name> 直筆サイン入りチェキ&ウェディングボード",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 611,
+        "real_goods_name": "<girl_name> 直筆サイン入りチェキ抽選券",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 612,
+        "real_goods_name": "<girl_name> 直筆サイン入りウェディングボード抽選券",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 613,
+        "real_goods_name": "<girl_name> ウェディングボード（サイン無し）抽選券",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 614,
+        "real_goods_name": "<girl_name> 直筆サイン入りオリジナルサインプレート",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 615,
+        "real_goods_name": "<girl_name> 直筆サイン入りオリジナルサインプレート抽選券",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 616,
+        "real_goods_name": "<girl_name> オリジナルサインプレート（サイン無し）抽選券",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 617,
+        "real_goods_name": "<girl_name> 直筆サイン入りオリジナルパブミラー",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 618,
+        "real_goods_name": "<girl_name> 直筆サイン入りオリジナルパブミラー抽選券",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 619,
+        "real_goods_name": "<girl_name> オリジナルパブミラー（サイン無し）抽選券",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 620,
+        "real_goods_name": "<girl_name> 直筆サイン入りオリジナル推しメンタオル",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 621,
+        "real_goods_name": "<girl_name> 直筆サイン入りオリジナル推しメンタオル抽選券",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 622,
+        "real_goods_name": "<girl_name> オリジナル推しメンタオル（サイン無し）抽選券",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 623,
+        "real_goods_name": "<girl_name> 直筆サイン入りオリジナルライブTシャツ",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 624,
+        "real_goods_name": "<girl_name> 直筆サイン入りオリジナルライブTシャツ抽選券",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 625,
+        "real_goods_name": "<girl_name> オリジナルライブTシャツ（サイン無し）抽選券",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 626,
+        "real_goods_name": "<girl_name> 直筆サイン入りオリジナルブック型ポーチ",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 627,
+        "real_goods_name": "<girl_name> 直筆サイン入りオリジナルブック型ポーチ抽選券",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 628,
+        "real_goods_name": "<girl_name> オリジナルブック型ポーチ（サイン無し）抽選券",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 629,
+        "real_goods_name": "<girl_name> 直筆サイン入りチェキ&宛名入り7周年メモリアルキャンバス",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 630,
+        "real_goods_name": "<girl_name> 直筆サイン入りチェキ抽選券",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 631,
+        "real_goods_name": "<girl_name> 直筆サイン入り7周年メモリアルキャンバス（宛名無し）抽選券",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 632,
+        "real_goods_name": "<girl_name> 7周年メモリアルキャンバス（宛名無し・サイン無し）抽選券",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 633,
+        "real_goods_name": "<girl_name> 直筆サイン入りチェキ&宛名入り7周年オリジナルフォトクロック",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 634,
+        "real_goods_name": "<girl_name> 直筆サイン入り7周年オリジナルフォトクロック（宛名無し）抽選券",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 635,
+        "real_goods_name": "<girl_name> 7周年オリジナルフォトクロック（宛名無し・サイン無し）抽選券",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 636,
+        "real_goods_name": "<girl_name> 直筆サイン入りオリジナルフード付きクリスマスタオル",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 637,
+        "real_goods_name": "<girl_name> 直筆サイン入りオリジナルフード付きクリスマスタオル抽選券",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 638,
+        "real_goods_name": "<girl_name> オリジナルフード付きクリスマスタオル（サイン無し）抽選券",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 639,
+        "real_goods_name": "<girl_name> 乃木フェス福袋推しメンセット（直筆サイン入りアクリル色紙付き）",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 640,
+        "real_goods_name": "<girl_name> 乃木フェス福袋推しメンセット（直筆サイン入りアクリル色紙付き）抽選券",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 641,
+        "real_goods_name": "<girl_name> 乃木フェス福袋推しメンセット（サイン無し）抽選券",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 642,
+        "real_goods_name": "<girl_name> 直筆サイン入りオリジナルバレンタインブック",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 643,
+        "real_goods_name": "<girl_name> 直筆サイン入りオリジナルバレンタインブック抽選券",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 644,
+        "real_goods_name": "<girl_name> オリジナルバレンタインブック（サイン無し）抽選券",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 645,
+        "real_goods_name": "<girl_name> 直筆サイン入りアンティークフォトスタンド（フォト付き）",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 646,
+        "real_goods_name": "<girl_name> 直筆サイン入りアンティークフォトスタンド（フォト付き）抽選券",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 647,
+        "real_goods_name": "<girl_name> アンティークフォトスタンド（フォト付き）（サイン無し）抽選券",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 648,
+        "real_goods_name": "<girl_name> 直筆サイン入りオリジナルタペストリー",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 649,
+        "real_goods_name": "<girl_name> 直筆サイン入りオリジナルタペストリー抽選券",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 650,
+        "real_goods_name": "<girl_name> オリジナルタペストリー（サイン無し）抽選券",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 651,
+        "real_goods_name": "<girl_name> 直筆サイン入りオリジナルプリントカードホルダー",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 652,
+        "real_goods_name": "<girl_name> 直筆サイン入りオリジナルプリントカードホルダー抽選券",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 653,
+        "real_goods_name": "<girl_name> オリジナルプリントカードホルダー（サイン無し）抽選券",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 654,
+        "real_goods_name": "<girl_name> 直筆サイン入りチェキ&ウエディングキャラファイングラフ",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 655,
+        "real_goods_name": "<girl_name> 直筆サイン入りウエディングキャラファイングラフ抽選券",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 656,
+        "real_goods_name": "<girl_name> ウエディングキャラファイングラフ（サイン無し）抽選券",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 657,
+        "real_goods_name": "<girl_name> 直筆サイン入りチェキ&宛名入りチートデイボイス付きフォトスタンド",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 658,
+        "real_goods_name": "<girl_name> 直筆サイン入りチートデイボイス付きフォトスタンド抽選券",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 659,
+        "real_goods_name": "<girl_name> チートデイボイス付きフォトスタンド（サイン無し）抽選券",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 660,
+        "real_goods_name": "<girl_name> 直筆サイン入りチェキ&はじめまして、6期生ですTシャツ",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 661,
+        "real_goods_name": "<girl_name> 直筆サイン入りはじめまして、6期生ですTシャツ抽選券",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 662,
+        "real_goods_name": "<girl_name> 直筆サイン入りオリジナルクッション",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 663,
+        "real_goods_name": "<girl_name> 直筆サイン入りオリジナルクッション抽選券",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 664,
+        "real_goods_name": "<girl_name> オリジナルクッション（サイン無し）抽選券",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 665,
+        "real_goods_name": "<girl_name> リアルイベント参加券＆直筆サイン入りオリジナルアクリルキーホルダー",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 666,
+        "real_goods_name": "<girl_name> リアルイベント参加券＆直筆サイン入りオリジナルアクリルキーホルダー抽選券",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 667,
+        "real_goods_name": "<girl_name> リアルイベント抽選券＆オリジナルアクリルキーホルダー（サインなし）抽選券",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    }
+]

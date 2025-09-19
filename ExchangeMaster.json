@@ -1,0 +1,6462 @@
+[
+    {
+        "exchange_id": 1,
+        "exchange_name": "スターチャージ(大)×2",
+        "category": 1,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 10,
+        "start_date": 1420038000,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 4,
+                "data_id": 7,
+                "data_num": 2
+            }
+        ]
+    },
+    {
+        "exchange_id": 2,
+        "exchange_name": "ムーンチャージ(大)×2",
+        "category": 1,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 10,
+        "start_date": 1420038000,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 4,
+                "data_id": 8,
+                "data_num": 2
+            }
+        ]
+    },
+    {
+        "exchange_id": 3,
+        "exchange_name": "サンチャージ(大)×2",
+        "category": 1,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 10,
+        "start_date": 1420038000,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 4,
+                "data_id": 9,
+                "data_num": 2
+            }
+        ]
+    },
+    {
+        "exchange_id": 4,
+        "exchange_name": "スタークォーツ(小)×30",
+        "category": 1,
+        "nz_point": 20,
+        "exchange_purchase_type": 1,
+        "possible_times": 6,
+        "start_date": 1420038000,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 5,
+                "data_id": 1,
+                "data_num": 30
+            }
+        ]
+    },
+    {
+        "exchange_id": 5,
+        "exchange_name": "ムーンクォーツ(小)×30",
+        "category": 1,
+        "nz_point": 20,
+        "exchange_purchase_type": 1,
+        "possible_times": 6,
+        "start_date": 1420038000,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 5,
+                "data_id": 2,
+                "data_num": 30
+            }
+        ]
+    },
+    {
+        "exchange_id": 6,
+        "exchange_name": "サンクォーツ(小)×30",
+        "category": 1,
+        "nz_point": 20,
+        "exchange_purchase_type": 1,
+        "possible_times": 6,
+        "start_date": 1420038000,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 5,
+                "data_id": 3,
+                "data_num": 30
+            }
+        ]
+    },
+    {
+        "exchange_id": 7,
+        "exchange_name": "スタークォーツ(中)×20",
+        "category": 1,
+        "nz_point": 20,
+        "exchange_purchase_type": 1,
+        "possible_times": 6,
+        "start_date": 1420038000,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 5,
+                "data_id": 4,
+                "data_num": 20
+            }
+        ]
+    },
+    {
+        "exchange_id": 8,
+        "exchange_name": "ムーンクォーツ(中)×20",
+        "category": 1,
+        "nz_point": 20,
+        "exchange_purchase_type": 1,
+        "possible_times": 6,
+        "start_date": 1420038000,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 5,
+                "data_id": 5,
+                "data_num": 20
+            }
+        ]
+    },
+    {
+        "exchange_id": 9,
+        "exchange_name": "サンクォーツ(中)×20",
+        "category": 1,
+        "nz_point": 20,
+        "exchange_purchase_type": 1,
+        "possible_times": 6,
+        "start_date": 1420038000,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 5,
+                "data_id": 6,
+                "data_num": 20
+            }
+        ]
+    },
+    {
+        "exchange_id": 10,
+        "exchange_name": "スタークォーツ(大)×15",
+        "category": 1,
+        "nz_point": 30,
+        "exchange_purchase_type": 1,
+        "possible_times": 6,
+        "start_date": 1420038000,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 5,
+                "data_id": 7,
+                "data_num": 15
+            }
+        ]
+    },
+    {
+        "exchange_id": 11,
+        "exchange_name": "ムーンクォーツ(大)×15",
+        "category": 1,
+        "nz_point": 30,
+        "exchange_purchase_type": 1,
+        "possible_times": 6,
+        "start_date": 1420038000,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 5,
+                "data_id": 8,
+                "data_num": 15
+            }
+        ]
+    },
+    {
+        "exchange_id": 12,
+        "exchange_name": "サンクォーツ(大)×15",
+        "category": 1,
+        "nz_point": 30,
+        "exchange_purchase_type": 1,
+        "possible_times": 6,
+        "start_date": 1420038000,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 5,
+                "data_id": 9,
+                "data_num": 15
+            }
+        ]
+    },
+    {
+        "exchange_id": 13,
+        "exchange_name": "スタークォーツ(特大)×5",
+        "category": 1,
+        "nz_point": 30,
+        "exchange_purchase_type": 1,
+        "possible_times": 10,
+        "start_date": 1420038000,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 5,
+                "data_id": 10,
+                "data_num": 5
+            }
+        ]
+    },
+    {
+        "exchange_id": 14,
+        "exchange_name": "ムーンクォーツ(特大)×5",
+        "category": 1,
+        "nz_point": 30,
+        "exchange_purchase_type": 1,
+        "possible_times": 10,
+        "start_date": 1420038000,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 5,
+                "data_id": 11,
+                "data_num": 5
+            }
+        ]
+    },
+    {
+        "exchange_id": 15,
+        "exchange_name": "サンクォーツ(特大)×5",
+        "category": 1,
+        "nz_point": 30,
+        "exchange_purchase_type": 1,
+        "possible_times": 10,
+        "start_date": 1420038000,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 5,
+                "data_id": 12,
+                "data_num": 5
+            }
+        ]
+    },
+    {
+        "exchange_id": 16,
+        "exchange_name": "ミラクルクォーツ×1",
+        "category": 1,
+        "nz_point": 40,
+        "exchange_purchase_type": 1,
+        "possible_times": 15,
+        "start_date": 1420038000,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 5,
+                "data_id": 13,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 17,
+        "exchange_name": "レインボーオーブ×1",
+        "category": 1,
+        "nz_point": 80,
+        "exchange_purchase_type": 1,
+        "possible_times": 5,
+        "start_date": 1420038000,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 3,
+                "data_id": 9,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 18,
+        "exchange_name": "LPドリンク30×1",
+        "category": 1,
+        "nz_point": 5,
+        "exchange_purchase_type": 1,
+        "possible_times": 5,
+        "start_date": 1420038000,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 3,
+                "data_id": 3,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 19,
+        "exchange_name": "ノギー×100000",
+        "category": 1,
+        "nz_point": 20,
+        "exchange_purchase_type": 1,
+        "possible_times": 5,
+        "start_date": 1420038000,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 10,
+                "data_id": 0,
+                "data_num": 100000
+            }
+        ]
+    },
+    {
+        "exchange_id": 20,
+        "exchange_name": "銀のツバサ×1",
+        "category": 1,
+        "nz_point": 400,
+        "exchange_purchase_type": 1,
+        "possible_times": 1,
+        "start_date": 1534485600,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 3,
+                "data_id": 10,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 21,
+        "exchange_name": "秋元真夏のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1636437600,
+        "end_date": 1655092799,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 101,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 22,
+        "exchange_name": "生田絵梨花のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1636437600,
+        "end_date": 1655092799,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 102,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 23,
+        "exchange_name": "齋藤飛鳥のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1636437600,
+        "end_date": 1655092799,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 109,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 24,
+        "exchange_name": "高山一実のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1636437600,
+        "end_date": 1655092799,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 114,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 25,
+        "exchange_name": "樋口日奈のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1636437600,
+        "end_date": 1655092799,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 118,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 26,
+        "exchange_name": "星野みなみのツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1636437600,
+        "end_date": 1655092799,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 119,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 27,
+        "exchange_name": "和田まあやのツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1636437600,
+        "end_date": 1655092799,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 122,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 28,
+        "exchange_name": "北野日奈子のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1636437600,
+        "end_date": 1655092799,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 203,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 29,
+        "exchange_name": "新内眞衣のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1636437600,
+        "end_date": 1655092799,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 206,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 30,
+        "exchange_name": "鈴木絢音のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1636437600,
+        "end_date": 1655092799,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 207,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 31,
+        "exchange_name": "寺田蘭世のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1636437600,
+        "end_date": 1655092799,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 208,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 32,
+        "exchange_name": "山崎怜奈のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1636437600,
+        "end_date": 1655092799,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 210,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 33,
+        "exchange_name": "伊藤理々杏のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1636437600,
+        "end_date": 1655092799,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 301,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 34,
+        "exchange_name": "岩本蓮加のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1636437600,
+        "end_date": 1655092799,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 302,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 35,
+        "exchange_name": "梅澤美波のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1636437600,
+        "end_date": 1655092799,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 303,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 36,
+        "exchange_name": "久保史緒里のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1636437600,
+        "end_date": 1655092799,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 305,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 37,
+        "exchange_name": "阪口珠美のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1636437600,
+        "end_date": 1655092799,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 306,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 38,
+        "exchange_name": "佐藤楓のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1636437600,
+        "end_date": 1655092799,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 307,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 39,
+        "exchange_name": "中村麗乃のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1636437600,
+        "end_date": 1655092799,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 308,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 40,
+        "exchange_name": "向井葉月のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1636437600,
+        "end_date": 1655092799,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 309,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 41,
+        "exchange_name": "山下美月のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1636437600,
+        "end_date": 1655092799,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 310,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 42,
+        "exchange_name": "吉田綾乃クリスティーのツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1636437600,
+        "end_date": 1655092799,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 311,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 43,
+        "exchange_name": "与田祐希のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1636437600,
+        "end_date": 1655092799,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 312,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 44,
+        "exchange_name": "遠藤さくらのツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1636437600,
+        "end_date": 1655092799,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 401,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 45,
+        "exchange_name": "賀喜遥香のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1636437600,
+        "end_date": 1655092799,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 402,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 46,
+        "exchange_name": "掛橋沙耶香のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1636437600,
+        "end_date": 1655092799,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 403,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 47,
+        "exchange_name": "金川紗耶のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1636437600,
+        "end_date": 1655092799,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 404,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 48,
+        "exchange_name": "北川悠理のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1636437600,
+        "end_date": 1655092799,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 405,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 49,
+        "exchange_name": "柴田柚菜のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1636437600,
+        "end_date": 1655092799,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 406,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 50,
+        "exchange_name": "清宮レイのツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1636437600,
+        "end_date": 1655092799,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 407,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 51,
+        "exchange_name": "田村真佑のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1636437600,
+        "end_date": 1655092799,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 408,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 52,
+        "exchange_name": "筒井あやめのツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1636437600,
+        "end_date": 1655092799,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 409,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 53,
+        "exchange_name": "早川聖来のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1636437600,
+        "end_date": 1655092799,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 410,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 54,
+        "exchange_name": "矢久保美緒のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1636437600,
+        "end_date": 1655092799,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 411,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 55,
+        "exchange_name": "黒見明香のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1636437600,
+        "end_date": 1655092799,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 412,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 56,
+        "exchange_name": "佐藤璃果のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1636437600,
+        "end_date": 1655092799,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 413,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 57,
+        "exchange_name": "林瑠奈のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1636437600,
+        "end_date": 1655092799,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 414,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 58,
+        "exchange_name": "松尾美佑のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1636437600,
+        "end_date": 1655092799,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 415,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 59,
+        "exchange_name": "弓木奈於のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1636437600,
+        "end_date": 1655092799,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 416,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 60,
+        "exchange_name": "生駒里奈のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1636437600,
+        "end_date": 1655092799,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 103,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 61,
+        "exchange_name": "伊藤万理華のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1636437600,
+        "end_date": 1655092799,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 104,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 62,
+        "exchange_name": "井上小百合のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1636437600,
+        "end_date": 1655092799,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 105,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 63,
+        "exchange_name": "衛藤美彩のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1636437600,
+        "end_date": 1655092799,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 106,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 64,
+        "exchange_name": "川後陽菜のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1636437600,
+        "end_date": 1655092799,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 107,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 65,
+        "exchange_name": "川村真洋のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1636437600,
+        "end_date": 1655092799,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 108,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 66,
+        "exchange_name": "斎藤ちはるのツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1636437600,
+        "end_date": 1655092799,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 110,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 67,
+        "exchange_name": "斉藤優里のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1636437600,
+        "end_date": 1655092799,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 111,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 68,
+        "exchange_name": "桜井玲香のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1636437600,
+        "end_date": 1655092799,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 112,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 69,
+        "exchange_name": "白石麻衣のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1636437600,
+        "end_date": 1655092799,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 113,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 70,
+        "exchange_name": "中田花奈のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1636437600,
+        "end_date": 1655092799,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 115,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 71,
+        "exchange_name": "西野七瀬のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1636437600,
+        "end_date": 1655092799,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 116,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 72,
+        "exchange_name": "能條愛未のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1636437600,
+        "end_date": 1655092799,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 117,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 73,
+        "exchange_name": "松村沙友理のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1636437600,
+        "end_date": 1655092799,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 120,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 74,
+        "exchange_name": "若月佑美のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1636437600,
+        "end_date": 1655092799,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 121,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 75,
+        "exchange_name": "伊藤かりんのツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1636437600,
+        "end_date": 1655092799,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 201,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 76,
+        "exchange_name": "伊藤純奈のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1636437600,
+        "end_date": 1655092799,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 202,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 77,
+        "exchange_name": "相楽伊織のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1636437600,
+        "end_date": 1655092799,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 204,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 78,
+        "exchange_name": "佐々木琴子のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1636437600,
+        "end_date": 1655092799,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 205,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 79,
+        "exchange_name": "堀未央奈のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1636437600,
+        "end_date": 1655092799,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 209,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 80,
+        "exchange_name": "渡辺みり愛のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1636437600,
+        "end_date": 1655092799,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 211,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 81,
+        "exchange_name": "大園桃子のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1636437600,
+        "end_date": 1655092799,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 304,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 82,
+        "exchange_name": "秋元真夏のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1655100000,
+        "end_date": 1693454399,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 101,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 83,
+        "exchange_name": "齋藤飛鳥のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1655100000,
+        "end_date": 1693454399,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 109,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 84,
+        "exchange_name": "樋口日奈のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1655100000,
+        "end_date": 1693454399,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 118,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 85,
+        "exchange_name": "和田まあやのツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1655100000,
+        "end_date": 1693454399,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 122,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 86,
+        "exchange_name": "鈴木絢音のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1655100000,
+        "end_date": 1693454399,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 207,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 87,
+        "exchange_name": "山崎怜奈のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1655100000,
+        "end_date": 1693454399,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 210,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 88,
+        "exchange_name": "伊藤理々杏のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1655100000,
+        "end_date": 1693454399,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 301,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 89,
+        "exchange_name": "岩本蓮加のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1655100000,
+        "end_date": 1693454399,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 302,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 90,
+        "exchange_name": "梅澤美波のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1655100000,
+        "end_date": 1693454399,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 303,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 91,
+        "exchange_name": "久保史緒里のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1655100000,
+        "end_date": 1693454399,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 305,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 92,
+        "exchange_name": "阪口珠美のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1655100000,
+        "end_date": 1693454399,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 306,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 93,
+        "exchange_name": "佐藤楓のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1655100000,
+        "end_date": 1693454399,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 307,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 94,
+        "exchange_name": "中村麗乃のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1655100000,
+        "end_date": 1693454399,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 308,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 95,
+        "exchange_name": "向井葉月のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1655100000,
+        "end_date": 1693454399,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 309,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 96,
+        "exchange_name": "山下美月のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1655100000,
+        "end_date": 1693454399,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 310,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 97,
+        "exchange_name": "吉田綾乃クリスティーのツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1655100000,
+        "end_date": 1693454399,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 311,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 98,
+        "exchange_name": "与田祐希のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1655100000,
+        "end_date": 1693454399,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 312,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 99,
+        "exchange_name": "遠藤さくらのツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1655100000,
+        "end_date": 1693454399,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 401,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 100,
+        "exchange_name": "賀喜遥香のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1655100000,
+        "end_date": 1693454399,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 402,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 101,
+        "exchange_name": "掛橋沙耶香のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1655100000,
+        "end_date": 1693454399,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 403,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 102,
+        "exchange_name": "金川紗耶のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1655100000,
+        "end_date": 1693454399,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 404,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 103,
+        "exchange_name": "北川悠理のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1655100000,
+        "end_date": 1693454399,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 405,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 104,
+        "exchange_name": "黒見明香のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1655100000,
+        "end_date": 1693454399,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 412,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 105,
+        "exchange_name": "佐藤璃果のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1655100000,
+        "end_date": 1693454399,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 413,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 106,
+        "exchange_name": "柴田柚菜のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1655100000,
+        "end_date": 1693454399,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 406,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 107,
+        "exchange_name": "清宮レイのツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1655100000,
+        "end_date": 1693454399,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 407,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 108,
+        "exchange_name": "田村真佑のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1655100000,
+        "end_date": 1693454399,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 408,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 109,
+        "exchange_name": "筒井あやめのツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1655100000,
+        "end_date": 1693454399,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 409,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 110,
+        "exchange_name": "早川聖来のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1655100000,
+        "end_date": 1693454399,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 410,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 111,
+        "exchange_name": "林瑠奈のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1655100000,
+        "end_date": 1693454399,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 414,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 112,
+        "exchange_name": "松尾美佑のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1655100000,
+        "end_date": 1693454399,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 415,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 113,
+        "exchange_name": "矢久保美緒のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1655100000,
+        "end_date": 1693454399,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 411,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 114,
+        "exchange_name": "弓木奈於のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1655100000,
+        "end_date": 1693454399,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 416,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 115,
+        "exchange_name": "五百城茉央のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1655100000,
+        "end_date": 1693454399,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 501,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 116,
+        "exchange_name": "池田瑛紗のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1655100000,
+        "end_date": 1693454399,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 502,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 117,
+        "exchange_name": "一ノ瀬美空のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1655100000,
+        "end_date": 1693454399,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 503,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 118,
+        "exchange_name": "井上和のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1655100000,
+        "end_date": 1693454399,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 504,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 119,
+        "exchange_name": "岡本姫奈のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1655100000,
+        "end_date": 1693454399,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 505,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 120,
+        "exchange_name": "小川彩のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1655100000,
+        "end_date": 1693454399,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 506,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 121,
+        "exchange_name": "奥田いろはのツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1655100000,
+        "end_date": 1693454399,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 507,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 122,
+        "exchange_name": "川﨑桜のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1655100000,
+        "end_date": 1693454399,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 508,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 123,
+        "exchange_name": "菅原咲月のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1655100000,
+        "end_date": 1693454399,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 509,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 124,
+        "exchange_name": "冨里奈央のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1655100000,
+        "end_date": 1693454399,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 510,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 125,
+        "exchange_name": "中西アルノのツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1655100000,
+        "end_date": 1693454399,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 511,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 126,
+        "exchange_name": "生田絵梨花のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1655100000,
+        "end_date": 1693454399,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 102,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 127,
+        "exchange_name": "生駒里奈のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1655100000,
+        "end_date": 1693454399,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 103,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 128,
+        "exchange_name": "伊藤万理華のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1655100000,
+        "end_date": 1693454399,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 104,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 129,
+        "exchange_name": "井上小百合のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1655100000,
+        "end_date": 1693454399,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 105,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 130,
+        "exchange_name": "衛藤美彩のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1655100000,
+        "end_date": 1693454399,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 106,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 131,
+        "exchange_name": "川後陽菜のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1655100000,
+        "end_date": 1693454399,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 107,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 132,
+        "exchange_name": "川村真洋のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1655100000,
+        "end_date": 1693454399,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 108,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 133,
+        "exchange_name": "斎藤ちはるのツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1655100000,
+        "end_date": 1693454399,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 110,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 134,
+        "exchange_name": "斉藤優里のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1655100000,
+        "end_date": 1693454399,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 111,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 135,
+        "exchange_name": "桜井玲香のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1655100000,
+        "end_date": 1693454399,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 112,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 136,
+        "exchange_name": "白石麻衣のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1655100000,
+        "end_date": 1693454399,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 113,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 137,
+        "exchange_name": "高山一実のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1655100000,
+        "end_date": 1693454399,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 114,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 138,
+        "exchange_name": "中田花奈のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1655100000,
+        "end_date": 1693454399,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 115,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 139,
+        "exchange_name": "西野七瀬のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1655100000,
+        "end_date": 1693454399,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 116,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 140,
+        "exchange_name": "能條愛未のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1655100000,
+        "end_date": 1693454399,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 117,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 141,
+        "exchange_name": "星野みなみのツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1655100000,
+        "end_date": 1693454399,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 119,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 142,
+        "exchange_name": "松村沙友理のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1655100000,
+        "end_date": 1693454399,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 120,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 143,
+        "exchange_name": "若月佑美のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1655100000,
+        "end_date": 1693454399,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 121,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 144,
+        "exchange_name": "伊藤かりんのツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1655100000,
+        "end_date": 1693454399,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 201,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 145,
+        "exchange_name": "伊藤純奈のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1655100000,
+        "end_date": 1693454399,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 202,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 146,
+        "exchange_name": "北野日奈子のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1655100000,
+        "end_date": 1693454399,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 203,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 147,
+        "exchange_name": "相楽伊織のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1655100000,
+        "end_date": 1693454399,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 204,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 148,
+        "exchange_name": "佐々木琴子のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1655100000,
+        "end_date": 1693454399,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 205,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 149,
+        "exchange_name": "新内眞衣のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1655100000,
+        "end_date": 1693454399,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 206,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 150,
+        "exchange_name": "寺田蘭世のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1655100000,
+        "end_date": 1693454399,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 208,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 151,
+        "exchange_name": "堀未央奈のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1655100000,
+        "end_date": 1693454399,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 209,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 152,
+        "exchange_name": "渡辺みり愛のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1655100000,
+        "end_date": 1693454399,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 211,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 153,
+        "exchange_name": "大園桃子のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1655100000,
+        "end_date": 1693454399,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 304,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 154,
+        "exchange_name": "伊藤理々杏のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1693461600,
+        "end_date": 1731376799,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 301,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 155,
+        "exchange_name": "岩本蓮加のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1693461600,
+        "end_date": 1731376799,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 302,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 156,
+        "exchange_name": "梅澤美波のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1693461600,
+        "end_date": 1731376799,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 303,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 157,
+        "exchange_name": "久保史緒里のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1693461600,
+        "end_date": 1731376799,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 305,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 158,
+        "exchange_name": "阪口珠美のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1693461600,
+        "end_date": 1731376799,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 306,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 159,
+        "exchange_name": "佐藤楓のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1693461600,
+        "end_date": 1731376799,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 307,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 160,
+        "exchange_name": "中村麗乃のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1693461600,
+        "end_date": 1731376799,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 308,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 161,
+        "exchange_name": "向井葉月のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1693461600,
+        "end_date": 1731376799,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 309,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 162,
+        "exchange_name": "山下美月のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1693461600,
+        "end_date": 1731376799,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 310,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 163,
+        "exchange_name": "吉田綾乃クリスティーのツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1693461600,
+        "end_date": 1731376799,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 311,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 164,
+        "exchange_name": "与田祐希のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1693461600,
+        "end_date": 1731376799,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 312,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 165,
+        "exchange_name": "遠藤さくらのツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1693461600,
+        "end_date": 1731376799,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 401,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 166,
+        "exchange_name": "賀喜遥香のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1693461600,
+        "end_date": 1731376799,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 402,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 167,
+        "exchange_name": "掛橋沙耶香のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1693461600,
+        "end_date": 1731376799,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 403,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 168,
+        "exchange_name": "金川紗耶のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1693461600,
+        "end_date": 1731376799,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 404,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 169,
+        "exchange_name": "北川悠理のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1693461600,
+        "end_date": 1731376799,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 405,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 170,
+        "exchange_name": "黒見明香のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1693461600,
+        "end_date": 1731376799,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 412,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 171,
+        "exchange_name": "佐藤璃果のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1693461600,
+        "end_date": 1731376799,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 413,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 172,
+        "exchange_name": "柴田柚菜のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1693461600,
+        "end_date": 1731376799,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 406,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 173,
+        "exchange_name": "清宮レイのツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1693461600,
+        "end_date": 1731376799,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 407,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 174,
+        "exchange_name": "田村真佑のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1693461600,
+        "end_date": 1731376799,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 408,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 175,
+        "exchange_name": "筒井あやめのツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1693461600,
+        "end_date": 1731376799,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 409,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 176,
+        "exchange_name": "早川聖来のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1693461600,
+        "end_date": 1731376799,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 410,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 177,
+        "exchange_name": "林瑠奈のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1693461600,
+        "end_date": 1731376799,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 414,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 178,
+        "exchange_name": "松尾美佑のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1693461600,
+        "end_date": 1731376799,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 415,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 179,
+        "exchange_name": "矢久保美緒のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1693461600,
+        "end_date": 1731376799,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 411,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 180,
+        "exchange_name": "弓木奈於のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1693461600,
+        "end_date": 1731376799,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 416,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 181,
+        "exchange_name": "五百城茉央のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1693461600,
+        "end_date": 1731376799,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 501,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 182,
+        "exchange_name": "池田瑛紗のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1693461600,
+        "end_date": 1731376799,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 502,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 183,
+        "exchange_name": "一ノ瀬美空のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1693461600,
+        "end_date": 1731376799,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 503,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 184,
+        "exchange_name": "井上和のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1693461600,
+        "end_date": 1731376799,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 504,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 185,
+        "exchange_name": "岡本姫奈のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1693461600,
+        "end_date": 1731376799,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 505,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 186,
+        "exchange_name": "小川彩のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1693461600,
+        "end_date": 1731376799,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 506,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 187,
+        "exchange_name": "奥田いろはのツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1693461600,
+        "end_date": 1731376799,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 507,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 188,
+        "exchange_name": "川﨑桜のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1693461600,
+        "end_date": 1731376799,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 508,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 189,
+        "exchange_name": "菅原咲月のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1693461600,
+        "end_date": 1731376799,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 509,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 190,
+        "exchange_name": "冨里奈央のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1693461600,
+        "end_date": 1731376799,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 510,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 191,
+        "exchange_name": "中西アルノのツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1693461600,
+        "end_date": 1731376799,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 511,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 192,
+        "exchange_name": "秋元真夏のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1693461600,
+        "end_date": 1731376799,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 101,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 193,
+        "exchange_name": "生田絵梨花のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1693461600,
+        "end_date": 1731376799,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 102,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 194,
+        "exchange_name": "生駒里奈のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1693461600,
+        "end_date": 1731376799,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 103,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 195,
+        "exchange_name": "伊藤万理華のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1693461600,
+        "end_date": 1731376799,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 104,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 196,
+        "exchange_name": "井上小百合のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1693461600,
+        "end_date": 1731376799,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 105,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 197,
+        "exchange_name": "衛藤美彩のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1693461600,
+        "end_date": 1731376799,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 106,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 198,
+        "exchange_name": "川後陽菜のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1693461600,
+        "end_date": 1731376799,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 107,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 199,
+        "exchange_name": "川村真洋のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1693461600,
+        "end_date": 1731376799,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 108,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 200,
+        "exchange_name": "齋藤飛鳥のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1693461600,
+        "end_date": 1731376799,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 109,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 201,
+        "exchange_name": "斎藤ちはるのツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1693461600,
+        "end_date": 1731376799,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 110,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 202,
+        "exchange_name": "斉藤優里のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1693461600,
+        "end_date": 1731376799,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 111,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 203,
+        "exchange_name": "桜井玲香のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1693461600,
+        "end_date": 1731376799,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 112,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 204,
+        "exchange_name": "白石麻衣のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1693461600,
+        "end_date": 1731376799,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 113,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 205,
+        "exchange_name": "高山一実のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1693461600,
+        "end_date": 1731376799,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 114,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 206,
+        "exchange_name": "中田花奈のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1693461600,
+        "end_date": 1731376799,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 115,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 207,
+        "exchange_name": "西野七瀬のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1693461600,
+        "end_date": 1731376799,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 116,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 208,
+        "exchange_name": "能條愛未のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1693461600,
+        "end_date": 1731376799,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 117,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 209,
+        "exchange_name": "樋口日奈のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1693461600,
+        "end_date": 1731376799,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 118,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 210,
+        "exchange_name": "星野みなみのツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1693461600,
+        "end_date": 1731376799,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 119,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 211,
+        "exchange_name": "松村沙友理のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1693461600,
+        "end_date": 1731376799,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 120,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 212,
+        "exchange_name": "若月佑美のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1693461600,
+        "end_date": 1731376799,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 121,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 213,
+        "exchange_name": "和田まあやのツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1693461600,
+        "end_date": 1731376799,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 122,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 214,
+        "exchange_name": "伊藤かりんのツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1693461600,
+        "end_date": 1731376799,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 201,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 215,
+        "exchange_name": "伊藤純奈のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1693461600,
+        "end_date": 1731376799,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 202,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 216,
+        "exchange_name": "北野日奈子のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1693461600,
+        "end_date": 1731376799,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 203,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 217,
+        "exchange_name": "相楽伊織のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1693461600,
+        "end_date": 1731376799,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 204,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 218,
+        "exchange_name": "佐々木琴子のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1693461600,
+        "end_date": 1731376799,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 205,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 219,
+        "exchange_name": "新内眞衣のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1693461600,
+        "end_date": 1731376799,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 206,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 220,
+        "exchange_name": "鈴木絢音のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1693461600,
+        "end_date": 1731376799,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 207,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 221,
+        "exchange_name": "寺田蘭世のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1693461600,
+        "end_date": 1731376799,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 208,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 222,
+        "exchange_name": "堀未央奈のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1693461600,
+        "end_date": 1731376799,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 209,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 223,
+        "exchange_name": "山崎怜奈のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1693461600,
+        "end_date": 1731376799,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 210,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 224,
+        "exchange_name": "渡辺みり愛のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1693461600,
+        "end_date": 1731376799,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 211,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 225,
+        "exchange_name": "大園桃子のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1693461600,
+        "end_date": 1731376799,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 304,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 226,
+        "exchange_name": "伊藤理々杏のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1731391200,
+        "end_date": 1750046399,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 301,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 227,
+        "exchange_name": "岩本蓮加のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1731391200,
+        "end_date": 1750046399,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 302,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 228,
+        "exchange_name": "梅澤美波のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1731391200,
+        "end_date": 1750046399,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 303,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 229,
+        "exchange_name": "久保史緒里のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1731391200,
+        "end_date": 1750046399,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 305,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 230,
+        "exchange_name": "佐藤楓のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1731391200,
+        "end_date": 1750046399,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 307,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 231,
+        "exchange_name": "中村麗乃のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1731391200,
+        "end_date": 1750046399,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 308,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 232,
+        "exchange_name": "向井葉月のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1731391200,
+        "end_date": 1750046399,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 309,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 233,
+        "exchange_name": "吉田綾乃クリスティーのツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1731391200,
+        "end_date": 1750046399,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 311,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 234,
+        "exchange_name": "与田祐希のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1731391200,
+        "end_date": 1750046399,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 312,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 235,
+        "exchange_name": "遠藤さくらのツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1731391200,
+        "end_date": 1750046399,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 401,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 236,
+        "exchange_name": "賀喜遥香のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1731391200,
+        "end_date": 1750046399,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 402,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 237,
+        "exchange_name": "金川紗耶のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1731391200,
+        "end_date": 1750046399,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 404,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 238,
+        "exchange_name": "黒見明香のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1731391200,
+        "end_date": 1750046399,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 412,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 239,
+        "exchange_name": "佐藤璃果のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1731391200,
+        "end_date": 1750046399,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 413,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 240,
+        "exchange_name": "柴田柚菜のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1731391200,
+        "end_date": 1750046399,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 406,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 241,
+        "exchange_name": "田村真佑のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1731391200,
+        "end_date": 1750046399,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 408,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 242,
+        "exchange_name": "筒井あやめのツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1731391200,
+        "end_date": 1750046399,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 409,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 243,
+        "exchange_name": "林瑠奈のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1731391200,
+        "end_date": 1750046399,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 414,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 244,
+        "exchange_name": "松尾美佑のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1731391200,
+        "end_date": 1750046399,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 415,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 245,
+        "exchange_name": "矢久保美緒のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1731391200,
+        "end_date": 1750046399,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 411,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 246,
+        "exchange_name": "弓木奈於のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1731391200,
+        "end_date": 1750046399,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 416,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 247,
+        "exchange_name": "五百城茉央のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1731391200,
+        "end_date": 1750046399,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 501,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 248,
+        "exchange_name": "池田瑛紗のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1731391200,
+        "end_date": 1750046399,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 502,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 249,
+        "exchange_name": "一ノ瀬美空のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1731391200,
+        "end_date": 1750046399,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 503,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 250,
+        "exchange_name": "井上和のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1731391200,
+        "end_date": 1750046399,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 504,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 251,
+        "exchange_name": "岡本姫奈のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1731391200,
+        "end_date": 1750046399,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 505,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 252,
+        "exchange_name": "小川彩のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1731391200,
+        "end_date": 1750046399,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 506,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 253,
+        "exchange_name": "奥田いろはのツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1731391200,
+        "end_date": 1750046399,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 507,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 254,
+        "exchange_name": "川﨑桜のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1731391200,
+        "end_date": 1750046399,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 508,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 255,
+        "exchange_name": "菅原咲月のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1731391200,
+        "end_date": 1750046399,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 509,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 256,
+        "exchange_name": "冨里奈央のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1731391200,
+        "end_date": 1750046399,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 510,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 257,
+        "exchange_name": "中西アルノのツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1731391200,
+        "end_date": 1750046399,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 511,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 258,
+        "exchange_name": "秋元真夏のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1731391200,
+        "end_date": 1750046399,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 101,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 259,
+        "exchange_name": "生田絵梨花のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1731391200,
+        "end_date": 1750046399,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 102,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 260,
+        "exchange_name": "生駒里奈のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1731391200,
+        "end_date": 1750046399,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 103,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 261,
+        "exchange_name": "伊藤万理華のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1731391200,
+        "end_date": 1750046399,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 104,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 262,
+        "exchange_name": "井上小百合のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1731391200,
+        "end_date": 1750046399,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 105,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 263,
+        "exchange_name": "衛藤美彩のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1731391200,
+        "end_date": 1750046399,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 106,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 264,
+        "exchange_name": "川後陽菜のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1731391200,
+        "end_date": 1750046399,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 107,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 265,
+        "exchange_name": "川村真洋のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1731391200,
+        "end_date": 1750046399,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 108,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 266,
+        "exchange_name": "齋藤飛鳥のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1731391200,
+        "end_date": 1750046399,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 109,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 267,
+        "exchange_name": "斎藤ちはるのツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1731391200,
+        "end_date": 1750046399,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 110,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 268,
+        "exchange_name": "斉藤優里のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1731391200,
+        "end_date": 1750046399,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 111,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 269,
+        "exchange_name": "桜井玲香のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1731391200,
+        "end_date": 1750046399,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 112,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 270,
+        "exchange_name": "白石麻衣のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1731391200,
+        "end_date": 1750046399,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 113,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 271,
+        "exchange_name": "高山一実のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1731391200,
+        "end_date": 1750046399,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 114,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 272,
+        "exchange_name": "中田花奈のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1731391200,
+        "end_date": 1750046399,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 115,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 273,
+        "exchange_name": "西野七瀬のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1731391200,
+        "end_date": 1750046399,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 116,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 274,
+        "exchange_name": "能條愛未のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1731391200,
+        "end_date": 1750046399,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 117,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 275,
+        "exchange_name": "樋口日奈のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1731391200,
+        "end_date": 1750046399,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 118,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 276,
+        "exchange_name": "星野みなみのツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1731391200,
+        "end_date": 1750046399,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 119,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 277,
+        "exchange_name": "松村沙友理のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1731391200,
+        "end_date": 1750046399,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 120,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 278,
+        "exchange_name": "若月佑美のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1731391200,
+        "end_date": 1750046399,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 121,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 279,
+        "exchange_name": "和田まあやのツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1731391200,
+        "end_date": 1750046399,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 122,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 280,
+        "exchange_name": "伊藤かりんのツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1731391200,
+        "end_date": 1750046399,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 201,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 281,
+        "exchange_name": "伊藤純奈のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1731391200,
+        "end_date": 1750046399,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 202,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 282,
+        "exchange_name": "北野日奈子のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1731391200,
+        "end_date": 1750046399,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 203,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 283,
+        "exchange_name": "相楽伊織のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1731391200,
+        "end_date": 1750046399,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 204,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 284,
+        "exchange_name": "佐々木琴子のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1731391200,
+        "end_date": 1750046399,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 205,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 285,
+        "exchange_name": "新内眞衣のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1731391200,
+        "end_date": 1750046399,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 206,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 286,
+        "exchange_name": "鈴木絢音のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1731391200,
+        "end_date": 1750046399,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 207,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 287,
+        "exchange_name": "寺田蘭世のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1731391200,
+        "end_date": 1750046399,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 208,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 288,
+        "exchange_name": "堀未央奈のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1731391200,
+        "end_date": 1750046399,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 209,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 289,
+        "exchange_name": "山崎怜奈のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1731391200,
+        "end_date": 1750046399,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 210,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 290,
+        "exchange_name": "渡辺みり愛のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1731391200,
+        "end_date": 1750046399,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 211,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 291,
+        "exchange_name": "大園桃子のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1731391200,
+        "end_date": 1750046399,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 304,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 292,
+        "exchange_name": "阪口珠美のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1731391200,
+        "end_date": 1750046399,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 306,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 293,
+        "exchange_name": "山下美月のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1731391200,
+        "end_date": 1750046399,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 310,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 294,
+        "exchange_name": "掛橋沙耶香のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1731391200,
+        "end_date": 1750046399,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 403,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 295,
+        "exchange_name": "北川悠理のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1731391200,
+        "end_date": 1750046399,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 405,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 296,
+        "exchange_name": "清宮レイのツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1731391200,
+        "end_date": 1750046399,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 407,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 297,
+        "exchange_name": "早川聖来のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1731391200,
+        "end_date": 1750046399,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 410,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 298,
+        "exchange_name": "伊藤理々杏のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1750053600,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 301,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 299,
+        "exchange_name": "岩本蓮加のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1750053600,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 302,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 300,
+        "exchange_name": "梅澤美波のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1750053600,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 303,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 301,
+        "exchange_name": "久保史緒里のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1750053600,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 305,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 302,
+        "exchange_name": "吉田綾乃クリスティーのツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1750053600,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 311,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 303,
+        "exchange_name": "遠藤さくらのツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1750053600,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 401,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 304,
+        "exchange_name": "賀喜遥香のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1750053600,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 402,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 305,
+        "exchange_name": "金川紗耶のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1750053600,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 404,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 306,
+        "exchange_name": "黒見明香のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1750053600,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 412,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 307,
+        "exchange_name": "佐藤璃果のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1750053600,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 413,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 308,
+        "exchange_name": "柴田柚菜のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1750053600,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 406,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 309,
+        "exchange_name": "田村真佑のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1750053600,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 408,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 310,
+        "exchange_name": "筒井あやめのツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1750053600,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 409,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 311,
+        "exchange_name": "林瑠奈のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1750053600,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 414,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 312,
+        "exchange_name": "松尾美佑のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1750053600,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 415,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 313,
+        "exchange_name": "矢久保美緒のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1750053600,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 411,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 314,
+        "exchange_name": "弓木奈於のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1750053600,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 416,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 315,
+        "exchange_name": "五百城茉央のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1750053600,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 501,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 316,
+        "exchange_name": "池田瑛紗のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1750053600,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 502,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 317,
+        "exchange_name": "一ノ瀬美空のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1750053600,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 503,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 318,
+        "exchange_name": "井上和のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1750053600,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 504,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 319,
+        "exchange_name": "岡本姫奈のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1750053600,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 505,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 320,
+        "exchange_name": "小川彩のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1750053600,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 506,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 321,
+        "exchange_name": "奥田いろはのツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1750053600,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 507,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 322,
+        "exchange_name": "川﨑桜のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1750053600,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 508,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 323,
+        "exchange_name": "菅原咲月のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1750053600,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 509,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 324,
+        "exchange_name": "冨里奈央のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1750053600,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 510,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 325,
+        "exchange_name": "中西アルノのツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1750053600,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 511,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 326,
+        "exchange_name": "愛宕心響のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1750053600,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 601,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 327,
+        "exchange_name": "大越ひなののツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1750053600,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 602,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 328,
+        "exchange_name": "小津玲奈のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1750053600,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 603,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 329,
+        "exchange_name": "海邉朱莉のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1750053600,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 604,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 330,
+        "exchange_name": "川端晃菜のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1750053600,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 605,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 331,
+        "exchange_name": "鈴木佑捺のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1750053600,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 606,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 332,
+        "exchange_name": "瀬戸口心月のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1750053600,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 607,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 333,
+        "exchange_name": "長嶋凛桜のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1750053600,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 608,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 334,
+        "exchange_name": "増田三莉音のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1750053600,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 609,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 335,
+        "exchange_name": "森平麗心のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1750053600,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 610,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 336,
+        "exchange_name": "矢田萌華のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1750053600,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 611,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 337,
+        "exchange_name": "秋元真夏のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1750053600,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 101,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 338,
+        "exchange_name": "生田絵梨花のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1750053600,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 102,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 339,
+        "exchange_name": "生駒里奈のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1750053600,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 103,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 340,
+        "exchange_name": "伊藤万理華のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1750053600,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 104,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 341,
+        "exchange_name": "井上小百合のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1750053600,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 105,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 342,
+        "exchange_name": "衛藤美彩のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1750053600,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 106,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 343,
+        "exchange_name": "川後陽菜のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1750053600,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 107,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 344,
+        "exchange_name": "川村真洋のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1750053600,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 108,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 345,
+        "exchange_name": "齋藤飛鳥のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1750053600,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 109,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 346,
+        "exchange_name": "斎藤ちはるのツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1750053600,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 110,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 347,
+        "exchange_name": "斉藤優里のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1750053600,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 111,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 348,
+        "exchange_name": "桜井玲香のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1750053600,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 112,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 349,
+        "exchange_name": "白石麻衣のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1750053600,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 113,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 350,
+        "exchange_name": "高山一実のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1750053600,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 114,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 351,
+        "exchange_name": "中田花奈のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1750053600,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 115,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 352,
+        "exchange_name": "西野七瀬のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1750053600,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 116,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 353,
+        "exchange_name": "能條愛未のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1750053600,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 117,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 354,
+        "exchange_name": "樋口日奈のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1750053600,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 118,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 355,
+        "exchange_name": "星野みなみのツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1750053600,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 119,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 356,
+        "exchange_name": "松村沙友理のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1750053600,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 120,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 357,
+        "exchange_name": "若月佑美のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1750053600,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 121,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 358,
+        "exchange_name": "和田まあやのツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1750053600,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 122,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 359,
+        "exchange_name": "伊藤かりんのツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1750053600,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 201,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 360,
+        "exchange_name": "伊藤純奈のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1750053600,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 202,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 361,
+        "exchange_name": "北野日奈子のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1750053600,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 203,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 362,
+        "exchange_name": "相楽伊織のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1750053600,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 204,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 363,
+        "exchange_name": "佐々木琴子のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1750053600,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 205,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 364,
+        "exchange_name": "新内眞衣のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1750053600,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 206,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 365,
+        "exchange_name": "鈴木絢音のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1750053600,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 207,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 366,
+        "exchange_name": "寺田蘭世のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1750053600,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 208,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 367,
+        "exchange_name": "堀未央奈のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1750053600,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 209,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 368,
+        "exchange_name": "山崎怜奈のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1750053600,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 210,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 369,
+        "exchange_name": "渡辺みり愛のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1750053600,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 211,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 370,
+        "exchange_name": "大園桃子のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1750053600,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 304,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 371,
+        "exchange_name": "阪口珠美のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1750053600,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 306,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 372,
+        "exchange_name": "佐藤楓のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1750053600,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 307,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 373,
+        "exchange_name": "中村麗乃のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1750053600,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 308,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 374,
+        "exchange_name": "向井葉月のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1750053600,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 309,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 375,
+        "exchange_name": "山下美月のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1750053600,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 310,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 376,
+        "exchange_name": "与田祐希のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1750053600,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 312,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 377,
+        "exchange_name": "掛橋沙耶香のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1750053600,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 403,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 378,
+        "exchange_name": "北川悠理のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1750053600,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 405,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 379,
+        "exchange_name": "清宮レイのツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1750053600,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 407,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "exchange_id": 380,
+        "exchange_name": "早川聖来のツバサ×1",
+        "category": 2,
+        "nz_point": 15,
+        "exchange_purchase_type": 1,
+        "possible_times": 70,
+        "start_date": 1750053600,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 410,
+                "data_num": 1
+            }
+        ]
+    }
+]

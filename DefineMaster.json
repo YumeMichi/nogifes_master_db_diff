@@ -1,0 +1,526 @@
+[
+    {
+        "define_id": 1,
+        "define_value": "240"
+    },
+    {
+        "define_id": 2,
+        "define_value": "9999999"
+    },
+    {
+        "define_id": 3,
+        "define_value": "99999"
+    },
+    {
+        "define_id": 4,
+        "define_value": "999999"
+    },
+    {
+        "define_id": 5,
+        "define_value": "5"
+    },
+    {
+        "define_id": 6,
+        "define_value": "5"
+    },
+    {
+        "define_id": 7,
+        "define_value": "5"
+    },
+    {
+        "define_id": 8,
+        "define_value": "5"
+    },
+    {
+        "define_id": 9,
+        "define_value": "999"
+    },
+    {
+        "define_id": 10,
+        "define_value": "80"
+    },
+    {
+        "define_id": 11,
+        "define_value": "2300"
+    },
+    {
+        "define_id": 12,
+        "define_value": "5"
+    },
+    {
+        "define_id": 13,
+        "define_value": "2000"
+    },
+    {
+        "define_id": 14,
+        "define_value": "2000"
+    },
+    {
+        "define_id": 15,
+        "define_value": "100000"
+    },
+    {
+        "define_id": 16,
+        "define_value": "1000"
+    },
+    {
+        "define_id": 17,
+        "define_value": "15000"
+    },
+    {
+        "define_id": 18,
+        "define_value": "500"
+    },
+    {
+        "define_id": 19,
+        "define_value": "20000"
+    },
+    {
+        "define_id": 20,
+        "define_value": "20"
+    },
+    {
+        "define_id": 21,
+        "define_value": "30"
+    },
+    {
+        "define_id": 22,
+        "define_value": "100"
+    },
+    {
+        "define_id": 23,
+        "define_value": "140"
+    },
+    {
+        "define_id": 24,
+        "define_value": "50"
+    },
+    {
+        "define_id": 25,
+        "define_value": "200"
+    },
+    {
+        "define_id": 26,
+        "define_value": "500"
+    },
+    {
+        "define_id": 27,
+        "define_value": "750"
+    },
+    {
+        "define_id": 28,
+        "define_value": "1000"
+    },
+    {
+        "define_id": 29,
+        "define_value": "1500"
+    },
+    {
+        "define_id": 30,
+        "define_value": "0"
+    },
+    {
+        "define_id": 31,
+        "define_value": "500"
+    },
+    {
+        "define_id": 32,
+        "define_value": "1000"
+    },
+    {
+        "define_id": 33,
+        "define_value": "1500"
+    },
+    {
+        "define_id": 34,
+        "define_value": "2000"
+    },
+    {
+        "define_id": 35,
+        "define_value": "3000"
+    },
+    {
+        "define_id": 36,
+        "define_value": "3000"
+    },
+    {
+        "define_id": 37,
+        "define_value": "720"
+    },
+    {
+        "define_id": 38,
+        "define_value": "1"
+    },
+    {
+        "define_id": 39,
+        "define_value": "10080"
+    },
+    {
+        "define_id": 40,
+        "define_value": "0"
+    },
+    {
+        "define_id": 41,
+        "define_value": "500"
+    },
+    {
+        "define_id": 42,
+        "define_value": "1000"
+    },
+    {
+        "define_id": 43,
+        "define_value": "1500"
+    },
+    {
+        "define_id": 44,
+        "define_value": "2000"
+    },
+    {
+        "define_id": 45,
+        "define_value": "2500"
+    },
+    {
+        "define_id": 46,
+        "define_value": "2500"
+    },
+    {
+        "define_id": 47,
+        "define_value": "5000"
+    },
+    {
+        "define_id": 48,
+        "define_value": "5000"
+    },
+    {
+        "define_id": 49,
+        "define_value": "4"
+    },
+    {
+        "define_id": 50,
+        "define_value": "13000"
+    },
+    {
+        "define_id": 51,
+        "define_value": "7000"
+    },
+    {
+        "define_id": 52,
+        "define_value": "1700"
+    },
+    {
+        "define_id": 53,
+        "define_value": "-2500"
+    },
+    {
+        "define_id": 54,
+        "define_value": "30100"
+    },
+    {
+        "define_id": 55,
+        "define_value": "22500"
+    },
+    {
+        "define_id": 56,
+        "define_value": "15100"
+    },
+    {
+        "define_id": 57,
+        "define_value": "9100"
+    },
+    {
+        "define_id": 58,
+        "define_value": "3800"
+    },
+    {
+        "define_id": 59,
+        "define_value": "0"
+    },
+    {
+        "define_id": 60,
+        "define_value": "20000"
+    },
+    {
+        "define_id": 61,
+        "define_value": "30000"
+    },
+    {
+        "define_id": 62,
+        "define_value": "40000"
+    },
+    {
+        "define_id": 63,
+        "define_value": "50000"
+    },
+    {
+        "define_id": 64,
+        "define_value": "60000"
+    },
+    {
+        "define_id": 65,
+        "define_value": "15"
+    },
+    {
+        "define_id": 66,
+        "define_value": "15.05"
+    },
+    {
+        "define_id": 67,
+        "define_value": "15.1"
+    },
+    {
+        "define_id": 68,
+        "define_value": "15.15"
+    },
+    {
+        "define_id": 69,
+        "define_value": "15.15"
+    },
+    {
+        "define_id": 70,
+        "define_value": "20"
+    },
+    {
+        "define_id": 71,
+        "define_value": "1"
+    },
+    {
+        "define_id": 72,
+        "define_value": "5"
+    },
+    {
+        "define_id": 73,
+        "define_value": "2000"
+    },
+    {
+        "define_id": 74,
+        "define_value": "4000"
+    },
+    {
+        "define_id": 75,
+        "define_value": "4000"
+    },
+    {
+        "define_id": 76,
+        "define_value": "4000"
+    },
+    {
+        "define_id": 77,
+        "define_value": "500"
+    },
+    {
+        "define_id": 78,
+        "define_value": "4646"
+    },
+    {
+        "define_id": 79,
+        "define_value": "99999999"
+    },
+    {
+        "define_id": 80,
+        "define_value": "9999"
+    },
+    {
+        "define_id": 81,
+        "define_value": "318"
+    },
+    {
+        "define_id": 82,
+        "define_value": "100"
+    },
+    {
+        "define_id": 83,
+        "define_value": "125"
+    },
+    {
+        "define_id": 84,
+        "define_value": "150"
+    },
+    {
+        "define_id": 85,
+        "define_value": "175"
+    },
+    {
+        "define_id": 86,
+        "define_value": "175"
+    },
+    {
+        "define_id": 87,
+        "define_value": "10000"
+    },
+    {
+        "define_id": 88,
+        "define_value": "30000"
+    },
+    {
+        "define_id": 89,
+        "define_value": "50000"
+    },
+    {
+        "define_id": 90,
+        "define_value": "10000"
+    },
+    {
+        "define_id": 91,
+        "define_value": "30000"
+    },
+    {
+        "define_id": 92,
+        "define_value": "50000"
+    },
+    {
+        "define_id": 93,
+        "define_value": "3"
+    },
+    {
+        "define_id": 94,
+        "define_value": "12"
+    },
+    {
+        "define_id": 95,
+        "define_value": "1200"
+    },
+    {
+        "define_id": 96,
+        "define_value": "300"
+    },
+    {
+        "define_id": 97,
+        "define_value": "1500"
+    },
+    {
+        "define_id": 98,
+        "define_value": "500"
+    },
+    {
+        "define_id": 99,
+        "define_value": "1800"
+    },
+    {
+        "define_id": 100,
+        "define_value": "700"
+    },
+    {
+        "define_id": 101,
+        "define_value": "2000"
+    },
+    {
+        "define_id": 102,
+        "define_value": "1000"
+    },
+    {
+        "define_id": 103,
+        "define_value": "0"
+    },
+    {
+        "define_id": 104,
+        "define_value": "0"
+    },
+    {
+        "define_id": 105,
+        "define_value": "0"
+    },
+    {
+        "define_id": 106,
+        "define_value": "0"
+    },
+    {
+        "define_id": 107,
+        "define_value": "0"
+    },
+    {
+        "define_id": 108,
+        "define_value": "1000"
+    },
+    {
+        "define_id": 109,
+        "define_value": "2000"
+    },
+    {
+        "define_id": 110,
+        "define_value": "1000"
+    },
+    {
+        "define_id": 111,
+        "define_value": "2000"
+    },
+    {
+        "define_id": 112,
+        "define_value": "10"
+    },
+    {
+        "define_id": 113,
+        "define_value": "10"
+    },
+    {
+        "define_id": 114,
+        "define_value": "30"
+    },
+    {
+        "define_id": 115,
+        "define_value": "2000"
+    },
+    {
+        "define_id": 116,
+        "define_value": "500"
+    },
+    {
+        "define_id": 117,
+        "define_value": "1000"
+    },
+    {
+        "define_id": 118,
+        "define_value": "1500"
+    },
+    {
+        "define_id": 119,
+        "define_value": "5000"
+    },
+    {
+        "define_id": 120,
+        "define_value": "1500"
+    },
+    {
+        "define_id": 121,
+        "define_value": "500"
+    },
+    {
+        "define_id": 122,
+        "define_value": "10479"
+    },
+    {
+        "define_id": 123,
+        "define_value": "10107"
+    },
+    {
+        "define_id": 124,
+        "define_value": "10053"
+    },
+    {
+        "define_id": 125,
+        "define_value": "10000"
+    },
+    {
+        "define_id": 126,
+        "define_value": "9946"
+    },
+    {
+        "define_id": 127,
+        "define_value": "9892"
+    },
+    {
+        "define_id": 128,
+        "define_value": "150"
+    },
+    {
+        "define_id": 129,
+        "define_value": "200"
+    },
+    {
+        "define_id": 130,
+        "define_value": "1000"
+    },
+    {
+        "define_id": 131,
+        "define_value": "1500"
+    }
+]

@@ -1,0 +1,6410 @@
+[
+    {
+        "title_id": 1,
+        "category": 3,
+        "sub_category": 0,
+        "disp_order": 0,
+        "term_text": "チュートリアルをクリアしよう",
+        "title_replace": 0
+    },
+    {
+        "title_id": 2,
+        "category": 3,
+        "sub_category": 0,
+        "disp_order": 10100,
+        "term_text": "プレイヤーRankを10にしよう",
+        "title_replace": 0
+    },
+    {
+        "title_id": 3,
+        "category": 3,
+        "sub_category": 0,
+        "disp_order": 10200,
+        "term_text": "プレイヤーRankを30にしよう",
+        "title_replace": 0
+    },
+    {
+        "title_id": 4,
+        "category": 3,
+        "sub_category": 0,
+        "disp_order": 10300,
+        "term_text": "プレイヤーRankを50にしよう",
+        "title_replace": 0
+    },
+    {
+        "title_id": 5,
+        "category": 3,
+        "sub_category": 0,
+        "disp_order": 10400,
+        "term_text": "プレイヤーRankを100にしよう",
+        "title_replace": 0
+    },
+    {
+        "title_id": 6,
+        "category": 3,
+        "sub_category": 0,
+        "disp_order": 10500,
+        "term_text": "プレイヤーRankを150にしよう",
+        "title_replace": 0
+    },
+    {
+        "title_id": 7,
+        "category": 3,
+        "sub_category": 0,
+        "disp_order": 10600,
+        "term_text": "プレイヤーRankを300にしよう",
+        "title_replace": 0
+    },
+    {
+        "title_id": 8,
+        "category": 3,
+        "sub_category": 0,
+        "disp_order": 20100,
+        "term_text": "LIVEを100回クリアしよう",
+        "title_replace": 0
+    },
+    {
+        "title_id": 9,
+        "category": 3,
+        "sub_category": 0,
+        "disp_order": 20200,
+        "term_text": "LIVEを300回クリアしよう",
+        "title_replace": 0
+    },
+    {
+        "title_id": 10,
+        "category": 3,
+        "sub_category": 0,
+        "disp_order": 20300,
+        "term_text": "LIVEを500回クリアしよう",
+        "title_replace": 0
+    },
+    {
+        "title_id": 11,
+        "category": 3,
+        "sub_category": 0,
+        "disp_order": 20400,
+        "term_text": "LIVEを1000回クリアしよう",
+        "title_replace": 0
+    },
+    {
+        "title_id": 12,
+        "category": 3,
+        "sub_category": 0,
+        "disp_order": 20500,
+        "term_text": "LIVEを2000回クリアしよう",
+        "title_replace": 0
+    },
+    {
+        "title_id": 13,
+        "category": 3,
+        "sub_category": 0,
+        "disp_order": 20600,
+        "term_text": "LIVEを5000回クリアしよう",
+        "title_replace": 0
+    },
+    {
+        "title_id": 14,
+        "category": 3,
+        "sub_category": 0,
+        "disp_order": 20700,
+        "term_text": "LIVEを10000回クリアしよう",
+        "title_replace": 0
+    },
+    {
+        "title_id": 15,
+        "category": 3,
+        "sub_category": 0,
+        "disp_order": 30100,
+        "term_text": "フルコンボを100回成功させよう",
+        "title_replace": 0
+    },
+    {
+        "title_id": 16,
+        "category": 3,
+        "sub_category": 0,
+        "disp_order": 30200,
+        "term_text": "フルコンボを500回成功させよう",
+        "title_replace": 0
+    },
+    {
+        "title_id": 17,
+        "category": 3,
+        "sub_category": 0,
+        "disp_order": 30300,
+        "term_text": "フルコンボを1000回成功させよう",
+        "title_replace": 0
+    },
+    {
+        "title_id": 18,
+        "category": 3,
+        "sub_category": 0,
+        "disp_order": 30400,
+        "term_text": "フルコンボを2000回成功させよう",
+        "title_replace": 0
+    },
+    {
+        "title_id": 19,
+        "category": 3,
+        "sub_category": 0,
+        "disp_order": 30500,
+        "term_text": "フルコンボを5000回成功させよう",
+        "title_replace": 0
+    },
+    {
+        "title_id": 20,
+        "category": 3,
+        "sub_category": 0,
+        "disp_order": 40100,
+        "term_text": "太陽属性の楽曲でLIVEを500回クリアしよう",
+        "title_replace": 0
+    },
+    {
+        "title_id": 21,
+        "category": 3,
+        "sub_category": 0,
+        "disp_order": 40200,
+        "term_text": "太陽属性の楽曲でLIVEを2000回クリアしよう",
+        "title_replace": 0
+    },
+    {
+        "title_id": 22,
+        "category": 3,
+        "sub_category": 0,
+        "disp_order": 40300,
+        "term_text": "太陽属性の楽曲でLIVEを5000回クリアしよう",
+        "title_replace": 0
+    },
+    {
+        "title_id": 23,
+        "category": 3,
+        "sub_category": 0,
+        "disp_order": 40400,
+        "term_text": "星属性の楽曲でLIVEを500回クリアしよう",
+        "title_replace": 0
+    },
+    {
+        "title_id": 24,
+        "category": 3,
+        "sub_category": 0,
+        "disp_order": 40500,
+        "term_text": "星属性の楽曲でLIVEを2000回クリアしよう",
+        "title_replace": 0
+    },
+    {
+        "title_id": 25,
+        "category": 3,
+        "sub_category": 0,
+        "disp_order": 40600,
+        "term_text": "星属性の楽曲でLIVEを5000回クリアしよう",
+        "title_replace": 0
+    },
+    {
+        "title_id": 26,
+        "category": 3,
+        "sub_category": 0,
+        "disp_order": 40700,
+        "term_text": "月属性の楽曲でLIVEを500回クリアしよう",
+        "title_replace": 0
+    },
+    {
+        "title_id": 27,
+        "category": 3,
+        "sub_category": 0,
+        "disp_order": 40800,
+        "term_text": "月属性の楽曲でLIVEを2000回クリアしよう",
+        "title_replace": 0
+    },
+    {
+        "title_id": 28,
+        "category": 3,
+        "sub_category": 0,
+        "disp_order": 40900,
+        "term_text": "月属性の楽曲でLIVEを5000回クリアしよう",
+        "title_replace": 0
+    },
+    {
+        "title_id": 29,
+        "category": 3,
+        "sub_category": 0,
+        "disp_order": 50100,
+        "term_text": "アルバムにカードを100枚登録しよう",
+        "title_replace": 0
+    },
+    {
+        "title_id": 30,
+        "category": 3,
+        "sub_category": 0,
+        "disp_order": 50200,
+        "term_text": "アルバムにカードを500枚登録しよう",
+        "title_replace": 0
+    },
+    {
+        "title_id": 31,
+        "category": 3,
+        "sub_category": 0,
+        "disp_order": 50300,
+        "term_text": "アルバムにカードを1000枚登録しよう",
+        "title_replace": 0
+    },
+    {
+        "title_id": 32,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10016000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 33,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10017000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 34,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10018000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 35,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10019000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 36,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10020000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 37,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10001000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 38,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10002000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 39,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10003000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 40,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10004000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 41,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10005000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 42,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10006000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 43,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10007000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 44,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10008000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 45,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10009000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 46,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10010000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 47,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10011000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 48,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10012000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 49,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10013000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 50,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10014000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 51,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10015000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 52,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10021000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 53,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10022000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 54,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10023000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 55,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10024000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 56,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10025000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 57,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10026000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 58,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10027000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 59,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10028000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 60,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10029000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 61,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10030000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 62,
+        "category": 3,
+        "sub_category": 0,
+        "disp_order": 60100,
+        "term_text": "合計LPRを1500にしよう",
+        "title_replace": 0
+    },
+    {
+        "title_id": 63,
+        "category": 3,
+        "sub_category": 0,
+        "disp_order": 60200,
+        "term_text": "合計LPRを2500にしよう",
+        "title_replace": 0
+    },
+    {
+        "title_id": 64,
+        "category": 3,
+        "sub_category": 0,
+        "disp_order": 60300,
+        "term_text": "合計LPRを4500にしよう",
+        "title_replace": 0
+    },
+    {
+        "title_id": 65,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10031000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 66,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10032000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 67,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10033000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 68,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10034000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 69,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10035000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 70,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10036000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 71,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10037000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 72,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10038000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 73,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10039000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 74,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10040000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 75,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10041000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 76,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10042000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 77,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10043000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 78,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10044000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 79,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10045000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 80,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10046000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 81,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10047000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 82,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10048000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 83,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10049000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 84,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10050000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 85,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10051000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 86,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10052000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 87,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10053000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 88,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10054000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 89,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10055000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 90,
+        "category": 3,
+        "sub_category": 0,
+        "disp_order": 70100,
+        "term_text": "ハイスコアランキングでトロフィーを1個獲得しよう",
+        "title_replace": 0
+    },
+    {
+        "title_id": 91,
+        "category": 3,
+        "sub_category": 0,
+        "disp_order": 70200,
+        "term_text": "ハイスコアランキングでトロフィーを3個獲得しよう",
+        "title_replace": 0
+    },
+    {
+        "title_id": 92,
+        "category": 3,
+        "sub_category": 0,
+        "disp_order": 70300,
+        "term_text": "ハイスコアランキングでトロフィーを5個獲得しよう",
+        "title_replace": 0
+    },
+    {
+        "title_id": 93,
+        "category": 3,
+        "sub_category": 0,
+        "disp_order": 70400,
+        "term_text": "ハイスコアランキングでトロフィーを10個獲得しよう",
+        "title_replace": 0
+    },
+    {
+        "title_id": 94,
+        "category": 3,
+        "sub_category": 0,
+        "disp_order": 70500,
+        "term_text": "ハイスコアランキングでトロフィーを15個獲得しよう",
+        "title_replace": 0
+    },
+    {
+        "title_id": 95,
+        "category": 3,
+        "sub_category": 0,
+        "disp_order": 70600,
+        "term_text": "ハイスコアランキングでトロフィー（金）を3個獲得しよう",
+        "title_replace": 0
+    },
+    {
+        "title_id": 96,
+        "category": 3,
+        "sub_category": 0,
+        "disp_order": 70700,
+        "term_text": "ハイスコアランキングでトロフィー（金）を6個獲得しよう",
+        "title_replace": 0
+    },
+    {
+        "title_id": 97,
+        "category": 3,
+        "sub_category": 0,
+        "disp_order": 70800,
+        "term_text": "ハイスコアランキングでトロフィー（金）を12個獲得しよう",
+        "title_replace": 0
+    },
+    {
+        "title_id": 98,
+        "category": 3,
+        "sub_category": 0,
+        "disp_order": 70900,
+        "term_text": "ハイスコアランキングでトロフィー（金）を20個獲得しよう",
+        "title_replace": 0
+    },
+    {
+        "title_id": 99,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10056000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 100,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10057000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 101,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10058000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 102,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10059000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 103,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10060000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 104,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10061000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 105,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10062000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 106,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10063000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 107,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10064000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 108,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10065000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 109,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10066000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 110,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10067000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 111,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10068000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 112,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10069000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 113,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10070000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 114,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10071000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 115,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10072000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 116,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10073000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 117,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10074000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 118,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10075000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 119,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10076000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 120,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10077000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 121,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10078000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 122,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10079000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 123,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10080000,
+        "term_text": "イベントチャレンジを全てクリア",
+        "title_replace": 0
+    },
+    {
+        "title_id": 124,
+        "category": 3,
+        "sub_category": 0,
+        "disp_order": 10700,
+        "term_text": "プレイヤーRankを500にしよう",
+        "title_replace": 0
+    },
+    {
+        "title_id": 125,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10081000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 126,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10082000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 127,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10083000,
+        "term_text": "イベントチャレンジを全てクリア",
+        "title_replace": 0
+    },
+    {
+        "title_id": 128,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10084000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 129,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10085000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 130,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10086000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 131,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10087000,
+        "term_text": "イベントチャレンジを全てクリア",
+        "title_replace": 0
+    },
+    {
+        "title_id": 132,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10088000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 133,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10089000,
+        "term_text": "イベントチャレンジを全てクリア",
+        "title_replace": 0
+    },
+    {
+        "title_id": 134,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10090000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 135,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10091000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 136,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10092000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 137,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10093000,
+        "term_text": "イベントチャレンジを全てクリア",
+        "title_replace": 0
+    },
+    {
+        "title_id": 138,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10094000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 139,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10095000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 140,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10096000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 141,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10097000,
+        "term_text": "イベントチャレンジを全てクリア",
+        "title_replace": 0
+    },
+    {
+        "title_id": 142,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10098000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 143,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10099000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 144,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1001,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 145,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1002,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 146,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1003,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 147,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1004,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 148,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1005,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 149,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1006,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 150,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1007,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 151,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1008,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 152,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1009,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 153,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1010,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 154,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1011,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 155,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1012,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 156,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1013,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 157,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1014,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 158,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1015,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 159,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1016,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 160,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1017,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 161,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1018,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 162,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1019,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 163,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1020,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 164,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1021,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 165,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1022,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 166,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1023,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 167,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1024,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 168,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1025,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 169,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1026,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 170,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1027,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 171,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1028,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 172,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1029,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 173,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1030,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 174,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1031,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 175,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1032,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 176,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1033,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 177,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1034,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 178,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1035,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 179,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1036,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 180,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1037,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 181,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1038,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 182,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1039,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 183,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1040,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 184,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1041,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 185,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1042,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 186,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1043,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 187,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1044,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 188,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1045,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 189,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1046,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 190,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1047,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 191,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1048,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 192,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1049,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 193,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1050,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 194,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1051,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 195,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1052,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 196,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1053,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 197,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1054,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 198,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1055,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 199,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1056,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 200,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1057,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 201,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1058,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 202,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1059,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 203,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1060,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 204,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1061,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 205,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1062,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 206,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1063,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 207,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1064,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 208,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1065,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 209,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1066,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 210,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1067,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 211,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1068,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 212,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1069,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 213,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1070,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 214,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1071,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 215,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1072,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 216,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1073,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 217,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1074,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 218,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1075,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 219,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1076,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 220,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1077,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 221,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1078,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 222,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1079,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 223,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1080,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 224,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1081,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 225,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1082,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 226,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1083,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 227,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1084,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 228,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1085,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 229,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1086,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 230,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1087,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 231,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1088,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 232,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1089,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 233,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1090,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 234,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1091,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 235,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1092,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 236,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1093,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 237,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1094,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 238,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1095,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 239,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1096,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 240,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1097,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 241,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1098,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 242,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1099,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 243,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1100,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 244,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1101,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 245,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1102,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 246,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1103,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 247,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1104,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 248,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1105,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 249,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1106,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 250,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1107,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 251,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1108,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 252,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1109,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 253,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1110,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 254,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1111,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 255,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1112,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 256,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1113,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 257,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1114,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 258,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1115,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 259,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1116,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 260,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1117,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 261,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1118,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 262,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1119,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 263,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1120,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 264,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1121,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 265,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1122,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 266,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1123,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 267,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1124,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 268,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1125,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 269,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1126,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 270,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1127,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 271,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1128,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 272,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1129,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 273,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1130,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 274,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1131,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 275,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1132,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 276,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1133,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 277,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1134,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 278,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1135,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 279,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1136,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 280,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1137,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 281,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1138,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 282,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1139,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 283,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1140,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 284,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1141,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 285,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1142,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 286,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1143,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 287,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1144,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 288,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1145,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 289,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1146,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 290,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1147,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 291,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1148,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 292,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1149,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 293,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1150,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 294,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1151,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 295,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1152,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 296,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1153,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 297,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1154,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 298,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1155,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 299,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1156,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 300,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1157,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 301,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1158,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 302,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1159,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 303,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1160,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 304,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1161,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 305,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1162,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 306,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1163,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 307,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1164,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 308,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1165,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 309,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1166,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 310,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1167,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 311,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1168,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 312,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1169,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 313,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1170,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 314,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1171,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 315,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1172,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 316,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1173,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 317,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1174,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 318,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1175,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 319,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1176,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 320,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1177,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 321,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1178,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 322,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1179,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 323,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1180,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 324,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1181,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 325,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1182,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 326,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1183,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 327,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1184,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 328,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1185,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 329,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1186,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 330,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1187,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 331,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1188,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 332,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1189,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 333,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1190,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 334,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1191,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 335,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1192,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 336,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1193,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 337,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1194,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 338,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1195,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 339,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1196,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 340,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1197,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 341,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1198,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 342,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1199,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 343,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1200,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 344,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1201,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 345,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1202,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 346,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1203,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 347,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1204,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 348,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1205,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 349,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1206,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 350,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1207,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 351,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1208,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 352,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1209,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 353,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1210,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 354,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1211,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 355,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1212,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 356,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1213,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 357,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1214,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 358,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1215,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 359,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1216,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 360,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1217,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 361,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1218,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 362,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1219,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 363,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1220,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 364,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1221,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 365,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1222,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 366,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1223,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 367,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1224,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 368,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10100000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 369,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10101000,
+        "term_text": "イベントチャレンジを全てクリア",
+        "title_replace": 0
+    },
+    {
+        "title_id": 370,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10102000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 371,
+        "category": 3,
+        "sub_category": 0,
+        "disp_order": 80010,
+        "term_text": "ツアーで秋元真夏の推しポイントを500集めよう",
+        "title_replace": 0
+    },
+    {
+        "title_id": 372,
+        "category": 3,
+        "sub_category": 0,
+        "disp_order": 80020,
+        "term_text": "ツアーで生田絵梨花の推しポイントを500集めよう",
+        "title_replace": 0
+    },
+    {
+        "title_id": 373,
+        "category": 3,
+        "sub_category": 0,
+        "disp_order": 80030,
+        "term_text": "ツアーで生駒里奈の推しポイントを500集めよう",
+        "title_replace": 0
+    },
+    {
+        "title_id": 374,
+        "category": 3,
+        "sub_category": 0,
+        "disp_order": 80040,
+        "term_text": "ツアーで伊藤万理華の推しポイントを500集めよう",
+        "title_replace": 0
+    },
+    {
+        "title_id": 375,
+        "category": 3,
+        "sub_category": 0,
+        "disp_order": 80050,
+        "term_text": "ツアーで井上小百合の推しポイントを500集めよう",
+        "title_replace": 0
+    },
+    {
+        "title_id": 376,
+        "category": 3,
+        "sub_category": 0,
+        "disp_order": 80060,
+        "term_text": "ツアーで衛藤美彩の推しポイントを500集めよう",
+        "title_replace": 0
+    },
+    {
+        "title_id": 377,
+        "category": 3,
+        "sub_category": 0,
+        "disp_order": 80070,
+        "term_text": "ツアーで川後陽菜の推しポイントを500集めよう",
+        "title_replace": 0
+    },
+    {
+        "title_id": 378,
+        "category": 3,
+        "sub_category": 0,
+        "disp_order": 80080,
+        "term_text": "ツアーで川村真洋の推しポイントを500集めよう",
+        "title_replace": 0
+    },
+    {
+        "title_id": 379,
+        "category": 3,
+        "sub_category": 0,
+        "disp_order": 80090,
+        "term_text": "ツアーで齋藤飛鳥の推しポイントを500集めよう",
+        "title_replace": 0
+    },
+    {
+        "title_id": 380,
+        "category": 3,
+        "sub_category": 0,
+        "disp_order": 80100,
+        "term_text": "ツアーで斎藤ちはるの推しポイントを500集めよう",
+        "title_replace": 0
+    },
+    {
+        "title_id": 381,
+        "category": 3,
+        "sub_category": 0,
+        "disp_order": 80110,
+        "term_text": "ツアーで斉藤優里の推しポイントを500集めよう",
+        "title_replace": 0
+    },
+    {
+        "title_id": 382,
+        "category": 3,
+        "sub_category": 0,
+        "disp_order": 80120,
+        "term_text": "ツアーで桜井玲香の推しポイントを500集めよう",
+        "title_replace": 0
+    },
+    {
+        "title_id": 383,
+        "category": 3,
+        "sub_category": 0,
+        "disp_order": 80130,
+        "term_text": "ツアーで白石麻衣の推しポイントを500集めよう",
+        "title_replace": 0
+    },
+    {
+        "title_id": 384,
+        "category": 3,
+        "sub_category": 0,
+        "disp_order": 80140,
+        "term_text": "ツアーで高山一実の推しポイントを500集めよう",
+        "title_replace": 0
+    },
+    {
+        "title_id": 385,
+        "category": 3,
+        "sub_category": 0,
+        "disp_order": 80150,
+        "term_text": "ツアーで中田花奈の推しポイントを500集めよう",
+        "title_replace": 0
+    },
+    {
+        "title_id": 386,
+        "category": 3,
+        "sub_category": 0,
+        "disp_order": 80160,
+        "term_text": "ツアーで西野七瀬の推しポイントを500集めよう",
+        "title_replace": 0
+    },
+    {
+        "title_id": 387,
+        "category": 3,
+        "sub_category": 0,
+        "disp_order": 80170,
+        "term_text": "ツアーで能條愛未の推しポイントを500集めよう",
+        "title_replace": 0
+    },
+    {
+        "title_id": 388,
+        "category": 3,
+        "sub_category": 0,
+        "disp_order": 80180,
+        "term_text": "ツアーで樋口日奈の推しポイントを500集めよう",
+        "title_replace": 0
+    },
+    {
+        "title_id": 389,
+        "category": 3,
+        "sub_category": 0,
+        "disp_order": 80190,
+        "term_text": "ツアーで星野みなみの推しポイントを500集めよう",
+        "title_replace": 0
+    },
+    {
+        "title_id": 390,
+        "category": 3,
+        "sub_category": 0,
+        "disp_order": 80200,
+        "term_text": "ツアーで松村沙友理の推しポイントを500集めよう",
+        "title_replace": 0
+    },
+    {
+        "title_id": 391,
+        "category": 3,
+        "sub_category": 0,
+        "disp_order": 80210,
+        "term_text": "ツアーで若月佑美の推しポイントを500集めよう",
+        "title_replace": 0
+    },
+    {
+        "title_id": 392,
+        "category": 3,
+        "sub_category": 0,
+        "disp_order": 80220,
+        "term_text": "ツアーで和田まあやの推しポイントを500集めよう",
+        "title_replace": 0
+    },
+    {
+        "title_id": 393,
+        "category": 3,
+        "sub_category": 0,
+        "disp_order": 80230,
+        "term_text": "ツアーで伊藤かりんの推しポイントを500集めよう",
+        "title_replace": 0
+    },
+    {
+        "title_id": 394,
+        "category": 3,
+        "sub_category": 0,
+        "disp_order": 80240,
+        "term_text": "ツアーで伊藤純奈の推しポイントを500集めよう",
+        "title_replace": 0
+    },
+    {
+        "title_id": 395,
+        "category": 3,
+        "sub_category": 0,
+        "disp_order": 80250,
+        "term_text": "ツアーで北野日奈子の推しポイントを500集めよう",
+        "title_replace": 0
+    },
+    {
+        "title_id": 396,
+        "category": 3,
+        "sub_category": 0,
+        "disp_order": 80260,
+        "term_text": "ツアーで相楽伊織の推しポイントを500集めよう",
+        "title_replace": 0
+    },
+    {
+        "title_id": 397,
+        "category": 3,
+        "sub_category": 0,
+        "disp_order": 80270,
+        "term_text": "ツアーで佐々木琴子の推しポイントを500集めよう",
+        "title_replace": 0
+    },
+    {
+        "title_id": 398,
+        "category": 3,
+        "sub_category": 0,
+        "disp_order": 80280,
+        "term_text": "ツアーで新内眞衣の推しポイントを500集めよう",
+        "title_replace": 0
+    },
+    {
+        "title_id": 399,
+        "category": 3,
+        "sub_category": 0,
+        "disp_order": 80290,
+        "term_text": "ツアーで鈴木絢音の推しポイントを500集めよう",
+        "title_replace": 0
+    },
+    {
+        "title_id": 400,
+        "category": 3,
+        "sub_category": 0,
+        "disp_order": 80300,
+        "term_text": "ツアーで寺田蘭世の推しポイントを500集めよう",
+        "title_replace": 0
+    },
+    {
+        "title_id": 401,
+        "category": 3,
+        "sub_category": 0,
+        "disp_order": 80310,
+        "term_text": "ツアーで堀未央奈の推しポイントを500集めよう",
+        "title_replace": 0
+    },
+    {
+        "title_id": 402,
+        "category": 3,
+        "sub_category": 0,
+        "disp_order": 80320,
+        "term_text": "ツアーで山崎怜奈の推しポイントを500集めよう",
+        "title_replace": 0
+    },
+    {
+        "title_id": 403,
+        "category": 3,
+        "sub_category": 0,
+        "disp_order": 80330,
+        "term_text": "ツアーで渡辺みり愛の推しポイントを500集めよう",
+        "title_replace": 0
+    },
+    {
+        "title_id": 404,
+        "category": 3,
+        "sub_category": 0,
+        "disp_order": 80340,
+        "term_text": "ツアーで伊藤理々杏の推しポイントを500集めよう",
+        "title_replace": 0
+    },
+    {
+        "title_id": 405,
+        "category": 3,
+        "sub_category": 0,
+        "disp_order": 80350,
+        "term_text": "ツアーで岩本蓮加の推しポイントを500集めよう",
+        "title_replace": 0
+    },
+    {
+        "title_id": 406,
+        "category": 3,
+        "sub_category": 0,
+        "disp_order": 80360,
+        "term_text": "ツアーで梅澤美波の推しポイントを500集めよう",
+        "title_replace": 0
+    },
+    {
+        "title_id": 407,
+        "category": 3,
+        "sub_category": 0,
+        "disp_order": 80370,
+        "term_text": "ツアーで大園桃子の推しポイントを500集めよう",
+        "title_replace": 0
+    },
+    {
+        "title_id": 408,
+        "category": 3,
+        "sub_category": 0,
+        "disp_order": 80380,
+        "term_text": "ツアーで久保史緒里の推しポイントを500集めよう",
+        "title_replace": 0
+    },
+    {
+        "title_id": 409,
+        "category": 3,
+        "sub_category": 0,
+        "disp_order": 80390,
+        "term_text": "ツアーで阪口珠美の推しポイントを500集めよう",
+        "title_replace": 0
+    },
+    {
+        "title_id": 410,
+        "category": 3,
+        "sub_category": 0,
+        "disp_order": 80400,
+        "term_text": "ツアーで佐藤楓の推しポイントを500集めよう",
+        "title_replace": 0
+    },
+    {
+        "title_id": 411,
+        "category": 3,
+        "sub_category": 0,
+        "disp_order": 80410,
+        "term_text": "ツアーで中村麗乃の推しポイントを500集めよう",
+        "title_replace": 0
+    },
+    {
+        "title_id": 412,
+        "category": 3,
+        "sub_category": 0,
+        "disp_order": 80420,
+        "term_text": "ツアーで向井葉月の推しポイントを500集めよう",
+        "title_replace": 0
+    },
+    {
+        "title_id": 413,
+        "category": 3,
+        "sub_category": 0,
+        "disp_order": 80430,
+        "term_text": "ツアーで山下美月の推しポイントを500集めよう",
+        "title_replace": 0
+    },
+    {
+        "title_id": 414,
+        "category": 3,
+        "sub_category": 0,
+        "disp_order": 80440,
+        "term_text": "ツアーで吉田綾乃クリスティーの推しポイントを500集めよう",
+        "title_replace": 0
+    },
+    {
+        "title_id": 415,
+        "category": 3,
+        "sub_category": 0,
+        "disp_order": 80450,
+        "term_text": "ツアーで与田祐希の推しポイントを500集めよう",
+        "title_replace": 0
+    },
+    {
+        "title_id": 416,
+        "category": 3,
+        "sub_category": 0,
+        "disp_order": 80460,
+        "term_text": "ツアーで遠藤さくらの推しポイントを500集めよう",
+        "title_replace": 0
+    },
+    {
+        "title_id": 417,
+        "category": 3,
+        "sub_category": 0,
+        "disp_order": 80470,
+        "term_text": "ツアーで賀喜遥香の推しポイントを500集めよう",
+        "title_replace": 0
+    },
+    {
+        "title_id": 418,
+        "category": 3,
+        "sub_category": 0,
+        "disp_order": 80480,
+        "term_text": "ツアーで掛橋沙耶香の推しポイントを500集めよう",
+        "title_replace": 0
+    },
+    {
+        "title_id": 419,
+        "category": 3,
+        "sub_category": 0,
+        "disp_order": 80490,
+        "term_text": "ツアーで金川紗耶の推しポイントを500集めよう",
+        "title_replace": 0
+    },
+    {
+        "title_id": 420,
+        "category": 3,
+        "sub_category": 0,
+        "disp_order": 80500,
+        "term_text": "ツアーで北川悠理の推しポイントを500集めよう",
+        "title_replace": 0
+    },
+    {
+        "title_id": 421,
+        "category": 3,
+        "sub_category": 0,
+        "disp_order": 80510,
+        "term_text": "ツアーで柴田柚菜の推しポイントを500集めよう",
+        "title_replace": 0
+    },
+    {
+        "title_id": 422,
+        "category": 3,
+        "sub_category": 0,
+        "disp_order": 80520,
+        "term_text": "ツアーで清宮レイの推しポイントを500集めよう",
+        "title_replace": 0
+    },
+    {
+        "title_id": 423,
+        "category": 3,
+        "sub_category": 0,
+        "disp_order": 80530,
+        "term_text": "ツアーで田村真佑の推しポイントを500集めよう",
+        "title_replace": 0
+    },
+    {
+        "title_id": 424,
+        "category": 3,
+        "sub_category": 0,
+        "disp_order": 80540,
+        "term_text": "ツアーで筒井あやめの推しポイントを500集めよう",
+        "title_replace": 0
+    },
+    {
+        "title_id": 425,
+        "category": 3,
+        "sub_category": 0,
+        "disp_order": 80550,
+        "term_text": "ツアーで早川聖来の推しポイントを500集めよう",
+        "title_replace": 0
+    },
+    {
+        "title_id": 426,
+        "category": 3,
+        "sub_category": 0,
+        "disp_order": 80560,
+        "term_text": "ツアーで矢久保美緒の推しポイントを500集めよう",
+        "title_replace": 0
+    },
+    {
+        "title_id": 427,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10103000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 428,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10104000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 429,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1225,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 430,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1226,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 431,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1227,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 432,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1228,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 433,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1229,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 434,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1230,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 435,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1231,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 436,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1232,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 437,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1233,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 438,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1234,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 439,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1235,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 440,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1236,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 441,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1237,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 442,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1238,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 443,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1239,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 444,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1240,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 445,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1241,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 446,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1242,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 447,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1243,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 448,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1244,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 449,
+        "category": 3,
+        "sub_category": 0,
+        "disp_order": 80570,
+        "term_text": "ツアーで黒見明香の推しポイントを500集めよう",
+        "title_replace": 0
+    },
+    {
+        "title_id": 450,
+        "category": 3,
+        "sub_category": 0,
+        "disp_order": 80580,
+        "term_text": "ツアーで佐藤璃果の推しポイントを500集めよう",
+        "title_replace": 0
+    },
+    {
+        "title_id": 451,
+        "category": 3,
+        "sub_category": 0,
+        "disp_order": 80590,
+        "term_text": "ツアーで林瑠奈の推しポイントを500集めよう",
+        "title_replace": 0
+    },
+    {
+        "title_id": 452,
+        "category": 3,
+        "sub_category": 0,
+        "disp_order": 80600,
+        "term_text": "ツアーで松尾美佑の推しポイントを500集めよう",
+        "title_replace": 0
+    },
+    {
+        "title_id": 453,
+        "category": 3,
+        "sub_category": 0,
+        "disp_order": 80610,
+        "term_text": "ツアーで弓木奈於の推しポイントを500集めよう",
+        "title_replace": 0
+    },
+    {
+        "title_id": 454,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10105000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 455,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10106000,
+        "term_text": "イベントチャレンジを全てクリア",
+        "title_replace": 0
+    },
+    {
+        "title_id": 456,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10107000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 457,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10108000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 458,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10109000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 459,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10110000,
+        "term_text": "イベントチャレンジを全てクリア",
+        "title_replace": 0
+    },
+    {
+        "title_id": 460,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10111000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 461,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10112000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 462,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10113000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 463,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10114000,
+        "term_text": "イベントチャレンジを全てクリア",
+        "title_replace": 0
+    },
+    {
+        "title_id": 464,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10115000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 465,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10116000,
+        "term_text": "イベントチャレンジを全てクリア",
+        "title_replace": 0
+    },
+    {
+        "title_id": 466,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10117000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 467,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10118000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 468,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10119000,
+        "term_text": "イベントチャレンジを全てクリア",
+        "title_replace": 0
+    },
+    {
+        "title_id": 469,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10120000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 470,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10121000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 471,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10122000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 472,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10123000,
+        "term_text": "イベントチャレンジを全てクリア",
+        "title_replace": 0
+    },
+    {
+        "title_id": 473,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10124000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 474,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10125000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 475,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10126000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 476,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10127000,
+        "term_text": "イベントチャレンジを全てクリア",
+        "title_replace": 0
+    },
+    {
+        "title_id": 477,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10128000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 478,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10129000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 479,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10130000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 480,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10131000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 481,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10132000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 482,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10133000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 483,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10134000,
+        "term_text": "イベントチャレンジを全てクリア",
+        "title_replace": 0
+    },
+    {
+        "title_id": 484,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10135000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 485,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10136000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 486,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10137000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 487,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10138000,
+        "term_text": "イベントチャレンジを全てクリア",
+        "title_replace": 0
+    },
+    {
+        "title_id": 488,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10139000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 489,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10140000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 490,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10141000,
+        "term_text": "イベントチャレンジを全てクリア",
+        "title_replace": 0
+    },
+    {
+        "title_id": 491,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10142000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 492,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10143000,
+        "term_text": "イベントチャレンジを全てクリア",
+        "title_replace": 0
+    },
+    {
+        "title_id": 493,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10144000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 494,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10145000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 495,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10146000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 496,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10147000,
+        "term_text": "イベントチャレンジを全てクリア",
+        "title_replace": 0
+    },
+    {
+        "title_id": 497,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10148000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 498,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10149000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 499,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10150000,
+        "term_text": "イベントチャレンジを全てクリア",
+        "title_replace": 0
+    },
+    {
+        "title_id": 500,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10151000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 501,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10152000,
+        "term_text": "イベントチャレンジを全てクリア",
+        "title_replace": 0
+    },
+    {
+        "title_id": 502,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10153000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 503,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10154000,
+        "term_text": "イベントチャレンジを全てクリア",
+        "title_replace": 0
+    },
+    {
+        "title_id": 504,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10155000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 505,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10156000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 506,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10157000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 507,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10158000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 508,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10159000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 509,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10160000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 510,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10161000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 511,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10162000,
+        "term_text": "イベントチャレンジを全てクリア",
+        "title_replace": 0
+    },
+    {
+        "title_id": 512,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10163000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 513,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10164000,
+        "term_text": "イベントチャレンジを全てクリア",
+        "title_replace": 0
+    },
+    {
+        "title_id": 514,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10165000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 515,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10166000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 516,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10167000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 517,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10168000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 518,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10169000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 519,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10170000,
+        "term_text": "イベントチャレンジを全てクリア",
+        "title_replace": 0
+    },
+    {
+        "title_id": 520,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10171000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 521,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10172000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 522,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10173000,
+        "term_text": "イベントチャレンジを全てクリア",
+        "title_replace": 0
+    },
+    {
+        "title_id": 523,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10174000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 524,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10175000,
+        "term_text": "イベントチャレンジを全てクリア",
+        "title_replace": 0
+    },
+    {
+        "title_id": 525,
+        "category": 3,
+        "sub_category": 0,
+        "disp_order": 10800,
+        "term_text": "プレイヤーRankを700にしよう",
+        "title_replace": 0
+    },
+    {
+        "title_id": 526,
+        "category": 3,
+        "sub_category": 0,
+        "disp_order": 80620,
+        "term_text": "ツアーで五百城茉央の推しポイントを500集めよう",
+        "title_replace": 0
+    },
+    {
+        "title_id": 527,
+        "category": 3,
+        "sub_category": 0,
+        "disp_order": 80630,
+        "term_text": "ツアーで池田瑛紗の推しポイントを500集めよう",
+        "title_replace": 0
+    },
+    {
+        "title_id": 528,
+        "category": 3,
+        "sub_category": 0,
+        "disp_order": 80640,
+        "term_text": "ツアーで一ノ瀬美空の推しポイントを500集めよう",
+        "title_replace": 0
+    },
+    {
+        "title_id": 529,
+        "category": 3,
+        "sub_category": 0,
+        "disp_order": 80650,
+        "term_text": "ツアーで井上和の推しポイントを500集めよう",
+        "title_replace": 0
+    },
+    {
+        "title_id": 530,
+        "category": 3,
+        "sub_category": 0,
+        "disp_order": 80660,
+        "term_text": "ツアーで岡本姫奈の推しポイントを500集めよう",
+        "title_replace": 0
+    },
+    {
+        "title_id": 531,
+        "category": 3,
+        "sub_category": 0,
+        "disp_order": 80670,
+        "term_text": "ツアーで小川彩の推しポイントを500集めよう",
+        "title_replace": 0
+    },
+    {
+        "title_id": 532,
+        "category": 3,
+        "sub_category": 0,
+        "disp_order": 80680,
+        "term_text": "ツアーで奥田いろはの推しポイントを500集めよう",
+        "title_replace": 0
+    },
+    {
+        "title_id": 533,
+        "category": 3,
+        "sub_category": 0,
+        "disp_order": 80690,
+        "term_text": "ツアーで川﨑桜の推しポイントを500集めよう",
+        "title_replace": 0
+    },
+    {
+        "title_id": 534,
+        "category": 3,
+        "sub_category": 0,
+        "disp_order": 80700,
+        "term_text": "ツアーで菅原咲月の推しポイントを500集めよう",
+        "title_replace": 0
+    },
+    {
+        "title_id": 535,
+        "category": 3,
+        "sub_category": 0,
+        "disp_order": 80710,
+        "term_text": "ツアーで冨里奈央の推しポイントを500集めよう",
+        "title_replace": 0
+    },
+    {
+        "title_id": 536,
+        "category": 3,
+        "sub_category": 0,
+        "disp_order": 80720,
+        "term_text": "ツアーで中西アルノの推しポイントを500集めよう",
+        "title_replace": 0
+    },
+    {
+        "title_id": 571,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10176000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 572,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10177000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 573,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10178000,
+        "term_text": "イベントチャレンジを全てクリア",
+        "title_replace": 0
+    },
+    {
+        "title_id": 574,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10179000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 575,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10180000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 576,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1245,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 577,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1246,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 578,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1247,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 579,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1248,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 580,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1249,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 581,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1250,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 582,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1251,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 583,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1252,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 584,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1253,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 585,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1254,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 586,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1255,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 587,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1256,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 588,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1257,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 589,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1258,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 590,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1259,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 591,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1260,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 592,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1261,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 593,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1262,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 594,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1263,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 595,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1264,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 596,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1265,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 597,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1266,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 598,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1267,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 599,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1268,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 600,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1269,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 601,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1270,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 602,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1271,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 603,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1272,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 604,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1273,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 605,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1274,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 606,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1275,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 607,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1276,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 608,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1277,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 609,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1278,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 610,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1279,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 611,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1280,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 612,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1281,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 613,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1282,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 614,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1283,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 615,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1284,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 616,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1285,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 617,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1286,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 618,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1287,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 619,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1288,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 620,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10181000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 621,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10182000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 622,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10183000,
+        "term_text": "イベントチャレンジを全てクリア",
+        "title_replace": 0
+    },
+    {
+        "title_id": 623,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10184000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 624,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10185000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 625,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10186000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 626,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10187000,
+        "term_text": "イベントチャレンジを全てクリア",
+        "title_replace": 0
+    },
+    {
+        "title_id": 627,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10188000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 628,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10189000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 629,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10190000,
+        "term_text": "イベントチャレンジを全てクリア",
+        "title_replace": 0
+    },
+    {
+        "title_id": 630,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10191000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 631,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10192000,
+        "term_text": "イベントチャレンジを全てクリア",
+        "title_replace": 0
+    },
+    {
+        "title_id": 632,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10193000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 633,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10194000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 634,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10195000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 635,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10196000,
+        "term_text": "イベントチャレンジを全てクリア",
+        "title_replace": 0
+    },
+    {
+        "title_id": 636,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10197000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 637,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10198000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 638,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10199000,
+        "term_text": "イベントチャレンジを全てクリア",
+        "title_replace": 0
+    },
+    {
+        "title_id": 639,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10200000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 640,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10201000,
+        "term_text": "イベントチャレンジを全てクリア",
+        "title_replace": 0
+    },
+    {
+        "title_id": 641,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10202000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 642,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10203000,
+        "term_text": "イベントチャレンジを全てクリア",
+        "title_replace": 0
+    },
+    {
+        "title_id": 643,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10204000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 644,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10205000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 645,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10206000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 646,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10207000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 647,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10208000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 648,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10209000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 649,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10210000,
+        "term_text": "イベントチャレンジを全てクリア",
+        "title_replace": 0
+    },
+    {
+        "title_id": 650,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10211000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 651,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10212000,
+        "term_text": "イベントチャレンジを全てクリア",
+        "title_replace": 0
+    },
+    {
+        "title_id": 652,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10213000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 653,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10214000,
+        "term_text": "イベントチャレンジを全てクリア",
+        "title_replace": 0
+    },
+    {
+        "title_id": 654,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10215000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 655,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10216000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 656,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10217000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 657,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10218000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 658,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10219000,
+        "term_text": "イベントチャレンジを全てクリア",
+        "title_replace": 0
+    },
+    {
+        "title_id": 659,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10220000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 660,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10221000,
+        "term_text": "イベントチャレンジを全てクリア",
+        "title_replace": 0
+    },
+    {
+        "title_id": 661,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10222000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 662,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10223000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 663,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10224000,
+        "term_text": "イベントチャレンジを全てクリア",
+        "title_replace": 0
+    },
+    {
+        "title_id": 664,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10225000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 665,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10226000,
+        "term_text": "イベントチャレンジを全てクリア",
+        "title_replace": 0
+    },
+    {
+        "title_id": 666,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10227000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 667,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10228000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 668,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10229000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 669,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10230000,
+        "term_text": "イベントチャレンジを全てクリア",
+        "title_replace": 0
+    },
+    {
+        "title_id": 670,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10231000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 671,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10232000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 672,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10233000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 673,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10234000,
+        "term_text": "イベントチャレンジを全てクリア",
+        "title_replace": 0
+    },
+    {
+        "title_id": 674,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10235000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 675,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10236000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 676,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10237000,
+        "term_text": "イベントチャレンジを全てクリア",
+        "title_replace": 0
+    },
+    {
+        "title_id": 677,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10238000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 678,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10239000,
+        "term_text": "イベントチャレンジを全てクリア",
+        "title_replace": 0
+    },
+    {
+        "title_id": 679,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10240000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 680,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10241000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 681,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10242000,
+        "term_text": "イベントチャレンジを全てクリア",
+        "title_replace": 0
+    },
+    {
+        "title_id": 682,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10243000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 683,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10244000,
+        "term_text": "イベントチャレンジを全てクリア",
+        "title_replace": 0
+    },
+    {
+        "title_id": 684,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10245000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 685,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10246000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 686,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10247000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 687,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10248000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 688,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10249000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 689,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10250000,
+        "term_text": "イベントチャレンジを全てクリア",
+        "title_replace": 0
+    },
+    {
+        "title_id": 690,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10251000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 691,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10252000,
+        "term_text": "イベントチャレンジを全てクリア",
+        "title_replace": 0
+    },
+    {
+        "title_id": 692,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10253000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 693,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10254000,
+        "term_text": "イベントチャレンジを全てクリア",
+        "title_replace": 0
+    },
+    {
+        "title_id": 694,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10255000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 695,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10256000,
+        "term_text": "イベントチャレンジを全てクリア",
+        "title_replace": 0
+    },
+    {
+        "title_id": 696,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10257000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 697,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10258000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 698,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10259000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 699,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10260000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 700,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10261000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 701,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10262000,
+        "term_text": "イベントチャレンジを全てクリア",
+        "title_replace": 0
+    },
+    {
+        "title_id": 702,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10263000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 703,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10264000,
+        "term_text": "イベントチャレンジを全てクリア",
+        "title_replace": 0
+    },
+    {
+        "title_id": 704,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10265000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 705,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10266000,
+        "term_text": "イベントチャレンジを全てクリア",
+        "title_replace": 0
+    },
+    {
+        "title_id": 706,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10267000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 707,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10268000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 708,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10269000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 709,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10270000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 710,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10271000,
+        "term_text": "イベントチャレンジを全てクリア",
+        "title_replace": 0
+    },
+    {
+        "title_id": 711,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10272000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 712,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10273000,
+        "term_text": "イベントチャレンジを全てクリア",
+        "title_replace": 0
+    },
+    {
+        "title_id": 713,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10274000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 714,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10275000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 715,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10276000,
+        "term_text": "イベントチャレンジを全てクリア",
+        "title_replace": 0
+    },
+    {
+        "title_id": 716,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10277000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 717,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10278000,
+        "term_text": "イベントチャレンジを全てクリア",
+        "title_replace": 0
+    },
+    {
+        "title_id": 718,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10279000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 719,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10280000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 720,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10281000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 721,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10282000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 722,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10283000,
+        "term_text": "イベントチャレンジを全てクリア",
+        "title_replace": 0
+    },
+    {
+        "title_id": 723,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10284000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 724,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10285000,
+        "term_text": "イベントチャレンジを全てクリア",
+        "title_replace": 0
+    },
+    {
+        "title_id": 725,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10286000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 726,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10287000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 727,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10288000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 728,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10289000,
+        "term_text": "イベントチャレンジを全てクリア",
+        "title_replace": 0
+    },
+    {
+        "title_id": 729,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10290000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 730,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10291000,
+        "term_text": "イベントチャレンジを全てクリア",
+        "title_replace": 0
+    },
+    {
+        "title_id": 731,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10292000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 732,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10293000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 733,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10294000,
+        "term_text": "イベントチャレンジを全てクリア",
+        "title_replace": 0
+    },
+    {
+        "title_id": 734,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10295000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 735,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10296000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 736,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10297000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 737,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10298000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 738,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10299000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 739,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10300000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 740,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10301000,
+        "term_text": "イベントチャレンジを全てクリア",
+        "title_replace": 0
+    },
+    {
+        "title_id": 741,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10302000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 742,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10303000,
+        "term_text": "イベントチャレンジを全てクリア",
+        "title_replace": 0
+    },
+    {
+        "title_id": 743,
+        "category": 3,
+        "sub_category": 0,
+        "disp_order": 10900,
+        "term_text": "プレイヤーRankを999にしよう",
+        "title_replace": 0
+    },
+    {
+        "title_id": 744,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10304000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 745,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10305000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 746,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10306000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 747,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10307000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 748,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10308000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 749,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10309000,
+        "term_text": "イベントチャレンジを全てクリア",
+        "title_replace": 0
+    },
+    {
+        "title_id": 750,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10310000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 751,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10311000,
+        "term_text": "イベントチャレンジを全てクリア",
+        "title_replace": 0
+    },
+    {
+        "title_id": 752,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10312000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 753,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10313000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 754,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10314000,
+        "term_text": "イベントチャレンジを全てクリア",
+        "title_replace": 0
+    },
+    {
+        "title_id": 755,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10315000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 756,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10316000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 757,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10317000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 758,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10318000,
+        "term_text": "イベントチャレンジを全てクリア",
+        "title_replace": 0
+    },
+    {
+        "title_id": 759,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10319000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 760,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10320000,
+        "term_text": "イベントチャレンジを全てクリア",
+        "title_replace": 0
+    },
+    {
+        "title_id": 761,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10321000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 762,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10322000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 763,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10323000,
+        "term_text": "イベントチャレンジを全てクリア",
+        "title_replace": 0
+    },
+    {
+        "title_id": 764,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10324000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 765,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10325000,
+        "term_text": "イベントチャレンジを全てクリア",
+        "title_replace": 0
+    },
+    {
+        "title_id": 766,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10326000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 767,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10327000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 768,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10328000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 769,
+        "category": 3,
+        "sub_category": 0,
+        "disp_order": 80730,
+        "term_text": "ツアーで愛宕心響の推しポイントを500集めよう",
+        "title_replace": 0
+    },
+    {
+        "title_id": 770,
+        "category": 3,
+        "sub_category": 0,
+        "disp_order": 80740,
+        "term_text": "ツアーで大越ひなのの推しポイントを500集めよう",
+        "title_replace": 0
+    },
+    {
+        "title_id": 771,
+        "category": 3,
+        "sub_category": 0,
+        "disp_order": 80750,
+        "term_text": "ツアーで小津玲奈の推しポイントを500集めよう",
+        "title_replace": 0
+    },
+    {
+        "title_id": 772,
+        "category": 3,
+        "sub_category": 0,
+        "disp_order": 80760,
+        "term_text": "ツアーで海邉朱莉の推しポイントを500集めよう",
+        "title_replace": 0
+    },
+    {
+        "title_id": 773,
+        "category": 3,
+        "sub_category": 0,
+        "disp_order": 80770,
+        "term_text": "ツアーで川端晃菜の推しポイントを500集めよう",
+        "title_replace": 0
+    },
+    {
+        "title_id": 774,
+        "category": 3,
+        "sub_category": 0,
+        "disp_order": 80780,
+        "term_text": "ツアーで鈴木佑捺の推しポイントを500集めよう",
+        "title_replace": 0
+    },
+    {
+        "title_id": 775,
+        "category": 3,
+        "sub_category": 0,
+        "disp_order": 80790,
+        "term_text": "ツアーで瀬戸口心月の推しポイントを500集めよう",
+        "title_replace": 0
+    },
+    {
+        "title_id": 776,
+        "category": 3,
+        "sub_category": 0,
+        "disp_order": 80800,
+        "term_text": "ツアーで長嶋凛桜の推しポイントを500集めよう",
+        "title_replace": 0
+    },
+    {
+        "title_id": 777,
+        "category": 3,
+        "sub_category": 0,
+        "disp_order": 80810,
+        "term_text": "ツアーで増田三莉音の推しポイントを500集めよう",
+        "title_replace": 0
+    },
+    {
+        "title_id": 778,
+        "category": 3,
+        "sub_category": 0,
+        "disp_order": 80820,
+        "term_text": "ツアーで森平麗心の推しポイントを500集めよう",
+        "title_replace": 0
+    },
+    {
+        "title_id": 779,
+        "category": 3,
+        "sub_category": 0,
+        "disp_order": 80830,
+        "term_text": "ツアーで矢田萌華の推しポイントを500集めよう",
+        "title_replace": 0
+    },
+    {
+        "title_id": 780,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1289,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 781,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1290,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 782,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1291,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 783,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1292,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 784,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1293,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 785,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1294,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 786,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1295,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 787,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1296,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 788,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1297,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 789,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1298,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 790,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1299,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 791,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1300,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 792,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1301,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 793,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1302,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 794,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1303,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 795,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1304,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 796,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1305,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 797,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1306,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 798,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1307,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 799,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1308,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 800,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1309,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 801,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1310,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 802,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1311,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 803,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1312,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 804,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1313,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 805,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1314,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 806,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1315,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 807,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1316,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 808,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1317,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 809,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1318,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 810,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1319,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 811,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1320,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 812,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1321,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 813,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1322,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 814,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1323,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 815,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1324,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 816,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1325,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 817,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1326,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 818,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1327,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 819,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1328,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 820,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1329,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 821,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1330,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 822,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1331,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 823,
+        "category": 4,
+        "sub_category": 0,
+        "disp_order": 1332,
+        "term_text": "月間推しポイントランキングで入賞",
+        "title_replace": 0
+    },
+    {
+        "title_id": 824,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10329000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 825,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10330000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 826,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10331000,
+        "term_text": "イベントチャレンジを全てクリア",
+        "title_replace": 0
+    },
+    {
+        "title_id": 827,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10332000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 828,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10333000,
+        "term_text": "イベントチャレンジを全てクリア",
+        "title_replace": 0
+    },
+    {
+        "title_id": 829,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10334000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 830,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10335000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 831,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10336000,
+        "term_text": "イベントチャレンジを全てクリア",
+        "title_replace": 0
+    },
+    {
+        "title_id": 832,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10337000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 833,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10338000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 834,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10339000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 835,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10340000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    }
+]

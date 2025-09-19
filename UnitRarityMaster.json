@@ -1,0 +1,50 @@
+[
+    {
+        "rarity": 1,
+        "initial_level": 1,
+        "max_level": 20,
+        "price": 100
+    },
+    {
+        "rarity": 2,
+        "initial_level": 1,
+        "max_level": 40,
+        "price": 200
+    },
+    {
+        "rarity": 3,
+        "initial_level": 1,
+        "max_level": 60,
+        "price": 400
+    },
+    {
+        "rarity": 4,
+        "initial_level": 60,
+        "max_level": 70,
+        "price": 600
+    },
+    {
+        "rarity": 5,
+        "initial_level": 1,
+        "max_level": 80,
+        "price": 800
+    },
+    {
+        "rarity": 6,
+        "initial_level": 80,
+        "max_level": 90,
+        "price": 1200
+    },
+    {
+        "rarity": 7,
+        "initial_level": 1,
+        "max_level": 80,
+        "price": 1600
+    },
+    {
+        "rarity": 8,
+        "initial_level": 80,
+        "max_level": 90,
+        "price": 2200
+    }
+]

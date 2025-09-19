@@ -1,0 +1,892 @@
+[
+    {
+        "reward_group_id": 1,
+        "girl_reward_data": [
+            {
+                "girl_id": 101,
+                "reward_data": [
+                    {
+                        "data_type": 27,
+                        "data_id": 589,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "girl_id": 102,
+                "reward_data": [
+                    {
+                        "data_type": 27,
+                        "data_id": 590,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "girl_id": 109,
+                "reward_data": [
+                    {
+                        "data_type": 27,
+                        "data_id": 591,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "girl_id": 114,
+                "reward_data": [
+                    {
+                        "data_type": 27,
+                        "data_id": 592,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "girl_id": 118,
+                "reward_data": [
+                    {
+                        "data_type": 27,
+                        "data_id": 593,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "girl_id": 119,
+                "reward_data": [
+                    {
+                        "data_type": 27,
+                        "data_id": 594,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "girl_id": 120,
+                "reward_data": [
+                    {
+                        "data_type": 27,
+                        "data_id": 595,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "girl_id": 122,
+                "reward_data": [
+                    {
+                        "data_type": 27,
+                        "data_id": 596,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "girl_id": 202,
+                "reward_data": [
+                    {
+                        "data_type": 27,
+                        "data_id": 597,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "girl_id": 203,
+                "reward_data": [
+                    {
+                        "data_type": 27,
+                        "data_id": 598,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "girl_id": 206,
+                "reward_data": [
+                    {
+                        "data_type": 27,
+                        "data_id": 599,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "girl_id": 207,
+                "reward_data": [
+                    {
+                        "data_type": 27,
+                        "data_id": 600,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "girl_id": 208,
+                "reward_data": [
+                    {
+                        "data_type": 27,
+                        "data_id": 601,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "girl_id": 209,
+                "reward_data": [
+                    {
+                        "data_type": 27,
+                        "data_id": 602,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "girl_id": 210,
+                "reward_data": [
+                    {
+                        "data_type": 27,
+                        "data_id": 603,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "girl_id": 211,
+                "reward_data": [
+                    {
+                        "data_type": 27,
+                        "data_id": 604,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "girl_id": 301,
+                "reward_data": [
+                    {
+                        "data_type": 27,
+                        "data_id": 605,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "girl_id": 302,
+                "reward_data": [
+                    {
+                        "data_type": 27,
+                        "data_id": 606,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "girl_id": 303,
+                "reward_data": [
+                    {
+                        "data_type": 27,
+                        "data_id": 607,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "girl_id": 304,
+                "reward_data": [
+                    {
+                        "data_type": 27,
+                        "data_id": 608,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "girl_id": 305,
+                "reward_data": [
+                    {
+                        "data_type": 27,
+                        "data_id": 609,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "girl_id": 306,
+                "reward_data": [
+                    {
+                        "data_type": 27,
+                        "data_id": 610,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "girl_id": 307,
+                "reward_data": [
+                    {
+                        "data_type": 27,
+                        "data_id": 611,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "girl_id": 308,
+                "reward_data": [
+                    {
+                        "data_type": 27,
+                        "data_id": 612,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "girl_id": 309,
+                "reward_data": [
+                    {
+                        "data_type": 27,
+                        "data_id": 613,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "girl_id": 310,
+                "reward_data": [
+                    {
+                        "data_type": 27,
+                        "data_id": 614,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "girl_id": 311,
+                "reward_data": [
+                    {
+                        "data_type": 27,
+                        "data_id": 615,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "girl_id": 312,
+                "reward_data": [
+                    {
+                        "data_type": 27,
+                        "data_id": 616,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "girl_id": 401,
+                "reward_data": [
+                    {
+                        "data_type": 27,
+                        "data_id": 617,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "girl_id": 402,
+                "reward_data": [
+                    {
+                        "data_type": 27,
+                        "data_id": 618,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "girl_id": 403,
+                "reward_data": [
+                    {
+                        "data_type": 27,
+                        "data_id": 619,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "girl_id": 404,
+                "reward_data": [
+                    {
+                        "data_type": 27,
+                        "data_id": 620,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "girl_id": 405,
+                "reward_data": [
+                    {
+                        "data_type": 27,
+                        "data_id": 621,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "girl_id": 406,
+                "reward_data": [
+                    {
+                        "data_type": 27,
+                        "data_id": 622,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "girl_id": 407,
+                "reward_data": [
+                    {
+                        "data_type": 27,
+                        "data_id": 623,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "girl_id": 408,
+                "reward_data": [
+                    {
+                        "data_type": 27,
+                        "data_id": 624,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "girl_id": 409,
+                "reward_data": [
+                    {
+                        "data_type": 27,
+                        "data_id": 625,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "girl_id": 410,
+                "reward_data": [
+                    {
+                        "data_type": 27,
+                        "data_id": 626,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "girl_id": 411,
+                "reward_data": [
+                    {
+                        "data_type": 27,
+                        "data_id": 627,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "girl_id": 412,
+                "reward_data": [
+                    {
+                        "data_type": 27,
+                        "data_id": 628,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "girl_id": 413,
+                "reward_data": [
+                    {
+                        "data_type": 27,
+                        "data_id": 629,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "girl_id": 414,
+                "reward_data": [
+                    {
+                        "data_type": 27,
+                        "data_id": 630,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "girl_id": 415,
+                "reward_data": [
+                    {
+                        "data_type": 27,
+                        "data_id": 631,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "girl_id": 416,
+                "reward_data": [
+                    {
+                        "data_type": 27,
+                        "data_id": 632,
+                        "data_num": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "reward_group_id": 2,
+        "girl_reward_data": [
+            {
+                "girl_id": 101,
+                "reward_data": [
+                    {
+                        "data_type": 27,
+                        "data_id": 787,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "girl_id": 102,
+                "reward_data": [
+                    {
+                        "data_type": 27,
+                        "data_id": 788,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "girl_id": 109,
+                "reward_data": [
+                    {
+                        "data_type": 27,
+                        "data_id": 789,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "girl_id": 114,
+                "reward_data": [
+                    {
+                        "data_type": 27,
+                        "data_id": 790,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "girl_id": 118,
+                "reward_data": [
+                    {
+                        "data_type": 27,
+                        "data_id": 791,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "girl_id": 119,
+                "reward_data": [
+                    {
+                        "data_type": 27,
+                        "data_id": 792,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "girl_id": 120,
+                "reward_data": [
+                    {
+                        "data_type": 27,
+                        "data_id": 793,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "girl_id": 122,
+                "reward_data": [
+                    {
+                        "data_type": 27,
+                        "data_id": 794,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "girl_id": 202,
+                "reward_data": [
+                    {
+                        "data_type": 27,
+                        "data_id": 795,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "girl_id": 203,
+                "reward_data": [
+                    {
+                        "data_type": 27,
+                        "data_id": 796,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "girl_id": 206,
+                "reward_data": [
+                    {
+                        "data_type": 27,
+                        "data_id": 797,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "girl_id": 207,
+                "reward_data": [
+                    {
+                        "data_type": 27,
+                        "data_id": 798,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "girl_id": 208,
+                "reward_data": [
+                    {
+                        "data_type": 27,
+                        "data_id": 799,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "girl_id": 209,
+                "reward_data": [
+                    {
+                        "data_type": 27,
+                        "data_id": 800,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "girl_id": 210,
+                "reward_data": [
+                    {
+                        "data_type": 27,
+                        "data_id": 801,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "girl_id": 211,
+                "reward_data": [
+                    {
+                        "data_type": 27,
+                        "data_id": 802,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "girl_id": 301,
+                "reward_data": [
+                    {
+                        "data_type": 27,
+                        "data_id": 803,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "girl_id": 302,
+                "reward_data": [
+                    {
+                        "data_type": 27,
+                        "data_id": 804,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "girl_id": 303,
+                "reward_data": [
+                    {
+                        "data_type": 27,
+                        "data_id": 805,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "girl_id": 304,
+                "reward_data": [
+                    {
+                        "data_type": 27,
+                        "data_id": 806,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "girl_id": 305,
+                "reward_data": [
+                    {
+                        "data_type": 27,
+                        "data_id": 807,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "girl_id": 306,
+                "reward_data": [
+                    {
+                        "data_type": 27,
+                        "data_id": 808,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "girl_id": 307,
+                "reward_data": [
+                    {
+                        "data_type": 27,
+                        "data_id": 809,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "girl_id": 308,
+                "reward_data": [
+                    {
+                        "data_type": 27,
+                        "data_id": 810,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "girl_id": 309,
+                "reward_data": [
+                    {
+                        "data_type": 27,
+                        "data_id": 811,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "girl_id": 310,
+                "reward_data": [
+                    {
+                        "data_type": 27,
+                        "data_id": 812,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "girl_id": 311,
+                "reward_data": [
+                    {
+                        "data_type": 27,
+                        "data_id": 813,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "girl_id": 312,
+                "reward_data": [
+                    {
+                        "data_type": 27,
+                        "data_id": 814,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "girl_id": 401,
+                "reward_data": [
+                    {
+                        "data_type": 27,
+                        "data_id": 815,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "girl_id": 402,
+                "reward_data": [
+                    {
+                        "data_type": 27,
+                        "data_id": 816,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "girl_id": 403,
+                "reward_data": [
+                    {
+                        "data_type": 27,
+                        "data_id": 817,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "girl_id": 404,
+                "reward_data": [
+                    {
+                        "data_type": 27,
+                        "data_id": 818,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "girl_id": 405,
+                "reward_data": [
+                    {
+                        "data_type": 27,
+                        "data_id": 819,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "girl_id": 406,
+                "reward_data": [
+                    {
+                        "data_type": 27,
+                        "data_id": 820,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "girl_id": 407,
+                "reward_data": [
+                    {
+                        "data_type": 27,
+                        "data_id": 821,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "girl_id": 408,
+                "reward_data": [
+                    {
+                        "data_type": 27,
+                        "data_id": 822,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "girl_id": 409,
+                "reward_data": [
+                    {
+                        "data_type": 27,
+                        "data_id": 823,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "girl_id": 410,
+                "reward_data": [
+                    {
+                        "data_type": 27,
+                        "data_id": 824,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "girl_id": 411,
+                "reward_data": [
+                    {
+                        "data_type": 27,
+                        "data_id": 825,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "girl_id": 412,
+                "reward_data": [
+                    {
+                        "data_type": 27,
+                        "data_id": 826,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "girl_id": 413,
+                "reward_data": [
+                    {
+                        "data_type": 27,
+                        "data_id": 827,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "girl_id": 414,
+                "reward_data": [
+                    {
+                        "data_type": 27,
+                        "data_id": 828,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "girl_id": 415,
+                "reward_data": [
+                    {
+                        "data_type": 27,
+                        "data_id": 829,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "girl_id": 416,
+                "reward_data": [
+                    {
+                        "data_type": 27,
+                        "data_id": 830,
+                        "data_num": 1
+                    }
+                ]
+            }
+        ]
+    }
+]

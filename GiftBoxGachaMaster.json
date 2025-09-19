@@ -1,0 +1,3395 @@
+[
+    {
+        "gift_box_gacha_id": 1,
+        "gift_box_gacha_name": "6.5周年ギフトボックスキャンペーン",
+        "start_date": 1717999200,
+        "end_date": 1718809199,
+        "reward_end_date": 1719035999,
+        "description": null,
+        "gift_box_gacha_group_data": [
+            {
+                "gift_box_category": 2,
+                "gift_box_gacha_item_data": [
+                    {
+                        "gacha_item_id": 1,
+                        "data_type": 22,
+                        "data_id": 12,
+                        "data_num": 1,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 2,
+                        "data_type": 20,
+                        "data_id": 4,
+                        "data_num": 10,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 3,
+                        "data_type": 3,
+                        "data_id": 11,
+                        "data_num": 1,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 4,
+                        "data_type": 3,
+                        "data_id": 10,
+                        "data_num": 1,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 5,
+                        "data_type": 23,
+                        "data_id": 0,
+                        "data_num": 3,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 6,
+                        "data_type": 31,
+                        "data_id": 21,
+                        "data_num": 1,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 7,
+                        "data_type": 3,
+                        "data_id": 9,
+                        "data_num": 3,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 8,
+                        "data_type": 3,
+                        "data_id": 3,
+                        "data_num": 10,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 9,
+                        "data_type": 4,
+                        "data_id": 9,
+                        "data_num": 40,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 10,
+                        "data_type": 4,
+                        "data_id": 7,
+                        "data_num": 40,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 11,
+                        "data_type": 4,
+                        "data_id": 8,
+                        "data_num": 40,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 12,
+                        "data_type": 5,
+                        "data_id": 13,
+                        "data_num": 10,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 13,
+                        "data_type": 29,
+                        "data_id": 0,
+                        "data_num": 30,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 14,
+                        "data_type": 31,
+                        "data_id": 3,
+                        "data_num": 5,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 15,
+                        "data_type": 6,
+                        "data_id": 301,
+                        "data_num": 100,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 16,
+                        "data_type": 6,
+                        "data_id": 302,
+                        "data_num": 100,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 17,
+                        "data_type": 6,
+                        "data_id": 303,
+                        "data_num": 100,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 18,
+                        "data_type": 6,
+                        "data_id": 305,
+                        "data_num": 100,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 19,
+                        "data_type": 6,
+                        "data_id": 306,
+                        "data_num": 100,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 20,
+                        "data_type": 6,
+                        "data_id": 307,
+                        "data_num": 100,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 21,
+                        "data_type": 6,
+                        "data_id": 308,
+                        "data_num": 100,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 22,
+                        "data_type": 6,
+                        "data_id": 309,
+                        "data_num": 100,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 23,
+                        "data_type": 6,
+                        "data_id": 310,
+                        "data_num": 100,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 24,
+                        "data_type": 6,
+                        "data_id": 311,
+                        "data_num": 100,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 25,
+                        "data_type": 6,
+                        "data_id": 312,
+                        "data_num": 100,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 26,
+                        "data_type": 6,
+                        "data_id": 401,
+                        "data_num": 100,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 27,
+                        "data_type": 6,
+                        "data_id": 402,
+                        "data_num": 100,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 28,
+                        "data_type": 6,
+                        "data_id": 403,
+                        "data_num": 100,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 29,
+                        "data_type": 6,
+                        "data_id": 404,
+                        "data_num": 100,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 30,
+                        "data_type": 6,
+                        "data_id": 406,
+                        "data_num": 100,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 31,
+                        "data_type": 6,
+                        "data_id": 407,
+                        "data_num": 100,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 32,
+                        "data_type": 6,
+                        "data_id": 408,
+                        "data_num": 100,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 33,
+                        "data_type": 6,
+                        "data_id": 409,
+                        "data_num": 100,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 34,
+                        "data_type": 6,
+                        "data_id": 411,
+                        "data_num": 100,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 35,
+                        "data_type": 6,
+                        "data_id": 412,
+                        "data_num": 100,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 36,
+                        "data_type": 6,
+                        "data_id": 413,
+                        "data_num": 100,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 37,
+                        "data_type": 6,
+                        "data_id": 414,
+                        "data_num": 100,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 38,
+                        "data_type": 6,
+                        "data_id": 415,
+                        "data_num": 100,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 39,
+                        "data_type": 6,
+                        "data_id": 416,
+                        "data_num": 100,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 40,
+                        "data_type": 6,
+                        "data_id": 501,
+                        "data_num": 100,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 41,
+                        "data_type": 6,
+                        "data_id": 502,
+                        "data_num": 100,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 42,
+                        "data_type": 6,
+                        "data_id": 503,
+                        "data_num": 100,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 43,
+                        "data_type": 6,
+                        "data_id": 504,
+                        "data_num": 100,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 44,
+                        "data_type": 6,
+                        "data_id": 505,
+                        "data_num": 100,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 45,
+                        "data_type": 6,
+                        "data_id": 506,
+                        "data_num": 100,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 46,
+                        "data_type": 6,
+                        "data_id": 507,
+                        "data_num": 100,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 47,
+                        "data_type": 6,
+                        "data_id": 508,
+                        "data_num": 100,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 48,
+                        "data_type": 6,
+                        "data_id": 509,
+                        "data_num": 100,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 49,
+                        "data_type": 6,
+                        "data_id": 510,
+                        "data_num": 100,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 50,
+                        "data_type": 6,
+                        "data_id": 511,
+                        "data_num": 100,
+                        "lots_num": 1
+                    }
+                ]
+            },
+            {
+                "gift_box_category": 1,
+                "gift_box_gacha_item_data": [
+                    {
+                        "gacha_item_id": 51,
+                        "data_type": 20,
+                        "data_id": 2,
+                        "data_num": 1,
+                        "lots_num": 10
+                    },
+                    {
+                        "gacha_item_id": 52,
+                        "data_type": 20,
+                        "data_id": 1,
+                        "data_num": 1,
+                        "lots_num": 15
+                    },
+                    {
+                        "gacha_item_id": 53,
+                        "data_type": 29,
+                        "data_id": 0,
+                        "data_num": 1,
+                        "lots_num": 20
+                    },
+                    {
+                        "gacha_item_id": 54,
+                        "data_type": 20,
+                        "data_id": 3,
+                        "data_num": 1,
+                        "lots_num": 20
+                    },
+                    {
+                        "gacha_item_id": 55,
+                        "data_type": 3,
+                        "data_id": 8,
+                        "data_num": 1,
+                        "lots_num": 3
+                    },
+                    {
+                        "gacha_item_id": 56,
+                        "data_type": 3,
+                        "data_id": 7,
+                        "data_num": 1,
+                        "lots_num": 5
+                    },
+                    {
+                        "gacha_item_id": 57,
+                        "data_type": 3,
+                        "data_id": 6,
+                        "data_num": 1,
+                        "lots_num": 8
+                    },
+                    {
+                        "gacha_item_id": 58,
+                        "data_type": 3,
+                        "data_id": 5,
+                        "data_num": 1,
+                        "lots_num": 10
+                    },
+                    {
+                        "gacha_item_id": 59,
+                        "data_type": 31,
+                        "data_id": 3,
+                        "data_num": 1,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 60,
+                        "data_type": 31,
+                        "data_id": 2,
+                        "data_num": 1,
+                        "lots_num": 5
+                    },
+                    {
+                        "gacha_item_id": 61,
+                        "data_type": 31,
+                        "data_id": 1,
+                        "data_num": 1,
+                        "lots_num": 10
+                    },
+                    {
+                        "gacha_item_id": 62,
+                        "data_type": 3,
+                        "data_id": 1,
+                        "data_num": 1,
+                        "lots_num": 10
+                    },
+                    {
+                        "gacha_item_id": 63,
+                        "data_type": 31,
+                        "data_id": 20,
+                        "data_num": 1,
+                        "lots_num": 3
+                    },
+                    {
+                        "gacha_item_id": 64,
+                        "data_type": 31,
+                        "data_id": 19,
+                        "data_num": 1,
+                        "lots_num": 8
+                    },
+                    {
+                        "gacha_item_id": 65,
+                        "data_type": 31,
+                        "data_id": 6,
+                        "data_num": 3,
+                        "lots_num": 3
+                    },
+                    {
+                        "gacha_item_id": 66,
+                        "data_type": 31,
+                        "data_id": 9,
+                        "data_num": 3,
+                        "lots_num": 3
+                    },
+                    {
+                        "gacha_item_id": 67,
+                        "data_type": 31,
+                        "data_id": 12,
+                        "data_num": 3,
+                        "lots_num": 3
+                    },
+                    {
+                        "gacha_item_id": 68,
+                        "data_type": 31,
+                        "data_id": 15,
+                        "data_num": 3,
+                        "lots_num": 3
+                    },
+                    {
+                        "gacha_item_id": 69,
+                        "data_type": 31,
+                        "data_id": 18,
+                        "data_num": 3,
+                        "lots_num": 3
+                    },
+                    {
+                        "gacha_item_id": 70,
+                        "data_type": 31,
+                        "data_id": 5,
+                        "data_num": 5,
+                        "lots_num": 3
+                    },
+                    {
+                        "gacha_item_id": 71,
+                        "data_type": 31,
+                        "data_id": 8,
+                        "data_num": 5,
+                        "lots_num": 3
+                    },
+                    {
+                        "gacha_item_id": 72,
+                        "data_type": 31,
+                        "data_id": 11,
+                        "data_num": 5,
+                        "lots_num": 3
+                    },
+                    {
+                        "gacha_item_id": 73,
+                        "data_type": 31,
+                        "data_id": 14,
+                        "data_num": 5,
+                        "lots_num": 3
+                    },
+                    {
+                        "gacha_item_id": 74,
+                        "data_type": 31,
+                        "data_id": 17,
+                        "data_num": 5,
+                        "lots_num": 3
+                    },
+                    {
+                        "gacha_item_id": 75,
+                        "data_type": 31,
+                        "data_id": 4,
+                        "data_num": 10,
+                        "lots_num": 3
+                    },
+                    {
+                        "gacha_item_id": 76,
+                        "data_type": 31,
+                        "data_id": 7,
+                        "data_num": 10,
+                        "lots_num": 3
+                    },
+                    {
+                        "gacha_item_id": 77,
+                        "data_type": 31,
+                        "data_id": 10,
+                        "data_num": 10,
+                        "lots_num": 3
+                    },
+                    {
+                        "gacha_item_id": 78,
+                        "data_type": 31,
+                        "data_id": 13,
+                        "data_num": 10,
+                        "lots_num": 3
+                    },
+                    {
+                        "gacha_item_id": 79,
+                        "data_type": 31,
+                        "data_id": 16,
+                        "data_num": 10,
+                        "lots_num": 3
+                    },
+                    {
+                        "gacha_item_id": 80,
+                        "data_type": 4,
+                        "data_id": 9,
+                        "data_num": 2,
+                        "lots_num": 3
+                    },
+                    {
+                        "gacha_item_id": 81,
+                        "data_type": 4,
+                        "data_id": 7,
+                        "data_num": 2,
+                        "lots_num": 3
+                    },
+                    {
+                        "gacha_item_id": 82,
+                        "data_type": 4,
+                        "data_id": 8,
+                        "data_num": 2,
+                        "lots_num": 3
+                    },
+                    {
+                        "gacha_item_id": 83,
+                        "data_type": 4,
+                        "data_id": 6,
+                        "data_num": 3,
+                        "lots_num": 3
+                    },
+                    {
+                        "gacha_item_id": 84,
+                        "data_type": 4,
+                        "data_id": 4,
+                        "data_num": 3,
+                        "lots_num": 3
+                    },
+                    {
+                        "gacha_item_id": 85,
+                        "data_type": 4,
+                        "data_id": 5,
+                        "data_num": 3,
+                        "lots_num": 3
+                    },
+                    {
+                        "gacha_item_id": 86,
+                        "data_type": 4,
+                        "data_id": 3,
+                        "data_num": 5,
+                        "lots_num": 3
+                    },
+                    {
+                        "gacha_item_id": 87,
+                        "data_type": 4,
+                        "data_id": 1,
+                        "data_num": 5,
+                        "lots_num": 3
+                    },
+                    {
+                        "gacha_item_id": 88,
+                        "data_type": 4,
+                        "data_id": 2,
+                        "data_num": 5,
+                        "lots_num": 3
+                    },
+                    {
+                        "gacha_item_id": 89,
+                        "data_type": 5,
+                        "data_id": 13,
+                        "data_num": 1,
+                        "lots_num": 3
+                    },
+                    {
+                        "gacha_item_id": 90,
+                        "data_type": 5,
+                        "data_id": 12,
+                        "data_num": 1,
+                        "lots_num": 3
+                    },
+                    {
+                        "gacha_item_id": 91,
+                        "data_type": 5,
+                        "data_id": 10,
+                        "data_num": 1,
+                        "lots_num": 3
+                    },
+                    {
+                        "gacha_item_id": 92,
+                        "data_type": 5,
+                        "data_id": 11,
+                        "data_num": 1,
+                        "lots_num": 3
+                    },
+                    {
+                        "gacha_item_id": 93,
+                        "data_type": 5,
+                        "data_id": 9,
+                        "data_num": 4,
+                        "lots_num": 3
+                    },
+                    {
+                        "gacha_item_id": 94,
+                        "data_type": 5,
+                        "data_id": 7,
+                        "data_num": 4,
+                        "lots_num": 3
+                    },
+                    {
+                        "gacha_item_id": 95,
+                        "data_type": 5,
+                        "data_id": 8,
+                        "data_num": 4,
+                        "lots_num": 3
+                    },
+                    {
+                        "gacha_item_id": 96,
+                        "data_type": 5,
+                        "data_id": 6,
+                        "data_num": 7,
+                        "lots_num": 3
+                    },
+                    {
+                        "gacha_item_id": 97,
+                        "data_type": 5,
+                        "data_id": 4,
+                        "data_num": 7,
+                        "lots_num": 3
+                    },
+                    {
+                        "gacha_item_id": 98,
+                        "data_type": 5,
+                        "data_id": 5,
+                        "data_num": 7,
+                        "lots_num": 3
+                    },
+                    {
+                        "gacha_item_id": 99,
+                        "data_type": 5,
+                        "data_id": 3,
+                        "data_num": 10,
+                        "lots_num": 3
+                    },
+                    {
+                        "gacha_item_id": 100,
+                        "data_type": 5,
+                        "data_id": 1,
+                        "data_num": 10,
+                        "lots_num": 3
+                    },
+                    {
+                        "gacha_item_id": 101,
+                        "data_type": 5,
+                        "data_id": 2,
+                        "data_num": 10,
+                        "lots_num": 3
+                    },
+                    {
+                        "gacha_item_id": 102,
+                        "data_type": 6,
+                        "data_id": 301,
+                        "data_num": 5,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 103,
+                        "data_type": 6,
+                        "data_id": 302,
+                        "data_num": 5,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 104,
+                        "data_type": 6,
+                        "data_id": 303,
+                        "data_num": 5,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 105,
+                        "data_type": 6,
+                        "data_id": 305,
+                        "data_num": 5,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 106,
+                        "data_type": 6,
+                        "data_id": 306,
+                        "data_num": 5,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 107,
+                        "data_type": 6,
+                        "data_id": 307,
+                        "data_num": 5,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 108,
+                        "data_type": 6,
+                        "data_id": 308,
+                        "data_num": 5,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 109,
+                        "data_type": 6,
+                        "data_id": 309,
+                        "data_num": 5,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 110,
+                        "data_type": 6,
+                        "data_id": 310,
+                        "data_num": 5,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 111,
+                        "data_type": 6,
+                        "data_id": 311,
+                        "data_num": 5,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 112,
+                        "data_type": 6,
+                        "data_id": 312,
+                        "data_num": 5,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 113,
+                        "data_type": 6,
+                        "data_id": 401,
+                        "data_num": 5,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 114,
+                        "data_type": 6,
+                        "data_id": 402,
+                        "data_num": 5,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 115,
+                        "data_type": 6,
+                        "data_id": 403,
+                        "data_num": 5,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 116,
+                        "data_type": 6,
+                        "data_id": 404,
+                        "data_num": 5,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 117,
+                        "data_type": 6,
+                        "data_id": 406,
+                        "data_num": 5,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 118,
+                        "data_type": 6,
+                        "data_id": 407,
+                        "data_num": 5,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 119,
+                        "data_type": 6,
+                        "data_id": 408,
+                        "data_num": 5,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 120,
+                        "data_type": 6,
+                        "data_id": 409,
+                        "data_num": 5,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 121,
+                        "data_type": 6,
+                        "data_id": 411,
+                        "data_num": 5,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 122,
+                        "data_type": 6,
+                        "data_id": 412,
+                        "data_num": 5,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 123,
+                        "data_type": 6,
+                        "data_id": 413,
+                        "data_num": 5,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 124,
+                        "data_type": 6,
+                        "data_id": 414,
+                        "data_num": 5,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 125,
+                        "data_type": 6,
+                        "data_id": 415,
+                        "data_num": 5,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 126,
+                        "data_type": 6,
+                        "data_id": 416,
+                        "data_num": 5,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 127,
+                        "data_type": 6,
+                        "data_id": 501,
+                        "data_num": 5,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 128,
+                        "data_type": 6,
+                        "data_id": 502,
+                        "data_num": 5,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 129,
+                        "data_type": 6,
+                        "data_id": 503,
+                        "data_num": 5,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 130,
+                        "data_type": 6,
+                        "data_id": 504,
+                        "data_num": 5,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 131,
+                        "data_type": 6,
+                        "data_id": 505,
+                        "data_num": 5,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 132,
+                        "data_type": 6,
+                        "data_id": 506,
+                        "data_num": 5,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 133,
+                        "data_type": 6,
+                        "data_id": 507,
+                        "data_num": 5,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 134,
+                        "data_type": 6,
+                        "data_id": 508,
+                        "data_num": 5,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 135,
+                        "data_type": 6,
+                        "data_id": 509,
+                        "data_num": 5,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 136,
+                        "data_type": 6,
+                        "data_id": 510,
+                        "data_num": 5,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 137,
+                        "data_type": 6,
+                        "data_id": 511,
+                        "data_num": 5,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 138,
+                        "data_type": 11,
+                        "data_id": 0,
+                        "data_num": 100,
+                        "lots_num": 20
+                    }
+                ]
+            }
+        ],
+        "gift_box_gacha_reward_data": [
+            {
+                "gacha_reward_item_id": 1,
+                "gacha_count": 100,
+                "data_type": 13,
+                "data_id": 0,
+                "data_num": 5
+            },
+            {
+                "gacha_reward_item_id": 2,
+                "gacha_count": 1000,
+                "data_type": 13,
+                "data_id": 0,
+                "data_num": 5
+            },
+            {
+                "gacha_reward_item_id": 3,
+                "gacha_count": 10000,
+                "data_type": 13,
+                "data_id": 0,
+                "data_num": 5
+            },
+            {
+                "gacha_reward_item_id": 4,
+                "gacha_count": 50000,
+                "data_type": 13,
+                "data_id": 0,
+                "data_num": 5
+            },
+            {
+                "gacha_reward_item_id": 5,
+                "gacha_count": 100000,
+                "data_type": 13,
+                "data_id": 0,
+                "data_num": 10
+            },
+            {
+                "gacha_reward_item_id": 6,
+                "gacha_count": 200000,
+                "data_type": 13,
+                "data_id": 0,
+                "data_num": 15
+            },
+            {
+                "gacha_reward_item_id": 7,
+                "gacha_count": 460000,
+                "data_type": 13,
+                "data_id": 0,
+                "data_num": 20
+            }
+        ],
+        "gift_box_gacha_amount_data": [
+            {
+                "gacha_count": 1,
+                "amount": 1000
+            },
+            {
+                "gacha_count": 2,
+                "amount": 3000
+            },
+            {
+                "gacha_count": 3,
+                "amount": 5000
+            },
+            {
+                "gacha_count": 4,
+                "amount": 10000
+            },
+            {
+                "gacha_count": 5,
+                "amount": 30000
+            },
+            {
+                "gacha_count": 6,
+                "amount": 50000
+            },
+            {
+                "gacha_count": 7,
+                "amount": 75000
+            },
+            {
+                "gacha_count": 8,
+                "amount": 100000
+            },
+            {
+                "gacha_count": 9,
+                "amount": 125000
+            },
+            {
+                "gacha_count": 10,
+                "amount": 150000
+            },
+            {
+                "gacha_count": 11,
+                "amount": 150000
+            },
+            {
+                "gacha_count": 12,
+                "amount": 150000
+            },
+            {
+                "gacha_count": 13,
+                "amount": 150000
+            },
+            {
+                "gacha_count": 14,
+                "amount": 150000
+            },
+            {
+                "gacha_count": 15,
+                "amount": 150000
+            },
+            {
+                "gacha_count": 16,
+                "amount": 150000
+            },
+            {
+                "gacha_count": 17,
+                "amount": 150000
+            },
+            {
+                "gacha_count": 18,
+                "amount": 150000
+            },
+            {
+                "gacha_count": 19,
+                "amount": 150000
+            },
+            {
+                "gacha_count": 20,
+                "amount": 200000
+            },
+            {
+                "gacha_count": 21,
+                "amount": 200000
+            },
+            {
+                "gacha_count": 22,
+                "amount": 200000
+            },
+            {
+                "gacha_count": 23,
+                "amount": 200000
+            },
+            {
+                "gacha_count": 24,
+                "amount": 200000
+            },
+            {
+                "gacha_count": 25,
+                "amount": 200000
+            },
+            {
+                "gacha_count": 26,
+                "amount": 200000
+            },
+            {
+                "gacha_count": 27,
+                "amount": 200000
+            },
+            {
+                "gacha_count": 28,
+                "amount": 200000
+            },
+            {
+                "gacha_count": 29,
+                "amount": 200000
+            },
+            {
+                "gacha_count": 30,
+                "amount": 200000
+            }
+        ]
+    },
+    {
+        "gift_box_gacha_id": 2,
+        "gift_box_gacha_name": "7周年ギフトボックスキャンペーン",
+        "start_date": 1734156000,
+        "end_date": 1734965999,
+        "reward_end_date": 1735192799,
+        "description": null,
+        "gift_box_gacha_group_data": [
+            {
+                "gift_box_category": 2,
+                "gift_box_gacha_item_data": [
+                    {
+                        "gacha_item_id": 139,
+                        "data_type": 22,
+                        "data_id": 12,
+                        "data_num": 1,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 140,
+                        "data_type": 20,
+                        "data_id": 4,
+                        "data_num": 10,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 141,
+                        "data_type": 3,
+                        "data_id": 11,
+                        "data_num": 1,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 142,
+                        "data_type": 3,
+                        "data_id": 10,
+                        "data_num": 1,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 143,
+                        "data_type": 22,
+                        "data_id": 605,
+                        "data_num": 1,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 144,
+                        "data_type": 22,
+                        "data_id": 609,
+                        "data_num": 1,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 145,
+                        "data_type": 22,
+                        "data_id": 613,
+                        "data_num": 1,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 146,
+                        "data_type": 23,
+                        "data_id": 0,
+                        "data_num": 3,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 147,
+                        "data_type": 31,
+                        "data_id": 21,
+                        "data_num": 1,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 148,
+                        "data_type": 3,
+                        "data_id": 9,
+                        "data_num": 3,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 149,
+                        "data_type": 3,
+                        "data_id": 3,
+                        "data_num": 10,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 150,
+                        "data_type": 4,
+                        "data_id": 9,
+                        "data_num": 40,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 151,
+                        "data_type": 4,
+                        "data_id": 7,
+                        "data_num": 40,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 152,
+                        "data_type": 4,
+                        "data_id": 8,
+                        "data_num": 40,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 153,
+                        "data_type": 5,
+                        "data_id": 13,
+                        "data_num": 10,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 154,
+                        "data_type": 29,
+                        "data_id": 0,
+                        "data_num": 30,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 155,
+                        "data_type": 31,
+                        "data_id": 3,
+                        "data_num": 5,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 156,
+                        "data_type": 31,
+                        "data_id": 20,
+                        "data_num": 3,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 157,
+                        "data_type": 6,
+                        "data_id": 301,
+                        "data_num": 100,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 158,
+                        "data_type": 6,
+                        "data_id": 302,
+                        "data_num": 100,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 159,
+                        "data_type": 6,
+                        "data_id": 303,
+                        "data_num": 100,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 160,
+                        "data_type": 6,
+                        "data_id": 305,
+                        "data_num": 100,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 161,
+                        "data_type": 6,
+                        "data_id": 307,
+                        "data_num": 100,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 162,
+                        "data_type": 6,
+                        "data_id": 308,
+                        "data_num": 100,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 163,
+                        "data_type": 6,
+                        "data_id": 309,
+                        "data_num": 100,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 164,
+                        "data_type": 6,
+                        "data_id": 311,
+                        "data_num": 100,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 165,
+                        "data_type": 6,
+                        "data_id": 312,
+                        "data_num": 100,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 166,
+                        "data_type": 6,
+                        "data_id": 401,
+                        "data_num": 100,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 167,
+                        "data_type": 6,
+                        "data_id": 402,
+                        "data_num": 100,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 168,
+                        "data_type": 6,
+                        "data_id": 404,
+                        "data_num": 100,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 169,
+                        "data_type": 6,
+                        "data_id": 406,
+                        "data_num": 100,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 170,
+                        "data_type": 6,
+                        "data_id": 408,
+                        "data_num": 100,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 171,
+                        "data_type": 6,
+                        "data_id": 409,
+                        "data_num": 100,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 172,
+                        "data_type": 6,
+                        "data_id": 411,
+                        "data_num": 100,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 173,
+                        "data_type": 6,
+                        "data_id": 412,
+                        "data_num": 100,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 174,
+                        "data_type": 6,
+                        "data_id": 413,
+                        "data_num": 100,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 175,
+                        "data_type": 6,
+                        "data_id": 414,
+                        "data_num": 100,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 176,
+                        "data_type": 6,
+                        "data_id": 415,
+                        "data_num": 100,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 177,
+                        "data_type": 6,
+                        "data_id": 416,
+                        "data_num": 100,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 178,
+                        "data_type": 6,
+                        "data_id": 501,
+                        "data_num": 100,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 179,
+                        "data_type": 6,
+                        "data_id": 502,
+                        "data_num": 100,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 180,
+                        "data_type": 6,
+                        "data_id": 503,
+                        "data_num": 100,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 181,
+                        "data_type": 6,
+                        "data_id": 504,
+                        "data_num": 100,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 182,
+                        "data_type": 6,
+                        "data_id": 505,
+                        "data_num": 100,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 183,
+                        "data_type": 6,
+                        "data_id": 506,
+                        "data_num": 100,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 184,
+                        "data_type": 6,
+                        "data_id": 507,
+                        "data_num": 100,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 185,
+                        "data_type": 6,
+                        "data_id": 508,
+                        "data_num": 100,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 186,
+                        "data_type": 6,
+                        "data_id": 509,
+                        "data_num": 100,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 187,
+                        "data_type": 6,
+                        "data_id": 510,
+                        "data_num": 100,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 188,
+                        "data_type": 6,
+                        "data_id": 511,
+                        "data_num": 100,
+                        "lots_num": 1
+                    }
+                ]
+            },
+            {
+                "gift_box_category": 1,
+                "gift_box_gacha_item_data": [
+                    {
+                        "gacha_item_id": 189,
+                        "data_type": 20,
+                        "data_id": 2,
+                        "data_num": 1,
+                        "lots_num": 10
+                    },
+                    {
+                        "gacha_item_id": 190,
+                        "data_type": 20,
+                        "data_id": 1,
+                        "data_num": 1,
+                        "lots_num": 15
+                    },
+                    {
+                        "gacha_item_id": 191,
+                        "data_type": 29,
+                        "data_id": 0,
+                        "data_num": 1,
+                        "lots_num": 20
+                    },
+                    {
+                        "gacha_item_id": 192,
+                        "data_type": 20,
+                        "data_id": 3,
+                        "data_num": 1,
+                        "lots_num": 20
+                    },
+                    {
+                        "gacha_item_id": 193,
+                        "data_type": 3,
+                        "data_id": 8,
+                        "data_num": 1,
+                        "lots_num": 3
+                    },
+                    {
+                        "gacha_item_id": 194,
+                        "data_type": 3,
+                        "data_id": 7,
+                        "data_num": 1,
+                        "lots_num": 5
+                    },
+                    {
+                        "gacha_item_id": 195,
+                        "data_type": 3,
+                        "data_id": 6,
+                        "data_num": 1,
+                        "lots_num": 8
+                    },
+                    {
+                        "gacha_item_id": 196,
+                        "data_type": 3,
+                        "data_id": 5,
+                        "data_num": 1,
+                        "lots_num": 10
+                    },
+                    {
+                        "gacha_item_id": 197,
+                        "data_type": 31,
+                        "data_id": 3,
+                        "data_num": 1,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 198,
+                        "data_type": 31,
+                        "data_id": 2,
+                        "data_num": 1,
+                        "lots_num": 5
+                    },
+                    {
+                        "gacha_item_id": 199,
+                        "data_type": 31,
+                        "data_id": 1,
+                        "data_num": 1,
+                        "lots_num": 10
+                    },
+                    {
+                        "gacha_item_id": 200,
+                        "data_type": 3,
+                        "data_id": 1,
+                        "data_num": 1,
+                        "lots_num": 10
+                    },
+                    {
+                        "gacha_item_id": 201,
+                        "data_type": 31,
+                        "data_id": 20,
+                        "data_num": 1,
+                        "lots_num": 3
+                    },
+                    {
+                        "gacha_item_id": 202,
+                        "data_type": 31,
+                        "data_id": 19,
+                        "data_num": 1,
+                        "lots_num": 7
+                    },
+                    {
+                        "gacha_item_id": 203,
+                        "data_type": 31,
+                        "data_id": 6,
+                        "data_num": 3,
+                        "lots_num": 3
+                    },
+                    {
+                        "gacha_item_id": 204,
+                        "data_type": 31,
+                        "data_id": 9,
+                        "data_num": 3,
+                        "lots_num": 3
+                    },
+                    {
+                        "gacha_item_id": 205,
+                        "data_type": 31,
+                        "data_id": 12,
+                        "data_num": 3,
+                        "lots_num": 3
+                    },
+                    {
+                        "gacha_item_id": 206,
+                        "data_type": 31,
+                        "data_id": 15,
+                        "data_num": 3,
+                        "lots_num": 3
+                    },
+                    {
+                        "gacha_item_id": 207,
+                        "data_type": 31,
+                        "data_id": 18,
+                        "data_num": 3,
+                        "lots_num": 3
+                    },
+                    {
+                        "gacha_item_id": 208,
+                        "data_type": 31,
+                        "data_id": 5,
+                        "data_num": 5,
+                        "lots_num": 3
+                    },
+                    {
+                        "gacha_item_id": 209,
+                        "data_type": 31,
+                        "data_id": 8,
+                        "data_num": 5,
+                        "lots_num": 3
+                    },
+                    {
+                        "gacha_item_id": 210,
+                        "data_type": 31,
+                        "data_id": 11,
+                        "data_num": 5,
+                        "lots_num": 3
+                    },
+                    {
+                        "gacha_item_id": 211,
+                        "data_type": 31,
+                        "data_id": 14,
+                        "data_num": 5,
+                        "lots_num": 3
+                    },
+                    {
+                        "gacha_item_id": 212,
+                        "data_type": 31,
+                        "data_id": 17,
+                        "data_num": 5,
+                        "lots_num": 3
+                    },
+                    {
+                        "gacha_item_id": 213,
+                        "data_type": 31,
+                        "data_id": 4,
+                        "data_num": 10,
+                        "lots_num": 3
+                    },
+                    {
+                        "gacha_item_id": 214,
+                        "data_type": 31,
+                        "data_id": 7,
+                        "data_num": 10,
+                        "lots_num": 3
+                    },
+                    {
+                        "gacha_item_id": 215,
+                        "data_type": 31,
+                        "data_id": 10,
+                        "data_num": 10,
+                        "lots_num": 3
+                    },
+                    {
+                        "gacha_item_id": 216,
+                        "data_type": 31,
+                        "data_id": 13,
+                        "data_num": 10,
+                        "lots_num": 3
+                    },
+                    {
+                        "gacha_item_id": 217,
+                        "data_type": 31,
+                        "data_id": 16,
+                        "data_num": 10,
+                        "lots_num": 3
+                    },
+                    {
+                        "gacha_item_id": 218,
+                        "data_type": 4,
+                        "data_id": 9,
+                        "data_num": 2,
+                        "lots_num": 3
+                    },
+                    {
+                        "gacha_item_id": 219,
+                        "data_type": 4,
+                        "data_id": 7,
+                        "data_num": 2,
+                        "lots_num": 3
+                    },
+                    {
+                        "gacha_item_id": 220,
+                        "data_type": 4,
+                        "data_id": 8,
+                        "data_num": 2,
+                        "lots_num": 3
+                    },
+                    {
+                        "gacha_item_id": 221,
+                        "data_type": 4,
+                        "data_id": 6,
+                        "data_num": 3,
+                        "lots_num": 3
+                    },
+                    {
+                        "gacha_item_id": 222,
+                        "data_type": 4,
+                        "data_id": 4,
+                        "data_num": 3,
+                        "lots_num": 3
+                    },
+                    {
+                        "gacha_item_id": 223,
+                        "data_type": 4,
+                        "data_id": 5,
+                        "data_num": 3,
+                        "lots_num": 3
+                    },
+                    {
+                        "gacha_item_id": 224,
+                        "data_type": 4,
+                        "data_id": 3,
+                        "data_num": 5,
+                        "lots_num": 3
+                    },
+                    {
+                        "gacha_item_id": 225,
+                        "data_type": 4,
+                        "data_id": 1,
+                        "data_num": 5,
+                        "lots_num": 3
+                    },
+                    {
+                        "gacha_item_id": 226,
+                        "data_type": 4,
+                        "data_id": 2,
+                        "data_num": 5,
+                        "lots_num": 3
+                    },
+                    {
+                        "gacha_item_id": 227,
+                        "data_type": 5,
+                        "data_id": 13,
+                        "data_num": 1,
+                        "lots_num": 3
+                    },
+                    {
+                        "gacha_item_id": 228,
+                        "data_type": 5,
+                        "data_id": 12,
+                        "data_num": 1,
+                        "lots_num": 3
+                    },
+                    {
+                        "gacha_item_id": 229,
+                        "data_type": 5,
+                        "data_id": 10,
+                        "data_num": 1,
+                        "lots_num": 3
+                    },
+                    {
+                        "gacha_item_id": 230,
+                        "data_type": 5,
+                        "data_id": 11,
+                        "data_num": 1,
+                        "lots_num": 3
+                    },
+                    {
+                        "gacha_item_id": 231,
+                        "data_type": 5,
+                        "data_id": 9,
+                        "data_num": 4,
+                        "lots_num": 3
+                    },
+                    {
+                        "gacha_item_id": 232,
+                        "data_type": 5,
+                        "data_id": 7,
+                        "data_num": 4,
+                        "lots_num": 3
+                    },
+                    {
+                        "gacha_item_id": 233,
+                        "data_type": 5,
+                        "data_id": 8,
+                        "data_num": 4,
+                        "lots_num": 3
+                    },
+                    {
+                        "gacha_item_id": 234,
+                        "data_type": 5,
+                        "data_id": 6,
+                        "data_num": 7,
+                        "lots_num": 3
+                    },
+                    {
+                        "gacha_item_id": 235,
+                        "data_type": 5,
+                        "data_id": 4,
+                        "data_num": 7,
+                        "lots_num": 3
+                    },
+                    {
+                        "gacha_item_id": 236,
+                        "data_type": 5,
+                        "data_id": 5,
+                        "data_num": 7,
+                        "lots_num": 3
+                    },
+                    {
+                        "gacha_item_id": 237,
+                        "data_type": 5,
+                        "data_id": 3,
+                        "data_num": 10,
+                        "lots_num": 3
+                    },
+                    {
+                        "gacha_item_id": 238,
+                        "data_type": 5,
+                        "data_id": 1,
+                        "data_num": 10,
+                        "lots_num": 3
+                    },
+                    {
+                        "gacha_item_id": 239,
+                        "data_type": 5,
+                        "data_id": 2,
+                        "data_num": 10,
+                        "lots_num": 3
+                    },
+                    {
+                        "gacha_item_id": 240,
+                        "data_type": 6,
+                        "data_id": 301,
+                        "data_num": 5,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 241,
+                        "data_type": 6,
+                        "data_id": 302,
+                        "data_num": 5,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 242,
+                        "data_type": 6,
+                        "data_id": 303,
+                        "data_num": 5,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 243,
+                        "data_type": 6,
+                        "data_id": 305,
+                        "data_num": 5,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 244,
+                        "data_type": 6,
+                        "data_id": 307,
+                        "data_num": 5,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 245,
+                        "data_type": 6,
+                        "data_id": 308,
+                        "data_num": 5,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 246,
+                        "data_type": 6,
+                        "data_id": 309,
+                        "data_num": 5,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 247,
+                        "data_type": 6,
+                        "data_id": 311,
+                        "data_num": 5,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 248,
+                        "data_type": 6,
+                        "data_id": 312,
+                        "data_num": 5,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 249,
+                        "data_type": 6,
+                        "data_id": 401,
+                        "data_num": 5,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 250,
+                        "data_type": 6,
+                        "data_id": 402,
+                        "data_num": 5,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 251,
+                        "data_type": 6,
+                        "data_id": 404,
+                        "data_num": 5,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 252,
+                        "data_type": 6,
+                        "data_id": 406,
+                        "data_num": 5,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 253,
+                        "data_type": 6,
+                        "data_id": 408,
+                        "data_num": 5,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 254,
+                        "data_type": 6,
+                        "data_id": 409,
+                        "data_num": 5,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 255,
+                        "data_type": 6,
+                        "data_id": 411,
+                        "data_num": 5,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 256,
+                        "data_type": 6,
+                        "data_id": 412,
+                        "data_num": 5,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 257,
+                        "data_type": 6,
+                        "data_id": 413,
+                        "data_num": 5,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 258,
+                        "data_type": 6,
+                        "data_id": 414,
+                        "data_num": 5,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 259,
+                        "data_type": 6,
+                        "data_id": 415,
+                        "data_num": 5,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 260,
+                        "data_type": 6,
+                        "data_id": 416,
+                        "data_num": 5,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 261,
+                        "data_type": 6,
+                        "data_id": 501,
+                        "data_num": 5,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 262,
+                        "data_type": 6,
+                        "data_id": 502,
+                        "data_num": 5,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 263,
+                        "data_type": 6,
+                        "data_id": 503,
+                        "data_num": 5,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 264,
+                        "data_type": 6,
+                        "data_id": 504,
+                        "data_num": 5,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 265,
+                        "data_type": 6,
+                        "data_id": 505,
+                        "data_num": 5,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 266,
+                        "data_type": 6,
+                        "data_id": 506,
+                        "data_num": 5,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 267,
+                        "data_type": 6,
+                        "data_id": 507,
+                        "data_num": 5,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 268,
+                        "data_type": 6,
+                        "data_id": 508,
+                        "data_num": 5,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 269,
+                        "data_type": 6,
+                        "data_id": 509,
+                        "data_num": 5,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 270,
+                        "data_type": 6,
+                        "data_id": 510,
+                        "data_num": 5,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 271,
+                        "data_type": 6,
+                        "data_id": 511,
+                        "data_num": 5,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 272,
+                        "data_type": 11,
+                        "data_id": 0,
+                        "data_num": 100,
+                        "lots_num": 25
+                    }
+                ]
+            }
+        ],
+        "gift_box_gacha_reward_data": [
+            {
+                "gacha_reward_item_id": 8,
+                "gacha_count": 100,
+                "data_type": 13,
+                "data_id": 0,
+                "data_num": 5
+            },
+            {
+                "gacha_reward_item_id": 9,
+                "gacha_count": 1000,
+                "data_type": 13,
+                "data_id": 0,
+                "data_num": 5
+            },
+            {
+                "gacha_reward_item_id": 10,
+                "gacha_count": 10000,
+                "data_type": 13,
+                "data_id": 0,
+                "data_num": 5
+            },
+            {
+                "gacha_reward_item_id": 11,
+                "gacha_count": 50000,
+                "data_type": 13,
+                "data_id": 0,
+                "data_num": 5
+            },
+            {
+                "gacha_reward_item_id": 12,
+                "gacha_count": 100000,
+                "data_type": 13,
+                "data_id": 0,
+                "data_num": 10
+            },
+            {
+                "gacha_reward_item_id": 13,
+                "gacha_count": 200000,
+                "data_type": 13,
+                "data_id": 0,
+                "data_num": 15
+            },
+            {
+                "gacha_reward_item_id": 14,
+                "gacha_count": 460000,
+                "data_type": 13,
+                "data_id": 0,
+                "data_num": 20
+            }
+        ],
+        "gift_box_gacha_amount_data": [
+            {
+                "gacha_count": 1,
+                "amount": 1000
+            },
+            {
+                "gacha_count": 2,
+                "amount": 3000
+            },
+            {
+                "gacha_count": 3,
+                "amount": 5000
+            },
+            {
+                "gacha_count": 4,
+                "amount": 10000
+            },
+            {
+                "gacha_count": 5,
+                "amount": 30000
+            },
+            {
+                "gacha_count": 6,
+                "amount": 50000
+            },
+            {
+                "gacha_count": 7,
+                "amount": 75000
+            },
+            {
+                "gacha_count": 8,
+                "amount": 100000
+            },
+            {
+                "gacha_count": 9,
+                "amount": 125000
+            },
+            {
+                "gacha_count": 10,
+                "amount": 150000
+            },
+            {
+                "gacha_count": 11,
+                "amount": 150000
+            },
+            {
+                "gacha_count": 12,
+                "amount": 150000
+            },
+            {
+                "gacha_count": 13,
+                "amount": 150000
+            },
+            {
+                "gacha_count": 14,
+                "amount": 150000
+            },
+            {
+                "gacha_count": 15,
+                "amount": 150000
+            },
+            {
+                "gacha_count": 16,
+                "amount": 150000
+            },
+            {
+                "gacha_count": 17,
+                "amount": 150000
+            },
+            {
+                "gacha_count": 18,
+                "amount": 150000
+            },
+            {
+                "gacha_count": 19,
+                "amount": 150000
+            },
+            {
+                "gacha_count": 20,
+                "amount": 200000
+            },
+            {
+                "gacha_count": 21,
+                "amount": 200000
+            },
+            {
+                "gacha_count": 22,
+                "amount": 200000
+            },
+            {
+                "gacha_count": 23,
+                "amount": 200000
+            },
+            {
+                "gacha_count": 24,
+                "amount": 200000
+            },
+            {
+                "gacha_count": 25,
+                "amount": 200000
+            },
+            {
+                "gacha_count": 26,
+                "amount": 200000
+            },
+            {
+                "gacha_count": 27,
+                "amount": 200000
+            },
+            {
+                "gacha_count": 28,
+                "amount": 200000
+            },
+            {
+                "gacha_count": 29,
+                "amount": 200000
+            },
+            {
+                "gacha_count": 30,
+                "amount": 200000
+            }
+        ]
+    },
+    {
+        "gift_box_gacha_id": 3,
+        "gift_box_gacha_name": "7.5周年ギフトボックスキャンペーン",
+        "start_date": 1748412000,
+        "end_date": 1749221999,
+        "reward_end_date": 1749448799,
+        "description": null,
+        "gift_box_gacha_group_data": [
+            {
+                "gift_box_category": 2,
+                "gift_box_gacha_item_data": [
+                    {
+                        "gacha_item_id": 273,
+                        "data_type": 22,
+                        "data_id": 12,
+                        "data_num": 1,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 274,
+                        "data_type": 22,
+                        "data_id": 1,
+                        "data_num": 1,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 275,
+                        "data_type": 20,
+                        "data_id": 4,
+                        "data_num": 10,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 276,
+                        "data_type": 3,
+                        "data_id": 11,
+                        "data_num": 1,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 277,
+                        "data_type": 3,
+                        "data_id": 10,
+                        "data_num": 1,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 278,
+                        "data_type": 23,
+                        "data_id": 0,
+                        "data_num": 3,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 279,
+                        "data_type": 31,
+                        "data_id": 21,
+                        "data_num": 1,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 280,
+                        "data_type": 3,
+                        "data_id": 9,
+                        "data_num": 3,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 281,
+                        "data_type": 3,
+                        "data_id": 3,
+                        "data_num": 10,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 282,
+                        "data_type": 4,
+                        "data_id": 9,
+                        "data_num": 40,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 283,
+                        "data_type": 4,
+                        "data_id": 7,
+                        "data_num": 40,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 284,
+                        "data_type": 4,
+                        "data_id": 8,
+                        "data_num": 40,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 285,
+                        "data_type": 5,
+                        "data_id": 13,
+                        "data_num": 10,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 286,
+                        "data_type": 5,
+                        "data_id": 12,
+                        "data_num": 20,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 287,
+                        "data_type": 5,
+                        "data_id": 10,
+                        "data_num": 20,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 288,
+                        "data_type": 5,
+                        "data_id": 11,
+                        "data_num": 20,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 289,
+                        "data_type": 5,
+                        "data_id": 9,
+                        "data_num": 60,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 290,
+                        "data_type": 5,
+                        "data_id": 7,
+                        "data_num": 60,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 291,
+                        "data_type": 5,
+                        "data_id": 8,
+                        "data_num": 60,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 292,
+                        "data_type": 29,
+                        "data_id": 0,
+                        "data_num": 30,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 293,
+                        "data_type": 31,
+                        "data_id": 3,
+                        "data_num": 5,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 294,
+                        "data_type": 31,
+                        "data_id": 20,
+                        "data_num": 3,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 295,
+                        "data_type": 6,
+                        "data_id": 301,
+                        "data_num": 100,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 296,
+                        "data_type": 6,
+                        "data_id": 302,
+                        "data_num": 100,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 297,
+                        "data_type": 6,
+                        "data_id": 303,
+                        "data_num": 100,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 298,
+                        "data_type": 6,
+                        "data_id": 305,
+                        "data_num": 100,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 299,
+                        "data_type": 6,
+                        "data_id": 311,
+                        "data_num": 100,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 300,
+                        "data_type": 6,
+                        "data_id": 401,
+                        "data_num": 100,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 301,
+                        "data_type": 6,
+                        "data_id": 402,
+                        "data_num": 100,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 302,
+                        "data_type": 6,
+                        "data_id": 404,
+                        "data_num": 100,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 303,
+                        "data_type": 6,
+                        "data_id": 406,
+                        "data_num": 100,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 304,
+                        "data_type": 6,
+                        "data_id": 408,
+                        "data_num": 100,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 305,
+                        "data_type": 6,
+                        "data_id": 409,
+                        "data_num": 100,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 306,
+                        "data_type": 6,
+                        "data_id": 411,
+                        "data_num": 100,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 307,
+                        "data_type": 6,
+                        "data_id": 412,
+                        "data_num": 100,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 308,
+                        "data_type": 6,
+                        "data_id": 413,
+                        "data_num": 100,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 309,
+                        "data_type": 6,
+                        "data_id": 414,
+                        "data_num": 100,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 310,
+                        "data_type": 6,
+                        "data_id": 415,
+                        "data_num": 100,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 311,
+                        "data_type": 6,
+                        "data_id": 416,
+                        "data_num": 100,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 312,
+                        "data_type": 6,
+                        "data_id": 501,
+                        "data_num": 100,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 313,
+                        "data_type": 6,
+                        "data_id": 502,
+                        "data_num": 100,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 314,
+                        "data_type": 6,
+                        "data_id": 503,
+                        "data_num": 100,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 315,
+                        "data_type": 6,
+                        "data_id": 504,
+                        "data_num": 100,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 316,
+                        "data_type": 6,
+                        "data_id": 505,
+                        "data_num": 100,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 317,
+                        "data_type": 6,
+                        "data_id": 506,
+                        "data_num": 100,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 318,
+                        "data_type": 6,
+                        "data_id": 507,
+                        "data_num": 100,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 319,
+                        "data_type": 6,
+                        "data_id": 508,
+                        "data_num": 100,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 320,
+                        "data_type": 6,
+                        "data_id": 509,
+                        "data_num": 100,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 321,
+                        "data_type": 6,
+                        "data_id": 510,
+                        "data_num": 100,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 322,
+                        "data_type": 6,
+                        "data_id": 511,
+                        "data_num": 100,
+                        "lots_num": 1
+                    }
+                ]
+            },
+            {
+                "gift_box_category": 1,
+                "gift_box_gacha_item_data": [
+                    {
+                        "gacha_item_id": 323,
+                        "data_type": 20,
+                        "data_id": 2,
+                        "data_num": 1,
+                        "lots_num": 10
+                    },
+                    {
+                        "gacha_item_id": 324,
+                        "data_type": 20,
+                        "data_id": 1,
+                        "data_num": 1,
+                        "lots_num": 15
+                    },
+                    {
+                        "gacha_item_id": 325,
+                        "data_type": 29,
+                        "data_id": 0,
+                        "data_num": 1,
+                        "lots_num": 20
+                    },
+                    {
+                        "gacha_item_id": 326,
+                        "data_type": 20,
+                        "data_id": 3,
+                        "data_num": 1,
+                        "lots_num": 20
+                    },
+                    {
+                        "gacha_item_id": 327,
+                        "data_type": 3,
+                        "data_id": 8,
+                        "data_num": 1,
+                        "lots_num": 3
+                    },
+                    {
+                        "gacha_item_id": 328,
+                        "data_type": 3,
+                        "data_id": 7,
+                        "data_num": 1,
+                        "lots_num": 5
+                    },
+                    {
+                        "gacha_item_id": 329,
+                        "data_type": 3,
+                        "data_id": 6,
+                        "data_num": 1,
+                        "lots_num": 8
+                    },
+                    {
+                        "gacha_item_id": 330,
+                        "data_type": 3,
+                        "data_id": 5,
+                        "data_num": 1,
+                        "lots_num": 10
+                    },
+                    {
+                        "gacha_item_id": 331,
+                        "data_type": 31,
+                        "data_id": 3,
+                        "data_num": 1,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 332,
+                        "data_type": 31,
+                        "data_id": 2,
+                        "data_num": 1,
+                        "lots_num": 5
+                    },
+                    {
+                        "gacha_item_id": 333,
+                        "data_type": 31,
+                        "data_id": 1,
+                        "data_num": 1,
+                        "lots_num": 10
+                    },
+                    {
+                        "gacha_item_id": 334,
+                        "data_type": 3,
+                        "data_id": 1,
+                        "data_num": 1,
+                        "lots_num": 10
+                    },
+                    {
+                        "gacha_item_id": 335,
+                        "data_type": 31,
+                        "data_id": 20,
+                        "data_num": 1,
+                        "lots_num": 3
+                    },
+                    {
+                        "gacha_item_id": 336,
+                        "data_type": 31,
+                        "data_id": 19,
+                        "data_num": 1,
+                        "lots_num": 7
+                    },
+                    {
+                        "gacha_item_id": 337,
+                        "data_type": 31,
+                        "data_id": 6,
+                        "data_num": 3,
+                        "lots_num": 3
+                    },
+                    {
+                        "gacha_item_id": 338,
+                        "data_type": 31,
+                        "data_id": 9,
+                        "data_num": 3,
+                        "lots_num": 3
+                    },
+                    {
+                        "gacha_item_id": 339,
+                        "data_type": 31,
+                        "data_id": 12,
+                        "data_num": 3,
+                        "lots_num": 3
+                    },
+                    {
+                        "gacha_item_id": 340,
+                        "data_type": 31,
+                        "data_id": 15,
+                        "data_num": 3,
+                        "lots_num": 3
+                    },
+                    {
+                        "gacha_item_id": 341,
+                        "data_type": 31,
+                        "data_id": 18,
+                        "data_num": 3,
+                        "lots_num": 3
+                    },
+                    {
+                        "gacha_item_id": 342,
+                        "data_type": 31,
+                        "data_id": 5,
+                        "data_num": 5,
+                        "lots_num": 3
+                    },
+                    {
+                        "gacha_item_id": 343,
+                        "data_type": 31,
+                        "data_id": 8,
+                        "data_num": 5,
+                        "lots_num": 3
+                    },
+                    {
+                        "gacha_item_id": 344,
+                        "data_type": 31,
+                        "data_id": 11,
+                        "data_num": 5,
+                        "lots_num": 3
+                    },
+                    {
+                        "gacha_item_id": 345,
+                        "data_type": 31,
+                        "data_id": 14,
+                        "data_num": 5,
+                        "lots_num": 3
+                    },
+                    {
+                        "gacha_item_id": 346,
+                        "data_type": 31,
+                        "data_id": 17,
+                        "data_num": 5,
+                        "lots_num": 3
+                    },
+                    {
+                        "gacha_item_id": 347,
+                        "data_type": 31,
+                        "data_id": 4,
+                        "data_num": 10,
+                        "lots_num": 3
+                    },
+                    {
+                        "gacha_item_id": 348,
+                        "data_type": 31,
+                        "data_id": 7,
+                        "data_num": 10,
+                        "lots_num": 3
+                    },
+                    {
+                        "gacha_item_id": 349,
+                        "data_type": 31,
+                        "data_id": 10,
+                        "data_num": 10,
+                        "lots_num": 3
+                    },
+                    {
+                        "gacha_item_id": 350,
+                        "data_type": 31,
+                        "data_id": 13,
+                        "data_num": 10,
+                        "lots_num": 3
+                    },
+                    {
+                        "gacha_item_id": 351,
+                        "data_type": 31,
+                        "data_id": 16,
+                        "data_num": 10,
+                        "lots_num": 3
+                    },
+                    {
+                        "gacha_item_id": 352,
+                        "data_type": 4,
+                        "data_id": 9,
+                        "data_num": 2,
+                        "lots_num": 3
+                    },
+                    {
+                        "gacha_item_id": 353,
+                        "data_type": 4,
+                        "data_id": 7,
+                        "data_num": 2,
+                        "lots_num": 3
+                    },
+                    {
+                        "gacha_item_id": 354,
+                        "data_type": 4,
+                        "data_id": 8,
+                        "data_num": 2,
+                        "lots_num": 3
+                    },
+                    {
+                        "gacha_item_id": 355,
+                        "data_type": 4,
+                        "data_id": 6,
+                        "data_num": 3,
+                        "lots_num": 3
+                    },
+                    {
+                        "gacha_item_id": 356,
+                        "data_type": 4,
+                        "data_id": 4,
+                        "data_num": 3,
+                        "lots_num": 3
+                    },
+                    {
+                        "gacha_item_id": 357,
+                        "data_type": 4,
+                        "data_id": 5,
+                        "data_num": 3,
+                        "lots_num": 3
+                    },
+                    {
+                        "gacha_item_id": 358,
+                        "data_type": 4,
+                        "data_id": 3,
+                        "data_num": 5,
+                        "lots_num": 3
+                    },
+                    {
+                        "gacha_item_id": 359,
+                        "data_type": 4,
+                        "data_id": 1,
+                        "data_num": 5,
+                        "lots_num": 3
+                    },
+                    {
+                        "gacha_item_id": 360,
+                        "data_type": 4,
+                        "data_id": 2,
+                        "data_num": 5,
+                        "lots_num": 3
+                    },
+                    {
+                        "gacha_item_id": 361,
+                        "data_type": 5,
+                        "data_id": 13,
+                        "data_num": 1,
+                        "lots_num": 3
+                    },
+                    {
+                        "gacha_item_id": 362,
+                        "data_type": 5,
+                        "data_id": 12,
+                        "data_num": 1,
+                        "lots_num": 3
+                    },
+                    {
+                        "gacha_item_id": 363,
+                        "data_type": 5,
+                        "data_id": 10,
+                        "data_num": 1,
+                        "lots_num": 3
+                    },
+                    {
+                        "gacha_item_id": 364,
+                        "data_type": 5,
+                        "data_id": 11,
+                        "data_num": 1,
+                        "lots_num": 3
+                    },
+                    {
+                        "gacha_item_id": 365,
+                        "data_type": 5,
+                        "data_id": 9,
+                        "data_num": 4,
+                        "lots_num": 3
+                    },
+                    {
+                        "gacha_item_id": 366,
+                        "data_type": 5,
+                        "data_id": 7,
+                        "data_num": 4,
+                        "lots_num": 3
+                    },
+                    {
+                        "gacha_item_id": 367,
+                        "data_type": 5,
+                        "data_id": 8,
+                        "data_num": 4,
+                        "lots_num": 3
+                    },
+                    {
+                        "gacha_item_id": 368,
+                        "data_type": 5,
+                        "data_id": 6,
+                        "data_num": 7,
+                        "lots_num": 3
+                    },
+                    {
+                        "gacha_item_id": 369,
+                        "data_type": 5,
+                        "data_id": 4,
+                        "data_num": 7,
+                        "lots_num": 3
+                    },
+                    {
+                        "gacha_item_id": 370,
+                        "data_type": 5,
+                        "data_id": 5,
+                        "data_num": 7,
+                        "lots_num": 3
+                    },
+                    {
+                        "gacha_item_id": 371,
+                        "data_type": 5,
+                        "data_id": 3,
+                        "data_num": 10,
+                        "lots_num": 3
+                    },
+                    {
+                        "gacha_item_id": 372,
+                        "data_type": 5,
+                        "data_id": 1,
+                        "data_num": 10,
+                        "lots_num": 3
+                    },
+                    {
+                        "gacha_item_id": 373,
+                        "data_type": 5,
+                        "data_id": 2,
+                        "data_num": 10,
+                        "lots_num": 3
+                    },
+                    {
+                        "gacha_item_id": 374,
+                        "data_type": 6,
+                        "data_id": 301,
+                        "data_num": 5,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 375,
+                        "data_type": 6,
+                        "data_id": 302,
+                        "data_num": 5,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 376,
+                        "data_type": 6,
+                        "data_id": 303,
+                        "data_num": 5,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 377,
+                        "data_type": 6,
+                        "data_id": 305,
+                        "data_num": 5,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 378,
+                        "data_type": 6,
+                        "data_id": 311,
+                        "data_num": 5,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 379,
+                        "data_type": 6,
+                        "data_id": 401,
+                        "data_num": 5,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 380,
+                        "data_type": 6,
+                        "data_id": 402,
+                        "data_num": 5,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 381,
+                        "data_type": 6,
+                        "data_id": 404,
+                        "data_num": 5,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 382,
+                        "data_type": 6,
+                        "data_id": 406,
+                        "data_num": 5,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 383,
+                        "data_type": 6,
+                        "data_id": 408,
+                        "data_num": 5,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 384,
+                        "data_type": 6,
+                        "data_id": 409,
+                        "data_num": 5,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 385,
+                        "data_type": 6,
+                        "data_id": 411,
+                        "data_num": 5,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 386,
+                        "data_type": 6,
+                        "data_id": 412,
+                        "data_num": 5,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 387,
+                        "data_type": 6,
+                        "data_id": 413,
+                        "data_num": 5,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 388,
+                        "data_type": 6,
+                        "data_id": 414,
+                        "data_num": 5,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 389,
+                        "data_type": 6,
+                        "data_id": 415,
+                        "data_num": 5,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 390,
+                        "data_type": 6,
+                        "data_id": 416,
+                        "data_num": 5,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 391,
+                        "data_type": 6,
+                        "data_id": 501,
+                        "data_num": 5,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 392,
+                        "data_type": 6,
+                        "data_id": 502,
+                        "data_num": 5,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 393,
+                        "data_type": 6,
+                        "data_id": 503,
+                        "data_num": 5,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 394,
+                        "data_type": 6,
+                        "data_id": 504,
+                        "data_num": 5,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 395,
+                        "data_type": 6,
+                        "data_id": 505,
+                        "data_num": 5,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 396,
+                        "data_type": 6,
+                        "data_id": 506,
+                        "data_num": 5,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 397,
+                        "data_type": 6,
+                        "data_id": 507,
+                        "data_num": 5,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 398,
+                        "data_type": 6,
+                        "data_id": 508,
+                        "data_num": 5,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 399,
+                        "data_type": 6,
+                        "data_id": 509,
+                        "data_num": 5,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 400,
+                        "data_type": 6,
+                        "data_id": 510,
+                        "data_num": 5,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 401,
+                        "data_type": 6,
+                        "data_id": 511,
+                        "data_num": 5,
+                        "lots_num": 1
+                    },
+                    {
+                        "gacha_item_id": 402,
+                        "data_type": 11,
+                        "data_id": 0,
+                        "data_num": 100,
+                        "lots_num": 29
+                    }
+                ]
+            }
+        ],
+        "gift_box_gacha_reward_data": [
+            {
+                "gacha_reward_item_id": 15,
+                "gacha_count": 100,
+                "data_type": 13,
+                "data_id": 0,
+                "data_num": 5
+            },
+            {
+                "gacha_reward_item_id": 16,
+                "gacha_count": 1000,
+                "data_type": 13,
+                "data_id": 0,
+                "data_num": 5
+            },
+            {
+                "gacha_reward_item_id": 17,
+                "gacha_count": 10000,
+                "data_type": 13,
+                "data_id": 0,
+                "data_num": 5
+            },
+            {
+                "gacha_reward_item_id": 18,
+                "gacha_count": 50000,
+                "data_type": 13,
+                "data_id": 0,
+                "data_num": 5
+            },
+            {
+                "gacha_reward_item_id": 19,
+                "gacha_count": 100000,
+                "data_type": 13,
+                "data_id": 0,
+                "data_num": 10
+            },
+            {
+                "gacha_reward_item_id": 20,
+                "gacha_count": 200000,
+                "data_type": 13,
+                "data_id": 0,
+                "data_num": 15
+            },
+            {
+                "gacha_reward_item_id": 21,
+                "gacha_count": 460000,
+                "data_type": 13,
+                "data_id": 0,
+                "data_num": 20
+            }
+        ],
+        "gift_box_gacha_amount_data": [
+            {
+                "gacha_count": 1,
+                "amount": 1000
+            },
+            {
+                "gacha_count": 2,
+                "amount": 3000
+            },
+            {
+                "gacha_count": 3,
+                "amount": 5000
+            },
+            {
+                "gacha_count": 4,
+                "amount": 10000
+            },
+            {
+                "gacha_count": 5,
+                "amount": 30000
+            },
+            {
+                "gacha_count": 6,
+                "amount": 50000
+            },
+            {
+                "gacha_count": 7,
+                "amount": 75000
+            },
+            {
+                "gacha_count": 8,
+                "amount": 100000
+            },
+            {
+                "gacha_count": 9,
+                "amount": 125000
+            },
+            {
+                "gacha_count": 10,
+                "amount": 150000
+            },
+            {
+                "gacha_count": 11,
+                "amount": 150000
+            },
+            {
+                "gacha_count": 12,
+                "amount": 150000
+            },
+            {
+                "gacha_count": 13,
+                "amount": 150000
+            },
+            {
+                "gacha_count": 14,
+                "amount": 150000
+            },
+            {
+                "gacha_count": 15,
+                "amount": 150000
+            },
+            {
+                "gacha_count": 16,
+                "amount": 150000
+            },
+            {
+                "gacha_count": 17,
+                "amount": 150000
+            },
+            {
+                "gacha_count": 18,
+                "amount": 150000
+            },
+            {
+                "gacha_count": 19,
+                "amount": 150000
+            },
+            {
+                "gacha_count": 20,
+                "amount": 200000
+            },
+            {
+                "gacha_count": 21,
+                "amount": 200000
+            },
+            {
+                "gacha_count": 22,
+                "amount": 200000
+            },
+            {
+                "gacha_count": 23,
+                "amount": 200000
+            },
+            {
+                "gacha_count": 24,
+                "amount": 200000
+            },
+            {
+                "gacha_count": 25,
+                "amount": 200000
+            },
+            {
+                "gacha_count": 26,
+                "amount": 200000
+            },
+            {
+                "gacha_count": 27,
+                "amount": 200000
+            },
+            {
+                "gacha_count": 28,
+                "amount": 200000
+            },
+            {
+                "gacha_count": 29,
+                "amount": 200000
+            },
+            {
+                "gacha_count": 30,
+                "amount": 200000
+            }
+        ]
+    }
+]

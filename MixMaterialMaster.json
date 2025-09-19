@@ -1,0 +1,83 @@
+[
+    {
+        "mix_material_id": 1,
+        "mix_material_name": "スターチャージ(小)",
+        "attribute": 2,
+        "max_possession": 9999,
+        "exp": 480,
+        "price": 100,
+        "description": "カードを強化するアイテム。<br />星属性のカードは獲得XPアップ。"
+    },
+    {
+        "mix_material_id": 2,
+        "mix_material_name": "ムーンチャージ(小)",
+        "attribute": 3,
+        "max_possession": 9999,
+        "exp": 480,
+        "price": 100,
+        "description": "カードを強化するアイテム。<br />月属性のカードは獲得XPアップ。"
+    },
+    {
+        "mix_material_id": 3,
+        "mix_material_name": "サンチャージ(小)",
+        "attribute": 1,
+        "max_possession": 9999,
+        "exp": 480,
+        "price": 100,
+        "description": "カードを強化するアイテム。<br />太陽属性のカードは獲得XPアップ。"
+    },
+    {
+        "mix_material_id": 4,
+        "mix_material_name": "スターチャージ(中)",
+        "attribute": 2,
+        "max_possession": 9999,
+        "exp": 1920,
+        "price": 5000,
+        "description": "カードを強化するアイテム。<br />星属性のカードは獲得XPアップ。"
+    },
+    {
+        "mix_material_id": 5,
+        "mix_material_name": "ムーンチャージ(中)",
+        "attribute": 3,
+        "max_possession": 9999,
+        "exp": 1920,
+        "price": 5000,
+        "description": "カードを強化するアイテム。<br />月属性のカードは獲得XPアップ。"
+    },
+    {
+        "mix_material_id": 6,
+        "mix_material_name": "サンチャージ(中)",
+        "attribute": 1,
+        "max_possession": 9999,
+        "exp": 1920,
+        "price": 5000,
+        "description": "カードを強化するアイテム。<br />太陽属性のカードは獲得XPアップ。"
+    },
+    {
+        "mix_material_id": 7,
+        "mix_material_name": "スターチャージ(大)",
+        "attribute": 2,
+        "max_possession": 9999,
+        "exp": 4800,
+        "price": 100000,
+        "description": "カードを強化するアイテム。<br />星属性のカードは獲得XPアップ。"
+    },
+    {
+        "mix_material_id": 8,
+        "mix_material_name": "ムーンチャージ(大)",
+        "attribute": 3,
+        "max_possession": 9999,
+        "exp": 4800,
+        "price": 100000,
+        "description": "カードを強化するアイテム。<br />月属性のカードは獲得XPアップ。"
+    },
+    {
+        "mix_material_id": 9,
+        "mix_material_name": "サンチャージ(大)",
+        "attribute": 1,
+        "max_possession": 9999,
+        "exp": 4800,
+        "price": 100000,
+        "description": "カードを強化するアイテム。<br />太陽属性のカードは獲得XPアップ。"
+    }
+]

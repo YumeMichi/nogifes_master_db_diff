@@ -1,0 +1,696 @@
+[
+    {
+        "panel_id": 1,
+        "panel_title": "No.1~No.9をクリアすると、<br />このアイテムが獲得できるよ！",
+        "start_date": 1668146400,
+        "end_date": 1924959599,
+        "complete_reward_flag": 0,
+        "adv_id": 0,
+        "panel_reward_data": [
+            {
+                "data_type": 22,
+                "data_id": 10,
+                "data_num": 1
+            }
+        ],
+        "task_data": [
+            {
+                "task_id": 1,
+                "title": "設定でノーツのタイミング調整をしよう（設定画面の「タップで調整する」ボタンから調整）",
+                "mission_type": 119,
+                "mission_param": "1@0@0@0@0@0@0@0@0@0",
+                "reward_data": [
+                    {
+                        "data_type": 10,
+                        "data_id": 0,
+                        "data_num": 5000
+                    }
+                ]
+            },
+            {
+                "task_id": 2,
+                "title": "LIVEを1回クリアしよう",
+                "mission_type": 101,
+                "mission_param": "0@0@0@0@1@0@0@0@0@0",
+                "reward_data": [
+                    {
+                        "data_type": 11,
+                        "data_id": 0,
+                        "data_num": 1000
+                    }
+                ]
+            },
+            {
+                "task_id": 3,
+                "title": "メダルガチャを1回引こう",
+                "mission_type": 106,
+                "mission_param": "3@1@0@0@0@0@0@0@0@0",
+                "reward_data": [
+                    {
+                        "data_type": 3,
+                        "data_id": 5,
+                        "data_num": 3
+                    }
+                ]
+            },
+            {
+                "task_id": 4,
+                "title": "カードのフォーメーション編成を変更しよう",
+                "mission_type": 104,
+                "mission_param": "0@1@0@0@0@0@0@0@0@0",
+                "reward_data": [
+                    {
+                        "data_type": 4,
+                        "data_id": 3,
+                        "data_num": 10
+                    }
+                ]
+            },
+            {
+                "task_id": 5,
+                "title": "フォーメーション名を変更しよう",
+                "mission_type": 105,
+                "mission_param": "1@0@0@0@0@0@0@0@0@0",
+                "reward_data": [
+                    {
+                        "data_type": 4,
+                        "data_id": 2,
+                        "data_num": 10
+                    }
+                ]
+            },
+            {
+                "task_id": 6,
+                "title": "プロフィールでお気に入りカードを設定しよう",
+                "mission_type": 113,
+                "mission_param": "1@0@0@0@0@0@0@0@0@0",
+                "reward_data": [
+                    {
+                        "data_type": 4,
+                        "data_id": 1,
+                        "data_num": 10
+                    }
+                ]
+            },
+            {
+                "task_id": 7,
+                "title": "カードの強化を1回しよう",
+                "mission_type": 102,
+                "mission_param": "0@1@0@0@0@0@0@0@0@0",
+                "reward_data": [
+                    {
+                        "data_type": 3,
+                        "data_id": 1,
+                        "data_num": 2
+                    }
+                ]
+            },
+            {
+                "task_id": 8,
+                "title": "カードのスキルLvアップを1回しよう",
+                "mission_type": 114,
+                "mission_param": "0@1@0@0@0@0@0@0@0@0",
+                "reward_data": [
+                    {
+                        "data_type": 3,
+                        "data_id": 2,
+                        "data_num": 2
+                    }
+                ]
+            },
+            {
+                "task_id": 9,
+                "title": "プレイヤーRankを3にしよう",
+                "mission_type": 107,
+                "mission_param": "3@0@0@0@0@0@0@0@0@0",
+                "reward_data": [
+                    {
+                        "data_type": 29,
+                        "data_id": 0,
+                        "data_num": 10
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "panel_id": 2,
+        "panel_title": "No.10~No.18をクリアすると、<br />このアイテムが獲得できるよ！",
+        "start_date": 1668146400,
+        "end_date": 1924959599,
+        "complete_reward_flag": 0,
+        "adv_id": 0,
+        "panel_reward_data": [
+            {
+                "data_type": 13,
+                "data_id": 0,
+                "data_num": 10
+            }
+        ],
+        "task_data": [
+            {
+                "task_id": 10,
+                "title": "太陽属性楽曲のLIVEを1回クリアしよう",
+                "mission_type": 101,
+                "mission_param": "1@0@0@0@1@0@0@0@0@0",
+                "reward_data": [
+                    {
+                        "data_type": 4,
+                        "data_id": 6,
+                        "data_num": 10
+                    }
+                ]
+            },
+            {
+                "task_id": 11,
+                "title": "月属性楽曲のLIVEを1回クリアしよう",
+                "mission_type": 101,
+                "mission_param": "3@0@0@0@1@0@0@0@0@0",
+                "reward_data": [
+                    {
+                        "data_type": 4,
+                        "data_id": 5,
+                        "data_num": 10
+                    }
+                ]
+            },
+            {
+                "task_id": 12,
+                "title": "星属性楽曲のLIVEを1回クリアしよう",
+                "mission_type": 101,
+                "mission_param": "2@0@0@0@1@0@0@0@0@0",
+                "reward_data": [
+                    {
+                        "data_type": 4,
+                        "data_id": 4,
+                        "data_num": 10
+                    }
+                ]
+            },
+            {
+                "task_id": 13,
+                "title": "カードのレベルを10にしよう",
+                "mission_type": 102,
+                "mission_param": "10@1@0@0@0@0@0@0@0@0",
+                "reward_data": [
+                    {
+                        "data_type": 4,
+                        "data_id": 9,
+                        "data_num": 5
+                    }
+                ]
+            },
+            {
+                "task_id": 14,
+                "title": "LIVEを5回クリアしよう",
+                "mission_type": 101,
+                "mission_param": "0@0@0@0@5@0@0@0@0@0",
+                "reward_data": [
+                    {
+                        "data_type": 4,
+                        "data_id": 8,
+                        "data_num": 5
+                    }
+                ]
+            },
+            {
+                "task_id": 15,
+                "title": "LIVEをSCORE 70000以上で1回クリアしよう",
+                "mission_type": 101,
+                "mission_param": "0@0@70000@0@1@0@0@0@0@0",
+                "reward_data": [
+                    {
+                        "data_type": 4,
+                        "data_id": 7,
+                        "data_num": 5
+                    }
+                ]
+            },
+            {
+                "task_id": 16,
+                "title": "楽曲ショップで好きな楽曲を1曲交換しよう",
+                "mission_type": 120,
+                "mission_param": "1@0@0@0@0@0@0@0@0@0",
+                "reward_data": [
+                    {
+                        "data_type": 20,
+                        "data_id": 3,
+                        "data_num": 20
+                    }
+                ]
+            },
+            {
+                "task_id": 17,
+                "title": "アイテムトレードでアイテムを交換しよう（高画質鑑賞の鍵がおすすめ！）",
+                "mission_type": 115,
+                "mission_param": "1@0@0@0@0@0@0@0@0@0",
+                "reward_data": [
+                    {
+                        "data_type": 3,
+                        "data_id": 3,
+                        "data_num": 2
+                    }
+                ]
+            },
+            {
+                "task_id": 18,
+                "title": "LIVE鑑賞で観賞用高画質MOVIEを解放しよう（LIVE画面右下の「絞り込み」で高画質MOVIE対応曲を表示！）",
+                "mission_type": 117,
+                "mission_param": "1@0@0@0@0@0@0@0@0@0",
+                "reward_data": [
+                    {
+                        "data_type": 3,
+                        "data_id": 9,
+                        "data_num": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "panel_id": 3,
+        "panel_title": "No.19~No.27をクリアすると、<br />このアイテムが獲得できるよ！",
+        "start_date": 1668146400,
+        "end_date": 1924959599,
+        "complete_reward_flag": 0,
+        "adv_id": 0,
+        "panel_reward_data": [
+            {
+                "data_type": 13,
+                "data_id": 0,
+                "data_num": 10
+            }
+        ],
+        "task_data": [
+            {
+                "task_id": 19,
+                "title": "全タイプ楽曲のLIVEを1回クリアしよう",
+                "mission_type": 101,
+                "mission_param": "0@6@0@0@1@0@0@0@0@0",
+                "reward_data": [
+                    {
+                        "data_type": 31,
+                        "data_id": 1,
+                        "data_num": 10
+                    }
+                ]
+            },
+            {
+                "task_id": 20,
+                "title": "リズムタイプ楽曲のLIVEを1回クリアしよう",
+                "mission_type": 101,
+                "mission_param": "0@1@0@0@1@0@0@0@0@0",
+                "reward_data": [
+                    {
+                        "data_type": 31,
+                        "data_id": 4,
+                        "data_num": 20
+                    }
+                ]
+            },
+            {
+                "task_id": 21,
+                "title": "メロディタイプ楽曲のLIVEを1回クリアしよう",
+                "mission_type": 101,
+                "mission_param": "0@2@0@0@1@0@0@0@0@0",
+                "reward_data": [
+                    {
+                        "data_type": 31,
+                        "data_id": 7,
+                        "data_num": 20
+                    }
+                ]
+            },
+            {
+                "task_id": 22,
+                "title": "ハーモニータイプ楽曲のLIVEを1回クリアしよう",
+                "mission_type": 101,
+                "mission_param": "0@3@0@0@1@0@0@0@0@0",
+                "reward_data": [
+                    {
+                        "data_type": 31,
+                        "data_id": 10,
+                        "data_num": 20
+                    }
+                ]
+            },
+            {
+                "task_id": 23,
+                "title": "グルーヴタイプ楽曲のLIVEを1回クリアしよう",
+                "mission_type": 101,
+                "mission_param": "0@4@0@0@1@0@0@0@0@0",
+                "reward_data": [
+                    {
+                        "data_type": 31,
+                        "data_id": 13,
+                        "data_num": 20
+                    }
+                ]
+            },
+            {
+                "task_id": 24,
+                "title": "ビートタイプ楽曲のLIVEを1回クリアしよう",
+                "mission_type": 101,
+                "mission_param": "0@5@0@0@1@0@0@0@0@0",
+                "reward_data": [
+                    {
+                        "data_type": 31,
+                        "data_id": 16,
+                        "data_num": 20
+                    }
+                ]
+            },
+            {
+                "task_id": 25,
+                "title": "カードのスキルLvを2にしよう",
+                "mission_type": 114,
+                "mission_param": "2@1@0@0@0@0@0@0@0@0",
+                "reward_data": [
+                    {
+                        "data_type": 11,
+                        "data_id": 0,
+                        "data_num": 2000
+                    }
+                ]
+            },
+            {
+                "task_id": 26,
+                "title": "タイプレッスンで好きなメンバーのアイドルLvを1上げよう",
+                "mission_type": 118,
+                "mission_param": "1@0@0@0@0@0@0@0@0@0",
+                "reward_data": [
+                    {
+                        "data_type": 10,
+                        "data_id": 0,
+                        "data_num": 10000
+                    }
+                ]
+            },
+            {
+                "task_id": 27,
+                "title": "プレイヤーRankを6にしよう",
+                "mission_type": 107,
+                "mission_param": "6@0@0@0@0@0@0@0@0@0",
+                "reward_data": [
+                    {
+                        "data_type": 13,
+                        "data_id": 0,
+                        "data_num": 5
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "panel_id": 4,
+        "panel_title": "No.28~No.36をクリアすると、<br />このアイテムが獲得できるよ！",
+        "start_date": 1668146400,
+        "end_date": 1924959599,
+        "complete_reward_flag": 0,
+        "adv_id": 0,
+        "panel_reward_data": [
+            {
+                "data_type": 13,
+                "data_id": 0,
+                "data_num": 20
+            }
+        ],
+        "task_data": [
+            {
+                "task_id": 28,
+                "title": "メダルガチャを10回引こう",
+                "mission_type": 106,
+                "mission_param": "3@10@0@0@0@0@0@0@0@0",
+                "reward_data": [
+                    {
+                        "data_type": 5,
+                        "data_id": 3,
+                        "data_num": 60
+                    }
+                ]
+            },
+            {
+                "task_id": 29,
+                "title": "カードのレベルをMAXにしよう",
+                "mission_type": 102,
+                "mission_param": "99999@1@0@0@0@0@0@0@0@0",
+                "reward_data": [
+                    {
+                        "data_type": 5,
+                        "data_id": 2,
+                        "data_num": 60
+                    }
+                ]
+            },
+            {
+                "task_id": 30,
+                "title": "サポートカードを設定しよう",
+                "mission_type": 112,
+                "mission_param": "1@0@0@0@0@0@0@0@0@0",
+                "reward_data": [
+                    {
+                        "data_type": 5,
+                        "data_id": 1,
+                        "data_num": 60
+                    }
+                ]
+            },
+            {
+                "task_id": 31,
+                "title": "LIVEをSCORE 120000以上でクリアしよう",
+                "mission_type": 101,
+                "mission_param": "0@0@120000@0@1@0@0@0@0@0",
+                "reward_data": [
+                    {
+                        "data_type": 5,
+                        "data_id": 6,
+                        "data_num": 40
+                    }
+                ]
+            },
+            {
+                "task_id": 32,
+                "title": "ツアーを1回クリアしよう",
+                "mission_type": 109,
+                "mission_param": "1@0@0@0@0@0@0@0@0@0",
+                "reward_data": [
+                    {
+                        "data_type": 5,
+                        "data_id": 5,
+                        "data_num": 40
+                    }
+                ]
+            },
+            {
+                "task_id": 33,
+                "title": "アルバムにカードを20枚登録しよう",
+                "mission_type": 111,
+                "mission_param": "20@0@0@0@0@0@0@0@0@0",
+                "reward_data": [
+                    {
+                        "data_type": 5,
+                        "data_id": 4,
+                        "data_num": 40
+                    }
+                ]
+            },
+            {
+                "task_id": 34,
+                "title": "ホーム設定で衣装モードの背景を変更しよう",
+                "mission_type": 121,
+                "mission_param": "1@0@0@0@0@0@0@0@0@0",
+                "reward_data": [
+                    {
+                        "data_type": 15,
+                        "data_id": 0,
+                        "data_num": 50
+                    }
+                ]
+            },
+            {
+                "task_id": 35,
+                "title": "ポイント交換所で好きなアイテムを交換しよう",
+                "mission_type": 116,
+                "mission_param": "1@0@0@0@0@0@0@0@0@0",
+                "reward_data": [
+                    {
+                        "data_type": 10,
+                        "data_id": 0,
+                        "data_num": 20000
+                    }
+                ]
+            },
+            {
+                "task_id": 36,
+                "title": "他プレイヤーをフォローしよう",
+                "mission_type": 108,
+                "mission_param": "1@0@0@0@0@0@0@0@0@0",
+                "reward_data": [
+                    {
+                        "data_type": 5,
+                        "data_id": 13,
+                        "data_num": 8
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "panel_id": 5,
+        "panel_title": "No.37~No.45をクリアすると、<br />このアイテムが獲得できるよ！",
+        "start_date": 1668146400,
+        "end_date": 1924959599,
+        "complete_reward_flag": 0,
+        "adv_id": 0,
+        "panel_reward_data": [
+            {
+                "data_type": 13,
+                "data_id": 0,
+                "data_num": 20
+            }
+        ],
+        "task_data": [
+            {
+                "task_id": 37,
+                "title": "太陽属性のカードのみでフォーメーションを編成しよう",
+                "mission_type": 104,
+                "mission_param": "1@1@0@0@0@0@0@0@0@0",
+                "reward_data": [
+                    {
+                        "data_type": 5,
+                        "data_id": 9,
+                        "data_num": 30
+                    }
+                ]
+            },
+            {
+                "task_id": 38,
+                "title": "月属性のカードのみでフォーメーションを編成しよう",
+                "mission_type": 104,
+                "mission_param": "3@1@0@0@0@0@0@0@0@0",
+                "reward_data": [
+                    {
+                        "data_type": 5,
+                        "data_id": 8,
+                        "data_num": 30
+                    }
+                ]
+            },
+            {
+                "task_id": 39,
+                "title": "星属性のカードのみでフォーメーションを編成しよう",
+                "mission_type": 104,
+                "mission_param": "2@1@0@0@0@0@0@0@0@0",
+                "reward_data": [
+                    {
+                        "data_type": 5,
+                        "data_id": 7,
+                        "data_num": 30
+                    }
+                ]
+            },
+            {
+                "task_id": 40,
+                "title": "LIVEを15回クリアしよう",
+                "mission_type": 101,
+                "mission_param": "0@0@0@0@15@0@0@0@0@0",
+                "reward_data": [
+                    {
+                        "data_type": 5,
+                        "data_id": 12,
+                        "data_num": 10
+                    }
+                ]
+            },
+            {
+                "task_id": 41,
+                "title": "LIVEをSCORE 180000以上で1回クリアしよう",
+                "mission_type": 101,
+                "mission_param": "0@0@180000@0@1@0@0@0@0@0",
+                "reward_data": [
+                    {
+                        "data_type": 5,
+                        "data_id": 11,
+                        "data_num": 10
+                    }
+                ]
+            },
+            {
+                "task_id": 42,
+                "title": "ツアーで推しPを累計300獲得しよう",
+                "mission_type": 110,
+                "mission_param": "300@0@0@0@0@0@0@0@0@0",
+                "reward_data": [
+                    {
+                        "data_type": 5,
+                        "data_id": 10,
+                        "data_num": 10
+                    }
+                ]
+            },
+            {
+                "task_id": 43,
+                "title": "カードの進化を1回しよう（レアリティSR以上のカードのみ進化が可能）",
+                "mission_type": 103,
+                "mission_param": "1@0@0@0@0@0@0@0@0@0",
+                "reward_data": [
+                    {
+                        "data_type": 13,
+                        "data_id": 0,
+                        "data_num": 5
+                    }
+                ]
+            },
+            {
+                "task_id": 44,
+                "title": "プレミアムガチャを1回引こう",
+                "mission_type": 106,
+                "mission_param": "1@1@0@0@0@0@0@0@0@0",
+                "reward_data": [
+                    {
+                        "data_type": 13,
+                        "data_id": 0,
+                        "data_num": 5
+                    }
+                ]
+            },
+            {
+                "task_id": 45,
+                "title": "プレイヤーRankを10にしよう",
+                "mission_type": 107,
+                "mission_param": "10@0@0@0@0@0@0@0@0@0",
+                "reward_data": [
+                    {
+                        "data_type": 13,
+                        "data_id": 0,
+                        "data_num": 5
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "panel_id": 6,
+        "panel_title": "パネル1～5の全ミッションクリアで、<br />LIVE楽曲が解放できるよ！",
+        "start_date": 1668146400,
+        "end_date": 1924959599,
+        "complete_reward_flag": 1,
+        "adv_id": 100051,
+        "panel_reward_data": [],
+        "task_data": [
+            {
+                "task_id": 46,
+                "title": "ミッションNo.1～No.45をクリアしよう",
+                "mission_type": 122,
+                "mission_param": "1@45@0@0@0@0@0@0@0@0",
+                "reward_data": [
+                    {
+                        "data_type": 30,
+                        "data_id": 10030,
+                        "data_num": 1
+                    }
+                ]
+            }
+        ]
+    }
+]

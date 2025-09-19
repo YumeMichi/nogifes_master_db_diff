@@ -1,0 +1,258 @@
+[
+    {
+        "invite_campaign_id": 1,
+        "start_date": 1747288800,
+        "end_date": 1751255999,
+        "display_end_date": 1751522399,
+        "beginner_code_reward_diamond1": 2,
+        "beginner_code_reward_diamond2": 1,
+        "comeback_code_reward_diamond1": 2,
+        "comeback_code_reward_diamond2": 1,
+        "invite_reward_data": [
+            {
+                "invite_user_type": 2,
+                "reward_data": [
+                    {
+                        "invite_num": 0,
+                        "data_type": 22,
+                        "data_id": 11,
+                        "data_num": 1
+                    },
+                    {
+                        "invite_num": 1,
+                        "data_type": 13,
+                        "data_id": 0,
+                        "data_num": 10
+                    },
+                    {
+                        "invite_num": 2,
+                        "data_type": 13,
+                        "data_id": 0,
+                        "data_num": 10
+                    },
+                    {
+                        "invite_num": 3,
+                        "data_type": 13,
+                        "data_id": 0,
+                        "data_num": 10
+                    },
+                    {
+                        "invite_num": 4,
+                        "data_type": 13,
+                        "data_id": 0,
+                        "data_num": 10
+                    },
+                    {
+                        "invite_num": 5,
+                        "data_type": 13,
+                        "data_id": 0,
+                        "data_num": 10
+                    },
+                    {
+                        "invite_num": 6,
+                        "data_type": 13,
+                        "data_id": 0,
+                        "data_num": 10
+                    },
+                    {
+                        "invite_num": 7,
+                        "data_type": 13,
+                        "data_id": 0,
+                        "data_num": 10
+                    },
+                    {
+                        "invite_num": 8,
+                        "data_type": 13,
+                        "data_id": 0,
+                        "data_num": 10
+                    },
+                    {
+                        "invite_num": 9,
+                        "data_type": 13,
+                        "data_id": 0,
+                        "data_num": 10
+                    },
+                    {
+                        "invite_num": 10,
+                        "data_type": 13,
+                        "data_id": 0,
+                        "data_num": 10
+                    }
+                ]
+            },
+            {
+                "invite_user_type": 3,
+                "reward_data": [
+                    {
+                        "invite_num": 0,
+                        "data_type": 22,
+                        "data_id": 13,
+                        "data_num": 1
+                    },
+                    {
+                        "invite_num": 1,
+                        "data_type": 13,
+                        "data_id": 0,
+                        "data_num": 10
+                    },
+                    {
+                        "invite_num": 2,
+                        "data_type": 13,
+                        "data_id": 0,
+                        "data_num": 10
+                    },
+                    {
+                        "invite_num": 3,
+                        "data_type": 13,
+                        "data_id": 0,
+                        "data_num": 10
+                    },
+                    {
+                        "invite_num": 4,
+                        "data_type": 13,
+                        "data_id": 0,
+                        "data_num": 10
+                    },
+                    {
+                        "invite_num": 5,
+                        "data_type": 13,
+                        "data_id": 0,
+                        "data_num": 10
+                    },
+                    {
+                        "invite_num": 6,
+                        "data_type": 13,
+                        "data_id": 0,
+                        "data_num": 10
+                    },
+                    {
+                        "invite_num": 7,
+                        "data_type": 13,
+                        "data_id": 0,
+                        "data_num": 10
+                    },
+                    {
+                        "invite_num": 8,
+                        "data_type": 13,
+                        "data_id": 0,
+                        "data_num": 10
+                    },
+                    {
+                        "invite_num": 9,
+                        "data_type": 13,
+                        "data_id": 0,
+                        "data_num": 10
+                    },
+                    {
+                        "invite_num": 10,
+                        "data_type": 13,
+                        "data_id": 0,
+                        "data_num": 10
+                    }
+                ]
+            }
+        ],
+        "invite_mission_data": [
+            {
+                "invite_user_type": 2,
+                "mission_data": [
+                    {
+                        "mission_id": 1,
+                        "mission_name": "招待コードを入力しよう",
+                        "mission_type": 101,
+                        "mission_param": "1@0@0@0@0@0@0@0@0@0",
+                        "data_type": 13,
+                        "data_id": 0,
+                        "data_num": 200
+                    },
+                    {
+                        "mission_id": 2,
+                        "mission_name": "ライブを1回クリアしよう",
+                        "mission_type": 102,
+                        "mission_param": "1@0@0@0@0@0@0@0@0@0",
+                        "data_type": 13,
+                        "data_id": 0,
+                        "data_num": 10
+                    },
+                    {
+                        "mission_id": 3,
+                        "mission_name": "ライブを3回クリアしよう",
+                        "mission_type": 102,
+                        "mission_param": "3@0@0@0@0@0@0@0@0@0",
+                        "data_type": 13,
+                        "data_id": 0,
+                        "data_num": 10
+                    },
+                    {
+                        "mission_id": 4,
+                        "mission_name": "ライブを5回クリアしよう",
+                        "mission_type": 102,
+                        "mission_param": "5@0@0@0@0@0@0@0@0@0",
+                        "data_type": 13,
+                        "data_id": 0,
+                        "data_num": 10
+                    },
+                    {
+                        "mission_id": 5,
+                        "mission_name": "招待ミッションをすべてクリアしよう",
+                        "mission_type": 103,
+                        "mission_param": "1@4@4@0@0@0@0@0@0@0",
+                        "data_type": 22,
+                        "data_id": 13,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "invite_user_type": 3,
+                "mission_data": [
+                    {
+                        "mission_id": 6,
+                        "mission_name": "招待コードを入力しよう",
+                        "mission_type": 101,
+                        "mission_param": "1@0@0@0@0@0@0@0@0@0",
+                        "data_type": 13,
+                        "data_id": 0,
+                        "data_num": 20
+                    },
+                    {
+                        "mission_id": 7,
+                        "mission_name": "ライブを1回クリアしよう",
+                        "mission_type": 102,
+                        "mission_param": "1@0@0@0@0@0@0@0@0@0",
+                        "data_type": 13,
+                        "data_id": 0,
+                        "data_num": 10
+                    },
+                    {
+                        "mission_id": 8,
+                        "mission_name": "ライブを3回クリアしよう",
+                        "mission_type": 102,
+                        "mission_param": "3@0@0@0@0@0@0@0@0@0",
+                        "data_type": 13,
+                        "data_id": 0,
+                        "data_num": 10
+                    },
+                    {
+                        "mission_id": 9,
+                        "mission_name": "ライブを5回クリアしよう",
+                        "mission_type": 102,
+                        "mission_param": "5@0@0@0@0@0@0@0@0@0",
+                        "data_type": 13,
+                        "data_id": 0,
+                        "data_num": 10
+                    },
+                    {
+                        "mission_id": 10,
+                        "mission_name": "招待ミッションをすべてクリアしよう",
+                        "mission_type": 103,
+                        "mission_param": "6@9@4@0@0@0@0@0@0@0",
+                        "data_type": 22,
+                        "data_id": 13,
+                        "data_num": 1
+                    }
+                ]
+            }
+        ]
+    }
+]

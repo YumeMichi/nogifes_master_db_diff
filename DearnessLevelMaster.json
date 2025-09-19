@@ -1,0 +1,212 @@
+[
+    {
+        "dearness_level": 1,
+        "dearness_point": 0,
+        "cumulative_dearness_point": 0,
+        "shine_point": 0,
+        "cumulative_shine_point": 0
+    },
+    {
+        "dearness_level": 2,
+        "dearness_point": 45,
+        "cumulative_dearness_point": 45,
+        "shine_point": 0,
+        "cumulative_shine_point": 0
+    },
+    {
+        "dearness_level": 3,
+        "dearness_point": 90,
+        "cumulative_dearness_point": 135,
+        "shine_point": 0,
+        "cumulative_shine_point": 0
+    },
+    {
+        "dearness_level": 4,
+        "dearness_point": 135,
+        "cumulative_dearness_point": 270,
+        "shine_point": 0,
+        "cumulative_shine_point": 0
+    },
+    {
+        "dearness_level": 5,
+        "dearness_point": 180,
+        "cumulative_dearness_point": 450,
+        "shine_point": 0,
+        "cumulative_shine_point": 0
+    },
+    {
+        "dearness_level": 6,
+        "dearness_point": 280,
+        "cumulative_dearness_point": 730,
+        "shine_point": 3000,
+        "cumulative_shine_point": 3000
+    },
+    {
+        "dearness_level": 7,
+        "dearness_point": 380,
+        "cumulative_dearness_point": 1110,
+        "shine_point": 0,
+        "cumulative_shine_point": 3000
+    },
+    {
+        "dearness_level": 8,
+        "dearness_point": 480,
+        "cumulative_dearness_point": 1590,
+        "shine_point": 0,
+        "cumulative_shine_point": 3000
+    },
+    {
+        "dearness_level": 9,
+        "dearness_point": 580,
+        "cumulative_dearness_point": 2170,
+        "shine_point": 0,
+        "cumulative_shine_point": 3000
+    },
+    {
+        "dearness_level": 10,
+        "dearness_point": 680,
+        "cumulative_dearness_point": 2850,
+        "shine_point": 0,
+        "cumulative_shine_point": 3000
+    },
+    {
+        "dearness_level": 11,
+        "dearness_point": 830,
+        "cumulative_dearness_point": 3680,
+        "shine_point": 7000,
+        "cumulative_shine_point": 10000
+    },
+    {
+        "dearness_level": 12,
+        "dearness_point": 980,
+        "cumulative_dearness_point": 4660,
+        "shine_point": 0,
+        "cumulative_shine_point": 10000
+    },
+    {
+        "dearness_level": 13,
+        "dearness_point": 1130,
+        "cumulative_dearness_point": 5790,
+        "shine_point": 0,
+        "cumulative_shine_point": 10000
+    },
+    {
+        "dearness_level": 14,
+        "dearness_point": 1280,
+        "cumulative_dearness_point": 7070,
+        "shine_point": 0,
+        "cumulative_shine_point": 10000
+    },
+    {
+        "dearness_level": 15,
+        "dearness_point": 1430,
+        "cumulative_dearness_point": 8500,
+        "shine_point": 0,
+        "cumulative_shine_point": 10000
+    },
+    {
+        "dearness_level": 16,
+        "dearness_point": 1700,
+        "cumulative_dearness_point": 10200,
+        "shine_point": 90000,
+        "cumulative_shine_point": 100000
+    },
+    {
+        "dearness_level": 17,
+        "dearness_point": 1700,
+        "cumulative_dearness_point": 11900,
+        "shine_point": 0,
+        "cumulative_shine_point": 100000
+    },
+    {
+        "dearness_level": 18,
+        "dearness_point": 1700,
+        "cumulative_dearness_point": 13600,
+        "shine_point": 0,
+        "cumulative_shine_point": 100000
+    },
+    {
+        "dearness_level": 19,
+        "dearness_point": 1700,
+        "cumulative_dearness_point": 15300,
+        "shine_point": 0,
+        "cumulative_shine_point": 100000
+    },
+    {
+        "dearness_level": 20,
+        "dearness_point": 1700,
+        "cumulative_dearness_point": 17000,
+        "shine_point": 0,
+        "cumulative_shine_point": 100000
+    },
+    {
+        "dearness_level": 21,
+        "dearness_point": 1700,
+        "cumulative_dearness_point": 18700,
+        "shine_point": 100000,
+        "cumulative_shine_point": 200000
+    },
+    {
+        "dearness_level": 22,
+        "dearness_point": 1700,
+        "cumulative_dearness_point": 20400,
+        "shine_point": 0,
+        "cumulative_shine_point": 200000
+    },
+    {
+        "dearness_level": 23,
+        "dearness_point": 1700,
+        "cumulative_dearness_point": 22100,
+        "shine_point": 0,
+        "cumulative_shine_point": 200000
+    },
+    {
+        "dearness_level": 24,
+        "dearness_point": 1700,
+        "cumulative_dearness_point": 23800,
+        "shine_point": 0,
+        "cumulative_shine_point": 200000
+    },
+    {
+        "dearness_level": 25,
+        "dearness_point": 1700,
+        "cumulative_dearness_point": 25500,
+        "shine_point": 0,
+        "cumulative_shine_point": 200000
+    },
+    {
+        "dearness_level": 26,
+        "dearness_point": 3400,
+        "cumulative_dearness_point": 28900,
+        "shine_point": 200000,
+        "cumulative_shine_point": 400000
+    },
+    {
+        "dearness_level": 27,
+        "dearness_point": 3400,
+        "cumulative_dearness_point": 32300,
+        "shine_point": 0,
+        "cumulative_shine_point": 400000
+    },
+    {
+        "dearness_level": 28,
+        "dearness_point": 3400,
+        "cumulative_dearness_point": 35700,
+        "shine_point": 0,
+        "cumulative_shine_point": 400000
+    },
+    {
+        "dearness_level": 29,
+        "dearness_point": 3400,
+        "cumulative_dearness_point": 39100,
+        "shine_point": 0,
+        "cumulative_shine_point": 400000
+    },
+    {
+        "dearness_level": 30,
+        "dearness_point": 3400,
+        "cumulative_dearness_point": 42500,
+        "shine_point": 0,
+        "cumulative_shine_point": 400000
+    }
+]

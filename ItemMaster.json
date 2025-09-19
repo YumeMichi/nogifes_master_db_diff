@@ -1,0 +1,194 @@
+[
+    {
+        "item_id": 1,
+        "item_name": "LPドリンク10",
+        "item_type": 2,
+        "disp_order": 1,
+        "max_possession": 20,
+        "price": 0,
+        "description": "LPを10回復する。",
+        "proc_data": [
+            {
+                "proc_type": 401,
+                "proc_time": 1,
+                "proc_param": "10"
+            }
+        ]
+    },
+    {
+        "item_id": 2,
+        "item_name": "LPドリンク20",
+        "item_type": 2,
+        "disp_order": 2,
+        "max_possession": 20,
+        "price": 0,
+        "description": "LPを20回復する。",
+        "proc_data": [
+            {
+                "proc_type": 401,
+                "proc_time": 1,
+                "proc_param": "20"
+            }
+        ]
+    },
+    {
+        "item_id": 3,
+        "item_name": "LPドリンク30",
+        "item_type": 2,
+        "disp_order": 3,
+        "max_possession": 20,
+        "price": 0,
+        "description": "LPを30回復する。",
+        "proc_data": [
+            {
+                "proc_type": 401,
+                "proc_time": 1,
+                "proc_param": "30"
+            }
+        ]
+    },
+    {
+        "item_id": 4,
+        "item_name": "LPドリンク175",
+        "item_type": 2,
+        "disp_order": 4,
+        "max_possession": 100,
+        "price": 0,
+        "description": "LPを175回復する。",
+        "proc_data": [
+            {
+                "proc_type": 401,
+                "proc_time": 1,
+                "proc_param": "175"
+            }
+        ]
+    },
+    {
+        "item_id": 5,
+        "item_name": "スキルオーブ",
+        "item_type": 3,
+        "disp_order": 5,
+        "max_possession": 99,
+        "price": 0,
+        "description": "稀にカードのスキルLvを1アップさせるアイテム。",
+        "proc_data": [
+            {
+                "proc_type": 501,
+                "proc_time": 1,
+                "proc_param": "500"
+            }
+        ]
+    },
+    {
+        "item_id": 6,
+        "item_name": "ブロンズオーブ",
+        "item_type": 3,
+        "disp_order": 6,
+        "max_possession": 99,
+        "price": 0,
+        "description": "低確率でカードのスキルLvを1アップさせるアイテム。",
+        "proc_data": [
+            {
+                "proc_type": 501,
+                "proc_time": 1,
+                "proc_param": "1000"
+            }
+        ]
+    },
+    {
+        "item_id": 7,
+        "item_name": "シルバーオーブ",
+        "item_type": 3,
+        "disp_order": 7,
+        "max_possession": 99,
+        "price": 0,
+        "description": "中確率でカードのスキルLvを1アップさせるアイテム。",
+        "proc_data": [
+            {
+                "proc_type": 501,
+                "proc_time": 1,
+                "proc_param": "3000"
+            }
+        ]
+    },
+    {
+        "item_id": 8,
+        "item_name": "ゴールドオーブ",
+        "item_type": 3,
+        "disp_order": 8,
+        "max_possession": 99,
+        "price": 0,
+        "description": "高確率でカードのスキルLvを1アップさせるアイテム。",
+        "proc_data": [
+            {
+                "proc_type": 501,
+                "proc_time": 1,
+                "proc_param": "5000"
+            }
+        ]
+    },
+    {
+        "item_id": 9,
+        "item_name": "レインボーオーブ",
+        "item_type": 3,
+        "disp_order": 9,
+        "max_possession": 99,
+        "price": 0,
+        "description": "必ずカードのスキルLvを1アップさせるアイテム。",
+        "proc_data": [
+            {
+                "proc_type": 501,
+                "proc_time": 1,
+                "proc_param": "10000"
+            }
+        ]
+    },
+    {
+        "item_id": 10,
+        "item_name": "銀のツバサ",
+        "item_type": 4,
+        "disp_order": 10,
+        "max_possession": 999,
+        "price": 0,
+        "description": "SR+以下のカードを覚醒させるアイテム。",
+        "proc_data": [
+            {
+                "proc_type": 601,
+                "proc_time": 1,
+                "proc_param": "4"
+            }
+        ]
+    },
+    {
+        "item_id": 11,
+        "item_name": "金のツバサ",
+        "item_type": 4,
+        "disp_order": 11,
+        "max_possession": 999,
+        "price": 0,
+        "description": "SSR+以下のカードを覚醒させるアイテム。",
+        "proc_data": [
+            {
+                "proc_type": 601,
+                "proc_time": 1,
+                "proc_param": "6"
+            }
+        ]
+    },
+    {
+        "item_id": 12,
+        "item_name": "虹のツバサ",
+        "item_type": 4,
+        "disp_order": 12,
+        "max_possession": 999,
+        "price": 0,
+        "description": "UR+以下のカードを覚醒させるアイテム。",
+        "proc_data": [
+            {
+                "proc_type": 601,
+                "proc_time": 1,
+                "proc_param": "8"
+            }
+        ]
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "weekly_mission_id": 1,
+        "weekly_mission_name": "7日間毎日ログインしよう",
+        "mission_type": 109,
+        "mission_param": "7@0@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 13,
+                "data_id": 0,
+                "data_num": 4
+            }
+        ]
+    },
+    {
+        "weekly_mission_id": 2,
+        "weekly_mission_name": "LIVEを50回クリアしよう",
+        "mission_type": 101,
+        "mission_param": "0@0@50@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 3,
+                "data_id": 3,
+                "data_num": 1
+            }
+        ]
+    }
+]

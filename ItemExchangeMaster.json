@@ -1,0 +1,3575 @@
+[
+    {
+        "item_exchange_id": 1,
+        "item_exchange_name": "金のツバサ×1",
+        "category": 1,
+        "disp_order": 2,
+        "possible_times": 2,
+        "reset_type": 1,
+        "start_date": 1420038000,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 3,
+                "data_id": 11,
+                "data_num": 1
+            }
+        ],
+        "material_data": [
+            {
+                "data_type": 20,
+                "data_id": 2,
+                "data_num": 30,
+                "variable_flag": 0
+            }
+        ]
+    },
+    {
+        "item_exchange_id": 2,
+        "item_exchange_name": "銀のツバサ×1",
+        "category": 1,
+        "disp_order": 3,
+        "possible_times": 5,
+        "reset_type": 1,
+        "start_date": 1420038000,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 3,
+                "data_id": 10,
+                "data_num": 1
+            }
+        ],
+        "material_data": [
+            {
+                "data_type": 20,
+                "data_id": 1,
+                "data_num": 50,
+                "variable_flag": 0
+            }
+        ]
+    },
+    {
+        "item_exchange_id": 3,
+        "item_exchange_name": "スターチャージ（中）×1",
+        "category": 1,
+        "disp_order": 5,
+        "possible_times": 0,
+        "reset_type": 0,
+        "start_date": 1420038000,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 4,
+                "data_id": 4,
+                "data_num": 1
+            }
+        ],
+        "material_data": [
+            {
+                "data_type": 4,
+                "data_id": 1,
+                "data_num": 6,
+                "variable_flag": 0
+            }
+        ]
+    },
+    {
+        "item_exchange_id": 4,
+        "item_exchange_name": "ムーンチャージ（中）×1",
+        "category": 1,
+        "disp_order": 6,
+        "possible_times": 0,
+        "reset_type": 0,
+        "start_date": 1420038000,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 4,
+                "data_id": 5,
+                "data_num": 1
+            }
+        ],
+        "material_data": [
+            {
+                "data_type": 4,
+                "data_id": 2,
+                "data_num": 6,
+                "variable_flag": 0
+            }
+        ]
+    },
+    {
+        "item_exchange_id": 5,
+        "item_exchange_name": "サンチャージ（中）×1",
+        "category": 1,
+        "disp_order": 7,
+        "possible_times": 0,
+        "reset_type": 0,
+        "start_date": 1420038000,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 4,
+                "data_id": 6,
+                "data_num": 1
+            }
+        ],
+        "material_data": [
+            {
+                "data_type": 4,
+                "data_id": 3,
+                "data_num": 6,
+                "variable_flag": 0
+            }
+        ]
+    },
+    {
+        "item_exchange_id": 6,
+        "item_exchange_name": "スターチャージ（大）×1",
+        "category": 1,
+        "disp_order": 8,
+        "possible_times": 0,
+        "reset_type": 0,
+        "start_date": 1420038000,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 4,
+                "data_id": 7,
+                "data_num": 1
+            }
+        ],
+        "material_data": [
+            {
+                "data_type": 4,
+                "data_id": 4,
+                "data_num": 3,
+                "variable_flag": 0
+            },
+            {
+                "data_type": 4,
+                "data_id": 1,
+                "data_num": 3,
+                "variable_flag": 0
+            }
+        ]
+    },
+    {
+        "item_exchange_id": 7,
+        "item_exchange_name": "ムーンチャージ（大）×1",
+        "category": 1,
+        "disp_order": 9,
+        "possible_times": 0,
+        "reset_type": 0,
+        "start_date": 1420038000,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 4,
+                "data_id": 8,
+                "data_num": 1
+            }
+        ],
+        "material_data": [
+            {
+                "data_type": 4,
+                "data_id": 5,
+                "data_num": 3,
+                "variable_flag": 0
+            },
+            {
+                "data_type": 4,
+                "data_id": 2,
+                "data_num": 3,
+                "variable_flag": 0
+            }
+        ]
+    },
+    {
+        "item_exchange_id": 8,
+        "item_exchange_name": "サンチャージ（大）×1",
+        "category": 1,
+        "disp_order": 10,
+        "possible_times": 0,
+        "reset_type": 0,
+        "start_date": 1420038000,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 4,
+                "data_id": 9,
+                "data_num": 1
+            }
+        ],
+        "material_data": [
+            {
+                "data_type": 4,
+                "data_id": 6,
+                "data_num": 3,
+                "variable_flag": 0
+            },
+            {
+                "data_type": 4,
+                "data_id": 3,
+                "data_num": 3,
+                "variable_flag": 0
+            }
+        ]
+    },
+    {
+        "item_exchange_id": 9,
+        "item_exchange_name": "スターチャージ（大）×4",
+        "category": 1,
+        "disp_order": 11,
+        "possible_times": 0,
+        "reset_type": 0,
+        "start_date": 1420038000,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 4,
+                "data_id": 7,
+                "data_num": 4
+            }
+        ],
+        "material_data": [
+            {
+                "data_type": 4,
+                "data_id": 8,
+                "data_num": 5,
+                "variable_flag": 0
+            }
+        ]
+    },
+    {
+        "item_exchange_id": 10,
+        "item_exchange_name": "スターチャージ（大）×4",
+        "category": 1,
+        "disp_order": 12,
+        "possible_times": 0,
+        "reset_type": 0,
+        "start_date": 1420038000,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 4,
+                "data_id": 7,
+                "data_num": 4
+            }
+        ],
+        "material_data": [
+            {
+                "data_type": 4,
+                "data_id": 9,
+                "data_num": 5,
+                "variable_flag": 0
+            }
+        ]
+    },
+    {
+        "item_exchange_id": 11,
+        "item_exchange_name": "ムーンチャージ（大）×4",
+        "category": 1,
+        "disp_order": 13,
+        "possible_times": 0,
+        "reset_type": 0,
+        "start_date": 1420038000,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 4,
+                "data_id": 8,
+                "data_num": 4
+            }
+        ],
+        "material_data": [
+            {
+                "data_type": 4,
+                "data_id": 7,
+                "data_num": 5,
+                "variable_flag": 0
+            }
+        ]
+    },
+    {
+        "item_exchange_id": 12,
+        "item_exchange_name": "ムーンチャージ（大）×4",
+        "category": 1,
+        "disp_order": 14,
+        "possible_times": 0,
+        "reset_type": 0,
+        "start_date": 1420038000,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 4,
+                "data_id": 8,
+                "data_num": 4
+            }
+        ],
+        "material_data": [
+            {
+                "data_type": 4,
+                "data_id": 9,
+                "data_num": 5,
+                "variable_flag": 0
+            }
+        ]
+    },
+    {
+        "item_exchange_id": 13,
+        "item_exchange_name": "サンチャージ（大）×4",
+        "category": 1,
+        "disp_order": 15,
+        "possible_times": 0,
+        "reset_type": 0,
+        "start_date": 1420038000,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 4,
+                "data_id": 9,
+                "data_num": 4
+            }
+        ],
+        "material_data": [
+            {
+                "data_type": 4,
+                "data_id": 7,
+                "data_num": 5,
+                "variable_flag": 0
+            }
+        ]
+    },
+    {
+        "item_exchange_id": 14,
+        "item_exchange_name": "サンチャージ（大）×4",
+        "category": 1,
+        "disp_order": 16,
+        "possible_times": 0,
+        "reset_type": 0,
+        "start_date": 1420038000,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 4,
+                "data_id": 9,
+                "data_num": 4
+            }
+        ],
+        "material_data": [
+            {
+                "data_type": 4,
+                "data_id": 8,
+                "data_num": 5,
+                "variable_flag": 0
+            }
+        ]
+    },
+    {
+        "item_exchange_id": 15,
+        "item_exchange_name": "スタークォーツ（中）×1",
+        "category": 1,
+        "disp_order": 17,
+        "possible_times": 0,
+        "reset_type": 0,
+        "start_date": 1420038000,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 5,
+                "data_id": 4,
+                "data_num": 1
+            }
+        ],
+        "material_data": [
+            {
+                "data_type": 5,
+                "data_id": 1,
+                "data_num": 30,
+                "variable_flag": 0
+            }
+        ]
+    },
+    {
+        "item_exchange_id": 16,
+        "item_exchange_name": "ムーンクォーツ（中）×1",
+        "category": 1,
+        "disp_order": 18,
+        "possible_times": 0,
+        "reset_type": 0,
+        "start_date": 1420038000,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 5,
+                "data_id": 5,
+                "data_num": 1
+            }
+        ],
+        "material_data": [
+            {
+                "data_type": 5,
+                "data_id": 2,
+                "data_num": 30,
+                "variable_flag": 0
+            }
+        ]
+    },
+    {
+        "item_exchange_id": 17,
+        "item_exchange_name": "サンクォーツ（中）×1",
+        "category": 1,
+        "disp_order": 19,
+        "possible_times": 0,
+        "reset_type": 0,
+        "start_date": 1420038000,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 5,
+                "data_id": 6,
+                "data_num": 1
+            }
+        ],
+        "material_data": [
+            {
+                "data_type": 5,
+                "data_id": 3,
+                "data_num": 30,
+                "variable_flag": 0
+            }
+        ]
+    },
+    {
+        "item_exchange_id": 18,
+        "item_exchange_name": "スタークォーツ（大）×1",
+        "category": 1,
+        "disp_order": 20,
+        "possible_times": 0,
+        "reset_type": 0,
+        "start_date": 1420038000,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 5,
+                "data_id": 7,
+                "data_num": 1
+            }
+        ],
+        "material_data": [
+            {
+                "data_type": 5,
+                "data_id": 4,
+                "data_num": 13,
+                "variable_flag": 0
+            }
+        ]
+    },
+    {
+        "item_exchange_id": 19,
+        "item_exchange_name": "ムーンクォーツ（大）×1",
+        "category": 1,
+        "disp_order": 21,
+        "possible_times": 0,
+        "reset_type": 0,
+        "start_date": 1420038000,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 5,
+                "data_id": 8,
+                "data_num": 1
+            }
+        ],
+        "material_data": [
+            {
+                "data_type": 5,
+                "data_id": 5,
+                "data_num": 13,
+                "variable_flag": 0
+            }
+        ]
+    },
+    {
+        "item_exchange_id": 20,
+        "item_exchange_name": "サンクォーツ（大）×1",
+        "category": 1,
+        "disp_order": 22,
+        "possible_times": 0,
+        "reset_type": 0,
+        "start_date": 1420038000,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 5,
+                "data_id": 9,
+                "data_num": 1
+            }
+        ],
+        "material_data": [
+            {
+                "data_type": 5,
+                "data_id": 6,
+                "data_num": 13,
+                "variable_flag": 0
+            }
+        ]
+    },
+    {
+        "item_exchange_id": 21,
+        "item_exchange_name": "スタークォーツ（特大）×1",
+        "category": 1,
+        "disp_order": 23,
+        "possible_times": 0,
+        "reset_type": 0,
+        "start_date": 1420038000,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 5,
+                "data_id": 10,
+                "data_num": 1
+            }
+        ],
+        "material_data": [
+            {
+                "data_type": 5,
+                "data_id": 7,
+                "data_num": 10,
+                "variable_flag": 0
+            }
+        ]
+    },
+    {
+        "item_exchange_id": 22,
+        "item_exchange_name": "ムーンクォーツ（特大）×1",
+        "category": 1,
+        "disp_order": 24,
+        "possible_times": 0,
+        "reset_type": 0,
+        "start_date": 1420038000,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 5,
+                "data_id": 11,
+                "data_num": 1
+            }
+        ],
+        "material_data": [
+            {
+                "data_type": 5,
+                "data_id": 8,
+                "data_num": 10,
+                "variable_flag": 0
+            }
+        ]
+    },
+    {
+        "item_exchange_id": 23,
+        "item_exchange_name": "サンクォーツ（特大）×1",
+        "category": 1,
+        "disp_order": 25,
+        "possible_times": 0,
+        "reset_type": 0,
+        "start_date": 1420038000,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 5,
+                "data_id": 12,
+                "data_num": 1
+            }
+        ],
+        "material_data": [
+            {
+                "data_type": 5,
+                "data_id": 9,
+                "data_num": 10,
+                "variable_flag": 0
+            }
+        ]
+    },
+    {
+        "item_exchange_id": 24,
+        "item_exchange_name": "ブロンズオーブ×1",
+        "category": 1,
+        "disp_order": 32,
+        "possible_times": 0,
+        "reset_type": 0,
+        "start_date": 1420038000,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 3,
+                "data_id": 6,
+                "data_num": 1
+            }
+        ],
+        "material_data": [
+            {
+                "data_type": 3,
+                "data_id": 5,
+                "data_num": 5,
+                "variable_flag": 0
+            }
+        ]
+    },
+    {
+        "item_exchange_id": 25,
+        "item_exchange_name": "シルバーオーブ×1",
+        "category": 1,
+        "disp_order": 33,
+        "possible_times": 0,
+        "reset_type": 0,
+        "start_date": 1420038000,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 3,
+                "data_id": 7,
+                "data_num": 1
+            }
+        ],
+        "material_data": [
+            {
+                "data_type": 3,
+                "data_id": 6,
+                "data_num": 5,
+                "variable_flag": 0
+            }
+        ]
+    },
+    {
+        "item_exchange_id": 26,
+        "item_exchange_name": "ゴールドオーブ×1",
+        "category": 1,
+        "disp_order": 34,
+        "possible_times": 0,
+        "reset_type": 0,
+        "start_date": 1420038000,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 3,
+                "data_id": 8,
+                "data_num": 1
+            }
+        ],
+        "material_data": [
+            {
+                "data_type": 3,
+                "data_id": 7,
+                "data_num": 3,
+                "variable_flag": 0
+            }
+        ]
+    },
+    {
+        "item_exchange_id": 27,
+        "item_exchange_name": "高画質鑑賞の鍵×1",
+        "category": 1,
+        "disp_order": 4,
+        "possible_times": 5,
+        "reset_type": 3,
+        "start_date": 1420038000,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 23,
+                "data_id": 8,
+                "data_num": 1
+            }
+        ],
+        "material_data": [
+            {
+                "data_type": 20,
+                "data_id": 3,
+                "data_num": 10,
+                "variable_flag": 0
+            }
+        ]
+    },
+    {
+        "item_exchange_id": 28,
+        "item_exchange_name": "スタークォーツ（小）×10",
+        "category": 1,
+        "disp_order": 26,
+        "possible_times": 0,
+        "reset_type": 0,
+        "start_date": 1420038000,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 5,
+                "data_id": 1,
+                "data_num": 10
+            }
+        ],
+        "material_data": [
+            {
+                "data_type": 5,
+                "data_id": 7,
+                "data_num": 1,
+                "variable_flag": 0
+            }
+        ]
+    },
+    {
+        "item_exchange_id": 29,
+        "item_exchange_name": "ムーンクォーツ（小）×10",
+        "category": 1,
+        "disp_order": 27,
+        "possible_times": 0,
+        "reset_type": 0,
+        "start_date": 1420038000,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 5,
+                "data_id": 2,
+                "data_num": 10
+            }
+        ],
+        "material_data": [
+            {
+                "data_type": 5,
+                "data_id": 8,
+                "data_num": 1,
+                "variable_flag": 0
+            }
+        ]
+    },
+    {
+        "item_exchange_id": 30,
+        "item_exchange_name": "サンクォーツ（小）×10",
+        "category": 1,
+        "disp_order": 28,
+        "possible_times": 0,
+        "reset_type": 0,
+        "start_date": 1420038000,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 5,
+                "data_id": 3,
+                "data_num": 10
+            }
+        ],
+        "material_data": [
+            {
+                "data_type": 5,
+                "data_id": 9,
+                "data_num": 1,
+                "variable_flag": 0
+            }
+        ]
+    },
+    {
+        "item_exchange_id": 31,
+        "item_exchange_name": "スタークォーツ（中）×5",
+        "category": 1,
+        "disp_order": 29,
+        "possible_times": 0,
+        "reset_type": 0,
+        "start_date": 1420038000,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 5,
+                "data_id": 4,
+                "data_num": 5
+            }
+        ],
+        "material_data": [
+            {
+                "data_type": 5,
+                "data_id": 10,
+                "data_num": 1,
+                "variable_flag": 0
+            }
+        ]
+    },
+    {
+        "item_exchange_id": 32,
+        "item_exchange_name": "ムーンクォーツ（中）×5",
+        "category": 1,
+        "disp_order": 30,
+        "possible_times": 0,
+        "reset_type": 0,
+        "start_date": 1420038000,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 5,
+                "data_id": 5,
+                "data_num": 5
+            }
+        ],
+        "material_data": [
+            {
+                "data_type": 5,
+                "data_id": 11,
+                "data_num": 1,
+                "variable_flag": 0
+            }
+        ]
+    },
+    {
+        "item_exchange_id": 33,
+        "item_exchange_name": "サンクォーツ（中）×5",
+        "category": 1,
+        "disp_order": 31,
+        "possible_times": 0,
+        "reset_type": 0,
+        "start_date": 1420038000,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 5,
+                "data_id": 6,
+                "data_num": 5
+            }
+        ],
+        "material_data": [
+            {
+                "data_type": 5,
+                "data_id": 12,
+                "data_num": 1,
+                "variable_flag": 0
+            }
+        ]
+    },
+    {
+        "item_exchange_id": 34,
+        "item_exchange_name": "リズムシューズ×2",
+        "category": 1,
+        "disp_order": 35,
+        "possible_times": 0,
+        "reset_type": 0,
+        "start_date": 1420038000,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 31,
+                "data_id": 5,
+                "data_num": 2
+            }
+        ],
+        "material_data": [
+            {
+                "data_type": 31,
+                "data_id": 4,
+                "data_num": 30,
+                "variable_flag": 0
+            }
+        ]
+    },
+    {
+        "item_exchange_id": 35,
+        "item_exchange_name": "リズムドレス×2",
+        "category": 1,
+        "disp_order": 36,
+        "possible_times": 0,
+        "reset_type": 0,
+        "start_date": 1420038000,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 31,
+                "data_id": 6,
+                "data_num": 2
+            }
+        ],
+        "material_data": [
+            {
+                "data_type": 31,
+                "data_id": 4,
+                "data_num": 5,
+                "variable_flag": 0
+            },
+            {
+                "data_type": 31,
+                "data_id": 5,
+                "data_num": 15,
+                "variable_flag": 0
+            }
+        ]
+    },
+    {
+        "item_exchange_id": 36,
+        "item_exchange_name": "メロディシューズ×2",
+        "category": 1,
+        "disp_order": 37,
+        "possible_times": 0,
+        "reset_type": 0,
+        "start_date": 1420038000,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 31,
+                "data_id": 8,
+                "data_num": 2
+            }
+        ],
+        "material_data": [
+            {
+                "data_type": 31,
+                "data_id": 7,
+                "data_num": 30,
+                "variable_flag": 0
+            }
+        ]
+    },
+    {
+        "item_exchange_id": 37,
+        "item_exchange_name": "メロディドレス×2",
+        "category": 1,
+        "disp_order": 38,
+        "possible_times": 0,
+        "reset_type": 0,
+        "start_date": 1420038000,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 31,
+                "data_id": 9,
+                "data_num": 2
+            }
+        ],
+        "material_data": [
+            {
+                "data_type": 31,
+                "data_id": 7,
+                "data_num": 5,
+                "variable_flag": 0
+            },
+            {
+                "data_type": 31,
+                "data_id": 8,
+                "data_num": 15,
+                "variable_flag": 0
+            }
+        ]
+    },
+    {
+        "item_exchange_id": 38,
+        "item_exchange_name": "ハーモニーシューズ×2",
+        "category": 1,
+        "disp_order": 39,
+        "possible_times": 0,
+        "reset_type": 0,
+        "start_date": 1420038000,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 31,
+                "data_id": 11,
+                "data_num": 2
+            }
+        ],
+        "material_data": [
+            {
+                "data_type": 31,
+                "data_id": 10,
+                "data_num": 30,
+                "variable_flag": 0
+            }
+        ]
+    },
+    {
+        "item_exchange_id": 39,
+        "item_exchange_name": "ハーモニードレス×2",
+        "category": 1,
+        "disp_order": 40,
+        "possible_times": 0,
+        "reset_type": 0,
+        "start_date": 1420038000,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 31,
+                "data_id": 12,
+                "data_num": 2
+            }
+        ],
+        "material_data": [
+            {
+                "data_type": 31,
+                "data_id": 10,
+                "data_num": 5,
+                "variable_flag": 0
+            },
+            {
+                "data_type": 31,
+                "data_id": 11,
+                "data_num": 15,
+                "variable_flag": 0
+            }
+        ]
+    },
+    {
+        "item_exchange_id": 40,
+        "item_exchange_name": "グルーヴシューズ×2",
+        "category": 1,
+        "disp_order": 41,
+        "possible_times": 0,
+        "reset_type": 0,
+        "start_date": 1420038000,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 31,
+                "data_id": 14,
+                "data_num": 2
+            }
+        ],
+        "material_data": [
+            {
+                "data_type": 31,
+                "data_id": 13,
+                "data_num": 30,
+                "variable_flag": 0
+            }
+        ]
+    },
+    {
+        "item_exchange_id": 41,
+        "item_exchange_name": "グルーヴドレス×2",
+        "category": 1,
+        "disp_order": 42,
+        "possible_times": 0,
+        "reset_type": 0,
+        "start_date": 1420038000,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 31,
+                "data_id": 15,
+                "data_num": 2
+            }
+        ],
+        "material_data": [
+            {
+                "data_type": 31,
+                "data_id": 13,
+                "data_num": 5,
+                "variable_flag": 0
+            },
+            {
+                "data_type": 31,
+                "data_id": 14,
+                "data_num": 15,
+                "variable_flag": 0
+            }
+        ]
+    },
+    {
+        "item_exchange_id": 42,
+        "item_exchange_name": "ビートシューズ×2",
+        "category": 1,
+        "disp_order": 43,
+        "possible_times": 0,
+        "reset_type": 0,
+        "start_date": 1420038000,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 31,
+                "data_id": 17,
+                "data_num": 2
+            }
+        ],
+        "material_data": [
+            {
+                "data_type": 31,
+                "data_id": 16,
+                "data_num": 30,
+                "variable_flag": 0
+            }
+        ]
+    },
+    {
+        "item_exchange_id": 43,
+        "item_exchange_name": "ビートドレス×2",
+        "category": 1,
+        "disp_order": 44,
+        "possible_times": 0,
+        "reset_type": 0,
+        "start_date": 1420038000,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 31,
+                "data_id": 18,
+                "data_num": 2
+            }
+        ],
+        "material_data": [
+            {
+                "data_type": 31,
+                "data_id": 16,
+                "data_num": 5,
+                "variable_flag": 0
+            },
+            {
+                "data_type": 31,
+                "data_id": 17,
+                "data_num": 15,
+                "variable_flag": 0
+            }
+        ]
+    },
+    {
+        "item_exchange_id": 44,
+        "item_exchange_name": "【1回限定】プレミアムガチャ10連チケット×1",
+        "category": 2,
+        "disp_order": 1,
+        "possible_times": 1,
+        "reset_type": 0,
+        "start_date": 1420038000,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 22,
+                "data_id": 2,
+                "data_num": 1
+            }
+        ],
+        "material_data": [
+            {
+                "data_type": 29,
+                "data_id": 0,
+                "data_num": 600,
+                "variable_flag": 0
+            }
+        ]
+    },
+    {
+        "item_exchange_id": 45,
+        "item_exchange_name": "【1回限定】期間限定ガチャ10連チケット×1",
+        "category": 2,
+        "disp_order": 2,
+        "possible_times": 1,
+        "reset_type": 0,
+        "start_date": 1420038000,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 22,
+                "data_id": 4,
+                "data_num": 1
+            }
+        ],
+        "material_data": [
+            {
+                "data_type": 29,
+                "data_id": 0,
+                "data_num": 600,
+                "variable_flag": 0
+            }
+        ]
+    },
+    {
+        "item_exchange_id": 46,
+        "item_exchange_name": "金のツバサ×1",
+        "category": 2,
+        "disp_order": 4,
+        "possible_times": 2,
+        "reset_type": 3,
+        "start_date": 1420038000,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 3,
+                "data_id": 11,
+                "data_num": 1
+            }
+        ],
+        "material_data": [
+            {
+                "data_type": 29,
+                "data_id": 0,
+                "data_num": 400,
+                "variable_flag": 0
+            }
+        ]
+    },
+    {
+        "item_exchange_id": 47,
+        "item_exchange_name": "銀のツバサ×1",
+        "category": 2,
+        "disp_order": 5,
+        "possible_times": 5,
+        "reset_type": 3,
+        "start_date": 1420038000,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 3,
+                "data_id": 10,
+                "data_num": 1
+            }
+        ],
+        "material_data": [
+            {
+                "data_type": 29,
+                "data_id": 0,
+                "data_num": 100,
+                "variable_flag": 0
+            }
+        ]
+    },
+    {
+        "item_exchange_id": 48,
+        "item_exchange_name": "神秘の砂時計×1",
+        "category": 2,
+        "disp_order": 6,
+        "possible_times": 2,
+        "reset_type": 3,
+        "start_date": 1420038000,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 31,
+                "data_id": 21,
+                "data_num": 1
+            }
+        ],
+        "material_data": [
+            {
+                "data_type": 29,
+                "data_id": 0,
+                "data_num": 150,
+                "variable_flag": 0
+            }
+        ]
+    },
+    {
+        "item_exchange_id": 49,
+        "item_exchange_name": "高画質鑑賞の鍵×1",
+        "category": 2,
+        "disp_order": 7,
+        "possible_times": 3,
+        "reset_type": 3,
+        "start_date": 1420038000,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 23,
+                "data_id": 21,
+                "data_num": 1
+            }
+        ],
+        "material_data": [
+            {
+                "data_type": 29,
+                "data_id": 0,
+                "data_num": 50,
+                "variable_flag": 0
+            }
+        ]
+    },
+    {
+        "item_exchange_id": 50,
+        "item_exchange_name": "ノギー×10000",
+        "category": 2,
+        "disp_order": 8,
+        "possible_times": 5,
+        "reset_type": 3,
+        "start_date": 1420038000,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 10,
+                "data_id": 21,
+                "data_num": 10000
+            }
+        ],
+        "material_data": [
+            {
+                "data_type": 29,
+                "data_id": 0,
+                "data_num": 30,
+                "variable_flag": 0
+            }
+        ]
+    },
+    {
+        "item_exchange_id": 51,
+        "item_exchange_name": "メダル×1000",
+        "category": 2,
+        "disp_order": 9,
+        "possible_times": 5,
+        "reset_type": 3,
+        "start_date": 1420038000,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 11,
+                "data_id": 21,
+                "data_num": 1000
+            }
+        ],
+        "material_data": [
+            {
+                "data_type": 29,
+                "data_id": 0,
+                "data_num": 30,
+                "variable_flag": 0
+            }
+        ]
+    },
+    {
+        "item_exchange_id": 52,
+        "item_exchange_name": "サンチャージ（大）×10",
+        "category": 2,
+        "disp_order": 10,
+        "possible_times": 3,
+        "reset_type": 3,
+        "start_date": 1420038000,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 4,
+                "data_id": 9,
+                "data_num": 10
+            }
+        ],
+        "material_data": [
+            {
+                "data_type": 29,
+                "data_id": 0,
+                "data_num": 30,
+                "variable_flag": 0
+            }
+        ]
+    },
+    {
+        "item_exchange_id": 53,
+        "item_exchange_name": "ムーンチャージ（大）×10",
+        "category": 2,
+        "disp_order": 11,
+        "possible_times": 3,
+        "reset_type": 3,
+        "start_date": 1420038000,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 4,
+                "data_id": 8,
+                "data_num": 10
+            }
+        ],
+        "material_data": [
+            {
+                "data_type": 29,
+                "data_id": 0,
+                "data_num": 30,
+                "variable_flag": 0
+            }
+        ]
+    },
+    {
+        "item_exchange_id": 54,
+        "item_exchange_name": "スターチャージ（大）×10",
+        "category": 2,
+        "disp_order": 12,
+        "possible_times": 3,
+        "reset_type": 3,
+        "start_date": 1420038000,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 4,
+                "data_id": 7,
+                "data_num": 10
+            }
+        ],
+        "material_data": [
+            {
+                "data_type": 29,
+                "data_id": 0,
+                "data_num": 30,
+                "variable_flag": 0
+            }
+        ]
+    },
+    {
+        "item_exchange_id": 55,
+        "item_exchange_name": "ミラクルクォーツ×4",
+        "category": 2,
+        "disp_order": 13,
+        "possible_times": 3,
+        "reset_type": 3,
+        "start_date": 1420038000,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 5,
+                "data_id": 13,
+                "data_num": 4
+            }
+        ],
+        "material_data": [
+            {
+                "data_type": 29,
+                "data_id": 0,
+                "data_num": 40,
+                "variable_flag": 0
+            }
+        ]
+    },
+    {
+        "item_exchange_id": 56,
+        "item_exchange_name": "レインボーオーブ×1",
+        "category": 2,
+        "disp_order": 14,
+        "possible_times": 5,
+        "reset_type": 3,
+        "start_date": 1420038000,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 3,
+                "data_id": 9,
+                "data_num": 1
+            }
+        ],
+        "material_data": [
+            {
+                "data_type": 29,
+                "data_id": 0,
+                "data_num": 40,
+                "variable_flag": 0
+            }
+        ]
+    },
+    {
+        "item_exchange_id": 57,
+        "item_exchange_name": "伊藤理々杏のツバサ×10",
+        "category": 3,
+        "disp_order": 1,
+        "possible_times": 20,
+        "reset_type": 3,
+        "start_date": 1420038000,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 301,
+                "data_num": 10
+            }
+        ],
+        "material_data": [
+            {
+                "data_type": 6,
+                "data_id": 504,
+                "data_num": 30,
+                "variable_flag": 1
+            }
+        ]
+    },
+    {
+        "item_exchange_id": 58,
+        "item_exchange_name": "岩本蓮加のツバサ×10",
+        "category": 3,
+        "disp_order": 2,
+        "possible_times": 20,
+        "reset_type": 3,
+        "start_date": 1420038000,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 302,
+                "data_num": 10
+            }
+        ],
+        "material_data": [
+            {
+                "data_type": 6,
+                "data_id": 504,
+                "data_num": 30,
+                "variable_flag": 1
+            }
+        ]
+    },
+    {
+        "item_exchange_id": 59,
+        "item_exchange_name": "梅澤美波のツバサ×10",
+        "category": 3,
+        "disp_order": 3,
+        "possible_times": 20,
+        "reset_type": 3,
+        "start_date": 1420038000,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 303,
+                "data_num": 10
+            }
+        ],
+        "material_data": [
+            {
+                "data_type": 6,
+                "data_id": 504,
+                "data_num": 30,
+                "variable_flag": 1
+            }
+        ]
+    },
+    {
+        "item_exchange_id": 60,
+        "item_exchange_name": "久保史緒里のツバサ×10",
+        "category": 3,
+        "disp_order": 4,
+        "possible_times": 20,
+        "reset_type": 3,
+        "start_date": 1420038000,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 305,
+                "data_num": 10
+            }
+        ],
+        "material_data": [
+            {
+                "data_type": 6,
+                "data_id": 504,
+                "data_num": 30,
+                "variable_flag": 1
+            }
+        ]
+    },
+    {
+        "item_exchange_id": 61,
+        "item_exchange_name": "阪口珠美のツバサ×10",
+        "category": 3,
+        "disp_order": 74,
+        "possible_times": 20,
+        "reset_type": 3,
+        "start_date": 1420038000,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 306,
+                "data_num": 10
+            }
+        ],
+        "material_data": [
+            {
+                "data_type": 6,
+                "data_id": 504,
+                "data_num": 30,
+                "variable_flag": 1
+            }
+        ]
+    },
+    {
+        "item_exchange_id": 62,
+        "item_exchange_name": "佐藤楓のツバサ×10",
+        "category": 3,
+        "disp_order": 75,
+        "possible_times": 20,
+        "reset_type": 3,
+        "start_date": 1420038000,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 307,
+                "data_num": 10
+            }
+        ],
+        "material_data": [
+            {
+                "data_type": 6,
+                "data_id": 504,
+                "data_num": 30,
+                "variable_flag": 1
+            }
+        ]
+    },
+    {
+        "item_exchange_id": 63,
+        "item_exchange_name": "中村麗乃のツバサ×10",
+        "category": 3,
+        "disp_order": 76,
+        "possible_times": 20,
+        "reset_type": 3,
+        "start_date": 1420038000,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 308,
+                "data_num": 10
+            }
+        ],
+        "material_data": [
+            {
+                "data_type": 6,
+                "data_id": 504,
+                "data_num": 30,
+                "variable_flag": 1
+            }
+        ]
+    },
+    {
+        "item_exchange_id": 64,
+        "item_exchange_name": "向井葉月のツバサ×10",
+        "category": 3,
+        "disp_order": 77,
+        "possible_times": 20,
+        "reset_type": 3,
+        "start_date": 1420038000,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 309,
+                "data_num": 10
+            }
+        ],
+        "material_data": [
+            {
+                "data_type": 6,
+                "data_id": 504,
+                "data_num": 30,
+                "variable_flag": 1
+            }
+        ]
+    },
+    {
+        "item_exchange_id": 65,
+        "item_exchange_name": "山下美月のツバサ×10",
+        "category": 3,
+        "disp_order": 78,
+        "possible_times": 20,
+        "reset_type": 3,
+        "start_date": 1420038000,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 310,
+                "data_num": 10
+            }
+        ],
+        "material_data": [
+            {
+                "data_type": 6,
+                "data_id": 504,
+                "data_num": 30,
+                "variable_flag": 1
+            }
+        ]
+    },
+    {
+        "item_exchange_id": 66,
+        "item_exchange_name": "吉田綾乃クリスティーのツバサ×10",
+        "category": 3,
+        "disp_order": 5,
+        "possible_times": 20,
+        "reset_type": 3,
+        "start_date": 1420038000,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 311,
+                "data_num": 10
+            }
+        ],
+        "material_data": [
+            {
+                "data_type": 6,
+                "data_id": 504,
+                "data_num": 30,
+                "variable_flag": 1
+            }
+        ]
+    },
+    {
+        "item_exchange_id": 67,
+        "item_exchange_name": "与田祐希のツバサ×10",
+        "category": 3,
+        "disp_order": 79,
+        "possible_times": 20,
+        "reset_type": 3,
+        "start_date": 1420038000,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 312,
+                "data_num": 10
+            }
+        ],
+        "material_data": [
+            {
+                "data_type": 6,
+                "data_id": 504,
+                "data_num": 30,
+                "variable_flag": 1
+            }
+        ]
+    },
+    {
+        "item_exchange_id": 68,
+        "item_exchange_name": "遠藤さくらのツバサ×10",
+        "category": 3,
+        "disp_order": 6,
+        "possible_times": 20,
+        "reset_type": 3,
+        "start_date": 1420038000,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 401,
+                "data_num": 10
+            }
+        ],
+        "material_data": [
+            {
+                "data_type": 6,
+                "data_id": 504,
+                "data_num": 30,
+                "variable_flag": 1
+            }
+        ]
+    },
+    {
+        "item_exchange_id": 69,
+        "item_exchange_name": "賀喜遥香のツバサ×10",
+        "category": 3,
+        "disp_order": 7,
+        "possible_times": 20,
+        "reset_type": 3,
+        "start_date": 1420038000,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 402,
+                "data_num": 10
+            }
+        ],
+        "material_data": [
+            {
+                "data_type": 6,
+                "data_id": 504,
+                "data_num": 30,
+                "variable_flag": 1
+            }
+        ]
+    },
+    {
+        "item_exchange_id": 70,
+        "item_exchange_name": "掛橋沙耶香のツバサ×10",
+        "category": 3,
+        "disp_order": 80,
+        "possible_times": 20,
+        "reset_type": 3,
+        "start_date": 1420038000,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 403,
+                "data_num": 10
+            }
+        ],
+        "material_data": [
+            {
+                "data_type": 6,
+                "data_id": 504,
+                "data_num": 30,
+                "variable_flag": 1
+            }
+        ]
+    },
+    {
+        "item_exchange_id": 71,
+        "item_exchange_name": "金川紗耶のツバサ×10",
+        "category": 3,
+        "disp_order": 8,
+        "possible_times": 20,
+        "reset_type": 3,
+        "start_date": 1420038000,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 404,
+                "data_num": 10
+            }
+        ],
+        "material_data": [
+            {
+                "data_type": 6,
+                "data_id": 504,
+                "data_num": 30,
+                "variable_flag": 1
+            }
+        ]
+    },
+    {
+        "item_exchange_id": 72,
+        "item_exchange_name": "黒見明香のツバサ×10",
+        "category": 3,
+        "disp_order": 9,
+        "possible_times": 20,
+        "reset_type": 3,
+        "start_date": 1420038000,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 412,
+                "data_num": 10
+            }
+        ],
+        "material_data": [
+            {
+                "data_type": 6,
+                "data_id": 504,
+                "data_num": 30,
+                "variable_flag": 1
+            }
+        ]
+    },
+    {
+        "item_exchange_id": 73,
+        "item_exchange_name": "佐藤璃果のツバサ×10",
+        "category": 3,
+        "disp_order": 10,
+        "possible_times": 20,
+        "reset_type": 3,
+        "start_date": 1420038000,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 413,
+                "data_num": 10
+            }
+        ],
+        "material_data": [
+            {
+                "data_type": 6,
+                "data_id": 504,
+                "data_num": 30,
+                "variable_flag": 1
+            }
+        ]
+    },
+    {
+        "item_exchange_id": 74,
+        "item_exchange_name": "柴田柚菜のツバサ×10",
+        "category": 3,
+        "disp_order": 11,
+        "possible_times": 20,
+        "reset_type": 3,
+        "start_date": 1420038000,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 406,
+                "data_num": 10
+            }
+        ],
+        "material_data": [
+            {
+                "data_type": 6,
+                "data_id": 504,
+                "data_num": 30,
+                "variable_flag": 1
+            }
+        ]
+    },
+    {
+        "item_exchange_id": 75,
+        "item_exchange_name": "清宮レイのツバサ×10",
+        "category": 3,
+        "disp_order": 82,
+        "possible_times": 20,
+        "reset_type": 3,
+        "start_date": 1420038000,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 407,
+                "data_num": 10
+            }
+        ],
+        "material_data": [
+            {
+                "data_type": 6,
+                "data_id": 504,
+                "data_num": 30,
+                "variable_flag": 1
+            }
+        ]
+    },
+    {
+        "item_exchange_id": 76,
+        "item_exchange_name": "田村真佑のツバサ×10",
+        "category": 3,
+        "disp_order": 12,
+        "possible_times": 20,
+        "reset_type": 3,
+        "start_date": 1420038000,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 408,
+                "data_num": 10
+            }
+        ],
+        "material_data": [
+            {
+                "data_type": 6,
+                "data_id": 504,
+                "data_num": 30,
+                "variable_flag": 1
+            }
+        ]
+    },
+    {
+        "item_exchange_id": 77,
+        "item_exchange_name": "筒井あやめのツバサ×10",
+        "category": 3,
+        "disp_order": 13,
+        "possible_times": 20,
+        "reset_type": 3,
+        "start_date": 1420038000,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 409,
+                "data_num": 10
+            }
+        ],
+        "material_data": [
+            {
+                "data_type": 6,
+                "data_id": 504,
+                "data_num": 30,
+                "variable_flag": 1
+            }
+        ]
+    },
+    {
+        "item_exchange_id": 78,
+        "item_exchange_name": "林瑠奈のツバサ×10",
+        "category": 3,
+        "disp_order": 14,
+        "possible_times": 20,
+        "reset_type": 3,
+        "start_date": 1420038000,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 414,
+                "data_num": 10
+            }
+        ],
+        "material_data": [
+            {
+                "data_type": 6,
+                "data_id": 504,
+                "data_num": 30,
+                "variable_flag": 1
+            }
+        ]
+    },
+    {
+        "item_exchange_id": 79,
+        "item_exchange_name": "松尾美佑のツバサ×10",
+        "category": 3,
+        "disp_order": 15,
+        "possible_times": 20,
+        "reset_type": 3,
+        "start_date": 1420038000,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 415,
+                "data_num": 10
+            }
+        ],
+        "material_data": [
+            {
+                "data_type": 6,
+                "data_id": 504,
+                "data_num": 30,
+                "variable_flag": 1
+            }
+        ]
+    },
+    {
+        "item_exchange_id": 80,
+        "item_exchange_name": "矢久保美緒のツバサ×10",
+        "category": 3,
+        "disp_order": 16,
+        "possible_times": 20,
+        "reset_type": 3,
+        "start_date": 1420038000,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 411,
+                "data_num": 10
+            }
+        ],
+        "material_data": [
+            {
+                "data_type": 6,
+                "data_id": 504,
+                "data_num": 30,
+                "variable_flag": 1
+            }
+        ]
+    },
+    {
+        "item_exchange_id": 81,
+        "item_exchange_name": "弓木奈於のツバサ×10",
+        "category": 3,
+        "disp_order": 17,
+        "possible_times": 20,
+        "reset_type": 3,
+        "start_date": 1420038000,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 416,
+                "data_num": 10
+            }
+        ],
+        "material_data": [
+            {
+                "data_type": 6,
+                "data_id": 504,
+                "data_num": 30,
+                "variable_flag": 1
+            }
+        ]
+    },
+    {
+        "item_exchange_id": 82,
+        "item_exchange_name": "五百城茉央のツバサ×10",
+        "category": 3,
+        "disp_order": 18,
+        "possible_times": 20,
+        "reset_type": 3,
+        "start_date": 1420038000,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 501,
+                "data_num": 10
+            }
+        ],
+        "material_data": [
+            {
+                "data_type": 6,
+                "data_id": 504,
+                "data_num": 30,
+                "variable_flag": 1
+            }
+        ]
+    },
+    {
+        "item_exchange_id": 83,
+        "item_exchange_name": "池田瑛紗のツバサ×10",
+        "category": 3,
+        "disp_order": 19,
+        "possible_times": 20,
+        "reset_type": 3,
+        "start_date": 1420038000,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 502,
+                "data_num": 10
+            }
+        ],
+        "material_data": [
+            {
+                "data_type": 6,
+                "data_id": 504,
+                "data_num": 30,
+                "variable_flag": 1
+            }
+        ]
+    },
+    {
+        "item_exchange_id": 84,
+        "item_exchange_name": "一ノ瀬美空のツバサ×10",
+        "category": 3,
+        "disp_order": 20,
+        "possible_times": 20,
+        "reset_type": 3,
+        "start_date": 1420038000,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 503,
+                "data_num": 10
+            }
+        ],
+        "material_data": [
+            {
+                "data_type": 6,
+                "data_id": 504,
+                "data_num": 30,
+                "variable_flag": 1
+            }
+        ]
+    },
+    {
+        "item_exchange_id": 85,
+        "item_exchange_name": "井上和のツバサ×10",
+        "category": 3,
+        "disp_order": 21,
+        "possible_times": 20,
+        "reset_type": 3,
+        "start_date": 1420038000,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 504,
+                "data_num": 10
+            }
+        ],
+        "material_data": [
+            {
+                "data_type": 6,
+                "data_id": 504,
+                "data_num": 30,
+                "variable_flag": 1
+            }
+        ]
+    },
+    {
+        "item_exchange_id": 86,
+        "item_exchange_name": "岡本姫奈のツバサ×10",
+        "category": 3,
+        "disp_order": 22,
+        "possible_times": 20,
+        "reset_type": 3,
+        "start_date": 1420038000,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 505,
+                "data_num": 10
+            }
+        ],
+        "material_data": [
+            {
+                "data_type": 6,
+                "data_id": 504,
+                "data_num": 30,
+                "variable_flag": 1
+            }
+        ]
+    },
+    {
+        "item_exchange_id": 87,
+        "item_exchange_name": "小川彩のツバサ×10",
+        "category": 3,
+        "disp_order": 23,
+        "possible_times": 20,
+        "reset_type": 3,
+        "start_date": 1420038000,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 506,
+                "data_num": 10
+            }
+        ],
+        "material_data": [
+            {
+                "data_type": 6,
+                "data_id": 504,
+                "data_num": 30,
+                "variable_flag": 1
+            }
+        ]
+    },
+    {
+        "item_exchange_id": 88,
+        "item_exchange_name": "奥田いろはのツバサ×10",
+        "category": 3,
+        "disp_order": 24,
+        "possible_times": 20,
+        "reset_type": 3,
+        "start_date": 1420038000,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 507,
+                "data_num": 10
+            }
+        ],
+        "material_data": [
+            {
+                "data_type": 6,
+                "data_id": 504,
+                "data_num": 30,
+                "variable_flag": 1
+            }
+        ]
+    },
+    {
+        "item_exchange_id": 89,
+        "item_exchange_name": "川﨑桜のツバサ×10",
+        "category": 3,
+        "disp_order": 25,
+        "possible_times": 20,
+        "reset_type": 3,
+        "start_date": 1420038000,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 508,
+                "data_num": 10
+            }
+        ],
+        "material_data": [
+            {
+                "data_type": 6,
+                "data_id": 504,
+                "data_num": 30,
+                "variable_flag": 1
+            }
+        ]
+    },
+    {
+        "item_exchange_id": 90,
+        "item_exchange_name": "菅原咲月のツバサ×10",
+        "category": 3,
+        "disp_order": 26,
+        "possible_times": 20,
+        "reset_type": 3,
+        "start_date": 1420038000,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 509,
+                "data_num": 10
+            }
+        ],
+        "material_data": [
+            {
+                "data_type": 6,
+                "data_id": 504,
+                "data_num": 30,
+                "variable_flag": 1
+            }
+        ]
+    },
+    {
+        "item_exchange_id": 91,
+        "item_exchange_name": "冨里奈央のツバサ×10",
+        "category": 3,
+        "disp_order": 27,
+        "possible_times": 20,
+        "reset_type": 3,
+        "start_date": 1420038000,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 510,
+                "data_num": 10
+            }
+        ],
+        "material_data": [
+            {
+                "data_type": 6,
+                "data_id": 504,
+                "data_num": 30,
+                "variable_flag": 1
+            }
+        ]
+    },
+    {
+        "item_exchange_id": 92,
+        "item_exchange_name": "中西アルノのツバサ×10",
+        "category": 3,
+        "disp_order": 28,
+        "possible_times": 20,
+        "reset_type": 3,
+        "start_date": 1420038000,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 511,
+                "data_num": 10
+            }
+        ],
+        "material_data": [
+            {
+                "data_type": 6,
+                "data_id": 504,
+                "data_num": 30,
+                "variable_flag": 1
+            }
+        ]
+    },
+    {
+        "item_exchange_id": 93,
+        "item_exchange_name": "秋元真夏のツバサ×10",
+        "category": 3,
+        "disp_order": 40,
+        "possible_times": 20,
+        "reset_type": 3,
+        "start_date": 1420038000,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 101,
+                "data_num": 10
+            }
+        ],
+        "material_data": [
+            {
+                "data_type": 6,
+                "data_id": 504,
+                "data_num": 30,
+                "variable_flag": 1
+            }
+        ]
+    },
+    {
+        "item_exchange_id": 94,
+        "item_exchange_name": "生田絵梨花のツバサ×10",
+        "category": 3,
+        "disp_order": 41,
+        "possible_times": 20,
+        "reset_type": 3,
+        "start_date": 1420038000,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 102,
+                "data_num": 10
+            }
+        ],
+        "material_data": [
+            {
+                "data_type": 6,
+                "data_id": 504,
+                "data_num": 30,
+                "variable_flag": 1
+            }
+        ]
+    },
+    {
+        "item_exchange_id": 95,
+        "item_exchange_name": "生駒里奈のツバサ×10",
+        "category": 3,
+        "disp_order": 42,
+        "possible_times": 20,
+        "reset_type": 3,
+        "start_date": 1420038000,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 103,
+                "data_num": 10
+            }
+        ],
+        "material_data": [
+            {
+                "data_type": 6,
+                "data_id": 504,
+                "data_num": 30,
+                "variable_flag": 1
+            }
+        ]
+    },
+    {
+        "item_exchange_id": 96,
+        "item_exchange_name": "伊藤万理華のツバサ×10",
+        "category": 3,
+        "disp_order": 43,
+        "possible_times": 20,
+        "reset_type": 3,
+        "start_date": 1420038000,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 104,
+                "data_num": 10
+            }
+        ],
+        "material_data": [
+            {
+                "data_type": 6,
+                "data_id": 504,
+                "data_num": 30,
+                "variable_flag": 1
+            }
+        ]
+    },
+    {
+        "item_exchange_id": 97,
+        "item_exchange_name": "井上小百合のツバサ×10",
+        "category": 3,
+        "disp_order": 44,
+        "possible_times": 20,
+        "reset_type": 3,
+        "start_date": 1420038000,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 105,
+                "data_num": 10
+            }
+        ],
+        "material_data": [
+            {
+                "data_type": 6,
+                "data_id": 504,
+                "data_num": 30,
+                "variable_flag": 1
+            }
+        ]
+    },
+    {
+        "item_exchange_id": 98,
+        "item_exchange_name": "衛藤美彩のツバサ×10",
+        "category": 3,
+        "disp_order": 45,
+        "possible_times": 20,
+        "reset_type": 3,
+        "start_date": 1420038000,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 106,
+                "data_num": 10
+            }
+        ],
+        "material_data": [
+            {
+                "data_type": 6,
+                "data_id": 504,
+                "data_num": 30,
+                "variable_flag": 1
+            }
+        ]
+    },
+    {
+        "item_exchange_id": 99,
+        "item_exchange_name": "川後陽菜のツバサ×10",
+        "category": 3,
+        "disp_order": 46,
+        "possible_times": 20,
+        "reset_type": 3,
+        "start_date": 1420038000,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 107,
+                "data_num": 10
+            }
+        ],
+        "material_data": [
+            {
+                "data_type": 6,
+                "data_id": 504,
+                "data_num": 30,
+                "variable_flag": 1
+            }
+        ]
+    },
+    {
+        "item_exchange_id": 100,
+        "item_exchange_name": "川村真洋のツバサ×10",
+        "category": 3,
+        "disp_order": 47,
+        "possible_times": 20,
+        "reset_type": 3,
+        "start_date": 1420038000,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 108,
+                "data_num": 10
+            }
+        ],
+        "material_data": [
+            {
+                "data_type": 6,
+                "data_id": 504,
+                "data_num": 30,
+                "variable_flag": 1
+            }
+        ]
+    },
+    {
+        "item_exchange_id": 101,
+        "item_exchange_name": "齋藤飛鳥のツバサ×10",
+        "category": 3,
+        "disp_order": 48,
+        "possible_times": 20,
+        "reset_type": 3,
+        "start_date": 1420038000,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 109,
+                "data_num": 10
+            }
+        ],
+        "material_data": [
+            {
+                "data_type": 6,
+                "data_id": 504,
+                "data_num": 30,
+                "variable_flag": 1
+            }
+        ]
+    },
+    {
+        "item_exchange_id": 102,
+        "item_exchange_name": "斎藤ちはるのツバサ×10",
+        "category": 3,
+        "disp_order": 49,
+        "possible_times": 20,
+        "reset_type": 3,
+        "start_date": 1420038000,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 110,
+                "data_num": 10
+            }
+        ],
+        "material_data": [
+            {
+                "data_type": 6,
+                "data_id": 504,
+                "data_num": 30,
+                "variable_flag": 1
+            }
+        ]
+    },
+    {
+        "item_exchange_id": 103,
+        "item_exchange_name": "斉藤優里のツバサ×10",
+        "category": 3,
+        "disp_order": 50,
+        "possible_times": 20,
+        "reset_type": 3,
+        "start_date": 1420038000,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 111,
+                "data_num": 10
+            }
+        ],
+        "material_data": [
+            {
+                "data_type": 6,
+                "data_id": 504,
+                "data_num": 30,
+                "variable_flag": 1
+            }
+        ]
+    },
+    {
+        "item_exchange_id": 104,
+        "item_exchange_name": "桜井玲香のツバサ×10",
+        "category": 3,
+        "disp_order": 51,
+        "possible_times": 20,
+        "reset_type": 3,
+        "start_date": 1420038000,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 112,
+                "data_num": 10
+            }
+        ],
+        "material_data": [
+            {
+                "data_type": 6,
+                "data_id": 504,
+                "data_num": 30,
+                "variable_flag": 1
+            }
+        ]
+    },
+    {
+        "item_exchange_id": 105,
+        "item_exchange_name": "白石麻衣のツバサ×10",
+        "category": 3,
+        "disp_order": 52,
+        "possible_times": 20,
+        "reset_type": 3,
+        "start_date": 1420038000,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 113,
+                "data_num": 10
+            }
+        ],
+        "material_data": [
+            {
+                "data_type": 6,
+                "data_id": 504,
+                "data_num": 30,
+                "variable_flag": 1
+            }
+        ]
+    },
+    {
+        "item_exchange_id": 106,
+        "item_exchange_name": "高山一実のツバサ×10",
+        "category": 3,
+        "disp_order": 53,
+        "possible_times": 20,
+        "reset_type": 3,
+        "start_date": 1420038000,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 114,
+                "data_num": 10
+            }
+        ],
+        "material_data": [
+            {
+                "data_type": 6,
+                "data_id": 504,
+                "data_num": 30,
+                "variable_flag": 1
+            }
+        ]
+    },
+    {
+        "item_exchange_id": 107,
+        "item_exchange_name": "中田花奈のツバサ×10",
+        "category": 3,
+        "disp_order": 54,
+        "possible_times": 20,
+        "reset_type": 3,
+        "start_date": 1420038000,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 115,
+                "data_num": 10
+            }
+        ],
+        "material_data": [
+            {
+                "data_type": 6,
+                "data_id": 504,
+                "data_num": 30,
+                "variable_flag": 1
+            }
+        ]
+    },
+    {
+        "item_exchange_id": 108,
+        "item_exchange_name": "西野七瀬のツバサ×10",
+        "category": 3,
+        "disp_order": 55,
+        "possible_times": 20,
+        "reset_type": 3,
+        "start_date": 1420038000,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 116,
+                "data_num": 10
+            }
+        ],
+        "material_data": [
+            {
+                "data_type": 6,
+                "data_id": 504,
+                "data_num": 30,
+                "variable_flag": 1
+            }
+        ]
+    },
+    {
+        "item_exchange_id": 109,
+        "item_exchange_name": "能條愛未のツバサ×10",
+        "category": 3,
+        "disp_order": 56,
+        "possible_times": 20,
+        "reset_type": 3,
+        "start_date": 1420038000,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 117,
+                "data_num": 10
+            }
+        ],
+        "material_data": [
+            {
+                "data_type": 6,
+                "data_id": 504,
+                "data_num": 30,
+                "variable_flag": 1
+            }
+        ]
+    },
+    {
+        "item_exchange_id": 110,
+        "item_exchange_name": "樋口日奈のツバサ×10",
+        "category": 3,
+        "disp_order": 57,
+        "possible_times": 20,
+        "reset_type": 3,
+        "start_date": 1420038000,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 118,
+                "data_num": 10
+            }
+        ],
+        "material_data": [
+            {
+                "data_type": 6,
+                "data_id": 504,
+                "data_num": 30,
+                "variable_flag": 1
+            }
+        ]
+    },
+    {
+        "item_exchange_id": 111,
+        "item_exchange_name": "星野みなみのツバサ×10",
+        "category": 3,
+        "disp_order": 58,
+        "possible_times": 20,
+        "reset_type": 3,
+        "start_date": 1420038000,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 119,
+                "data_num": 10
+            }
+        ],
+        "material_data": [
+            {
+                "data_type": 6,
+                "data_id": 504,
+                "data_num": 30,
+                "variable_flag": 1
+            }
+        ]
+    },
+    {
+        "item_exchange_id": 112,
+        "item_exchange_name": "松村沙友理のツバサ×10",
+        "category": 3,
+        "disp_order": 59,
+        "possible_times": 20,
+        "reset_type": 3,
+        "start_date": 1420038000,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 120,
+                "data_num": 10
+            }
+        ],
+        "material_data": [
+            {
+                "data_type": 6,
+                "data_id": 504,
+                "data_num": 30,
+                "variable_flag": 1
+            }
+        ]
+    },
+    {
+        "item_exchange_id": 113,
+        "item_exchange_name": "若月佑美のツバサ×10",
+        "category": 3,
+        "disp_order": 60,
+        "possible_times": 20,
+        "reset_type": 3,
+        "start_date": 1420038000,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 121,
+                "data_num": 10
+            }
+        ],
+        "material_data": [
+            {
+                "data_type": 6,
+                "data_id": 504,
+                "data_num": 30,
+                "variable_flag": 1
+            }
+        ]
+    },
+    {
+        "item_exchange_id": 114,
+        "item_exchange_name": "和田まあやのツバサ×10",
+        "category": 3,
+        "disp_order": 61,
+        "possible_times": 20,
+        "reset_type": 3,
+        "start_date": 1420038000,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 122,
+                "data_num": 10
+            }
+        ],
+        "material_data": [
+            {
+                "data_type": 6,
+                "data_id": 504,
+                "data_num": 30,
+                "variable_flag": 1
+            }
+        ]
+    },
+    {
+        "item_exchange_id": 115,
+        "item_exchange_name": "伊藤かりんのツバサ×10",
+        "category": 3,
+        "disp_order": 62,
+        "possible_times": 20,
+        "reset_type": 3,
+        "start_date": 1420038000,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 201,
+                "data_num": 10
+            }
+        ],
+        "material_data": [
+            {
+                "data_type": 6,
+                "data_id": 504,
+                "data_num": 30,
+                "variable_flag": 1
+            }
+        ]
+    },
+    {
+        "item_exchange_id": 116,
+        "item_exchange_name": "伊藤純奈のツバサ×10",
+        "category": 3,
+        "disp_order": 63,
+        "possible_times": 20,
+        "reset_type": 3,
+        "start_date": 1420038000,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 202,
+                "data_num": 10
+            }
+        ],
+        "material_data": [
+            {
+                "data_type": 6,
+                "data_id": 504,
+                "data_num": 30,
+                "variable_flag": 1
+            }
+        ]
+    },
+    {
+        "item_exchange_id": 117,
+        "item_exchange_name": "北野日奈子のツバサ×10",
+        "category": 3,
+        "disp_order": 64,
+        "possible_times": 20,
+        "reset_type": 3,
+        "start_date": 1420038000,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 203,
+                "data_num": 10
+            }
+        ],
+        "material_data": [
+            {
+                "data_type": 6,
+                "data_id": 504,
+                "data_num": 30,
+                "variable_flag": 1
+            }
+        ]
+    },
+    {
+        "item_exchange_id": 118,
+        "item_exchange_name": "相楽伊織のツバサ×10",
+        "category": 3,
+        "disp_order": 65,
+        "possible_times": 20,
+        "reset_type": 3,
+        "start_date": 1420038000,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 204,
+                "data_num": 10
+            }
+        ],
+        "material_data": [
+            {
+                "data_type": 6,
+                "data_id": 504,
+                "data_num": 30,
+                "variable_flag": 1
+            }
+        ]
+    },
+    {
+        "item_exchange_id": 119,
+        "item_exchange_name": "佐々木琴子のツバサ×10",
+        "category": 3,
+        "disp_order": 66,
+        "possible_times": 20,
+        "reset_type": 3,
+        "start_date": 1420038000,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 205,
+                "data_num": 10
+            }
+        ],
+        "material_data": [
+            {
+                "data_type": 6,
+                "data_id": 504,
+                "data_num": 30,
+                "variable_flag": 1
+            }
+        ]
+    },
+    {
+        "item_exchange_id": 120,
+        "item_exchange_name": "新内眞衣のツバサ×10",
+        "category": 3,
+        "disp_order": 67,
+        "possible_times": 20,
+        "reset_type": 3,
+        "start_date": 1420038000,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 206,
+                "data_num": 10
+            }
+        ],
+        "material_data": [
+            {
+                "data_type": 6,
+                "data_id": 504,
+                "data_num": 30,
+                "variable_flag": 1
+            }
+        ]
+    },
+    {
+        "item_exchange_id": 121,
+        "item_exchange_name": "鈴木絢音のツバサ×10",
+        "category": 3,
+        "disp_order": 68,
+        "possible_times": 20,
+        "reset_type": 3,
+        "start_date": 1420038000,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 207,
+                "data_num": 10
+            }
+        ],
+        "material_data": [
+            {
+                "data_type": 6,
+                "data_id": 504,
+                "data_num": 30,
+                "variable_flag": 1
+            }
+        ]
+    },
+    {
+        "item_exchange_id": 122,
+        "item_exchange_name": "寺田蘭世のツバサ×10",
+        "category": 3,
+        "disp_order": 69,
+        "possible_times": 20,
+        "reset_type": 3,
+        "start_date": 1420038000,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 208,
+                "data_num": 10
+            }
+        ],
+        "material_data": [
+            {
+                "data_type": 6,
+                "data_id": 504,
+                "data_num": 30,
+                "variable_flag": 1
+            }
+        ]
+    },
+    {
+        "item_exchange_id": 123,
+        "item_exchange_name": "堀未央奈のツバサ×10",
+        "category": 3,
+        "disp_order": 70,
+        "possible_times": 20,
+        "reset_type": 3,
+        "start_date": 1420038000,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 209,
+                "data_num": 10
+            }
+        ],
+        "material_data": [
+            {
+                "data_type": 6,
+                "data_id": 504,
+                "data_num": 30,
+                "variable_flag": 1
+            }
+        ]
+    },
+    {
+        "item_exchange_id": 124,
+        "item_exchange_name": "山崎怜奈のツバサ×10",
+        "category": 3,
+        "disp_order": 71,
+        "possible_times": 20,
+        "reset_type": 3,
+        "start_date": 1420038000,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 210,
+                "data_num": 10
+            }
+        ],
+        "material_data": [
+            {
+                "data_type": 6,
+                "data_id": 504,
+                "data_num": 30,
+                "variable_flag": 1
+            }
+        ]
+    },
+    {
+        "item_exchange_id": 125,
+        "item_exchange_name": "渡辺みり愛のツバサ×10",
+        "category": 3,
+        "disp_order": 72,
+        "possible_times": 20,
+        "reset_type": 3,
+        "start_date": 1420038000,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 211,
+                "data_num": 10
+            }
+        ],
+        "material_data": [
+            {
+                "data_type": 6,
+                "data_id": 504,
+                "data_num": 30,
+                "variable_flag": 1
+            }
+        ]
+    },
+    {
+        "item_exchange_id": 126,
+        "item_exchange_name": "大園桃子のツバサ×10",
+        "category": 3,
+        "disp_order": 73,
+        "possible_times": 20,
+        "reset_type": 3,
+        "start_date": 1420038000,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 304,
+                "data_num": 10
+            }
+        ],
+        "material_data": [
+            {
+                "data_type": 6,
+                "data_id": 504,
+                "data_num": 30,
+                "variable_flag": 1
+            }
+        ]
+    },
+    {
+        "item_exchange_id": 127,
+        "item_exchange_name": "北川悠理のツバサ×10",
+        "category": 3,
+        "disp_order": 81,
+        "possible_times": 20,
+        "reset_type": 3,
+        "start_date": 1420038000,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 405,
+                "data_num": 10
+            }
+        ],
+        "material_data": [
+            {
+                "data_type": 6,
+                "data_id": 504,
+                "data_num": 30,
+                "variable_flag": 1
+            }
+        ]
+    },
+    {
+        "item_exchange_id": 128,
+        "item_exchange_name": "早川聖来のツバサ×10",
+        "category": 3,
+        "disp_order": 83,
+        "possible_times": 20,
+        "reset_type": 3,
+        "start_date": 1420038000,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 410,
+                "data_num": 10
+            }
+        ],
+        "material_data": [
+            {
+                "data_type": 6,
+                "data_id": 504,
+                "data_num": 30,
+                "variable_flag": 1
+            }
+        ]
+    },
+    {
+        "item_exchange_id": 129,
+        "item_exchange_name": "虹のツバサ×1",
+        "category": 1,
+        "disp_order": 1,
+        "possible_times": 2,
+        "reset_type": 1,
+        "start_date": 1420038000,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 3,
+                "data_id": 12,
+                "data_num": 1
+            }
+        ],
+        "material_data": [
+            {
+                "data_type": 20,
+                "data_id": 4,
+                "data_num": 30,
+                "variable_flag": 0
+            }
+        ]
+    },
+    {
+        "item_exchange_id": 130,
+        "item_exchange_name": "虹のツバサ×1",
+        "category": 2,
+        "disp_order": 3,
+        "possible_times": 2,
+        "reset_type": 3,
+        "start_date": 1420038000,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 3,
+                "data_id": 12,
+                "data_num": 1
+            }
+        ],
+        "material_data": [
+            {
+                "data_type": 29,
+                "data_id": 0,
+                "data_num": 500,
+                "variable_flag": 0
+            }
+        ]
+    },
+    {
+        "item_exchange_id": 131,
+        "item_exchange_name": "愛宕心響のツバサ×10",
+        "category": 3,
+        "disp_order": 29,
+        "possible_times": 20,
+        "reset_type": 3,
+        "start_date": 1420038000,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 601,
+                "data_num": 10
+            }
+        ],
+        "material_data": [
+            {
+                "data_type": 6,
+                "data_id": 504,
+                "data_num": 30,
+                "variable_flag": 1
+            }
+        ]
+    },
+    {
+        "item_exchange_id": 132,
+        "item_exchange_name": "大越ひなののツバサ×10",
+        "category": 3,
+        "disp_order": 30,
+        "possible_times": 20,
+        "reset_type": 3,
+        "start_date": 1420038000,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 602,
+                "data_num": 10
+            }
+        ],
+        "material_data": [
+            {
+                "data_type": 6,
+                "data_id": 504,
+                "data_num": 30,
+                "variable_flag": 1
+            }
+        ]
+    },
+    {
+        "item_exchange_id": 133,
+        "item_exchange_name": "小津玲奈のツバサ×10",
+        "category": 3,
+        "disp_order": 31,
+        "possible_times": 20,
+        "reset_type": 3,
+        "start_date": 1420038000,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 603,
+                "data_num": 10
+            }
+        ],
+        "material_data": [
+            {
+                "data_type": 6,
+                "data_id": 504,
+                "data_num": 30,
+                "variable_flag": 1
+            }
+        ]
+    },
+    {
+        "item_exchange_id": 134,
+        "item_exchange_name": "海邉朱莉のツバサ×10",
+        "category": 3,
+        "disp_order": 32,
+        "possible_times": 20,
+        "reset_type": 3,
+        "start_date": 1420038000,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 604,
+                "data_num": 10
+            }
+        ],
+        "material_data": [
+            {
+                "data_type": 6,
+                "data_id": 504,
+                "data_num": 30,
+                "variable_flag": 1
+            }
+        ]
+    },
+    {
+        "item_exchange_id": 135,
+        "item_exchange_name": "川端晃菜のツバサ×10",
+        "category": 3,
+        "disp_order": 33,
+        "possible_times": 20,
+        "reset_type": 3,
+        "start_date": 1420038000,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 605,
+                "data_num": 10
+            }
+        ],
+        "material_data": [
+            {
+                "data_type": 6,
+                "data_id": 504,
+                "data_num": 30,
+                "variable_flag": 1
+            }
+        ]
+    },
+    {
+        "item_exchange_id": 136,
+        "item_exchange_name": "鈴木佑捺のツバサ×10",
+        "category": 3,
+        "disp_order": 34,
+        "possible_times": 20,
+        "reset_type": 3,
+        "start_date": 1420038000,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 606,
+                "data_num": 10
+            }
+        ],
+        "material_data": [
+            {
+                "data_type": 6,
+                "data_id": 504,
+                "data_num": 30,
+                "variable_flag": 1
+            }
+        ]
+    },
+    {
+        "item_exchange_id": 137,
+        "item_exchange_name": "瀬戸口心月のツバサ×10",
+        "category": 3,
+        "disp_order": 35,
+        "possible_times": 20,
+        "reset_type": 3,
+        "start_date": 1420038000,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 607,
+                "data_num": 10
+            }
+        ],
+        "material_data": [
+            {
+                "data_type": 6,
+                "data_id": 504,
+                "data_num": 30,
+                "variable_flag": 1
+            }
+        ]
+    },
+    {
+        "item_exchange_id": 138,
+        "item_exchange_name": "長嶋凛桜のツバサ×10",
+        "category": 3,
+        "disp_order": 36,
+        "possible_times": 20,
+        "reset_type": 3,
+        "start_date": 1420038000,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 608,
+                "data_num": 10
+            }
+        ],
+        "material_data": [
+            {
+                "data_type": 6,
+                "data_id": 504,
+                "data_num": 30,
+                "variable_flag": 1
+            }
+        ]
+    },
+    {
+        "item_exchange_id": 139,
+        "item_exchange_name": "増田三莉音のツバサ×10",
+        "category": 3,
+        "disp_order": 37,
+        "possible_times": 20,
+        "reset_type": 3,
+        "start_date": 1420038000,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 609,
+                "data_num": 10
+            }
+        ],
+        "material_data": [
+            {
+                "data_type": 6,
+                "data_id": 504,
+                "data_num": 30,
+                "variable_flag": 1
+            }
+        ]
+    },
+    {
+        "item_exchange_id": 140,
+        "item_exchange_name": "森平麗心のツバサ×10",
+        "category": 3,
+        "disp_order": 38,
+        "possible_times": 20,
+        "reset_type": 3,
+        "start_date": 1420038000,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 610,
+                "data_num": 10
+            }
+        ],
+        "material_data": [
+            {
+                "data_type": 6,
+                "data_id": 504,
+                "data_num": 30,
+                "variable_flag": 1
+            }
+        ]
+    },
+    {
+        "item_exchange_id": 141,
+        "item_exchange_name": "矢田萌華のツバサ×10",
+        "category": 3,
+        "disp_order": 39,
+        "possible_times": 20,
+        "reset_type": 3,
+        "start_date": 1420038000,
+        "end_date": 1924959599,
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 611,
+                "data_num": 10
+            }
+        ],
+        "material_data": [
+            {
+                "data_type": 6,
+                "data_id": 504,
+                "data_num": 30,
+                "variable_flag": 1
+            }
+        ]
+    }
+]

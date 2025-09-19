@@ -1,0 +1,3230 @@
+[
+    {
+        "id": 1,
+        "rarity": 1,
+        "level_data": [
+            {
+                "level": 1,
+                "exp": 0,
+                "cumulative_exp": 0,
+                "grow": 0
+            },
+            {
+                "level": 2,
+                "exp": 50,
+                "cumulative_exp": 50,
+                "grow": 500
+            },
+            {
+                "level": 3,
+                "exp": 80,
+                "cumulative_exp": 130,
+                "grow": 1000
+            },
+            {
+                "level": 4,
+                "exp": 110,
+                "cumulative_exp": 240,
+                "grow": 1500
+            },
+            {
+                "level": 5,
+                "exp": 140,
+                "cumulative_exp": 380,
+                "grow": 2000
+            },
+            {
+                "level": 6,
+                "exp": 170,
+                "cumulative_exp": 550,
+                "grow": 2500
+            },
+            {
+                "level": 7,
+                "exp": 200,
+                "cumulative_exp": 750,
+                "grow": 3000
+            },
+            {
+                "level": 8,
+                "exp": 230,
+                "cumulative_exp": 980,
+                "grow": 3500
+            },
+            {
+                "level": 9,
+                "exp": 260,
+                "cumulative_exp": 1240,
+                "grow": 4000
+            },
+            {
+                "level": 10,
+                "exp": 290,
+                "cumulative_exp": 1530,
+                "grow": 4500
+            },
+            {
+                "level": 11,
+                "exp": 320,
+                "cumulative_exp": 1850,
+                "grow": 5000
+            },
+            {
+                "level": 12,
+                "exp": 350,
+                "cumulative_exp": 2200,
+                "grow": 5500
+            },
+            {
+                "level": 13,
+                "exp": 380,
+                "cumulative_exp": 2580,
+                "grow": 6000
+            },
+            {
+                "level": 14,
+                "exp": 410,
+                "cumulative_exp": 2990,
+                "grow": 6500
+            },
+            {
+                "level": 15,
+                "exp": 440,
+                "cumulative_exp": 3430,
+                "grow": 7000
+            },
+            {
+                "level": 16,
+                "exp": 470,
+                "cumulative_exp": 3900,
+                "grow": 7500
+            },
+            {
+                "level": 17,
+                "exp": 500,
+                "cumulative_exp": 4400,
+                "grow": 8000
+            },
+            {
+                "level": 18,
+                "exp": 530,
+                "cumulative_exp": 4930,
+                "grow": 8500
+            },
+            {
+                "level": 19,
+                "exp": 560,
+                "cumulative_exp": 5490,
+                "grow": 9000
+            },
+            {
+                "level": 20,
+                "exp": 590,
+                "cumulative_exp": 6080,
+                "grow": 10000
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "rarity": 2,
+        "level_data": [
+            {
+                "level": 1,
+                "exp": 0,
+                "cumulative_exp": 0,
+                "grow": 0
+            },
+            {
+                "level": 2,
+                "exp": 100,
+                "cumulative_exp": 100,
+                "grow": 250
+            },
+            {
+                "level": 3,
+                "exp": 130,
+                "cumulative_exp": 230,
+                "grow": 500
+            },
+            {
+                "level": 4,
+                "exp": 160,
+                "cumulative_exp": 390,
+                "grow": 750
+            },
+            {
+                "level": 5,
+                "exp": 190,
+                "cumulative_exp": 580,
+                "grow": 1000
+            },
+            {
+                "level": 6,
+                "exp": 220,
+                "cumulative_exp": 800,
+                "grow": 1250
+            },
+            {
+                "level": 7,
+                "exp": 250,
+                "cumulative_exp": 1050,
+                "grow": 1500
+            },
+            {
+                "level": 8,
+                "exp": 280,
+                "cumulative_exp": 1330,
+                "grow": 1750
+            },
+            {
+                "level": 9,
+                "exp": 310,
+                "cumulative_exp": 1640,
+                "grow": 2000
+            },
+            {
+                "level": 10,
+                "exp": 340,
+                "cumulative_exp": 1980,
+                "grow": 2250
+            },
+            {
+                "level": 11,
+                "exp": 370,
+                "cumulative_exp": 2350,
+                "grow": 2500
+            },
+            {
+                "level": 12,
+                "exp": 400,
+                "cumulative_exp": 2750,
+                "grow": 2750
+            },
+            {
+                "level": 13,
+                "exp": 430,
+                "cumulative_exp": 3180,
+                "grow": 3000
+            },
+            {
+                "level": 14,
+                "exp": 460,
+                "cumulative_exp": 3640,
+                "grow": 3250
+            },
+            {
+                "level": 15,
+                "exp": 490,
+                "cumulative_exp": 4130,
+                "grow": 3500
+            },
+            {
+                "level": 16,
+                "exp": 520,
+                "cumulative_exp": 4650,
+                "grow": 3750
+            },
+            {
+                "level": 17,
+                "exp": 550,
+                "cumulative_exp": 5200,
+                "grow": 4000
+            },
+            {
+                "level": 18,
+                "exp": 580,
+                "cumulative_exp": 5780,
+                "grow": 4250
+            },
+            {
+                "level": 19,
+                "exp": 610,
+                "cumulative_exp": 6390,
+                "grow": 4500
+            },
+            {
+                "level": 20,
+                "exp": 640,
+                "cumulative_exp": 7030,
+                "grow": 4750
+            },
+            {
+                "level": 21,
+                "exp": 670,
+                "cumulative_exp": 7700,
+                "grow": 5000
+            },
+            {
+                "level": 22,
+                "exp": 710,
+                "cumulative_exp": 8410,
+                "grow": 5250
+            },
+            {
+                "level": 23,
+                "exp": 750,
+                "cumulative_exp": 9160,
+                "grow": 5500
+            },
+            {
+                "level": 24,
+                "exp": 790,
+                "cumulative_exp": 9950,
+                "grow": 5750
+            },
+            {
+                "level": 25,
+                "exp": 830,
+                "cumulative_exp": 10780,
+                "grow": 6000
+            },
+            {
+                "level": 26,
+                "exp": 870,
+                "cumulative_exp": 11650,
+                "grow": 6250
+            },
+            {
+                "level": 27,
+                "exp": 910,
+                "cumulative_exp": 12560,
+                "grow": 6500
+            },
+            {
+                "level": 28,
+                "exp": 950,
+                "cumulative_exp": 13510,
+                "grow": 6750
+            },
+            {
+                "level": 29,
+                "exp": 990,
+                "cumulative_exp": 14500,
+                "grow": 7000
+            },
+            {
+                "level": 30,
+                "exp": 1030,
+                "cumulative_exp": 15530,
+                "grow": 7250
+            },
+            {
+                "level": 31,
+                "exp": 1070,
+                "cumulative_exp": 16600,
+                "grow": 7500
+            },
+            {
+                "level": 32,
+                "exp": 1110,
+                "cumulative_exp": 17710,
+                "grow": 7750
+            },
+            {
+                "level": 33,
+                "exp": 1150,
+                "cumulative_exp": 18860,
+                "grow": 8000
+            },
+            {
+                "level": 34,
+                "exp": 1190,
+                "cumulative_exp": 20050,
+                "grow": 8250
+            },
+            {
+                "level": 35,
+                "exp": 1230,
+                "cumulative_exp": 21280,
+                "grow": 8500
+            },
+            {
+                "level": 36,
+                "exp": 1270,
+                "cumulative_exp": 22550,
+                "grow": 8750
+            },
+            {
+                "level": 37,
+                "exp": 1310,
+                "cumulative_exp": 23860,
+                "grow": 9000
+            },
+            {
+                "level": 38,
+                "exp": 1350,
+                "cumulative_exp": 25210,
+                "grow": 9250
+            },
+            {
+                "level": 39,
+                "exp": 1390,
+                "cumulative_exp": 26600,
+                "grow": 9500
+            },
+            {
+                "level": 40,
+                "exp": 1430,
+                "cumulative_exp": 28030,
+                "grow": 10000
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "rarity": 3,
+        "level_data": [
+            {
+                "level": 1,
+                "exp": 0,
+                "cumulative_exp": 0,
+                "grow": 0
+            },
+            {
+                "level": 2,
+                "exp": 170,
+                "cumulative_exp": 170,
+                "grow": 166
+            },
+            {
+                "level": 3,
+                "exp": 200,
+                "cumulative_exp": 370,
+                "grow": 332
+            },
+            {
+                "level": 4,
+                "exp": 230,
+                "cumulative_exp": 600,
+                "grow": 498
+            },
+            {
+                "level": 5,
+                "exp": 260,
+                "cumulative_exp": 860,
+                "grow": 664
+            },
+            {
+                "level": 6,
+                "exp": 290,
+                "cumulative_exp": 1150,
+                "grow": 830
+            },
+            {
+                "level": 7,
+                "exp": 320,
+                "cumulative_exp": 1470,
+                "grow": 996
+            },
+            {
+                "level": 8,
+                "exp": 350,
+                "cumulative_exp": 1820,
+                "grow": 1162
+            },
+            {
+                "level": 9,
+                "exp": 380,
+                "cumulative_exp": 2200,
+                "grow": 1328
+            },
+            {
+                "level": 10,
+                "exp": 410,
+                "cumulative_exp": 2610,
+                "grow": 1494
+            },
+            {
+                "level": 11,
+                "exp": 440,
+                "cumulative_exp": 3050,
+                "grow": 1660
+            },
+            {
+                "level": 12,
+                "exp": 470,
+                "cumulative_exp": 3520,
+                "grow": 1826
+            },
+            {
+                "level": 13,
+                "exp": 500,
+                "cumulative_exp": 4020,
+                "grow": 1992
+            },
+            {
+                "level": 14,
+                "exp": 530,
+                "cumulative_exp": 4550,
+                "grow": 2158
+            },
+            {
+                "level": 15,
+                "exp": 560,
+                "cumulative_exp": 5110,
+                "grow": 2324
+            },
+            {
+                "level": 16,
+                "exp": 590,
+                "cumulative_exp": 5700,
+                "grow": 2490
+            },
+            {
+                "level": 17,
+                "exp": 620,
+                "cumulative_exp": 6320,
+                "grow": 2656
+            },
+            {
+                "level": 18,
+                "exp": 650,
+                "cumulative_exp": 6970,
+                "grow": 2822
+            },
+            {
+                "level": 19,
+                "exp": 680,
+                "cumulative_exp": 7650,
+                "grow": 2988
+            },
+            {
+                "level": 20,
+                "exp": 710,
+                "cumulative_exp": 8360,
+                "grow": 3154
+            },
+            {
+                "level": 21,
+                "exp": 740,
+                "cumulative_exp": 9100,
+                "grow": 3320
+            },
+            {
+                "level": 22,
+                "exp": 780,
+                "cumulative_exp": 9880,
+                "grow": 3486
+            },
+            {
+                "level": 23,
+                "exp": 820,
+                "cumulative_exp": 10700,
+                "grow": 3652
+            },
+            {
+                "level": 24,
+                "exp": 860,
+                "cumulative_exp": 11560,
+                "grow": 3818
+            },
+            {
+                "level": 25,
+                "exp": 900,
+                "cumulative_exp": 12460,
+                "grow": 3984
+            },
+            {
+                "level": 26,
+                "exp": 940,
+                "cumulative_exp": 13400,
+                "grow": 4150
+            },
+            {
+                "level": 27,
+                "exp": 980,
+                "cumulative_exp": 14380,
+                "grow": 4316
+            },
+            {
+                "level": 28,
+                "exp": 1020,
+                "cumulative_exp": 15400,
+                "grow": 4482
+            },
+            {
+                "level": 29,
+                "exp": 1060,
+                "cumulative_exp": 16460,
+                "grow": 4648
+            },
+            {
+                "level": 30,
+                "exp": 1100,
+                "cumulative_exp": 17560,
+                "grow": 4814
+            },
+            {
+                "level": 31,
+                "exp": 1140,
+                "cumulative_exp": 18700,
+                "grow": 4980
+            },
+            {
+                "level": 32,
+                "exp": 1180,
+                "cumulative_exp": 19880,
+                "grow": 5146
+            },
+            {
+                "level": 33,
+                "exp": 1220,
+                "cumulative_exp": 21100,
+                "grow": 5312
+            },
+            {
+                "level": 34,
+                "exp": 1260,
+                "cumulative_exp": 22360,
+                "grow": 5478
+            },
+            {
+                "level": 35,
+                "exp": 1300,
+                "cumulative_exp": 23660,
+                "grow": 5644
+            },
+            {
+                "level": 36,
+                "exp": 1340,
+                "cumulative_exp": 25000,
+                "grow": 5810
+            },
+            {
+                "level": 37,
+                "exp": 1380,
+                "cumulative_exp": 26380,
+                "grow": 5976
+            },
+            {
+                "level": 38,
+                "exp": 1420,
+                "cumulative_exp": 27800,
+                "grow": 6142
+            },
+            {
+                "level": 39,
+                "exp": 1460,
+                "cumulative_exp": 29260,
+                "grow": 6308
+            },
+            {
+                "level": 40,
+                "exp": 1500,
+                "cumulative_exp": 30760,
+                "grow": 6474
+            },
+            {
+                "level": 41,
+                "exp": 1540,
+                "cumulative_exp": 32300,
+                "grow": 6640
+            },
+            {
+                "level": 42,
+                "exp": 1590,
+                "cumulative_exp": 33890,
+                "grow": 6806
+            },
+            {
+                "level": 43,
+                "exp": 1640,
+                "cumulative_exp": 35530,
+                "grow": 6972
+            },
+            {
+                "level": 44,
+                "exp": 1690,
+                "cumulative_exp": 37220,
+                "grow": 7138
+            },
+            {
+                "level": 45,
+                "exp": 1740,
+                "cumulative_exp": 38960,
+                "grow": 7304
+            },
+            {
+                "level": 46,
+                "exp": 1790,
+                "cumulative_exp": 40750,
+                "grow": 7470
+            },
+            {
+                "level": 47,
+                "exp": 1840,
+                "cumulative_exp": 42590,
+                "grow": 7636
+            },
+            {
+                "level": 48,
+                "exp": 1890,
+                "cumulative_exp": 44480,
+                "grow": 7802
+            },
+            {
+                "level": 49,
+                "exp": 1940,
+                "cumulative_exp": 46420,
+                "grow": 7968
+            },
+            {
+                "level": 50,
+                "exp": 1990,
+                "cumulative_exp": 48410,
+                "grow": 8134
+            },
+            {
+                "level": 51,
+                "exp": 2040,
+                "cumulative_exp": 50450,
+                "grow": 8300
+            },
+            {
+                "level": 52,
+                "exp": 2090,
+                "cumulative_exp": 52540,
+                "grow": 8466
+            },
+            {
+                "level": 53,
+                "exp": 2140,
+                "cumulative_exp": 54680,
+                "grow": 8632
+            },
+            {
+                "level": 54,
+                "exp": 2190,
+                "cumulative_exp": 56870,
+                "grow": 8798
+            },
+            {
+                "level": 55,
+                "exp": 2240,
+                "cumulative_exp": 59110,
+                "grow": 8964
+            },
+            {
+                "level": 56,
+                "exp": 2290,
+                "cumulative_exp": 61400,
+                "grow": 9130
+            },
+            {
+                "level": 57,
+                "exp": 2340,
+                "cumulative_exp": 63740,
+                "grow": 9296
+            },
+            {
+                "level": 58,
+                "exp": 2390,
+                "cumulative_exp": 66130,
+                "grow": 9462
+            },
+            {
+                "level": 59,
+                "exp": 2440,
+                "cumulative_exp": 68570,
+                "grow": 9628
+            },
+            {
+                "level": 60,
+                "exp": 2490,
+                "cumulative_exp": 71060,
+                "grow": 10000
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "rarity": 4,
+        "level_data": [
+            {
+                "level": 1,
+                "exp": 0,
+                "cumulative_exp": 0,
+                "grow": 0
+            },
+            {
+                "level": 2,
+                "exp": 170,
+                "cumulative_exp": 170,
+                "grow": 0
+            },
+            {
+                "level": 3,
+                "exp": 200,
+                "cumulative_exp": 370,
+                "grow": 0
+            },
+            {
+                "level": 4,
+                "exp": 230,
+                "cumulative_exp": 600,
+                "grow": 0
+            },
+            {
+                "level": 5,
+                "exp": 260,
+                "cumulative_exp": 860,
+                "grow": 0
+            },
+            {
+                "level": 6,
+                "exp": 290,
+                "cumulative_exp": 1150,
+                "grow": 0
+            },
+            {
+                "level": 7,
+                "exp": 320,
+                "cumulative_exp": 1470,
+                "grow": 0
+            },
+            {
+                "level": 8,
+                "exp": 350,
+                "cumulative_exp": 1820,
+                "grow": 0
+            },
+            {
+                "level": 9,
+                "exp": 380,
+                "cumulative_exp": 2200,
+                "grow": 0
+            },
+            {
+                "level": 10,
+                "exp": 410,
+                "cumulative_exp": 2610,
+                "grow": 0
+            },
+            {
+                "level": 11,
+                "exp": 440,
+                "cumulative_exp": 3050,
+                "grow": 0
+            },
+            {
+                "level": 12,
+                "exp": 470,
+                "cumulative_exp": 3520,
+                "grow": 0
+            },
+            {
+                "level": 13,
+                "exp": 500,
+                "cumulative_exp": 4020,
+                "grow": 0
+            },
+            {
+                "level": 14,
+                "exp": 530,
+                "cumulative_exp": 4550,
+                "grow": 0
+            },
+            {
+                "level": 15,
+                "exp": 560,
+                "cumulative_exp": 5110,
+                "grow": 0
+            },
+            {
+                "level": 16,
+                "exp": 590,
+                "cumulative_exp": 5700,
+                "grow": 0
+            },
+            {
+                "level": 17,
+                "exp": 620,
+                "cumulative_exp": 6320,
+                "grow": 0
+            },
+            {
+                "level": 18,
+                "exp": 650,
+                "cumulative_exp": 6970,
+                "grow": 0
+            },
+            {
+                "level": 19,
+                "exp": 680,
+                "cumulative_exp": 7650,
+                "grow": 0
+            },
+            {
+                "level": 20,
+                "exp": 710,
+                "cumulative_exp": 8360,
+                "grow": 0
+            },
+            {
+                "level": 21,
+                "exp": 740,
+                "cumulative_exp": 9100,
+                "grow": 0
+            },
+            {
+                "level": 22,
+                "exp": 780,
+                "cumulative_exp": 9880,
+                "grow": 0
+            },
+            {
+                "level": 23,
+                "exp": 820,
+                "cumulative_exp": 10700,
+                "grow": 0
+            },
+            {
+                "level": 24,
+                "exp": 860,
+                "cumulative_exp": 11560,
+                "grow": 0
+            },
+            {
+                "level": 25,
+                "exp": 900,
+                "cumulative_exp": 12460,
+                "grow": 0
+            },
+            {
+                "level": 26,
+                "exp": 940,
+                "cumulative_exp": 13400,
+                "grow": 0
+            },
+            {
+                "level": 27,
+                "exp": 980,
+                "cumulative_exp": 14380,
+                "grow": 0
+            },
+            {
+                "level": 28,
+                "exp": 1020,
+                "cumulative_exp": 15400,
+                "grow": 0
+            },
+            {
+                "level": 29,
+                "exp": 1060,
+                "cumulative_exp": 16460,
+                "grow": 0
+            },
+            {
+                "level": 30,
+                "exp": 1100,
+                "cumulative_exp": 17560,
+                "grow": 0
+            },
+            {
+                "level": 31,
+                "exp": 1140,
+                "cumulative_exp": 18700,
+                "grow": 0
+            },
+            {
+                "level": 32,
+                "exp": 1180,
+                "cumulative_exp": 19880,
+                "grow": 0
+            },
+            {
+                "level": 33,
+                "exp": 1220,
+                "cumulative_exp": 21100,
+                "grow": 0
+            },
+            {
+                "level": 34,
+                "exp": 1260,
+                "cumulative_exp": 22360,
+                "grow": 0
+            },
+            {
+                "level": 35,
+                "exp": 1300,
+                "cumulative_exp": 23660,
+                "grow": 0
+            },
+            {
+                "level": 36,
+                "exp": 1340,
+                "cumulative_exp": 25000,
+                "grow": 0
+            },
+            {
+                "level": 37,
+                "exp": 1380,
+                "cumulative_exp": 26380,
+                "grow": 0
+            },
+            {
+                "level": 38,
+                "exp": 1420,
+                "cumulative_exp": 27800,
+                "grow": 0
+            },
+            {
+                "level": 39,
+                "exp": 1460,
+                "cumulative_exp": 29260,
+                "grow": 0
+            },
+            {
+                "level": 40,
+                "exp": 1500,
+                "cumulative_exp": 30760,
+                "grow": 0
+            },
+            {
+                "level": 41,
+                "exp": 1540,
+                "cumulative_exp": 32300,
+                "grow": 0
+            },
+            {
+                "level": 42,
+                "exp": 1590,
+                "cumulative_exp": 33890,
+                "grow": 0
+            },
+            {
+                "level": 43,
+                "exp": 1640,
+                "cumulative_exp": 35530,
+                "grow": 0
+            },
+            {
+                "level": 44,
+                "exp": 1690,
+                "cumulative_exp": 37220,
+                "grow": 0
+            },
+            {
+                "level": 45,
+                "exp": 1740,
+                "cumulative_exp": 38960,
+                "grow": 0
+            },
+            {
+                "level": 46,
+                "exp": 1790,
+                "cumulative_exp": 40750,
+                "grow": 0
+            },
+            {
+                "level": 47,
+                "exp": 1840,
+                "cumulative_exp": 42590,
+                "grow": 0
+            },
+            {
+                "level": 48,
+                "exp": 1890,
+                "cumulative_exp": 44480,
+                "grow": 0
+            },
+            {
+                "level": 49,
+                "exp": 1940,
+                "cumulative_exp": 46420,
+                "grow": 0
+            },
+            {
+                "level": 50,
+                "exp": 1990,
+                "cumulative_exp": 48410,
+                "grow": 0
+            },
+            {
+                "level": 51,
+                "exp": 2040,
+                "cumulative_exp": 50450,
+                "grow": 0
+            },
+            {
+                "level": 52,
+                "exp": 2090,
+                "cumulative_exp": 52540,
+                "grow": 0
+            },
+            {
+                "level": 53,
+                "exp": 2140,
+                "cumulative_exp": 54680,
+                "grow": 0
+            },
+            {
+                "level": 54,
+                "exp": 2190,
+                "cumulative_exp": 56870,
+                "grow": 0
+            },
+            {
+                "level": 55,
+                "exp": 2240,
+                "cumulative_exp": 59110,
+                "grow": 0
+            },
+            {
+                "level": 56,
+                "exp": 2290,
+                "cumulative_exp": 61400,
+                "grow": 0
+            },
+            {
+                "level": 57,
+                "exp": 2340,
+                "cumulative_exp": 63740,
+                "grow": 0
+            },
+            {
+                "level": 58,
+                "exp": 2390,
+                "cumulative_exp": 66130,
+                "grow": 0
+            },
+            {
+                "level": 59,
+                "exp": 2440,
+                "cumulative_exp": 68570,
+                "grow": 0
+            },
+            {
+                "level": 60,
+                "exp": 2490,
+                "cumulative_exp": 71060,
+                "grow": 0
+            },
+            {
+                "level": 61,
+                "exp": 2540,
+                "cumulative_exp": 73600,
+                "grow": 1000
+            },
+            {
+                "level": 62,
+                "exp": 3740,
+                "cumulative_exp": 77340,
+                "grow": 2000
+            },
+            {
+                "level": 63,
+                "exp": 4940,
+                "cumulative_exp": 82280,
+                "grow": 3000
+            },
+            {
+                "level": 64,
+                "exp": 6140,
+                "cumulative_exp": 88420,
+                "grow": 4000
+            },
+            {
+                "level": 65,
+                "exp": 7340,
+                "cumulative_exp": 95760,
+                "grow": 5000
+            },
+            {
+                "level": 66,
+                "exp": 8540,
+                "cumulative_exp": 104300,
+                "grow": 6000
+            },
+            {
+                "level": 67,
+                "exp": 9740,
+                "cumulative_exp": 114040,
+                "grow": 7000
+            },
+            {
+                "level": 68,
+                "exp": 10940,
+                "cumulative_exp": 124980,
+                "grow": 8000
+            },
+            {
+                "level": 69,
+                "exp": 12140,
+                "cumulative_exp": 137120,
+                "grow": 9000
+            },
+            {
+                "level": 70,
+                "exp": 13340,
+                "cumulative_exp": 150460,
+                "grow": 10000
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "rarity": 5,
+        "level_data": [
+            {
+                "level": 1,
+                "exp": 0,
+                "cumulative_exp": 0,
+                "grow": 0
+            },
+            {
+                "level": 2,
+                "exp": 240,
+                "cumulative_exp": 240,
+                "grow": 125
+            },
+            {
+                "level": 3,
+                "exp": 270,
+                "cumulative_exp": 510,
+                "grow": 250
+            },
+            {
+                "level": 4,
+                "exp": 300,
+                "cumulative_exp": 810,
+                "grow": 375
+            },
+            {
+                "level": 5,
+                "exp": 330,
+                "cumulative_exp": 1140,
+                "grow": 500
+            },
+            {
+                "level": 6,
+                "exp": 360,
+                "cumulative_exp": 1500,
+                "grow": 625
+            },
+            {
+                "level": 7,
+                "exp": 390,
+                "cumulative_exp": 1890,
+                "grow": 750
+            },
+            {
+                "level": 8,
+                "exp": 420,
+                "cumulative_exp": 2310,
+                "grow": 875
+            },
+            {
+                "level": 9,
+                "exp": 450,
+                "cumulative_exp": 2760,
+                "grow": 1000
+            },
+            {
+                "level": 10,
+                "exp": 480,
+                "cumulative_exp": 3240,
+                "grow": 1125
+            },
+            {
+                "level": 11,
+                "exp": 510,
+                "cumulative_exp": 3750,
+                "grow": 1250
+            },
+            {
+                "level": 12,
+                "exp": 540,
+                "cumulative_exp": 4290,
+                "grow": 1375
+            },
+            {
+                "level": 13,
+                "exp": 570,
+                "cumulative_exp": 4860,
+                "grow": 1500
+            },
+            {
+                "level": 14,
+                "exp": 600,
+                "cumulative_exp": 5460,
+                "grow": 1625
+            },
+            {
+                "level": 15,
+                "exp": 630,
+                "cumulative_exp": 6090,
+                "grow": 1750
+            },
+            {
+                "level": 16,
+                "exp": 660,
+                "cumulative_exp": 6750,
+                "grow": 1875
+            },
+            {
+                "level": 17,
+                "exp": 690,
+                "cumulative_exp": 7440,
+                "grow": 2000
+            },
+            {
+                "level": 18,
+                "exp": 720,
+                "cumulative_exp": 8160,
+                "grow": 2125
+            },
+            {
+                "level": 19,
+                "exp": 750,
+                "cumulative_exp": 8910,
+                "grow": 2250
+            },
+            {
+                "level": 20,
+                "exp": 780,
+                "cumulative_exp": 9690,
+                "grow": 2375
+            },
+            {
+                "level": 21,
+                "exp": 810,
+                "cumulative_exp": 10500,
+                "grow": 2500
+            },
+            {
+                "level": 22,
+                "exp": 850,
+                "cumulative_exp": 11350,
+                "grow": 2625
+            },
+            {
+                "level": 23,
+                "exp": 890,
+                "cumulative_exp": 12240,
+                "grow": 2750
+            },
+            {
+                "level": 24,
+                "exp": 930,
+                "cumulative_exp": 13170,
+                "grow": 2875
+            },
+            {
+                "level": 25,
+                "exp": 970,
+                "cumulative_exp": 14140,
+                "grow": 3000
+            },
+            {
+                "level": 26,
+                "exp": 1010,
+                "cumulative_exp": 15150,
+                "grow": 3125
+            },
+            {
+                "level": 27,
+                "exp": 1050,
+                "cumulative_exp": 16200,
+                "grow": 3250
+            },
+            {
+                "level": 28,
+                "exp": 1090,
+                "cumulative_exp": 17290,
+                "grow": 3375
+            },
+            {
+                "level": 29,
+                "exp": 1130,
+                "cumulative_exp": 18420,
+                "grow": 3500
+            },
+            {
+                "level": 30,
+                "exp": 1170,
+                "cumulative_exp": 19590,
+                "grow": 3625
+            },
+            {
+                "level": 31,
+                "exp": 1210,
+                "cumulative_exp": 20800,
+                "grow": 3750
+            },
+            {
+                "level": 32,
+                "exp": 1250,
+                "cumulative_exp": 22050,
+                "grow": 3875
+            },
+            {
+                "level": 33,
+                "exp": 1290,
+                "cumulative_exp": 23340,
+                "grow": 4000
+            },
+            {
+                "level": 34,
+                "exp": 1330,
+                "cumulative_exp": 24670,
+                "grow": 4125
+            },
+            {
+                "level": 35,
+                "exp": 1370,
+                "cumulative_exp": 26040,
+                "grow": 4250
+            },
+            {
+                "level": 36,
+                "exp": 1410,
+                "cumulative_exp": 27450,
+                "grow": 4375
+            },
+            {
+                "level": 37,
+                "exp": 1450,
+                "cumulative_exp": 28900,
+                "grow": 4500
+            },
+            {
+                "level": 38,
+                "exp": 1490,
+                "cumulative_exp": 30390,
+                "grow": 4625
+            },
+            {
+                "level": 39,
+                "exp": 1530,
+                "cumulative_exp": 31920,
+                "grow": 4750
+            },
+            {
+                "level": 40,
+                "exp": 1570,
+                "cumulative_exp": 33490,
+                "grow": 4875
+            },
+            {
+                "level": 41,
+                "exp": 1610,
+                "cumulative_exp": 35100,
+                "grow": 5000
+            },
+            {
+                "level": 42,
+                "exp": 1660,
+                "cumulative_exp": 36760,
+                "grow": 5125
+            },
+            {
+                "level": 43,
+                "exp": 1710,
+                "cumulative_exp": 38470,
+                "grow": 5250
+            },
+            {
+                "level": 44,
+                "exp": 1760,
+                "cumulative_exp": 40230,
+                "grow": 5375
+            },
+            {
+                "level": 45,
+                "exp": 1810,
+                "cumulative_exp": 42040,
+                "grow": 5500
+            },
+            {
+                "level": 46,
+                "exp": 1860,
+                "cumulative_exp": 43900,
+                "grow": 5625
+            },
+            {
+                "level": 47,
+                "exp": 1910,
+                "cumulative_exp": 45810,
+                "grow": 5750
+            },
+            {
+                "level": 48,
+                "exp": 1960,
+                "cumulative_exp": 47770,
+                "grow": 5875
+            },
+            {
+                "level": 49,
+                "exp": 2010,
+                "cumulative_exp": 49780,
+                "grow": 6000
+            },
+            {
+                "level": 50,
+                "exp": 2060,
+                "cumulative_exp": 51840,
+                "grow": 6125
+            },
+            {
+                "level": 51,
+                "exp": 2110,
+                "cumulative_exp": 53950,
+                "grow": 6250
+            },
+            {
+                "level": 52,
+                "exp": 2160,
+                "cumulative_exp": 56110,
+                "grow": 6375
+            },
+            {
+                "level": 53,
+                "exp": 2210,
+                "cumulative_exp": 58320,
+                "grow": 6500
+            },
+            {
+                "level": 54,
+                "exp": 2260,
+                "cumulative_exp": 60580,
+                "grow": 6625
+            },
+            {
+                "level": 55,
+                "exp": 2310,
+                "cumulative_exp": 62890,
+                "grow": 6750
+            },
+            {
+                "level": 56,
+                "exp": 2360,
+                "cumulative_exp": 65250,
+                "grow": 6875
+            },
+            {
+                "level": 57,
+                "exp": 2410,
+                "cumulative_exp": 67660,
+                "grow": 7000
+            },
+            {
+                "level": 58,
+                "exp": 2460,
+                "cumulative_exp": 70120,
+                "grow": 7125
+            },
+            {
+                "level": 59,
+                "exp": 2510,
+                "cumulative_exp": 72630,
+                "grow": 7250
+            },
+            {
+                "level": 60,
+                "exp": 2560,
+                "cumulative_exp": 75190,
+                "grow": 7375
+            },
+            {
+                "level": 61,
+                "exp": 2610,
+                "cumulative_exp": 77800,
+                "grow": 7500
+            },
+            {
+                "level": 62,
+                "exp": 2670,
+                "cumulative_exp": 80470,
+                "grow": 7625
+            },
+            {
+                "level": 63,
+                "exp": 2730,
+                "cumulative_exp": 83200,
+                "grow": 7750
+            },
+            {
+                "level": 64,
+                "exp": 2790,
+                "cumulative_exp": 85990,
+                "grow": 7875
+            },
+            {
+                "level": 65,
+                "exp": 2850,
+                "cumulative_exp": 88840,
+                "grow": 8000
+            },
+            {
+                "level": 66,
+                "exp": 2910,
+                "cumulative_exp": 91750,
+                "grow": 8125
+            },
+            {
+                "level": 67,
+                "exp": 2970,
+                "cumulative_exp": 94720,
+                "grow": 8250
+            },
+            {
+                "level": 68,
+                "exp": 3030,
+                "cumulative_exp": 97750,
+                "grow": 8375
+            },
+            {
+                "level": 69,
+                "exp": 3090,
+                "cumulative_exp": 100840,
+                "grow": 8500
+            },
+            {
+                "level": 70,
+                "exp": 3150,
+                "cumulative_exp": 103990,
+                "grow": 8625
+            },
+            {
+                "level": 71,
+                "exp": 3210,
+                "cumulative_exp": 107200,
+                "grow": 8750
+            },
+            {
+                "level": 72,
+                "exp": 3270,
+                "cumulative_exp": 110470,
+                "grow": 8875
+            },
+            {
+                "level": 73,
+                "exp": 3330,
+                "cumulative_exp": 113800,
+                "grow": 9000
+            },
+            {
+                "level": 74,
+                "exp": 3390,
+                "cumulative_exp": 117190,
+                "grow": 9125
+            },
+            {
+                "level": 75,
+                "exp": 3450,
+                "cumulative_exp": 120640,
+                "grow": 9250
+            },
+            {
+                "level": 76,
+                "exp": 3510,
+                "cumulative_exp": 124150,
+                "grow": 9375
+            },
+            {
+                "level": 77,
+                "exp": 3570,
+                "cumulative_exp": 127720,
+                "grow": 9500
+            },
+            {
+                "level": 78,
+                "exp": 3630,
+                "cumulative_exp": 131350,
+                "grow": 9625
+            },
+            {
+                "level": 79,
+                "exp": 3690,
+                "cumulative_exp": 135040,
+                "grow": 9750
+            },
+            {
+                "level": 80,
+                "exp": 3750,
+                "cumulative_exp": 138790,
+                "grow": 10000
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "rarity": 6,
+        "level_data": [
+            {
+                "level": 1,
+                "exp": 0,
+                "cumulative_exp": 0,
+                "grow": 0
+            },
+            {
+                "level": 2,
+                "exp": 240,
+                "cumulative_exp": 240,
+                "grow": 0
+            },
+            {
+                "level": 3,
+                "exp": 270,
+                "cumulative_exp": 510,
+                "grow": 0
+            },
+            {
+                "level": 4,
+                "exp": 300,
+                "cumulative_exp": 810,
+                "grow": 0
+            },
+            {
+                "level": 5,
+                "exp": 330,
+                "cumulative_exp": 1140,
+                "grow": 0
+            },
+            {
+                "level": 6,
+                "exp": 360,
+                "cumulative_exp": 1500,
+                "grow": 0
+            },
+            {
+                "level": 7,
+                "exp": 390,
+                "cumulative_exp": 1890,
+                "grow": 0
+            },
+            {
+                "level": 8,
+                "exp": 420,
+                "cumulative_exp": 2310,
+                "grow": 0
+            },
+            {
+                "level": 9,
+                "exp": 450,
+                "cumulative_exp": 2760,
+                "grow": 0
+            },
+            {
+                "level": 10,
+                "exp": 480,
+                "cumulative_exp": 3240,
+                "grow": 0
+            },
+            {
+                "level": 11,
+                "exp": 510,
+                "cumulative_exp": 3750,
+                "grow": 0
+            },
+            {
+                "level": 12,
+                "exp": 540,
+                "cumulative_exp": 4290,
+                "grow": 0
+            },
+            {
+                "level": 13,
+                "exp": 570,
+                "cumulative_exp": 4860,
+                "grow": 0
+            },
+            {
+                "level": 14,
+                "exp": 600,
+                "cumulative_exp": 5460,
+                "grow": 0
+            },
+            {
+                "level": 15,
+                "exp": 630,
+                "cumulative_exp": 6090,
+                "grow": 0
+            },
+            {
+                "level": 16,
+                "exp": 660,
+                "cumulative_exp": 6750,
+                "grow": 0
+            },
+            {
+                "level": 17,
+                "exp": 690,
+                "cumulative_exp": 7440,
+                "grow": 0
+            },
+            {
+                "level": 18,
+                "exp": 720,
+                "cumulative_exp": 8160,
+                "grow": 0
+            },
+            {
+                "level": 19,
+                "exp": 750,
+                "cumulative_exp": 8910,
+                "grow": 0
+            },
+            {
+                "level": 20,
+                "exp": 780,
+                "cumulative_exp": 9690,
+                "grow": 0
+            },
+            {
+                "level": 21,
+                "exp": 810,
+                "cumulative_exp": 10500,
+                "grow": 0
+            },
+            {
+                "level": 22,
+                "exp": 850,
+                "cumulative_exp": 11350,
+                "grow": 0
+            },
+            {
+                "level": 23,
+                "exp": 890,
+                "cumulative_exp": 12240,
+                "grow": 0
+            },
+            {
+                "level": 24,
+                "exp": 930,
+                "cumulative_exp": 13170,
+                "grow": 0
+            },
+            {
+                "level": 25,
+                "exp": 970,
+                "cumulative_exp": 14140,
+                "grow": 0
+            },
+            {
+                "level": 26,
+                "exp": 1010,
+                "cumulative_exp": 15150,
+                "grow": 0
+            },
+            {
+                "level": 27,
+                "exp": 1050,
+                "cumulative_exp": 16200,
+                "grow": 0
+            },
+            {
+                "level": 28,
+                "exp": 1090,
+                "cumulative_exp": 17290,
+                "grow": 0
+            },
+            {
+                "level": 29,
+                "exp": 1130,
+                "cumulative_exp": 18420,
+                "grow": 0
+            },
+            {
+                "level": 30,
+                "exp": 1170,
+                "cumulative_exp": 19590,
+                "grow": 0
+            },
+            {
+                "level": 31,
+                "exp": 1210,
+                "cumulative_exp": 20800,
+                "grow": 0
+            },
+            {
+                "level": 32,
+                "exp": 1250,
+                "cumulative_exp": 22050,
+                "grow": 0
+            },
+            {
+                "level": 33,
+                "exp": 1290,
+                "cumulative_exp": 23340,
+                "grow": 0
+            },
+            {
+                "level": 34,
+                "exp": 1330,
+                "cumulative_exp": 24670,
+                "grow": 0
+            },
+            {
+                "level": 35,
+                "exp": 1370,
+                "cumulative_exp": 26040,
+                "grow": 0
+            },
+            {
+                "level": 36,
+                "exp": 1410,
+                "cumulative_exp": 27450,
+                "grow": 0
+            },
+            {
+                "level": 37,
+                "exp": 1450,
+                "cumulative_exp": 28900,
+                "grow": 0
+            },
+            {
+                "level": 38,
+                "exp": 1490,
+                "cumulative_exp": 30390,
+                "grow": 0
+            },
+            {
+                "level": 39,
+                "exp": 1530,
+                "cumulative_exp": 31920,
+                "grow": 0
+            },
+            {
+                "level": 40,
+                "exp": 1570,
+                "cumulative_exp": 33490,
+                "grow": 0
+            },
+            {
+                "level": 41,
+                "exp": 1610,
+                "cumulative_exp": 35100,
+                "grow": 0
+            },
+            {
+                "level": 42,
+                "exp": 1660,
+                "cumulative_exp": 36760,
+                "grow": 0
+            },
+            {
+                "level": 43,
+                "exp": 1710,
+                "cumulative_exp": 38470,
+                "grow": 0
+            },
+            {
+                "level": 44,
+                "exp": 1760,
+                "cumulative_exp": 40230,
+                "grow": 0
+            },
+            {
+                "level": 45,
+                "exp": 1810,
+                "cumulative_exp": 42040,
+                "grow": 0
+            },
+            {
+                "level": 46,
+                "exp": 1860,
+                "cumulative_exp": 43900,
+                "grow": 0
+            },
+            {
+                "level": 47,
+                "exp": 1910,
+                "cumulative_exp": 45810,
+                "grow": 0
+            },
+            {
+                "level": 48,
+                "exp": 1960,
+                "cumulative_exp": 47770,
+                "grow": 0
+            },
+            {
+                "level": 49,
+                "exp": 2010,
+                "cumulative_exp": 49780,
+                "grow": 0
+            },
+            {
+                "level": 50,
+                "exp": 2060,
+                "cumulative_exp": 51840,
+                "grow": 0
+            },
+            {
+                "level": 51,
+                "exp": 2110,
+                "cumulative_exp": 53950,
+                "grow": 0
+            },
+            {
+                "level": 52,
+                "exp": 2160,
+                "cumulative_exp": 56110,
+                "grow": 0
+            },
+            {
+                "level": 53,
+                "exp": 2210,
+                "cumulative_exp": 58320,
+                "grow": 0
+            },
+            {
+                "level": 54,
+                "exp": 2260,
+                "cumulative_exp": 60580,
+                "grow": 0
+            },
+            {
+                "level": 55,
+                "exp": 2310,
+                "cumulative_exp": 62890,
+                "grow": 0
+            },
+            {
+                "level": 56,
+                "exp": 2360,
+                "cumulative_exp": 65250,
+                "grow": 0
+            },
+            {
+                "level": 57,
+                "exp": 2410,
+                "cumulative_exp": 67660,
+                "grow": 0
+            },
+            {
+                "level": 58,
+                "exp": 2460,
+                "cumulative_exp": 70120,
+                "grow": 0
+            },
+            {
+                "level": 59,
+                "exp": 2510,
+                "cumulative_exp": 72630,
+                "grow": 0
+            },
+            {
+                "level": 60,
+                "exp": 2560,
+                "cumulative_exp": 75190,
+                "grow": 0
+            },
+            {
+                "level": 61,
+                "exp": 2610,
+                "cumulative_exp": 77800,
+                "grow": 0
+            },
+            {
+                "level": 62,
+                "exp": 2670,
+                "cumulative_exp": 80470,
+                "grow": 0
+            },
+            {
+                "level": 63,
+                "exp": 2730,
+                "cumulative_exp": 83200,
+                "grow": 0
+            },
+            {
+                "level": 64,
+                "exp": 2790,
+                "cumulative_exp": 85990,
+                "grow": 0
+            },
+            {
+                "level": 65,
+                "exp": 2850,
+                "cumulative_exp": 88840,
+                "grow": 0
+            },
+            {
+                "level": 66,
+                "exp": 2910,
+                "cumulative_exp": 91750,
+                "grow": 0
+            },
+            {
+                "level": 67,
+                "exp": 2970,
+                "cumulative_exp": 94720,
+                "grow": 0
+            },
+            {
+                "level": 68,
+                "exp": 3030,
+                "cumulative_exp": 97750,
+                "grow": 0
+            },
+            {
+                "level": 69,
+                "exp": 3090,
+                "cumulative_exp": 100840,
+                "grow": 0
+            },
+            {
+                "level": 70,
+                "exp": 3150,
+                "cumulative_exp": 103990,
+                "grow": 0
+            },
+            {
+                "level": 71,
+                "exp": 3210,
+                "cumulative_exp": 107200,
+                "grow": 0
+            },
+            {
+                "level": 72,
+                "exp": 3270,
+                "cumulative_exp": 110470,
+                "grow": 0
+            },
+            {
+                "level": 73,
+                "exp": 3330,
+                "cumulative_exp": 113800,
+                "grow": 0
+            },
+            {
+                "level": 74,
+                "exp": 3390,
+                "cumulative_exp": 117190,
+                "grow": 0
+            },
+            {
+                "level": 75,
+                "exp": 3450,
+                "cumulative_exp": 120640,
+                "grow": 0
+            },
+            {
+                "level": 76,
+                "exp": 3510,
+                "cumulative_exp": 124150,
+                "grow": 0
+            },
+            {
+                "level": 77,
+                "exp": 3570,
+                "cumulative_exp": 127720,
+                "grow": 0
+            },
+            {
+                "level": 78,
+                "exp": 3630,
+                "cumulative_exp": 131350,
+                "grow": 0
+            },
+            {
+                "level": 79,
+                "exp": 3690,
+                "cumulative_exp": 135040,
+                "grow": 0
+            },
+            {
+                "level": 80,
+                "exp": 3750,
+                "cumulative_exp": 138790,
+                "grow": 0
+            },
+            {
+                "level": 81,
+                "exp": 3810,
+                "cumulative_exp": 142600,
+                "grow": 1000
+            },
+            {
+                "level": 82,
+                "exp": 6310,
+                "cumulative_exp": 148910,
+                "grow": 2000
+            },
+            {
+                "level": 83,
+                "exp": 8810,
+                "cumulative_exp": 157720,
+                "grow": 3000
+            },
+            {
+                "level": 84,
+                "exp": 11310,
+                "cumulative_exp": 169030,
+                "grow": 4000
+            },
+            {
+                "level": 85,
+                "exp": 13810,
+                "cumulative_exp": 182840,
+                "grow": 5000
+            },
+            {
+                "level": 86,
+                "exp": 16310,
+                "cumulative_exp": 199150,
+                "grow": 6000
+            },
+            {
+                "level": 87,
+                "exp": 18810,
+                "cumulative_exp": 217960,
+                "grow": 7000
+            },
+            {
+                "level": 88,
+                "exp": 21310,
+                "cumulative_exp": 239270,
+                "grow": 8000
+            },
+            {
+                "level": 89,
+                "exp": 23810,
+                "cumulative_exp": 263080,
+                "grow": 9000
+            },
+            {
+                "level": 90,
+                "exp": 26310,
+                "cumulative_exp": 289390,
+                "grow": 10000
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "rarity": 7,
+        "level_data": [
+            {
+                "level": 1,
+                "exp": 0,
+                "cumulative_exp": 0,
+                "grow": 0
+            },
+            {
+                "level": 2,
+                "exp": 240,
+                "cumulative_exp": 240,
+                "grow": 125
+            },
+            {
+                "level": 3,
+                "exp": 270,
+                "cumulative_exp": 510,
+                "grow": 250
+            },
+            {
+                "level": 4,
+                "exp": 300,
+                "cumulative_exp": 810,
+                "grow": 375
+            },
+            {
+                "level": 5,
+                "exp": 330,
+                "cumulative_exp": 1140,
+                "grow": 500
+            },
+            {
+                "level": 6,
+                "exp": 360,
+                "cumulative_exp": 1500,
+                "grow": 625
+            },
+            {
+                "level": 7,
+                "exp": 390,
+                "cumulative_exp": 1890,
+                "grow": 750
+            },
+            {
+                "level": 8,
+                "exp": 420,
+                "cumulative_exp": 2310,
+                "grow": 875
+            },
+            {
+                "level": 9,
+                "exp": 450,
+                "cumulative_exp": 2760,
+                "grow": 1000
+            },
+            {
+                "level": 10,
+                "exp": 480,
+                "cumulative_exp": 3240,
+                "grow": 1125
+            },
+            {
+                "level": 11,
+                "exp": 510,
+                "cumulative_exp": 3750,
+                "grow": 1250
+            },
+            {
+                "level": 12,
+                "exp": 540,
+                "cumulative_exp": 4290,
+                "grow": 1375
+            },
+            {
+                "level": 13,
+                "exp": 570,
+                "cumulative_exp": 4860,
+                "grow": 1500
+            },
+            {
+                "level": 14,
+                "exp": 600,
+                "cumulative_exp": 5460,
+                "grow": 1625
+            },
+            {
+                "level": 15,
+                "exp": 630,
+                "cumulative_exp": 6090,
+                "grow": 1750
+            },
+            {
+                "level": 16,
+                "exp": 660,
+                "cumulative_exp": 6750,
+                "grow": 1875
+            },
+            {
+                "level": 17,
+                "exp": 690,
+                "cumulative_exp": 7440,
+                "grow": 2000
+            },
+            {
+                "level": 18,
+                "exp": 720,
+                "cumulative_exp": 8160,
+                "grow": 2125
+            },
+            {
+                "level": 19,
+                "exp": 750,
+                "cumulative_exp": 8910,
+                "grow": 2250
+            },
+            {
+                "level": 20,
+                "exp": 780,
+                "cumulative_exp": 9690,
+                "grow": 2375
+            },
+            {
+                "level": 21,
+                "exp": 810,
+                "cumulative_exp": 10500,
+                "grow": 2500
+            },
+            {
+                "level": 22,
+                "exp": 850,
+                "cumulative_exp": 11350,
+                "grow": 2625
+            },
+            {
+                "level": 23,
+                "exp": 890,
+                "cumulative_exp": 12240,
+                "grow": 2750
+            },
+            {
+                "level": 24,
+                "exp": 930,
+                "cumulative_exp": 13170,
+                "grow": 2875
+            },
+            {
+                "level": 25,
+                "exp": 970,
+                "cumulative_exp": 14140,
+                "grow": 3000
+            },
+            {
+                "level": 26,
+                "exp": 1010,
+                "cumulative_exp": 15150,
+                "grow": 3125
+            },
+            {
+                "level": 27,
+                "exp": 1050,
+                "cumulative_exp": 16200,
+                "grow": 3250
+            },
+            {
+                "level": 28,
+                "exp": 1090,
+                "cumulative_exp": 17290,
+                "grow": 3375
+            },
+            {
+                "level": 29,
+                "exp": 1130,
+                "cumulative_exp": 18420,
+                "grow": 3500
+            },
+            {
+                "level": 30,
+                "exp": 1170,
+                "cumulative_exp": 19590,
+                "grow": 3625
+            },
+            {
+                "level": 31,
+                "exp": 1210,
+                "cumulative_exp": 20800,
+                "grow": 3750
+            },
+            {
+                "level": 32,
+                "exp": 1250,
+                "cumulative_exp": 22050,
+                "grow": 3875
+            },
+            {
+                "level": 33,
+                "exp": 1290,
+                "cumulative_exp": 23340,
+                "grow": 4000
+            },
+            {
+                "level": 34,
+                "exp": 1330,
+                "cumulative_exp": 24670,
+                "grow": 4125
+            },
+            {
+                "level": 35,
+                "exp": 1370,
+                "cumulative_exp": 26040,
+                "grow": 4250
+            },
+            {
+                "level": 36,
+                "exp": 1410,
+                "cumulative_exp": 27450,
+                "grow": 4375
+            },
+            {
+                "level": 37,
+                "exp": 1450,
+                "cumulative_exp": 28900,
+                "grow": 4500
+            },
+            {
+                "level": 38,
+                "exp": 1490,
+                "cumulative_exp": 30390,
+                "grow": 4625
+            },
+            {
+                "level": 39,
+                "exp": 1530,
+                "cumulative_exp": 31920,
+                "grow": 4750
+            },
+            {
+                "level": 40,
+                "exp": 1570,
+                "cumulative_exp": 33490,
+                "grow": 4875
+            },
+            {
+                "level": 41,
+                "exp": 1610,
+                "cumulative_exp": 35100,
+                "grow": 5000
+            },
+            {
+                "level": 42,
+                "exp": 1660,
+                "cumulative_exp": 36760,
+                "grow": 5125
+            },
+            {
+                "level": 43,
+                "exp": 1710,
+                "cumulative_exp": 38470,
+                "grow": 5250
+            },
+            {
+                "level": 44,
+                "exp": 1760,
+                "cumulative_exp": 40230,
+                "grow": 5375
+            },
+            {
+                "level": 45,
+                "exp": 1810,
+                "cumulative_exp": 42040,
+                "grow": 5500
+            },
+            {
+                "level": 46,
+                "exp": 1860,
+                "cumulative_exp": 43900,
+                "grow": 5625
+            },
+            {
+                "level": 47,
+                "exp": 1910,
+                "cumulative_exp": 45810,
+                "grow": 5750
+            },
+            {
+                "level": 48,
+                "exp": 1960,
+                "cumulative_exp": 47770,
+                "grow": 5875
+            },
+            {
+                "level": 49,
+                "exp": 2010,
+                "cumulative_exp": 49780,
+                "grow": 6000
+            },
+            {
+                "level": 50,
+                "exp": 2060,
+                "cumulative_exp": 51840,
+                "grow": 6125
+            },
+            {
+                "level": 51,
+                "exp": 2110,
+                "cumulative_exp": 53950,
+                "grow": 6250
+            },
+            {
+                "level": 52,
+                "exp": 2160,
+                "cumulative_exp": 56110,
+                "grow": 6375
+            },
+            {
+                "level": 53,
+                "exp": 2210,
+                "cumulative_exp": 58320,
+                "grow": 6500
+            },
+            {
+                "level": 54,
+                "exp": 2260,
+                "cumulative_exp": 60580,
+                "grow": 6625
+            },
+            {
+                "level": 55,
+                "exp": 2310,
+                "cumulative_exp": 62890,
+                "grow": 6750
+            },
+            {
+                "level": 56,
+                "exp": 2360,
+                "cumulative_exp": 65250,
+                "grow": 6875
+            },
+            {
+                "level": 57,
+                "exp": 2410,
+                "cumulative_exp": 67660,
+                "grow": 7000
+            },
+            {
+                "level": 58,
+                "exp": 2460,
+                "cumulative_exp": 70120,
+                "grow": 7125
+            },
+            {
+                "level": 59,
+                "exp": 2510,
+                "cumulative_exp": 72630,
+                "grow": 7250
+            },
+            {
+                "level": 60,
+                "exp": 2560,
+                "cumulative_exp": 75190,
+                "grow": 7375
+            },
+            {
+                "level": 61,
+                "exp": 2610,
+                "cumulative_exp": 77800,
+                "grow": 7500
+            },
+            {
+                "level": 62,
+                "exp": 2670,
+                "cumulative_exp": 80470,
+                "grow": 7625
+            },
+            {
+                "level": 63,
+                "exp": 2730,
+                "cumulative_exp": 83200,
+                "grow": 7750
+            },
+            {
+                "level": 64,
+                "exp": 2790,
+                "cumulative_exp": 85990,
+                "grow": 7875
+            },
+            {
+                "level": 65,
+                "exp": 2850,
+                "cumulative_exp": 88840,
+                "grow": 8000
+            },
+            {
+                "level": 66,
+                "exp": 2910,
+                "cumulative_exp": 91750,
+                "grow": 8125
+            },
+            {
+                "level": 67,
+                "exp": 2970,
+                "cumulative_exp": 94720,
+                "grow": 8250
+            },
+            {
+                "level": 68,
+                "exp": 3030,
+                "cumulative_exp": 97750,
+                "grow": 8375
+            },
+            {
+                "level": 69,
+                "exp": 3090,
+                "cumulative_exp": 100840,
+                "grow": 8500
+            },
+            {
+                "level": 70,
+                "exp": 3150,
+                "cumulative_exp": 103990,
+                "grow": 8625
+            },
+            {
+                "level": 71,
+                "exp": 3210,
+                "cumulative_exp": 107200,
+                "grow": 8750
+            },
+            {
+                "level": 72,
+                "exp": 3270,
+                "cumulative_exp": 110470,
+                "grow": 8875
+            },
+            {
+                "level": 73,
+                "exp": 3330,
+                "cumulative_exp": 113800,
+                "grow": 9000
+            },
+            {
+                "level": 74,
+                "exp": 3390,
+                "cumulative_exp": 117190,
+                "grow": 9125
+            },
+            {
+                "level": 75,
+                "exp": 3450,
+                "cumulative_exp": 120640,
+                "grow": 9250
+            },
+            {
+                "level": 76,
+                "exp": 3510,
+                "cumulative_exp": 124150,
+                "grow": 9375
+            },
+            {
+                "level": 77,
+                "exp": 3570,
+                "cumulative_exp": 127720,
+                "grow": 9500
+            },
+            {
+                "level": 78,
+                "exp": 3630,
+                "cumulative_exp": 131350,
+                "grow": 9625
+            },
+            {
+                "level": 79,
+                "exp": 3690,
+                "cumulative_exp": 135040,
+                "grow": 9750
+            },
+            {
+                "level": 80,
+                "exp": 3750,
+                "cumulative_exp": 138790,
+                "grow": 10000
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "rarity": 8,
+        "level_data": [
+            {
+                "level": 1,
+                "exp": 0,
+                "cumulative_exp": 0,
+                "grow": 0
+            },
+            {
+                "level": 2,
+                "exp": 240,
+                "cumulative_exp": 240,
+                "grow": 0
+            },
+            {
+                "level": 3,
+                "exp": 270,
+                "cumulative_exp": 510,
+                "grow": 0
+            },
+            {
+                "level": 4,
+                "exp": 300,
+                "cumulative_exp": 810,
+                "grow": 0
+            },
+            {
+                "level": 5,
+                "exp": 330,
+                "cumulative_exp": 1140,
+                "grow": 0
+            },
+            {
+                "level": 6,
+                "exp": 360,
+                "cumulative_exp": 1500,
+                "grow": 0
+            },
+            {
+                "level": 7,
+                "exp": 390,
+                "cumulative_exp": 1890,
+                "grow": 0
+            },
+            {
+                "level": 8,
+                "exp": 420,
+                "cumulative_exp": 2310,
+                "grow": 0
+            },
+            {
+                "level": 9,
+                "exp": 450,
+                "cumulative_exp": 2760,
+                "grow": 0
+            },
+            {
+                "level": 10,
+                "exp": 480,
+                "cumulative_exp": 3240,
+                "grow": 0
+            },
+            {
+                "level": 11,
+                "exp": 510,
+                "cumulative_exp": 3750,
+                "grow": 0
+            },
+            {
+                "level": 12,
+                "exp": 540,
+                "cumulative_exp": 4290,
+                "grow": 0
+            },
+            {
+                "level": 13,
+                "exp": 570,
+                "cumulative_exp": 4860,
+                "grow": 0
+            },
+            {
+                "level": 14,
+                "exp": 600,
+                "cumulative_exp": 5460,
+                "grow": 0
+            },
+            {
+                "level": 15,
+                "exp": 630,
+                "cumulative_exp": 6090,
+                "grow": 0
+            },
+            {
+                "level": 16,
+                "exp": 660,
+                "cumulative_exp": 6750,
+                "grow": 0
+            },
+            {
+                "level": 17,
+                "exp": 690,
+                "cumulative_exp": 7440,
+                "grow": 0
+            },
+            {
+                "level": 18,
+                "exp": 720,
+                "cumulative_exp": 8160,
+                "grow": 0
+            },
+            {
+                "level": 19,
+                "exp": 750,
+                "cumulative_exp": 8910,
+                "grow": 0
+            },
+            {
+                "level": 20,
+                "exp": 780,
+                "cumulative_exp": 9690,
+                "grow": 0
+            },
+            {
+                "level": 21,
+                "exp": 810,
+                "cumulative_exp": 10500,
+                "grow": 0
+            },
+            {
+                "level": 22,
+                "exp": 850,
+                "cumulative_exp": 11350,
+                "grow": 0
+            },
+            {
+                "level": 23,
+                "exp": 890,
+                "cumulative_exp": 12240,
+                "grow": 0
+            },
+            {
+                "level": 24,
+                "exp": 930,
+                "cumulative_exp": 13170,
+                "grow": 0
+            },
+            {
+                "level": 25,
+                "exp": 970,
+                "cumulative_exp": 14140,
+                "grow": 0
+            },
+            {
+                "level": 26,
+                "exp": 1010,
+                "cumulative_exp": 15150,
+                "grow": 0
+            },
+            {
+                "level": 27,
+                "exp": 1050,
+                "cumulative_exp": 16200,
+                "grow": 0
+            },
+            {
+                "level": 28,
+                "exp": 1090,
+                "cumulative_exp": 17290,
+                "grow": 0
+            },
+            {
+                "level": 29,
+                "exp": 1130,
+                "cumulative_exp": 18420,
+                "grow": 0
+            },
+            {
+                "level": 30,
+                "exp": 1170,
+                "cumulative_exp": 19590,
+                "grow": 0
+            },
+            {
+                "level": 31,
+                "exp": 1210,
+                "cumulative_exp": 20800,
+                "grow": 0
+            },
+            {
+                "level": 32,
+                "exp": 1250,
+                "cumulative_exp": 22050,
+                "grow": 0
+            },
+            {
+                "level": 33,
+                "exp": 1290,
+                "cumulative_exp": 23340,
+                "grow": 0
+            },
+            {
+                "level": 34,
+                "exp": 1330,
+                "cumulative_exp": 24670,
+                "grow": 0
+            },
+            {
+                "level": 35,
+                "exp": 1370,
+                "cumulative_exp": 26040,
+                "grow": 0
+            },
+            {
+                "level": 36,
+                "exp": 1410,
+                "cumulative_exp": 27450,
+                "grow": 0
+            },
+            {
+                "level": 37,
+                "exp": 1450,
+                "cumulative_exp": 28900,
+                "grow": 0
+            },
+            {
+                "level": 38,
+                "exp": 1490,
+                "cumulative_exp": 30390,
+                "grow": 0
+            },
+            {
+                "level": 39,
+                "exp": 1530,
+                "cumulative_exp": 31920,
+                "grow": 0
+            },
+            {
+                "level": 40,
+                "exp": 1570,
+                "cumulative_exp": 33490,
+                "grow": 0
+            },
+            {
+                "level": 41,
+                "exp": 1610,
+                "cumulative_exp": 35100,
+                "grow": 0
+            },
+            {
+                "level": 42,
+                "exp": 1660,
+                "cumulative_exp": 36760,
+                "grow": 0
+            },
+            {
+                "level": 43,
+                "exp": 1710,
+                "cumulative_exp": 38470,
+                "grow": 0
+            },
+            {
+                "level": 44,
+                "exp": 1760,
+                "cumulative_exp": 40230,
+                "grow": 0
+            },
+            {
+                "level": 45,
+                "exp": 1810,
+                "cumulative_exp": 42040,
+                "grow": 0
+            },
+            {
+                "level": 46,
+                "exp": 1860,
+                "cumulative_exp": 43900,
+                "grow": 0
+            },
+            {
+                "level": 47,
+                "exp": 1910,
+                "cumulative_exp": 45810,
+                "grow": 0
+            },
+            {
+                "level": 48,
+                "exp": 1960,
+                "cumulative_exp": 47770,
+                "grow": 0
+            },
+            {
+                "level": 49,
+                "exp": 2010,
+                "cumulative_exp": 49780,
+                "grow": 0
+            },
+            {
+                "level": 50,
+                "exp": 2060,
+                "cumulative_exp": 51840,
+                "grow": 0
+            },
+            {
+                "level": 51,
+                "exp": 2110,
+                "cumulative_exp": 53950,
+                "grow": 0
+            },
+            {
+                "level": 52,
+                "exp": 2160,
+                "cumulative_exp": 56110,
+                "grow": 0
+            },
+            {
+                "level": 53,
+                "exp": 2210,
+                "cumulative_exp": 58320,
+                "grow": 0
+            },
+            {
+                "level": 54,
+                "exp": 2260,
+                "cumulative_exp": 60580,
+                "grow": 0
+            },
+            {
+                "level": 55,
+                "exp": 2310,
+                "cumulative_exp": 62890,
+                "grow": 0
+            },
+            {
+                "level": 56,
+                "exp": 2360,
+                "cumulative_exp": 65250,
+                "grow": 0
+            },
+            {
+                "level": 57,
+                "exp": 2410,
+                "cumulative_exp": 67660,
+                "grow": 0
+            },
+            {
+                "level": 58,
+                "exp": 2460,
+                "cumulative_exp": 70120,
+                "grow": 0
+            },
+            {
+                "level": 59,
+                "exp": 2510,
+                "cumulative_exp": 72630,
+                "grow": 0
+            },
+            {
+                "level": 60,
+                "exp": 2560,
+                "cumulative_exp": 75190,
+                "grow": 0
+            },
+            {
+                "level": 61,
+                "exp": 2610,
+                "cumulative_exp": 77800,
+                "grow": 0
+            },
+            {
+                "level": 62,
+                "exp": 2670,
+                "cumulative_exp": 80470,
+                "grow": 0
+            },
+            {
+                "level": 63,
+                "exp": 2730,
+                "cumulative_exp": 83200,
+                "grow": 0
+            },
+            {
+                "level": 64,
+                "exp": 2790,
+                "cumulative_exp": 85990,
+                "grow": 0
+            },
+            {
+                "level": 65,
+                "exp": 2850,
+                "cumulative_exp": 88840,
+                "grow": 0
+            },
+            {
+                "level": 66,
+                "exp": 2910,
+                "cumulative_exp": 91750,
+                "grow": 0
+            },
+            {
+                "level": 67,
+                "exp": 2970,
+                "cumulative_exp": 94720,
+                "grow": 0
+            },
+            {
+                "level": 68,
+                "exp": 3030,
+                "cumulative_exp": 97750,
+                "grow": 0
+            },
+            {
+                "level": 69,
+                "exp": 3090,
+                "cumulative_exp": 100840,
+                "grow": 0
+            },
+            {
+                "level": 70,
+                "exp": 3150,
+                "cumulative_exp": 103990,
+                "grow": 0
+            },
+            {
+                "level": 71,
+                "exp": 3210,
+                "cumulative_exp": 107200,
+                "grow": 0
+            },
+            {
+                "level": 72,
+                "exp": 3270,
+                "cumulative_exp": 110470,
+                "grow": 0
+            },
+            {
+                "level": 73,
+                "exp": 3330,
+                "cumulative_exp": 113800,
+                "grow": 0
+            },
+            {
+                "level": 74,
+                "exp": 3390,
+                "cumulative_exp": 117190,
+                "grow": 0
+            },
+            {
+                "level": 75,
+                "exp": 3450,
+                "cumulative_exp": 120640,
+                "grow": 0
+            },
+            {
+                "level": 76,
+                "exp": 3510,
+                "cumulative_exp": 124150,
+                "grow": 0
+            },
+            {
+                "level": 77,
+                "exp": 3570,
+                "cumulative_exp": 127720,
+                "grow": 0
+            },
+            {
+                "level": 78,
+                "exp": 3630,
+                "cumulative_exp": 131350,
+                "grow": 0
+            },
+            {
+                "level": 79,
+                "exp": 3690,
+                "cumulative_exp": 135040,
+                "grow": 0
+            },
+            {
+                "level": 80,
+                "exp": 3750,
+                "cumulative_exp": 138790,
+                "grow": 0
+            },
+            {
+                "level": 81,
+                "exp": 3810,
+                "cumulative_exp": 142600,
+                "grow": 1000
+            },
+            {
+                "level": 82,
+                "exp": 6310,
+                "cumulative_exp": 148910,
+                "grow": 2000
+            },
+            {
+                "level": 83,
+                "exp": 8810,
+                "cumulative_exp": 157720,
+                "grow": 3000
+            },
+            {
+                "level": 84,
+                "exp": 11310,
+                "cumulative_exp": 169030,
+                "grow": 4000
+            },
+            {
+                "level": 85,
+                "exp": 13810,
+                "cumulative_exp": 182840,
+                "grow": 5000
+            },
+            {
+                "level": 86,
+                "exp": 16310,
+                "cumulative_exp": 199150,
+                "grow": 6000
+            },
+            {
+                "level": 87,
+                "exp": 18810,
+                "cumulative_exp": 217960,
+                "grow": 7000
+            },
+            {
+                "level": 88,
+                "exp": 21310,
+                "cumulative_exp": 239270,
+                "grow": 8000
+            },
+            {
+                "level": 89,
+                "exp": 23810,
+                "cumulative_exp": 263080,
+                "grow": 9000
+            },
+            {
+                "level": 90,
+                "exp": 26310,
+                "cumulative_exp": 289390,
+                "grow": 10000
+            }
+        ]
+    }
+]

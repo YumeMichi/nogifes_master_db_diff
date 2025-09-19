@@ -1,0 +1,1747 @@
+[
+    {
+        "synergy_id": 1,
+        "synergy_name": "単推し",
+        "work_terms": 2,
+        "work_value": 5,
+        "girl_data": [],
+        "description": "LIVEクリア時、獲得ノギー7％アップ",
+        "proc_data": [
+            {
+                "proc_type": 302,
+                "proc_param": "700"
+            }
+        ]
+    },
+    {
+        "synergy_id": 2,
+        "synergy_name": "一期生ユニット",
+        "work_terms": 1,
+        "work_value": 5,
+        "girl_data": [
+            {
+                "girl_id": 101
+            },
+            {
+                "girl_id": 102
+            },
+            {
+                "girl_id": 103
+            },
+            {
+                "girl_id": 104
+            },
+            {
+                "girl_id": 105
+            },
+            {
+                "girl_id": 106
+            },
+            {
+                "girl_id": 107
+            },
+            {
+                "girl_id": 108
+            },
+            {
+                "girl_id": 109
+            },
+            {
+                "girl_id": 110
+            },
+            {
+                "girl_id": 111
+            },
+            {
+                "girl_id": 112
+            },
+            {
+                "girl_id": 113
+            },
+            {
+                "girl_id": 114
+            },
+            {
+                "girl_id": 115
+            },
+            {
+                "girl_id": 116
+            },
+            {
+                "girl_id": 117
+            },
+            {
+                "girl_id": 118
+            },
+            {
+                "girl_id": 119
+            },
+            {
+                "girl_id": 120
+            },
+            {
+                "girl_id": 121
+            },
+            {
+                "girl_id": 122
+            }
+        ],
+        "description": "LIVEクリア時、獲得プレイヤーXP5％アップ",
+        "proc_data": [
+            {
+                "proc_type": 301,
+                "proc_param": "500"
+            }
+        ]
+    },
+    {
+        "synergy_id": 3,
+        "synergy_name": "二期生ユニット",
+        "work_terms": 1,
+        "work_value": 5,
+        "girl_data": [
+            {
+                "girl_id": 201
+            },
+            {
+                "girl_id": 202
+            },
+            {
+                "girl_id": 203
+            },
+            {
+                "girl_id": 204
+            },
+            {
+                "girl_id": 205
+            },
+            {
+                "girl_id": 206
+            },
+            {
+                "girl_id": 207
+            },
+            {
+                "girl_id": 208
+            },
+            {
+                "girl_id": 209
+            },
+            {
+                "girl_id": 210
+            },
+            {
+                "girl_id": 211
+            }
+        ],
+        "description": "LIVEクリア時、獲得プレイヤーXP5％アップ",
+        "proc_data": [
+            {
+                "proc_type": 301,
+                "proc_param": "500"
+            }
+        ]
+    },
+    {
+        "synergy_id": 4,
+        "synergy_name": "三期生ユニット",
+        "work_terms": 1,
+        "work_value": 5,
+        "girl_data": [
+            {
+                "girl_id": 301
+            },
+            {
+                "girl_id": 302
+            },
+            {
+                "girl_id": 303
+            },
+            {
+                "girl_id": 304
+            },
+            {
+                "girl_id": 305
+            },
+            {
+                "girl_id": 306
+            },
+            {
+                "girl_id": 307
+            },
+            {
+                "girl_id": 308
+            },
+            {
+                "girl_id": 309
+            },
+            {
+                "girl_id": 310
+            },
+            {
+                "girl_id": 311
+            },
+            {
+                "girl_id": 312
+            }
+        ],
+        "description": "LIVEクリア時、獲得プレイヤーXP5％アップ",
+        "proc_data": [
+            {
+                "proc_type": 301,
+                "proc_param": "500"
+            }
+        ]
+    },
+    {
+        "synergy_id": 5,
+        "synergy_name": "生生星",
+        "work_terms": 1,
+        "work_value": 3,
+        "girl_data": [
+            {
+                "girl_id": 102
+            },
+            {
+                "girl_id": 103
+            },
+            {
+                "girl_id": 119
+            }
+        ],
+        "description": "LIVEクリア時、獲得メダル4％アップ",
+        "proc_data": [
+            {
+                "proc_type": 303,
+                "proc_param": "400"
+            }
+        ]
+    },
+    {
+        "synergy_id": 6,
+        "synergy_name": "さゆりんご軍団",
+        "work_terms": 1,
+        "work_value": 3,
+        "girl_data": [
+            {
+                "girl_id": 120
+            },
+            {
+                "girl_id": 201
+            },
+            {
+                "girl_id": 205
+            },
+            {
+                "girl_id": 208
+            }
+        ],
+        "description": "LIVEクリア時、獲得ノギー3％アップ",
+        "proc_data": [
+            {
+                "proc_type": 302,
+                "proc_param": "300"
+            }
+        ]
+    },
+    {
+        "synergy_id": 7,
+        "synergy_name": "スイカ",
+        "work_terms": 1,
+        "work_value": 3,
+        "girl_data": [
+            {
+                "girl_id": 116
+            },
+            {
+                "girl_id": 111
+            },
+            {
+                "girl_id": 107
+            },
+            {
+                "girl_id": 201
+            },
+            {
+                "girl_id": 202
+            }
+        ],
+        "description": "LIVEクリア時、獲得メダル3％アップ",
+        "proc_data": [
+            {
+                "proc_type": 303,
+                "proc_param": "300"
+            }
+        ]
+    },
+    {
+        "synergy_id": 8,
+        "synergy_name": "真夏さんリスペクト軍団",
+        "work_terms": 1,
+        "work_value": 3,
+        "girl_data": [
+            {
+                "girl_id": 101
+            },
+            {
+                "girl_id": 204
+            },
+            {
+                "girl_id": 207
+            },
+            {
+                "girl_id": 211
+            }
+        ],
+        "description": "LIVEクリア時、獲得ノギー3％アップ",
+        "proc_data": [
+            {
+                "proc_type": 302,
+                "proc_param": "300"
+            }
+        ]
+    },
+    {
+        "synergy_id": 9,
+        "synergy_name": "女子校カルテット",
+        "work_terms": 1,
+        "work_value": 3,
+        "girl_data": [
+            {
+                "girl_id": 112
+            },
+            {
+                "girl_id": 121
+            },
+            {
+                "girl_id": 101
+            },
+            {
+                "girl_id": 115
+            }
+        ],
+        "description": "LIVEクリア時、獲得ノギー3％アップ",
+        "proc_data": [
+            {
+                "proc_type": 302,
+                "proc_param": "300"
+            }
+        ]
+    },
+    {
+        "synergy_id": 10,
+        "synergy_name": "犬メン",
+        "work_terms": 1,
+        "work_value": 3,
+        "girl_data": [
+            {
+                "girl_id": 103
+            },
+            {
+                "girl_id": 105
+            },
+            {
+                "girl_id": 104
+            },
+            {
+                "girl_id": 111
+            },
+            {
+                "girl_id": 112
+            },
+            {
+                "girl_id": 120
+            },
+            {
+                "girl_id": 206
+            },
+            {
+                "girl_id": 121
+            }
+        ],
+        "description": "LIVEクリア時、獲得メダル3％アップ",
+        "proc_data": [
+            {
+                "proc_type": 303,
+                "proc_param": "300"
+            }
+        ]
+    },
+    {
+        "synergy_id": 11,
+        "synergy_name": "チューリップ",
+        "work_terms": 1,
+        "work_value": 3,
+        "girl_data": [
+            {
+                "girl_id": 114
+            },
+            {
+                "girl_id": 117
+            },
+            {
+                "girl_id": 110
+            },
+            {
+                "girl_id": 108
+            },
+            {
+                "girl_id": 107
+            },
+            {
+                "girl_id": 122
+            },
+            {
+                "girl_id": 102
+            }
+        ],
+        "description": "LIVEクリア時、獲得メダル3％アップ",
+        "proc_data": [
+            {
+                "proc_type": 303,
+                "proc_param": "300"
+            }
+        ]
+    },
+    {
+        "synergy_id": 12,
+        "synergy_name": "若様軍団",
+        "work_terms": 1,
+        "work_value": 3,
+        "girl_data": [
+            {
+                "girl_id": 121
+            },
+            {
+                "girl_id": 310
+            },
+            {
+                "girl_id": 303
+            },
+            {
+                "girl_id": 306
+            }
+        ],
+        "description": "LIVEクリア時、獲得ノギー3％アップ",
+        "proc_data": [
+            {
+                "proc_type": 302,
+                "proc_param": "300"
+            }
+        ]
+    },
+    {
+        "synergy_id": 13,
+        "synergy_name": "WHITE HIGH",
+        "work_terms": 1,
+        "work_value": 2,
+        "girl_data": [
+            {
+                "girl_id": 113
+            },
+            {
+                "girl_id": 114
+            }
+        ],
+        "description": "LIVEクリア時、獲得メダル3％アップ",
+        "proc_data": [
+            {
+                "proc_type": 303,
+                "proc_param": "300"
+            }
+        ]
+    },
+    {
+        "synergy_id": 14,
+        "synergy_name": "サンクエトワール",
+        "work_terms": 1,
+        "work_value": 3,
+        "girl_data": [
+            {
+                "girl_id": 115
+            },
+            {
+                "girl_id": 203
+            },
+            {
+                "girl_id": 208
+            },
+            {
+                "girl_id": 209
+            }
+        ],
+        "description": "LIVEクリア時、獲得プレイヤーXP3％アップ",
+        "proc_data": [
+            {
+                "proc_type": 301,
+                "proc_param": "300"
+            }
+        ]
+    },
+    {
+        "synergy_id": 15,
+        "synergy_name": "姉御坂",
+        "work_terms": 1,
+        "work_value": 3,
+        "girl_data": [
+            {
+                "girl_id": 106
+            },
+            {
+                "girl_id": 113
+            },
+            {
+                "girl_id": 114
+            },
+            {
+                "girl_id": 120
+            }
+        ],
+        "description": "LIVEクリア時、獲得メダル3％アップ",
+        "proc_data": [
+            {
+                "proc_type": 303,
+                "proc_param": "300"
+            }
+        ]
+    },
+    {
+        "synergy_id": 16,
+        "synergy_name": "かすみ草",
+        "work_terms": 1,
+        "work_value": 3,
+        "girl_data": [
+            {
+                "girl_id": 103
+            },
+            {
+                "girl_id": 105
+            },
+            {
+                "girl_id": 119
+            },
+            {
+                "girl_id": 209
+            }
+        ],
+        "description": "LIVEクリア時、獲得プレイヤーXP3％アップ",
+        "proc_data": [
+            {
+                "proc_type": 301,
+                "proc_param": "300"
+            }
+        ]
+    },
+    {
+        "synergy_id": 17,
+        "synergy_name": "藤桜梨",
+        "work_terms": 1,
+        "work_value": 3,
+        "girl_data": [
+            {
+                "girl_id": 102
+            },
+            {
+                "girl_id": 106
+            },
+            {
+                "girl_id": 112
+            }
+        ],
+        "description": "LIVEクリア時、獲得ノギー4％アップ",
+        "proc_data": [
+            {
+                "proc_type": 302,
+                "proc_param": "400"
+            }
+        ]
+    },
+    {
+        "synergy_id": 18,
+        "synergy_name": "いもうと坂",
+        "work_terms": 1,
+        "work_value": 3,
+        "girl_data": [
+            {
+                "girl_id": 304
+            },
+            {
+                "girl_id": 305
+            },
+            {
+                "girl_id": 310
+            },
+            {
+                "girl_id": 312
+            }
+        ],
+        "description": "LIVEクリア時、獲得ノギー3％アップ",
+        "proc_data": [
+            {
+                "proc_type": 302,
+                "proc_param": "300"
+            }
+        ]
+    },
+    {
+        "synergy_id": 19,
+        "synergy_name": "四期生ユニット",
+        "work_terms": 1,
+        "work_value": 5,
+        "girl_data": [
+            {
+                "girl_id": 401
+            },
+            {
+                "girl_id": 402
+            },
+            {
+                "girl_id": 403
+            },
+            {
+                "girl_id": 404
+            },
+            {
+                "girl_id": 405
+            },
+            {
+                "girl_id": 406
+            },
+            {
+                "girl_id": 407
+            },
+            {
+                "girl_id": 408
+            },
+            {
+                "girl_id": 409
+            },
+            {
+                "girl_id": 410
+            },
+            {
+                "girl_id": 411
+            },
+            {
+                "girl_id": 412
+            },
+            {
+                "girl_id": 413
+            },
+            {
+                "girl_id": 414
+            },
+            {
+                "girl_id": 415
+            },
+            {
+                "girl_id": 416
+            }
+        ],
+        "description": "LIVEクリア時、獲得プレイヤーXP5％アップ",
+        "proc_data": [
+            {
+                "proc_type": 301,
+                "proc_param": "500"
+            }
+        ]
+    },
+    {
+        "synergy_id": 20,
+        "synergy_name": "五期生ユニット",
+        "work_terms": 1,
+        "work_value": 5,
+        "girl_data": [
+            {
+                "girl_id": 501
+            },
+            {
+                "girl_id": 502
+            },
+            {
+                "girl_id": 503
+            },
+            {
+                "girl_id": 504
+            },
+            {
+                "girl_id": 505
+            },
+            {
+                "girl_id": 506
+            },
+            {
+                "girl_id": 507
+            },
+            {
+                "girl_id": 508
+            },
+            {
+                "girl_id": 509
+            },
+            {
+                "girl_id": 510
+            },
+            {
+                "girl_id": 511
+            }
+        ],
+        "description": "LIVEクリア時、獲得プレイヤーXP5％アップ",
+        "proc_data": [
+            {
+                "proc_type": 301,
+                "proc_param": "500"
+            }
+        ]
+    },
+    {
+        "synergy_id": 21,
+        "synergy_name": "瑠璃",
+        "work_terms": 1,
+        "work_value": 2,
+        "girl_data": [
+            {
+                "girl_id": 413
+            },
+            {
+                "girl_id": 414
+            }
+        ],
+        "description": "LIVEクリア時、獲得ノギー3％アップ",
+        "proc_data": [
+            {
+                "proc_type": 302,
+                "proc_param": "300"
+            }
+        ]
+    },
+    {
+        "synergy_id": 22,
+        "synergy_name": "新・華の2001年組",
+        "work_terms": 1,
+        "work_value": 5,
+        "girl_data": [
+            {
+                "girl_id": 305
+            },
+            {
+                "girl_id": 306
+            },
+            {
+                "girl_id": 308
+            },
+            {
+                "girl_id": 401
+            },
+            {
+                "girl_id": 402
+            },
+            {
+                "girl_id": 404
+            },
+            {
+                "girl_id": 405
+            },
+            {
+                "girl_id": 413
+            }
+        ],
+        "description": "LIVEクリア時、獲得ノギー5％アップ",
+        "proc_data": [
+            {
+                "proc_type": 302,
+                "proc_param": "500"
+            }
+        ]
+    },
+    {
+        "synergy_id": 23,
+        "synergy_name": "えくぼ",
+        "work_terms": 1,
+        "work_value": 2,
+        "girl_data": [
+            {
+                "girl_id": 401
+            },
+            {
+                "girl_id": 411
+            }
+        ],
+        "description": "LIVEクリア時、獲得メダル3％アップ",
+        "proc_data": [
+            {
+                "proc_type": 303,
+                "proc_param": "300"
+            }
+        ]
+    },
+    {
+        "synergy_id": 24,
+        "synergy_name": "掛林",
+        "work_terms": 1,
+        "work_value": 2,
+        "girl_data": [
+            {
+                "girl_id": 403
+            },
+            {
+                "girl_id": 414
+            }
+        ],
+        "description": "LIVEクリア時、獲得メダル3％アップ",
+        "proc_data": [
+            {
+                "proc_type": 303,
+                "proc_param": "300"
+            }
+        ]
+    },
+    {
+        "synergy_id": 25,
+        "synergy_name": "みなみんと四人の子供たち",
+        "work_terms": 1,
+        "work_value": 3,
+        "girl_data": [
+            {
+                "girl_id": 302
+            },
+            {
+                "girl_id": 303
+            },
+            {
+                "girl_id": 304
+            },
+            {
+                "girl_id": 306
+            },
+            {
+                "girl_id": 307
+            }
+        ],
+        "description": "LIVEクリア時、獲得プレイヤーXP3％アップ",
+        "proc_data": [
+            {
+                "proc_type": 301,
+                "proc_param": "300"
+            }
+        ]
+    },
+    {
+        "synergy_id": 26,
+        "synergy_name": "A to Z",
+        "work_terms": 1,
+        "work_value": 2,
+        "girl_data": [
+            {
+                "girl_id": 207
+            },
+            {
+                "girl_id": 210
+            }
+        ],
+        "description": "LIVEクリア時、獲得ノギー3％アップ",
+        "proc_data": [
+            {
+                "proc_type": 302,
+                "proc_param": "300"
+            }
+        ]
+    },
+    {
+        "synergy_id": 27,
+        "synergy_name": "はやはやボンバーズ",
+        "work_terms": 1,
+        "work_value": 2,
+        "girl_data": [
+            {
+                "girl_id": 410
+            },
+            {
+                "girl_id": 414
+            }
+        ],
+        "description": "LIVEクリア時、獲得メダル3％アップ",
+        "proc_data": [
+            {
+                "proc_type": 303,
+                "proc_param": "300"
+            }
+        ]
+    },
+    {
+        "synergy_id": 28,
+        "synergy_name": "チーム魔雲天",
+        "work_terms": 1,
+        "work_value": 3,
+        "girl_data": [
+            {
+                "girl_id": 114
+            },
+            {
+                "girl_id": 118
+            },
+            {
+                "girl_id": 206
+            },
+            {
+                "girl_id": 207
+            },
+            {
+                "girl_id": 208
+            },
+            {
+                "girl_id": 210
+            },
+            {
+                "girl_id": 303
+            }
+        ],
+        "description": "LIVEクリア時、獲得ノギー3％アップ",
+        "proc_data": [
+            {
+                "proc_type": 302,
+                "proc_param": "300"
+            }
+        ]
+    },
+    {
+        "synergy_id": 29,
+        "synergy_name": "あやレイ",
+        "work_terms": 1,
+        "work_value": 2,
+        "girl_data": [
+            {
+                "girl_id": 407
+            },
+            {
+                "girl_id": 409
+            }
+        ],
+        "description": "LIVEクリア時、獲得ノギー3％アップ",
+        "proc_data": [
+            {
+                "proc_type": 302,
+                "proc_param": "300"
+            }
+        ]
+    },
+    {
+        "synergy_id": 30,
+        "synergy_name": "チートデイ",
+        "work_terms": 1,
+        "work_value": 2,
+        "girl_data": [
+            {
+                "girl_id": 109
+            },
+            {
+                "girl_id": 303
+            }
+        ],
+        "description": "LIVEクリア時、獲得メダル3％アップ",
+        "proc_data": [
+            {
+                "proc_type": 303,
+                "proc_param": "300"
+            }
+        ]
+    },
+    {
+        "synergy_id": 31,
+        "synergy_name": "焼肉三姉妹",
+        "work_terms": 1,
+        "work_value": 3,
+        "girl_data": [
+            {
+                "girl_id": 307
+            },
+            {
+                "girl_id": 309
+            },
+            {
+                "girl_id": 312
+            }
+        ],
+        "description": "LIVEクリア時、獲得ノギー4％アップ",
+        "proc_data": [
+            {
+                "proc_type": 302,
+                "proc_param": "400"
+            }
+        ]
+    },
+    {
+        "synergy_id": 32,
+        "synergy_name": "映像研トリオ",
+        "work_terms": 1,
+        "work_value": 3,
+        "girl_data": [
+            {
+                "girl_id": 109
+            },
+            {
+                "girl_id": 303
+            },
+            {
+                "girl_id": 310
+            }
+        ],
+        "description": "LIVEクリア時、獲得プレイヤーXP4％アップ",
+        "proc_data": [
+            {
+                "proc_type": 301,
+                "proc_param": "400"
+            }
+        ]
+    },
+    {
+        "synergy_id": 33,
+        "synergy_name": "砂糖掛け",
+        "work_terms": 1,
+        "work_value": 2,
+        "girl_data": [
+            {
+                "girl_id": 403
+            },
+            {
+                "girl_id": 413
+            }
+        ],
+        "description": "LIVEクリア時、獲得ノギー3％アップ",
+        "proc_data": [
+            {
+                "proc_type": 302,
+                "proc_param": "300"
+            }
+        ]
+    },
+    {
+        "synergy_id": 34,
+        "synergy_name": "ダブルムーン",
+        "work_terms": 1,
+        "work_value": 2,
+        "girl_data": [
+            {
+                "girl_id": 309
+            },
+            {
+                "girl_id": 310
+            }
+        ],
+        "description": "LIVEクリア時、獲得プレイヤーXP3％アップ",
+        "proc_data": [
+            {
+                "proc_type": 301,
+                "proc_param": "300"
+            }
+        ]
+    },
+    {
+        "synergy_id": 35,
+        "synergy_name": "親子丼",
+        "work_terms": 1,
+        "work_value": 2,
+        "girl_data": [
+            {
+                "girl_id": 109
+            },
+            {
+                "girl_id": 203
+            }
+        ],
+        "description": "LIVEクリア時、獲得メダル3％アップ",
+        "proc_data": [
+            {
+                "proc_type": 303,
+                "proc_param": "300"
+            }
+        ]
+    },
+    {
+        "synergy_id": 36,
+        "synergy_name": "あしゅみな",
+        "work_terms": 1,
+        "work_value": 2,
+        "girl_data": [
+            {
+                "girl_id": 109
+            },
+            {
+                "girl_id": 119
+            }
+        ],
+        "description": "LIVEクリア時、獲得ノギー3％アップ",
+        "proc_data": [
+            {
+                "proc_type": 302,
+                "proc_param": "300"
+            }
+        ]
+    },
+    {
+        "synergy_id": 37,
+        "synergy_name": "宇宙兄弟",
+        "work_terms": 1,
+        "work_value": 2,
+        "girl_data": [
+            {
+                "girl_id": 203
+            },
+            {
+                "girl_id": 211
+            }
+        ],
+        "description": "LIVEクリア時、獲得プレイヤーXP3％アップ",
+        "proc_data": [
+            {
+                "proc_type": 301,
+                "proc_param": "300"
+            }
+        ]
+    },
+    {
+        "synergy_id": 38,
+        "synergy_name": "さやちゃん's",
+        "work_terms": 1,
+        "work_value": 2,
+        "girl_data": [
+            {
+                "girl_id": 403
+            },
+            {
+                "girl_id": 404
+            }
+        ],
+        "description": "LIVEクリア時、獲得ノギー3％アップ",
+        "proc_data": [
+            {
+                "proc_type": 302,
+                "proc_param": "300"
+            }
+        ]
+    },
+    {
+        "synergy_id": 39,
+        "synergy_name": "やんちゃなやんちゃん",
+        "work_terms": 1,
+        "work_value": 2,
+        "girl_data": [
+            {
+                "girl_id": 402
+            },
+            {
+                "girl_id": 404
+            }
+        ],
+        "description": "LIVEクリア時、獲得プレイヤーXP3％アップ",
+        "proc_data": [
+            {
+                "proc_type": 301,
+                "proc_param": "300"
+            }
+        ]
+    },
+    {
+        "synergy_id": 40,
+        "synergy_name": "尼崎姉妹",
+        "work_terms": 1,
+        "work_value": 2,
+        "girl_data": [
+            {
+                "girl_id": 402
+            },
+            {
+                "girl_id": 410
+            }
+        ],
+        "description": "LIVEクリア時、獲得メダル3％アップ",
+        "proc_data": [
+            {
+                "proc_type": 303,
+                "proc_param": "300"
+            }
+        ]
+    },
+    {
+        "synergy_id": 41,
+        "synergy_name": "カワイイアーミーズ",
+        "work_terms": 1,
+        "work_value": 3,
+        "girl_data": [
+            {
+                "girl_id": 305
+            },
+            {
+                "girl_id": 402
+            },
+            {
+                "girl_id": 411
+            }
+        ],
+        "description": "LIVEクリア時、獲得メダル4％アップ",
+        "proc_data": [
+            {
+                "proc_type": 303,
+                "proc_param": "400"
+            }
+        ]
+    },
+    {
+        "synergy_id": 42,
+        "synergy_name": "あざと部",
+        "work_terms": 1,
+        "work_value": 2,
+        "girl_data": [
+            {
+                "girl_id": 303
+            },
+            {
+                "girl_id": 310
+            }
+        ],
+        "description": "LIVEクリア時、獲得メダル3％アップ",
+        "proc_data": [
+            {
+                "proc_type": 303,
+                "proc_param": "300"
+            }
+        ]
+    },
+    {
+        "synergy_id": 43,
+        "synergy_name": "バリバリ！千葉魂",
+        "work_terms": 1,
+        "work_value": 5,
+        "girl_data": [
+            {
+                "girl_id": 506
+            },
+            {
+                "girl_id": 507
+            },
+            {
+                "girl_id": 509
+            },
+            {
+                "girl_id": 510
+            },
+            {
+                "girl_id": 511
+            }
+        ],
+        "description": "LIVEクリア時、獲得ノギー6％アップ",
+        "proc_data": [
+            {
+                "proc_type": 302,
+                "proc_param": "600"
+            }
+        ]
+    },
+    {
+        "synergy_id": 44,
+        "synergy_name": "なおまお",
+        "work_terms": 1,
+        "work_value": 2,
+        "girl_data": [
+            {
+                "girl_id": 501
+            },
+            {
+                "girl_id": 510
+            }
+        ],
+        "description": "LIVEクリア時、獲得プレイヤーXP3％アップ",
+        "proc_data": [
+            {
+                "proc_type": 301,
+                "proc_param": "300"
+            }
+        ]
+    },
+    {
+        "synergy_id": 45,
+        "synergy_name": "なぎさつ",
+        "work_terms": 1,
+        "work_value": 2,
+        "girl_data": [
+            {
+                "girl_id": 504
+            },
+            {
+                "girl_id": 509
+            }
+        ],
+        "description": "LIVEクリア時、獲得メダル3％アップ",
+        "proc_data": [
+            {
+                "proc_type": 303,
+                "proc_param": "300"
+            }
+        ]
+    },
+    {
+        "synergy_id": 46,
+        "synergy_name": "あやみく",
+        "work_terms": 1,
+        "work_value": 2,
+        "girl_data": [
+            {
+                "girl_id": 503
+            },
+            {
+                "girl_id": 506
+            }
+        ],
+        "description": "LIVEクリア時、獲得メダル3％アップ",
+        "proc_data": [
+            {
+                "proc_type": 303,
+                "proc_param": "300"
+            }
+        ]
+    },
+    {
+        "synergy_id": 47,
+        "synergy_name": "おがちゃん・いおちゃん",
+        "work_terms": 1,
+        "work_value": 2,
+        "girl_data": [
+            {
+                "girl_id": 501
+            },
+            {
+                "girl_id": 506
+            }
+        ],
+        "description": "LIVEクリア時、獲得ノギー3％アップ",
+        "proc_data": [
+            {
+                "proc_type": 302,
+                "proc_param": "300"
+            }
+        ]
+    },
+    {
+        "synergy_id": 48,
+        "synergy_name": "にゃぎ神様",
+        "work_terms": 1,
+        "work_value": 4,
+        "girl_data": [
+            {
+                "girl_id": 501
+            },
+            {
+                "girl_id": 502
+            },
+            {
+                "girl_id": 504
+            },
+            {
+                "girl_id": 511
+            }
+        ],
+        "description": "LIVEクリア時、獲得メダル5％アップ",
+        "proc_data": [
+            {
+                "proc_type": 303,
+                "proc_param": "500"
+            }
+        ]
+    },
+    {
+        "synergy_id": 49,
+        "synergy_name": "魔法少女サクナギ",
+        "work_terms": 1,
+        "work_value": 2,
+        "girl_data": [
+            {
+                "girl_id": 504
+            },
+            {
+                "girl_id": 508
+            }
+        ],
+        "description": "LIVEクリア時、獲得ノギー3％アップ",
+        "proc_data": [
+            {
+                "proc_type": 302,
+                "proc_param": "300"
+            }
+        ]
+    },
+    {
+        "synergy_id": 50,
+        "synergy_name": "乃木坂野球部",
+        "work_terms": 1,
+        "work_value": 5,
+        "girl_data": [
+            {
+                "girl_id": 305
+            },
+            {
+                "girl_id": 309
+            },
+            {
+                "girl_id": 404
+            },
+            {
+                "girl_id": 412
+            },
+            {
+                "girl_id": 406
+            }
+        ],
+        "description": "LIVEクリア時、獲得プレイヤーXP6％アップ",
+        "proc_data": [
+            {
+                "proc_type": 301,
+                "proc_param": "600"
+            }
+        ]
+    },
+    {
+        "synergy_id": 51,
+        "synergy_name": "乃木坂軽音部",
+        "work_terms": 1,
+        "work_value": 5,
+        "girl_data": [
+            {
+                "girl_id": 301
+            },
+            {
+                "girl_id": 309
+            },
+            {
+                "girl_id": 414
+            },
+            {
+                "girl_id": 415
+            },
+            {
+                "girl_id": 411
+            }
+        ],
+        "description": "LIVEクリア時、獲得ノギー6％アップ",
+        "proc_data": [
+            {
+                "proc_type": 302,
+                "proc_param": "600"
+            }
+        ]
+    },
+    {
+        "synergy_id": 52,
+        "synergy_name": "銭湯ガールズ",
+        "work_terms": 1,
+        "work_value": 4,
+        "girl_data": [
+            {
+                "girl_id": 303
+            },
+            {
+                "girl_id": 310
+            },
+            {
+                "girl_id": 312
+            },
+            {
+                "girl_id": 404
+            },
+            {
+                "girl_id": 408
+            }
+        ],
+        "description": "LIVEクリア時、獲得プレイヤーXP4％アップ",
+        "proc_data": [
+            {
+                "proc_type": 301,
+                "proc_param": "400"
+            }
+        ]
+    },
+    {
+        "synergy_id": 53,
+        "synergy_name": "カフェオーレ",
+        "work_terms": 1,
+        "work_value": 2,
+        "girl_data": [
+            {
+                "girl_id": 501
+            },
+            {
+                "girl_id": 507
+            }
+        ],
+        "description": "LIVEクリア時、獲得メダル3％アップ",
+        "proc_data": [
+            {
+                "proc_type": 303,
+                "proc_param": "300"
+            }
+        ]
+    },
+    {
+        "synergy_id": 54,
+        "synergy_name": "マブいぜ！バブ美先生！",
+        "work_terms": 1,
+        "work_value": 3,
+        "girl_data": [
+            {
+                "girl_id": 502
+            },
+            {
+                "girl_id": 504
+            },
+            {
+                "girl_id": 509
+            }
+        ],
+        "description": "LIVEクリア時、獲得プレイヤーXP4％アップ",
+        "proc_data": [
+            {
+                "proc_type": 301,
+                "proc_param": "400"
+            }
+        ]
+    },
+    {
+        "synergy_id": 55,
+        "synergy_name": "かきさく",
+        "work_terms": 1,
+        "work_value": 2,
+        "girl_data": [
+            {
+                "girl_id": 401
+            },
+            {
+                "girl_id": 402
+            }
+        ],
+        "description": "LIVEクリア時、獲得プレイヤーXP3％アップ",
+        "proc_data": [
+            {
+                "proc_type": 301,
+                "proc_param": "300"
+            }
+        ]
+    },
+    {
+        "synergy_id": 56,
+        "synergy_name": "さつまいろ",
+        "work_terms": 1,
+        "work_value": 3,
+        "girl_data": [
+            {
+                "girl_id": 501
+            },
+            {
+                "girl_id": 507
+            },
+            {
+                "girl_id": 509
+            }
+        ],
+        "description": "LIVEクリア時、獲得ノギー4％アップ",
+        "proc_data": [
+            {
+                "proc_type": 302,
+                "proc_param": "400"
+            }
+        ]
+    },
+    {
+        "synergy_id": 57,
+        "synergy_name": "はりるみな",
+        "work_terms": 1,
+        "work_value": 5,
+        "girl_data": [
+            {
+                "girl_id": 412
+            },
+            {
+                "girl_id": 413
+            },
+            {
+                "girl_id": 414
+            },
+            {
+                "girl_id": 415
+            },
+            {
+                "girl_id": 416
+            }
+        ],
+        "description": "LIVEクリア時、獲得メダル6％アップ",
+        "proc_data": [
+            {
+                "proc_type": 303,
+                "proc_param": "600"
+            }
+        ]
+    },
+    {
+        "synergy_id": 58,
+        "synergy_name": "レッドソックス",
+        "work_terms": 1,
+        "work_value": 4,
+        "girl_data": [
+            {
+                "girl_id": 503
+            },
+            {
+                "girl_id": 504
+            },
+            {
+                "girl_id": 505
+            },
+            {
+                "girl_id": 506
+            }
+        ],
+        "description": "LIVEクリア時、獲得ノギー5％アップ",
+        "proc_data": [
+            {
+                "proc_type": 302,
+                "proc_param": "500"
+            }
+        ]
+    },
+    {
+        "synergy_id": 59,
+        "synergy_name": "楓さん正そう軍団",
+        "work_terms": 1,
+        "work_value": 5,
+        "girl_data": [
+            {
+                "girl_id": 307
+            },
+            {
+                "girl_id": 414
+            },
+            {
+                "girl_id": 415
+            },
+            {
+                "girl_id": 510
+            },
+            {
+                "girl_id": 511
+            }
+        ],
+        "description": "LIVEクリア時、獲得プレイヤーXP6％アップ",
+        "proc_data": [
+            {
+                "proc_type": 301,
+                "proc_param": "600"
+            }
+        ]
+    },
+    {
+        "synergy_id": 60,
+        "synergy_name": "まゆたん協会",
+        "work_terms": 1,
+        "work_value": 5,
+        "girl_data": [
+            {
+                "girl_id": 408
+            },
+            {
+                "girl_id": 502
+            },
+            {
+                "girl_id": 503
+            },
+            {
+                "girl_id": 506
+            },
+            {
+                "girl_id": 509
+            }
+        ],
+        "description": "LIVEクリア時、獲得ノギー6％アップ",
+        "proc_data": [
+            {
+                "proc_type": 302,
+                "proc_param": "600"
+            }
+        ]
+    },
+    {
+        "synergy_id": 61,
+        "synergy_name": "首ンセス",
+        "work_terms": 1,
+        "work_value": 5,
+        "girl_data": [
+            {
+                "girl_id": 409
+            },
+            {
+                "girl_id": 416
+            },
+            {
+                "girl_id": 501
+            },
+            {
+                "girl_id": 507
+            },
+            {
+                "girl_id": 508
+            }
+        ],
+        "description": "LIVEクリア時、獲得メダル6％アップ",
+        "proc_data": [
+            {
+                "proc_type": 303,
+                "proc_param": "600"
+            }
+        ]
+    },
+    {
+        "synergy_id": 62,
+        "synergy_name": "六期生ユニット",
+        "work_terms": 1,
+        "work_value": 5,
+        "girl_data": [
+            {
+                "girl_id": 601
+            },
+            {
+                "girl_id": 602
+            },
+            {
+                "girl_id": 603
+            },
+            {
+                "girl_id": 604
+            },
+            {
+                "girl_id": 605
+            },
+            {
+                "girl_id": 606
+            },
+            {
+                "girl_id": 607
+            },
+            {
+                "girl_id": 608
+            },
+            {
+                "girl_id": 609
+            },
+            {
+                "girl_id": 610
+            },
+            {
+                "girl_id": 611
+            }
+        ],
+        "description": "LIVEクリア時、獲得プレイヤーXP5％アップ",
+        "proc_data": [
+            {
+                "proc_type": 301,
+                "proc_param": "500"
+            }
+        ]
+    }
+]

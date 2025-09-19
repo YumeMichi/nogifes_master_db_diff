@@ -1,0 +1,122 @@
+[
+    {
+        "home_bg_id": 1,
+        "home_bg_name": "事務所1",
+        "resource_id": 1,
+        "default_flag": 1,
+        "start_date": 1586412000,
+        "description": "【ホーム】事務所1"
+    },
+    {
+        "home_bg_id": 2,
+        "home_bg_name": "カフェ1",
+        "resource_id": 2,
+        "default_flag": 1,
+        "start_date": 1586412000,
+        "description": "【ホーム】カフェ1"
+    },
+    {
+        "home_bg_id": 3,
+        "home_bg_name": "部屋1",
+        "resource_id": 3,
+        "default_flag": 1,
+        "start_date": 1586412000,
+        "description": "【ホーム】部屋1"
+    },
+    {
+        "home_bg_id": 4,
+        "home_bg_name": "公園1（GW2020）",
+        "resource_id": 4,
+        "default_flag": 0,
+        "start_date": 1588086000,
+        "description": "【ホーム】公園1"
+    },
+    {
+        "home_bg_id": 5,
+        "home_bg_name": "ライブステージ1",
+        "resource_id": 5,
+        "default_flag": 0,
+        "start_date": 1590073200,
+        "description": "【ホーム】ライブステージ1"
+    },
+    {
+        "home_bg_id": 6,
+        "home_bg_name": "夏1",
+        "resource_id": 6,
+        "default_flag": 0,
+        "start_date": 1596553200,
+        "description": "【ホーム】夏1"
+    },
+    {
+        "home_bg_id": 7,
+        "home_bg_name": "ハロウィン1",
+        "resource_id": 7,
+        "default_flag": 0,
+        "start_date": 1603206000,
+        "description": "【ホーム】ハロウィン1"
+    },
+    {
+        "home_bg_id": 8,
+        "home_bg_name": "クリスマス1",
+        "resource_id": 8,
+        "default_flag": 0,
+        "start_date": 1607698800,
+        "description": "【ホーム】クリスマス1"
+    },
+    {
+        "home_bg_id": 9,
+        "home_bg_name": "正月1",
+        "resource_id": 9,
+        "default_flag": 0,
+        "start_date": 1609426800,
+        "description": "【ホーム】正月1"
+    },
+    {
+        "home_bg_id": 10,
+        "home_bg_name": "バレンタイン1",
+        "resource_id": 10,
+        "default_flag": 0,
+        "start_date": 1612537200,
+        "description": "【ホーム】バレンタイン1"
+    },
+    {
+        "home_bg_id": 11,
+        "home_bg_name": "春1",
+        "resource_id": 11,
+        "default_flag": 0,
+        "start_date": 1616166000,
+        "description": "【ホーム】春1"
+    },
+    {
+        "home_bg_id": 12,
+        "home_bg_name": "街1（GW2021）",
+        "resource_id": 12,
+        "default_flag": 0,
+        "start_date": 1619708400,
+        "description": "【ホーム】街1"
+    },
+    {
+        "home_bg_id": 13,
+        "home_bg_name": "夏2",
+        "resource_id": 13,
+        "default_flag": 0,
+        "start_date": 1626447600,
+        "description": "【ホーム】夏2"
+    },
+    {
+        "home_bg_id": 14,
+        "home_bg_name": "バレンタイン2",
+        "resource_id": 14,
+        "default_flag": 0,
+        "start_date": 1644332400,
+        "description": "【ホーム】バレンタイン2"
+    },
+    {
+        "home_bg_id": 15,
+        "home_bg_name": "街2（GW2022）",
+        "resource_id": 15,
+        "default_flag": 0,
+        "start_date": 1651158000,
+        "description": "【ホーム】街2"
+    }
+]
