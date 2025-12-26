@@ -223,5 +223,77 @@
         "end_date": 1757257199,
         "bg_frame_flag": 0,
         "resource_id": 25
+    },
+    {
+        "splash_id": 26,
+        "splash_type": 1,
+        "disp_order": 26,
+        "start_date": 1763359200,
+        "end_date": 1764514799,
+        "bg_frame_flag": 1,
+        "resource_id": 26
+    },
+    {
+        "splash_id": 27,
+        "splash_type": 1,
+        "disp_order": 27,
+        "start_date": 1763618400,
+        "end_date": 1764388799,
+        "bg_frame_flag": 1,
+        "resource_id": 27
+    },
+    {
+        "splash_id": 28,
+        "splash_type": 2,
+        "disp_order": 28,
+        "start_date": 1763359200,
+        "end_date": 1766721599,
+        "bg_frame_flag": 0,
+        "resource_id": 28
+    },
+    {
+        "splash_id": 29,
+        "splash_type": 2,
+        "disp_order": 29,
+        "start_date": 1763359200,
+        "end_date": 1763452799,
+        "bg_frame_flag": 0,
+        "resource_id": 29
+    },
+    {
+        "splash_id": 30,
+        "splash_type": 1,
+        "disp_order": 30,
+        "start_date": 1764568800,
+        "end_date": 1765724399,
+        "bg_frame_flag": 1,
+        "resource_id": 30
+    },
+    {
+        "splash_id": 31,
+        "splash_type": 2,
+        "disp_order": 31,
+        "start_date": 1764568800,
+        "end_date": 1764662399,
+        "bg_frame_flag": 0,
+        "resource_id": 31
+    },
+    {
+        "splash_id": 32,
+        "splash_type": 1,
+        "disp_order": 32,
+        "start_date": 1765778400,
+        "end_date": 1766721599,
+        "bg_frame_flag": 1,
+        "resource_id": 32
+    },
+    {
+        "splash_id": 33,
+        "splash_type": 2,
+        "disp_order": 33,
+        "start_date": 1765778400,
+        "end_date": 1765871999,
+        "bg_frame_flag": 0,
+        "resource_id": 33
     }
 ]

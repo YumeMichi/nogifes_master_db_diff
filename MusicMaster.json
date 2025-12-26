@@ -2,8 +2,8 @@
     {
         "music_id": 0,
         "music_name": "Sing Out！",
-        "music_name_kana": "しんぐ あうと！",
-        "music_sub_name": "",
+        "music_name_kana": "しんぐあうと！",
+        "search_word": [],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2019052901,
@@ -17,7 +17,17 @@
         "music_id": 10010,
         "music_name": "ぐるぐるカーテン",
         "music_name_kana": "ぐるぐるかーてん",
-        "music_sub_name": "",
+        "search_word": [
+            {
+                "word": "ぐるか"
+            },
+            {
+                "word": "ぐるかー"
+            },
+            {
+                "word": "表題曲"
+            }
+        ],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2012022201,
@@ -31,7 +41,11 @@
         "music_id": 10020,
         "music_name": "左胸の勇気",
         "music_name_kana": "ひだりむねのゆうき",
-        "music_sub_name": "",
+        "search_word": [
+            {
+                "word": "あんだー曲"
+            }
+        ],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2012022202,
@@ -45,7 +59,14 @@
         "music_id": 10030,
         "music_name": "乃木坂の詩",
         "music_name_kana": "のぎざかのうた",
-        "music_sub_name": "",
+        "search_word": [
+            {
+                "word": "のぎうた"
+            },
+            {
+                "word": "乃木詩"
+            }
+        ],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2012022203,
@@ -59,7 +80,14 @@
         "music_id": 10040,
         "music_name": "会いたかったかもしれない",
         "music_name_kana": "あいたかったかもしれない",
-        "music_sub_name": "",
+        "search_word": [
+            {
+                "word": "あいかも"
+            },
+            {
+                "word": "会いかも"
+            }
+        ],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2012022204,
@@ -73,7 +101,7 @@
         "music_id": 10050,
         "music_name": "失いたくないから",
         "music_name_kana": "うしないたくないから",
-        "music_sub_name": "",
+        "search_word": [],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2012022205,
@@ -87,7 +115,7 @@
         "music_id": 10060,
         "music_name": "白い雲にのって",
         "music_name_kana": "しろいくもにのって",
-        "music_sub_name": "",
+        "search_word": [],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2012022206,
@@ -101,7 +129,14 @@
         "music_id": 20010,
         "music_name": "おいでシャンプー",
         "music_name_kana": "おいでしゃんぷー",
-        "music_sub_name": "",
+        "search_word": [
+            {
+                "word": "おいしゃん"
+            },
+            {
+                "word": "表題曲"
+            }
+        ],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2012050201,
@@ -115,7 +150,7 @@
         "music_id": 20020,
         "music_name": "心の薬",
         "music_name_kana": "こころのくすり",
-        "music_sub_name": "",
+        "search_word": [],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2012050202,
@@ -129,7 +164,7 @@
         "music_id": 20030,
         "music_name": "偶然を言い訳にして",
         "music_name_kana": "ぐうぜんをいいわけにして",
-        "music_sub_name": "",
+        "search_word": [],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2012050203,
@@ -143,7 +178,7 @@
         "music_id": 20040,
         "music_name": "水玉模様",
         "music_name_kana": "みずたまもよう",
-        "music_sub_name": "",
+        "search_word": [],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2012050204,
@@ -157,7 +192,11 @@
         "music_id": 20050,
         "music_name": "狼に口笛を",
         "music_name_kana": "おおかみにくちぶえを",
-        "music_sub_name": "",
+        "search_word": [
+            {
+                "word": "あんだー曲"
+            }
+        ],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2012050205,
@@ -171,7 +210,7 @@
         "music_id": 20060,
         "music_name": "ハウス！",
         "music_name_kana": "はうす！",
-        "music_sub_name": "",
+        "search_word": [],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2012050206,
@@ -185,7 +224,20 @@
         "music_id": 30010,
         "music_name": "走れ！Bicycle",
         "music_name_kana": "はしれ！ばいしくる",
-        "music_sub_name": "",
+        "search_word": [
+            {
+                "word": "はしばい"
+            },
+            {
+                "word": "走れ!ばいしくる"
+            },
+            {
+                "word": "はしればいしくる"
+            },
+            {
+                "word": "表題曲"
+            }
+        ],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2012082201,
@@ -199,7 +251,7 @@
         "music_id": 30020,
         "music_name": "せっかちなかたつむり",
         "music_name_kana": "せっかちなかたつむり",
-        "music_sub_name": "",
+        "search_word": [],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2012082202,
@@ -213,7 +265,17 @@
         "music_id": 30030,
         "music_name": "涙がまだ悲しみだった頃",
         "music_name_kana": "なみだがまだかなしみだったころ",
-        "music_sub_name": "",
+        "search_word": [
+            {
+                "word": "なみころ"
+            },
+            {
+                "word": "涙がまだ悲しみだったころ"
+            },
+            {
+                "word": "あんだー曲"
+            }
+        ],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2012082203,
@@ -227,7 +289,11 @@
         "music_id": 30040,
         "music_name": "人はなぜ走るのか？",
         "music_name_kana": "ひとはなぜはしるのか？",
-        "music_sub_name": "",
+        "search_word": [
+            {
+                "word": "ひとなぜ"
+            }
+        ],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2012082204,
@@ -241,7 +307,11 @@
         "music_id": 30050,
         "music_name": "音が出ないギター",
         "music_name_kana": "おとがでないぎたー",
-        "music_sub_name": "",
+        "search_word": [
+            {
+                "word": "音ぎた"
+            }
+        ],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2012082205,
@@ -255,7 +325,7 @@
         "music_id": 30060,
         "music_name": "海流の島よ",
         "music_name_kana": "かいりゅうのしまよ",
-        "music_sub_name": "",
+        "search_word": [],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2012082206,
@@ -269,7 +339,11 @@
         "music_id": 40010,
         "music_name": "制服のマネキン",
         "music_name_kana": "せいふくのまねきん",
-        "music_sub_name": "",
+        "search_word": [
+            {
+                "word": "表題曲"
+            }
+        ],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2012121901,
@@ -283,7 +357,7 @@
         "music_id": 40020,
         "music_name": "指望遠鏡",
         "music_name_kana": "ゆびぼうえんきょう",
-        "music_sub_name": "",
+        "search_word": [],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2012121902,
@@ -297,7 +371,7 @@
         "music_id": 40040,
         "music_name": "ここじゃないどこか",
         "music_name_kana": "ここじゃないどこか",
-        "music_sub_name": "",
+        "search_word": [],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2012121904,
@@ -311,7 +385,14 @@
         "music_id": 40050,
         "music_name": "春のメロディー",
         "music_name_kana": "はるのめろでぃー",
-        "music_sub_name": "",
+        "search_word": [
+            {
+                "word": "はるめろ"
+            },
+            {
+                "word": "あんだー曲"
+            }
+        ],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2012121905,
@@ -325,7 +406,7 @@
         "music_id": 40060,
         "music_name": "渋谷ブルース",
         "music_name_kana": "しぶやぶるーす",
-        "music_sub_name": "",
+        "search_word": [],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2012121906,
@@ -339,7 +420,11 @@
         "music_id": 50010,
         "music_name": "君の名は希望",
         "music_name_kana": "きみのなはきぼう",
-        "music_sub_name": "",
+        "search_word": [
+            {
+                "word": "表題曲"
+            }
+        ],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2013031301,
@@ -353,7 +438,7 @@
         "music_id": 50020,
         "music_name": "シャキイズム",
         "music_name_kana": "しゃきいずむ",
-        "music_sub_name": "",
+        "search_word": [],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2013031302,
@@ -367,7 +452,11 @@
         "music_id": 50030,
         "music_name": "ロマンティックいか焼き",
         "music_name_kana": "ろまんてぃっくいかやき",
-        "music_sub_name": "",
+        "search_word": [
+            {
+                "word": "ろまいか"
+            }
+        ],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2013031303,
@@ -381,7 +470,20 @@
         "music_id": 50040,
         "music_name": "13日の金曜日",
         "music_name_kana": "じゅうさんにちのきんようび",
-        "music_sub_name": "",
+        "search_word": [
+            {
+                "word": "じゅうさんきん"
+            },
+            {
+                "word": "13金"
+            },
+            {
+                "word": "13きん"
+            },
+            {
+                "word": "あんだー曲"
+            }
+        ],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2013031304,
@@ -395,7 +497,7 @@
         "music_id": 50050,
         "music_name": "でこぴん",
         "music_name_kana": "でこぴん",
-        "music_sub_name": "",
+        "search_word": [],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2013031305,
@@ -409,7 +511,14 @@
         "music_id": 60010,
         "music_name": "ガールズルール",
         "music_name_kana": "がーるずるーる",
-        "music_sub_name": "",
+        "search_word": [
+            {
+                "word": "がるる"
+            },
+            {
+                "word": "表題曲"
+            }
+        ],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2013070301,
@@ -422,8 +531,15 @@
     {
         "music_id": 60020,
         "music_name": "世界で一番 孤独なLover",
-        "music_name_kana": "せかいでいちばん　こどくならばー",
-        "music_sub_name": "",
+        "music_name_kana": "せかいでいちばんこどくならばー",
+        "search_word": [
+            {
+                "word": "せからば"
+            },
+            {
+                "word": "世界で一番孤独ならばー"
+            }
+        ],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2013070302,
@@ -437,7 +553,7 @@
         "music_id": 60030,
         "music_name": "コウモリよ",
         "music_name_kana": "こうもりよ",
-        "music_sub_name": "",
+        "search_word": [],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2013070303,
@@ -451,7 +567,11 @@
         "music_id": 60040,
         "music_name": "扇風機",
         "music_name_kana": "せんぷうき",
-        "music_sub_name": "",
+        "search_word": [
+            {
+                "word": "あんだー曲"
+            }
+        ],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2013070304,
@@ -465,7 +585,14 @@
         "music_id": 60050,
         "music_name": "他の星から",
         "music_name_kana": "ほかのほしから",
-        "music_sub_name": "",
+        "search_word": [
+            {
+                "word": "ほかほし"
+            },
+            {
+                "word": "他星"
+            }
+        ],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2013070305,
@@ -479,7 +606,7 @@
         "music_id": 60060,
         "music_name": "人間という楽器",
         "music_name_kana": "にんげんというがっき",
-        "music_sub_name": "",
+        "search_word": [],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2013070306,
@@ -493,7 +620,11 @@
         "music_id": 70010,
         "music_name": "バレッタ",
         "music_name_kana": "ばれった",
-        "music_sub_name": "",
+        "search_word": [
+            {
+                "word": "表題曲"
+            }
+        ],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2013112701,
@@ -507,7 +638,7 @@
         "music_id": 70020,
         "music_name": "月の大きさ",
         "music_name_kana": "つきのおおきさ",
-        "music_sub_name": "",
+        "search_word": [],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2013112702,
@@ -520,8 +651,8 @@
     {
         "music_id": 70030,
         "music_name": "私のために 誰かのために",
-        "music_name_kana": "わたしのために だれかのために",
-        "music_sub_name": "",
+        "music_name_kana": "わたしのためにだれかのために",
+        "search_word": [],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2013112703,
@@ -535,7 +666,11 @@
         "music_id": 70040,
         "music_name": "そんなバカな・・・",
         "music_name_kana": "そんなばかな・・・",
-        "music_sub_name": "",
+        "search_word": [
+            {
+                "word": "そんばか"
+            }
+        ],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2013112704,
@@ -549,7 +684,11 @@
         "music_id": 70050,
         "music_name": "初恋の人を今でも",
         "music_name_kana": "はつこいのひとをいまでも",
-        "music_sub_name": "",
+        "search_word": [
+            {
+                "word": "あんだー曲"
+            }
+        ],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2013112705,
@@ -563,7 +702,7 @@
         "music_id": 70060,
         "music_name": "やさしさとは",
         "music_name_kana": "やさしさとは",
-        "music_sub_name": "",
+        "search_word": [],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2013112706,
@@ -577,7 +716,20 @@
         "music_id": 80010,
         "music_name": "気づいたら片想い",
         "music_name_kana": "きづいたらかたおもい",
-        "music_sub_name": "",
+        "search_word": [
+            {
+                "word": "きづかた"
+            },
+            {
+                "word": "きずかた"
+            },
+            {
+                "word": "気づいたら片思い"
+            },
+            {
+                "word": "表題曲"
+            }
+        ],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2014040201,
@@ -591,7 +743,11 @@
         "music_id": 80020,
         "music_name": "ロマンスのスタート",
         "music_name_kana": "ろまんすのすたーと",
-        "music_sub_name": "",
+        "search_word": [
+            {
+                "word": "ろますた"
+            }
+        ],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2014040202,
@@ -605,7 +761,7 @@
         "music_id": 80030,
         "music_name": "吐息のメソッド",
         "music_name_kana": "といきのめそっど",
-        "music_sub_name": "",
+        "search_word": [],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2014040203,
@@ -619,7 +775,11 @@
         "music_id": 80050,
         "music_name": "生まれたままで",
         "music_name_kana": "うまれたままで",
-        "music_sub_name": "",
+        "search_word": [
+            {
+                "word": "あんだー曲"
+            }
+        ],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2014040205,
@@ -633,7 +793,7 @@
         "music_id": 80060,
         "music_name": "ダンケシェーン",
         "music_name_kana": "だんけしぇーん",
-        "music_sub_name": "",
+        "search_word": [],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2014040206,
@@ -647,7 +807,17 @@
         "music_id": 90010,
         "music_name": "夏のFree&Easy",
         "music_name_kana": "なつのふりーあんどいーじー",
-        "music_sub_name": "",
+        "search_word": [
+            {
+                "word": "なつふり"
+            },
+            {
+                "word": "夏のふりーあんどいーじー"
+            },
+            {
+                "word": "表題曲"
+            }
+        ],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2014070901,
@@ -661,7 +831,7 @@
         "music_id": 90020,
         "music_name": "何もできずにそばにいる",
         "music_name_kana": "なにもできずにそばにいる",
-        "music_sub_name": "",
+        "search_word": [],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2014070902,
@@ -675,7 +845,7 @@
         "music_id": 90040,
         "music_name": "無口なライオン",
         "music_name_kana": "むくちならいおん",
-        "music_sub_name": "",
+        "search_word": [],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2014070904,
@@ -689,7 +859,11 @@
         "music_id": 90050,
         "music_name": "ここにいる理由",
         "music_name_kana": "ここにいるりゆう",
-        "music_sub_name": "",
+        "search_word": [
+            {
+                "word": "あんだー曲"
+            }
+        ],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2014070905,
@@ -703,7 +877,17 @@
         "music_id": 100010,
         "music_name": "何度目の青空か？",
         "music_name_kana": "なんどめのあおぞらか？",
-        "music_sub_name": "",
+        "search_word": [
+            {
+                "word": "なんぞら"
+            },
+            {
+                "word": "何空"
+            },
+            {
+                "word": "表題曲"
+            }
+        ],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2014100801,
@@ -717,7 +901,11 @@
         "music_id": 100030,
         "music_name": "転がった鐘を鳴らせ！",
         "music_name_kana": "ころがったかねをならせ！",
-        "music_sub_name": "",
+        "search_word": [
+            {
+                "word": "ころかね"
+            }
+        ],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2014100803,
@@ -731,7 +919,14 @@
         "music_id": 100040,
         "music_name": "私、起きる。",
         "music_name_kana": "わたし、おきる。",
-        "music_sub_name": "",
+        "search_word": [
+            {
+                "word": "私起きる"
+            },
+            {
+                "word": "わたしおきる"
+            }
+        ],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2014100804,
@@ -744,8 +939,12 @@
     {
         "music_id": 100050,
         "music_name": "あの日 僕は咄嗟に嘘をついた",
-        "music_name_kana": "あのひ ぼくはとっさにうそをついた",
-        "music_sub_name": "",
+        "music_name_kana": "あのひぼくはとっさにうそをついた",
+        "search_word": [
+            {
+                "word": "あんだー曲"
+            }
+        ],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2014100805,
@@ -759,7 +958,7 @@
         "music_id": 110010,
         "music_name": "OVERTURE",
         "music_name_kana": "おーばーちゅあ",
-        "music_sub_name": "",
+        "search_word": [],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2015010701,
@@ -773,7 +972,7 @@
         "music_id": 110040,
         "music_name": "僕がいる場所",
         "music_name_kana": "ぼくがいるばしょ",
-        "music_sub_name": "",
+        "search_word": [],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2015010704,
@@ -787,7 +986,7 @@
         "music_id": 110050,
         "music_name": "あなたのために弾きたい",
         "music_name_kana": "あなたのためにひきたい",
-        "music_sub_name": "",
+        "search_word": [],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2015010705,
@@ -801,7 +1000,7 @@
         "music_id": 110060,
         "music_name": "傾斜する",
         "music_name_kana": "けいしゃする",
-        "music_sub_name": "",
+        "search_word": [],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2015010706,
@@ -815,7 +1014,11 @@
         "music_id": 110080,
         "music_name": "自由の彼方",
         "music_name_kana": "じゆうのかなた",
-        "music_sub_name": "",
+        "search_word": [
+            {
+                "word": "あんだー曲"
+            }
+        ],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2015010708,
@@ -829,7 +1032,7 @@
         "music_id": 110090,
         "music_name": "ひとりよがり",
         "music_name_kana": "ひとりよがり",
-        "music_sub_name": "",
+        "search_word": [],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2015010709,
@@ -843,7 +1046,11 @@
         "music_id": 120010,
         "music_name": "命は美しい",
         "music_name_kana": "いのちはうつくしい",
-        "music_sub_name": "",
+        "search_word": [
+            {
+                "word": "表題曲"
+            }
+        ],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2015031801,
@@ -857,7 +1064,14 @@
         "music_id": 120020,
         "music_name": "あらかじめ語られるロマンス",
         "music_name_kana": "あらかじめかたられるろまんす",
-        "music_sub_name": "",
+        "search_word": [
+            {
+                "word": "あらろま"
+            },
+            {
+                "word": "かたろま"
+            }
+        ],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2015031802,
@@ -871,7 +1085,17 @@
         "music_id": 120050,
         "music_name": "君は僕と会わない方がよかったのかな",
         "music_name_kana": "きみはぼくとあわないほうがよかったのかな",
-        "music_sub_name": "",
+        "search_word": [
+            {
+                "word": "君僕"
+            },
+            {
+                "word": "君は僕と会わないほうがよかったのかな"
+            },
+            {
+                "word": "あんだー曲"
+            }
+        ],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2015031805,
@@ -885,7 +1109,7 @@
         "music_id": 120060,
         "music_name": "ボーダー",
         "music_name_kana": "ぼーだー",
-        "music_sub_name": "",
+        "search_word": [],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2015031806,
@@ -899,7 +1123,11 @@
         "music_id": 130010,
         "music_name": "太陽ノック",
         "music_name_kana": "たいようのっく",
-        "music_sub_name": "",
+        "search_word": [
+            {
+                "word": "表題曲"
+            }
+        ],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2015072201,
@@ -913,7 +1141,7 @@
         "music_id": 130030,
         "music_name": "魚たちのLOVE SONG",
         "music_name_kana": "さかなたちのらぶそんぐ",
-        "music_sub_name": "",
+        "search_word": [],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2015072203,
@@ -927,7 +1155,7 @@
         "music_id": 130040,
         "music_name": "無表情",
         "music_name_kana": "むひょうじょう",
-        "music_sub_name": "",
+        "search_word": [],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2015072204,
@@ -941,7 +1169,14 @@
         "music_id": 130050,
         "music_name": "別れ際、もっと好きになる",
         "music_name_kana": "わかれぎわ、もっとすきになる",
-        "music_sub_name": "",
+        "search_word": [
+            {
+                "word": "別れ際もっと好きになる"
+            },
+            {
+                "word": "あんだー曲"
+            }
+        ],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2015072205,
@@ -955,7 +1190,7 @@
         "music_id": 130060,
         "music_name": "制服を脱いでサヨナラを・・・",
         "music_name_kana": "せいふくをぬいでさよならを・・・",
-        "music_sub_name": "",
+        "search_word": [],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2015072206,
@@ -969,7 +1204,7 @@
         "music_id": 130070,
         "music_name": "羽根の記憶",
         "music_name_kana": "はねのきおく",
-        "music_sub_name": "",
+        "search_word": [],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2015072207,
@@ -983,7 +1218,23 @@
         "music_id": 140010,
         "music_name": "今、話したい誰かがいる",
         "music_name_kana": "いま、はなしたいだれかがいる",
-        "music_sub_name": "",
+        "search_word": [
+            {
+                "word": "いまだれ"
+            },
+            {
+                "word": "今誰"
+            },
+            {
+                "word": "今話したい誰かがいる"
+            },
+            {
+                "word": "いまはなしたい"
+            },
+            {
+                "word": "表題曲"
+            }
+        ],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2015102801,
@@ -997,7 +1248,11 @@
         "music_id": 140020,
         "music_name": "嫉妬の権利",
         "music_name_kana": "しっとのけんり",
-        "music_sub_name": "",
+        "search_word": [
+            {
+                "word": "あんだー曲"
+            }
+        ],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2015102802,
@@ -1011,7 +1266,7 @@
         "music_id": 140030,
         "music_name": "ポピパッパパー",
         "music_name_kana": "ぽぴぱっぱぱー",
-        "music_sub_name": "",
+        "search_word": [],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2015102803,
@@ -1025,7 +1280,7 @@
         "music_id": 140040,
         "music_name": "大人への近道",
         "music_name_kana": "おとなへのちかみち",
-        "music_sub_name": "",
+        "search_word": [],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2015102804,
@@ -1039,7 +1294,7 @@
         "music_id": 140050,
         "music_name": "悲しみの忘れ方",
         "music_name_kana": "かなしみのわすれかた",
-        "music_sub_name": "",
+        "search_word": [],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2015102805,
@@ -1053,7 +1308,7 @@
         "music_id": 140060,
         "music_name": "隙間",
         "music_name_kana": "すきま",
-        "music_sub_name": "",
+        "search_word": [],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2015102806,
@@ -1067,7 +1322,11 @@
         "music_id": 150010,
         "music_name": "ハルジオンが咲く頃",
         "music_name_kana": "はるじおんがさくころ",
-        "music_sub_name": "",
+        "search_word": [
+            {
+                "word": "表題曲"
+            }
+        ],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2016032301,
@@ -1081,7 +1340,7 @@
         "music_id": 150020,
         "music_name": "遥かなるブータン",
         "music_name_kana": "はるかなるぶーたん",
-        "music_sub_name": "",
+        "search_word": [],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2016032302,
@@ -1095,7 +1354,7 @@
         "music_id": 150030,
         "music_name": "強がる蕾",
         "music_name_kana": "つよがるつぼみ",
-        "music_sub_name": "",
+        "search_word": [],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2016032303,
@@ -1109,7 +1368,7 @@
         "music_id": 150040,
         "music_name": "急斜面",
         "music_name_kana": "きゅうしゃめん",
-        "music_sub_name": "",
+        "search_word": [],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2016032304,
@@ -1123,7 +1382,7 @@
         "music_id": 150050,
         "music_name": "釣り堀",
         "music_name_kana": "つりぼり",
-        "music_sub_name": "",
+        "search_word": [],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2016032305,
@@ -1137,7 +1396,11 @@
         "music_id": 150060,
         "music_name": "不等号",
         "music_name_kana": "ふとうごう",
-        "music_sub_name": "",
+        "search_word": [
+            {
+                "word": "あんだー曲"
+            }
+        ],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2016032306,
@@ -1151,7 +1414,7 @@
         "music_id": 150070,
         "music_name": "憂鬱と風船ガム",
         "music_name_kana": "ゆううつとふうせんがむ",
-        "music_sub_name": "",
+        "search_word": [],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2016032307,
@@ -1165,7 +1428,7 @@
         "music_id": 160010,
         "music_name": "きっかけ",
         "music_name_kana": "きっかけ",
-        "music_sub_name": "",
+        "search_word": [],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2016052501,
@@ -1179,7 +1442,14 @@
         "music_id": 160030,
         "music_name": "欲望のリインカーネーション",
         "music_name_kana": "よくぼうのりいんかーねーしょん",
-        "music_sub_name": "",
+        "search_word": [
+            {
+                "word": "りんかね"
+            },
+            {
+                "word": "あんだー曲"
+            }
+        ],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2016052503,
@@ -1193,7 +1463,7 @@
         "music_id": 160040,
         "music_name": "空気感",
         "music_name_kana": "くうきかん",
-        "music_sub_name": "",
+        "search_word": [],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2016052504,
@@ -1207,7 +1477,7 @@
         "music_id": 160050,
         "music_name": "光合成希望",
         "music_name_kana": "こうごうせいきぼう",
-        "music_sub_name": "",
+        "search_word": [],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2016052505,
@@ -1221,7 +1491,14 @@
         "music_id": 160060,
         "music_name": "Threefold choice",
         "music_name_kana": "すりーふぉーるどちょいす",
-        "music_sub_name": "",
+        "search_word": [
+            {
+                "word": "すりふぉ"
+            },
+            {
+                "word": "すりほ"
+            }
+        ],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2016052506,
@@ -1235,7 +1512,14 @@
         "music_id": 160080,
         "music_name": "失恋したら、顔を洗え！",
         "music_name_kana": "しつれんしたら、かおをあらえ！",
-        "music_sub_name": "",
+        "search_word": [
+            {
+                "word": "失恋したら顔を洗え"
+            },
+            {
+                "word": "しつれんしたらかおをあらえ"
+            }
+        ],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2016052508,
@@ -1249,7 +1533,14 @@
         "music_id": 160090,
         "music_name": "かき氷の片想い",
         "music_name_kana": "かきごおりのかたおもい",
-        "music_sub_name": "",
+        "search_word": [
+            {
+                "word": "かき氷の片思い"
+            },
+            {
+                "word": "2期生曲"
+            }
+        ],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2016052509,
@@ -1263,7 +1554,7 @@
         "music_id": 160100,
         "music_name": "環状六号線",
         "music_name_kana": "かんじょうろくごうせん",
-        "music_sub_name": "",
+        "search_word": [],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2016052510,
@@ -1277,7 +1568,7 @@
         "music_id": 160110,
         "music_name": "口約束",
         "music_name_kana": "くちやくそく",
-        "music_sub_name": "",
+        "search_word": [],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2016052511,
@@ -1291,7 +1582,14 @@
         "music_id": 170010,
         "music_name": "裸足でSummer",
         "music_name_kana": "はだしでさまー",
-        "music_sub_name": "",
+        "search_word": [
+            {
+                "word": "はださま"
+            },
+            {
+                "word": "表題曲"
+            }
+        ],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2016072701,
@@ -1305,7 +1603,7 @@
         "music_id": 170020,
         "music_name": "僕だけの光",
         "music_name_kana": "ぼくだけのひかり",
-        "music_sub_name": "",
+        "search_word": [],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2016072702,
@@ -1319,7 +1617,7 @@
         "music_id": 170030,
         "music_name": "オフショアガール",
         "music_name_kana": "おふしょあがーる",
-        "music_sub_name": "",
+        "search_word": [],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2016072703,
@@ -1333,7 +1631,7 @@
         "music_id": 170050,
         "music_name": "白米様",
         "music_name_kana": "はくまいさま",
-        "music_sub_name": "",
+        "search_word": [],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2016072705,
@@ -1347,7 +1645,14 @@
         "music_id": 170060,
         "music_name": "シークレットグラフィティー",
         "music_name_kana": "しーくれっとぐらふぃてぃー",
-        "music_sub_name": "",
+        "search_word": [
+            {
+                "word": "しーぐら"
+            },
+            {
+                "word": "あんだー曲"
+            }
+        ],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2016072706,
@@ -1361,7 +1666,11 @@
         "music_id": 170070,
         "music_name": "行くあてのない僕たち",
         "music_name_kana": "いくあてのないぼくたち",
-        "music_sub_name": "",
+        "search_word": [
+            {
+                "word": "ゆくあてのないぼくたち"
+            }
+        ],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2016072707,
@@ -1375,7 +1684,11 @@
         "music_id": 180010,
         "music_name": "サヨナラの意味",
         "music_name_kana": "さよならのいみ",
-        "music_sub_name": "",
+        "search_word": [
+            {
+                "word": "表題曲"
+            }
+        ],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2016110901,
@@ -1389,7 +1702,7 @@
         "music_id": 180020,
         "music_name": "孤独な青空",
         "music_name_kana": "こどくなあおぞら",
-        "music_sub_name": "",
+        "search_word": [],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2016110902,
@@ -1403,7 +1716,7 @@
         "music_id": 180030,
         "music_name": "あの教室",
         "music_name_kana": "あのきょうしつ",
-        "music_sub_name": "",
+        "search_word": [],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2016110903,
@@ -1417,7 +1730,11 @@
         "music_id": 180040,
         "music_name": "ブランコ",
         "music_name_kana": "ぶらんこ",
-        "music_sub_name": "",
+        "search_word": [
+            {
+                "word": "あんだー曲"
+            }
+        ],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2016110904,
@@ -1431,7 +1748,11 @@
         "music_id": 180050,
         "music_name": "２度目のキスから",
         "music_name_kana": "にどめのきすから",
-        "music_sub_name": "",
+        "search_word": [
+            {
+                "word": "二度目のきすから"
+            }
+        ],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2016110905,
@@ -1445,7 +1766,14 @@
         "music_id": 180060,
         "music_name": "君に贈る花がない",
         "music_name_kana": "きみにおくるはながない",
-        "music_sub_name": "",
+        "search_word": [
+            {
+                "word": "君におくる花がない"
+            },
+            {
+                "word": "君花"
+            }
+        ],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2016110906,
@@ -1459,7 +1787,7 @@
         "music_id": 180070,
         "music_name": "ないものねだり",
         "music_name_kana": "ないものねだり",
-        "music_sub_name": "",
+        "search_word": [],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2016110907,
@@ -1473,7 +1801,11 @@
         "music_id": 190010,
         "music_name": "インフルエンサー",
         "music_name_kana": "いんふるえんさー",
-        "music_sub_name": "",
+        "search_word": [
+            {
+                "word": "表題曲"
+            }
+        ],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2017032201,
@@ -1487,7 +1819,7 @@
         "music_id": 190020,
         "music_name": "人生を考えたくなる",
         "music_name_kana": "じんせいをかんがえたくなる",
-        "music_sub_name": "",
+        "search_word": [],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2017032202,
@@ -1501,7 +1833,11 @@
         "music_id": 190030,
         "music_name": "意外BREAK",
         "music_name_kana": "いがいぶれいく",
-        "music_sub_name": "",
+        "search_word": [
+            {
+                "word": "いがぶれ"
+            }
+        ],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2017032203,
@@ -1514,8 +1850,12 @@
     {
         "music_id": 190040,
         "music_name": "Another Ghost",
-        "music_name_kana": "あなざー　ごーすと",
-        "music_sub_name": "",
+        "music_name_kana": "あなざーごーすと",
+        "search_word": [
+            {
+                "word": "あなご"
+            }
+        ],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2017032204,
@@ -1529,7 +1869,11 @@
         "music_id": 190050,
         "music_name": "風船は生きている",
         "music_name_kana": "ふうせんはいきている",
-        "music_sub_name": "",
+        "search_word": [
+            {
+                "word": "あんだー曲"
+            }
+        ],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2017032205,
@@ -1543,7 +1887,14 @@
         "music_id": 190060,
         "music_name": "三番目の風",
         "music_name_kana": "さんばんめのかぜ",
-        "music_sub_name": "",
+        "search_word": [
+            {
+                "word": "3番目の風"
+            },
+            {
+                "word": "3期生曲"
+            }
+        ],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2017032206,
@@ -1557,7 +1908,7 @@
         "music_id": 200010,
         "music_name": "スカイダイビング",
         "music_name_kana": "すかいだいびんぐ",
-        "music_sub_name": "",
+        "search_word": [],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2017052401,
@@ -1571,7 +1922,11 @@
         "music_id": 200020,
         "music_name": "Rewindあの日",
         "music_name_kana": "りわいんどあのひ",
-        "music_sub_name": "",
+        "search_word": [
+            {
+                "word": "rewindあのひ"
+            }
+        ],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2017052405,
@@ -1585,7 +1940,14 @@
         "music_id": 200030,
         "music_name": "ごめんね、スムージー",
         "music_name_kana": "ごめんね、すむーじー",
-        "music_sub_name": "",
+        "search_word": [
+            {
+                "word": "ごめすむ"
+            },
+            {
+                "word": "ごめんねすむーじー"
+            }
+        ],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2017052406,
@@ -1599,7 +1961,7 @@
         "music_id": 200040,
         "music_name": "醜い私",
         "music_name_kana": "みにくいわたし",
-        "music_sub_name": "",
+        "search_word": [],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2017052407,
@@ -1613,7 +1975,11 @@
         "music_id": 200050,
         "music_name": "硬い殻のように抱きしめたい",
         "music_name_kana": "かたいからのようにだきしめたい",
-        "music_sub_name": "",
+        "search_word": [
+            {
+                "word": "硬いからのように抱きしめたい"
+            }
+        ],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2017052408,
@@ -1627,7 +1993,7 @@
         "music_id": 200080,
         "music_name": "流星ディスコティック",
         "music_name_kana": "りゅうせいでぃすこてぃっく",
-        "music_sub_name": "",
+        "search_word": [],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2017052411,
@@ -1641,7 +2007,7 @@
         "music_id": 200090,
         "music_name": "忘却と美学",
         "music_name_kana": "ぼうきゃくとびがく",
-        "music_sub_name": "",
+        "search_word": [],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2017052412,
@@ -1655,7 +2021,11 @@
         "music_id": 200100,
         "music_name": "君が扇いでくれた",
         "music_name_kana": "きみがあおいでくれた",
-        "music_sub_name": "",
+        "search_word": [
+            {
+                "word": "あんだー曲"
+            }
+        ],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2017052402,
@@ -1669,7 +2039,11 @@
         "music_id": 200110,
         "music_name": "思い出ファースト",
         "music_name_kana": "おもいでふぁーすと",
-        "music_sub_name": "",
+        "search_word": [
+            {
+                "word": "3期生曲"
+            }
+        ],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2017052403,
@@ -1683,7 +2057,7 @@
         "music_id": 200120,
         "music_name": "設定温度",
         "music_name_kana": "せっていおんど",
-        "music_sub_name": "",
+        "search_word": [],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2017052404,
@@ -1697,7 +2071,11 @@
         "music_id": 210010,
         "music_name": "逃げ水",
         "music_name_kana": "にげみず",
-        "music_sub_name": "",
+        "search_word": [
+            {
+                "word": "表題曲"
+            }
+        ],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2017080901,
@@ -1711,7 +2089,7 @@
         "music_id": 210020,
         "music_name": "女は一人じゃ眠れない",
         "music_name_kana": "おんなはひとりじゃねむれない",
-        "music_sub_name": "",
+        "search_word": [],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2017080902,
@@ -1725,7 +2103,7 @@
         "music_id": 210030,
         "music_name": "ひと夏の長さより・・・",
         "music_name_kana": "ひとなつのながさより・・・",
-        "music_sub_name": "",
+        "search_word": [],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2017080903,
@@ -1739,7 +2117,11 @@
         "music_id": 210040,
         "music_name": "アンダー",
         "music_name_kana": "あんだー",
-        "music_sub_name": "",
+        "search_word": [
+            {
+                "word": "あんだー曲"
+            }
+        ],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2017080904,
@@ -1753,7 +2135,11 @@
         "music_id": 210050,
         "music_name": "ライブ神",
         "music_name_kana": "らいぶしん",
-        "music_sub_name": "",
+        "search_word": [
+            {
+                "word": "2期生曲"
+            }
+        ],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2017080905,
@@ -1767,7 +2153,14 @@
         "music_id": 210060,
         "music_name": "未来の答え",
         "music_name_kana": "みらいのこたえ",
-        "music_sub_name": "",
+        "search_word": [
+            {
+                "word": "みらこた"
+            },
+            {
+                "word": "3期生曲"
+            }
+        ],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2017080906,
@@ -1781,7 +2174,7 @@
         "music_id": 210070,
         "music_name": "泣いたっていいじゃないか？",
         "music_name_kana": "ないたっていいじゃないか？",
-        "music_sub_name": "",
+        "search_word": [],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2017080907,
@@ -1795,7 +2188,14 @@
         "music_id": 220010,
         "music_name": "いつかできるから今日できる",
         "music_name_kana": "いつかできるからきょうできる",
-        "music_sub_name": "",
+        "search_word": [
+            {
+                "word": "いつでき"
+            },
+            {
+                "word": "表題曲"
+            }
+        ],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2017101101,
@@ -1809,7 +2209,7 @@
         "music_id": 220020,
         "music_name": "不眠症",
         "music_name_kana": "ふみんしょう",
-        "music_sub_name": "",
+        "search_word": [],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2017101102,
@@ -1823,7 +2223,7 @@
         "music_id": 220030,
         "music_name": "まあいいか？",
         "music_name_kana": "まあいいか？",
-        "music_sub_name": "",
+        "search_word": [],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2017101103,
@@ -1837,7 +2237,7 @@
         "music_id": 220040,
         "music_name": "失恋お掃除人",
         "music_name_kana": "しつれんおそうじにん",
-        "music_sub_name": "",
+        "search_word": [],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2017101104,
@@ -1850,8 +2250,12 @@
     {
         "music_id": 220050,
         "music_name": "My rule",
-        "music_name_kana": "まい　るーる",
-        "music_sub_name": "",
+        "music_name_kana": "まいるーる",
+        "search_word": [
+            {
+                "word": "あんだー曲"
+            }
+        ],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2017101105,
@@ -1865,7 +2269,11 @@
         "music_id": 220060,
         "music_name": "僕の衝動",
         "music_name_kana": "ぼくのしょうどう",
-        "music_sub_name": "",
+        "search_word": [
+            {
+                "word": "3期生曲"
+            }
+        ],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2017101106,
@@ -1879,7 +2287,7 @@
         "music_id": 230010,
         "music_name": "自分のこと",
         "music_name_kana": "じぶんのこと",
-        "music_sub_name": "",
+        "search_word": [],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2018011001,
@@ -1893,7 +2301,11 @@
         "music_id": 230020,
         "music_name": "自惚れビーチ",
         "music_name_kana": "うぬぼれびーち",
-        "music_sub_name": "",
+        "search_word": [
+            {
+                "word": "あんだー曲"
+            }
+        ],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2018011002,
@@ -1907,7 +2319,11 @@
         "music_id": 240010,
         "music_name": "シンクロニシティ",
         "music_name_kana": "しんくろにしてぃ",
-        "music_sub_name": "",
+        "search_word": [
+            {
+                "word": "表題曲"
+            }
+        ],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2018042501,
@@ -1921,7 +2337,11 @@
         "music_id": 240020,
         "music_name": "Against",
         "music_name_kana": "あげいんすと",
-        "music_sub_name": "",
+        "search_word": [
+            {
+                "word": "1期生曲"
+            }
+        ],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2018042502,
@@ -1935,7 +2355,11 @@
         "music_id": 240040,
         "music_name": "新しい世界",
         "music_name_kana": "あたらしいせかい",
-        "music_sub_name": "",
+        "search_word": [
+            {
+                "word": "あんだー曲"
+            }
+        ],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2018042504,
@@ -1949,7 +2373,11 @@
         "music_id": 240050,
         "music_name": "スカウトマン",
         "music_name_kana": "すかうとまん",
-        "music_sub_name": "",
+        "search_word": [
+            {
+                "word": "2期生曲"
+            }
+        ],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2018042505,
@@ -1963,7 +2391,11 @@
         "music_id": 240060,
         "music_name": "トキトキメキメキ",
         "music_name_kana": "ときときめきめき",
-        "music_sub_name": "",
+        "search_word": [
+            {
+                "word": "3期生曲"
+            }
+        ],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2018042506,
@@ -1977,7 +2409,7 @@
         "music_id": 240070,
         "music_name": "言霊砲",
         "music_name_kana": "ことだまほう",
-        "music_sub_name": "",
+        "search_word": [],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2018042507,
@@ -1991,7 +2423,11 @@
         "music_id": 250010,
         "music_name": "ジコチューで行こう！",
         "music_name_kana": "じこちゅーでいこう！",
-        "music_sub_name": "",
+        "search_word": [
+            {
+                "word": "表題曲"
+            }
+        ],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2018080801,
@@ -2005,7 +2441,7 @@
         "music_id": 250020,
         "music_name": "空扉",
         "music_name_kana": "そらとびら",
-        "music_sub_name": "",
+        "search_word": [],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2018080802,
@@ -2019,7 +2455,11 @@
         "music_id": 250030,
         "music_name": "三角の空き地",
         "music_name_kana": "さんかくのあきち",
-        "music_sub_name": "",
+        "search_word": [
+            {
+                "word": "あんだー曲"
+            }
+        ],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2018080803,
@@ -2033,7 +2473,11 @@
         "music_id": 250040,
         "music_name": "自分じゃない感じ",
         "music_name_kana": "じぶんじゃないかんじ",
-        "music_sub_name": "",
+        "search_word": [
+            {
+                "word": "3期生曲"
+            }
+        ],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2018080804,
@@ -2047,7 +2491,7 @@
         "music_id": 250050,
         "music_name": "心のモノローグ",
         "music_name_kana": "こころのものろーぐ",
-        "music_sub_name": "",
+        "search_word": [],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2018080805,
@@ -2061,7 +2505,11 @@
         "music_id": 250070,
         "music_name": "あんなに好きだったのに・・・",
         "music_name_kana": "あんなにすきだったのに・・・",
-        "music_sub_name": "",
+        "search_word": [
+            {
+                "word": "あんすき"
+            }
+        ],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2018080807,
@@ -2075,7 +2523,11 @@
         "music_id": 260010,
         "music_name": "帰り道は遠回りしたくなる",
         "music_name_kana": "かえりみちはとおまわりしたくなる",
-        "music_sub_name": "",
+        "search_word": [
+            {
+                "word": "表題曲"
+            }
+        ],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2018111401,
@@ -2089,7 +2541,7 @@
         "music_id": 260020,
         "music_name": "キャラバンは眠らない",
         "music_name_kana": "きゃらばんはねむらない",
-        "music_sub_name": "",
+        "search_word": [],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2018111402,
@@ -2103,7 +2555,11 @@
         "music_id": 260040,
         "music_name": "日常",
         "music_name_kana": "にちじょう",
-        "music_sub_name": "",
+        "search_word": [
+            {
+                "word": "あんだー曲"
+            }
+        ],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2018111404,
@@ -2117,7 +2573,7 @@
         "music_id": 260050,
         "music_name": "告白の順番",
         "music_name_kana": "こくはくのじゅんばん",
-        "music_sub_name": "",
+        "search_word": [],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2018111405,
@@ -2131,7 +2587,7 @@
         "music_id": 260060,
         "music_name": "ショパンの嘘つき",
         "music_name_kana": "しょぱんのうそつき",
-        "music_sub_name": "",
+        "search_word": [],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2018111406,
@@ -2145,7 +2601,7 @@
         "music_id": 270010,
         "music_name": "ありがちな恋愛",
         "music_name_kana": "ありがちなれんあい",
-        "music_sub_name": "",
+        "search_word": [],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2019041701,
@@ -2159,7 +2615,20 @@
         "music_id": 270030,
         "music_name": "キスの手裏剣",
         "music_name_kana": "きすのしゅりけん",
-        "music_sub_name": "",
+        "search_word": [
+            {
+                "word": "きすしゅり"
+            },
+            {
+                "word": "きす手裏剣"
+            },
+            {
+                "word": "きす手裏"
+            },
+            {
+                "word": "4期生曲"
+            }
+        ],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2019041703,
@@ -2173,7 +2642,14 @@
         "music_id": 270040,
         "music_name": "頬杖をついては眠れない",
         "music_name_kana": "ほおづえをついてはねむれない",
-        "music_sub_name": "",
+        "search_word": [
+            {
+                "word": "ほおずえ"
+            },
+            {
+                "word": "ほおずえをついてはねむれない"
+            }
+        ],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2019041704,
@@ -2187,7 +2663,7 @@
         "music_id": 270050,
         "music_name": "ぼっち党",
         "music_name_kana": "ぼっちとう",
-        "music_sub_name": "",
+        "search_word": [],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2019041705,
@@ -2201,7 +2677,7 @@
         "music_id": 270070,
         "music_name": "ゴルゴンゾーラ",
         "music_name_kana": "ごるごんぞーら",
-        "music_sub_name": "",
+        "search_word": [],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2019041707,
@@ -2214,8 +2690,12 @@
     {
         "music_id": 280010,
         "music_name": "Sing Out！",
-        "music_name_kana": "しんぐ あうと！",
-        "music_sub_name": "",
+        "music_name_kana": "しんぐあうと！",
+        "search_word": [
+            {
+                "word": "表題曲"
+            }
+        ],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2019052901,
@@ -2229,7 +2709,11 @@
         "music_id": 280020,
         "music_name": "滑走路",
         "music_name_kana": "かっそうろ",
-        "music_sub_name": "",
+        "search_word": [
+            {
+                "word": "あんだー曲"
+            }
+        ],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2019052902,
@@ -2243,7 +2727,7 @@
         "music_id": 280030,
         "music_name": "のような存在",
         "music_name_kana": "のようなそんざい",
-        "music_sub_name": "",
+        "search_word": [],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2019052903,
@@ -2256,8 +2740,12 @@
     {
         "music_id": 280040,
         "music_name": "Am I loving？",
-        "music_name_kana": "あむ あい らびんぐ？",
-        "music_sub_name": "",
+        "music_name_kana": "あむあいらびんぐ？",
+        "search_word": [
+            {
+                "word": "あむあい"
+            }
+        ],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2019052904,
@@ -2271,7 +2759,7 @@
         "music_id": 280050,
         "music_name": "平行線",
         "music_name_kana": "へいこうせん",
-        "music_sub_name": "",
+        "search_word": [],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2019052905,
@@ -2285,7 +2773,14 @@
         "music_id": 280060,
         "music_name": "4番目の光",
         "music_name_kana": "よんばんめのひかり",
-        "music_sub_name": "",
+        "search_word": [
+            {
+                "word": "四番目の光"
+            },
+            {
+                "word": "4期生曲"
+            }
+        ],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2019052906,
@@ -2299,7 +2794,11 @@
         "music_id": 290010,
         "music_name": "夜明けまで強がらなくてもいい",
         "music_name_kana": "よあけまでつよがらなくてもいい",
-        "music_sub_name": "",
+        "search_word": [
+            {
+                "word": "表題曲"
+            }
+        ],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2019090401,
@@ -2313,7 +2812,11 @@
         "music_id": 290040,
         "music_name": "図書室の君へ",
         "music_name_kana": "としょしつのきみへ",
-        "music_sub_name": "",
+        "search_word": [
+            {
+                "word": "4期生曲"
+            }
+        ],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2019090404,
@@ -2327,7 +2830,11 @@
         "music_id": 290060,
         "music_name": "～Do my best～じゃ意味はない",
         "music_name_kana": "どぅまいべすとじゃいみはない",
-        "music_sub_name": "",
+        "search_word": [
+            {
+                "word": "あんだー曲"
+            }
+        ],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2019090406,
@@ -2341,7 +2848,11 @@
         "music_id": 300010,
         "music_name": "しあわせの保護色",
         "music_name_kana": "しあわせのほごしょく",
-        "music_sub_name": "",
+        "search_word": [
+            {
+                "word": "表題曲"
+            }
+        ],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2020032501,
@@ -2355,7 +2866,11 @@
         "music_id": 300020,
         "music_name": "サヨナラ Stay with me",
         "music_name_kana": "さよならすていうぃずみー",
-        "music_sub_name": "",
+        "search_word": [
+            {
+                "word": "さよすて"
+            }
+        ],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2020032502,
@@ -2369,7 +2884,11 @@
         "music_id": 300040,
         "music_name": "アナスターシャ",
         "music_name_kana": "あなすたーしゃ",
-        "music_sub_name": "",
+        "search_word": [
+            {
+                "word": "2期生曲"
+            }
+        ],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2020032504,
@@ -2383,7 +2902,11 @@
         "music_id": 300050,
         "music_name": "毎日がBrand new day",
         "music_name_kana": "まいにちがぶらんどにゅーでい",
-        "music_sub_name": "",
+        "search_word": [
+            {
+                "word": "3期生曲"
+            }
+        ],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2020032505,
@@ -2397,7 +2920,11 @@
         "music_id": 300060,
         "music_name": "I see...",
         "music_name_kana": "あいしー...",
-        "music_sub_name": "",
+        "search_word": [
+            {
+                "word": "4期生曲"
+            }
+        ],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2020032506,
@@ -2411,7 +2938,14 @@
         "music_id": 300070,
         "music_name": "ファンタスティック3色パン",
         "music_name_kana": "ふぁんたすてぃっくさんしょくぱん",
-        "music_sub_name": "",
+        "search_word": [
+            {
+                "word": "三食ぱん"
+            },
+            {
+                "word": "三色ぱん"
+            }
+        ],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2020032507,
@@ -2425,7 +2959,23 @@
         "music_id": 310010,
         "music_name": "僕は僕を好きになる",
         "music_name_kana": "ぼくはぼくをすきになる",
-        "music_sub_name": "",
+        "search_word": [
+            {
+                "word": "ぼくすき"
+            },
+            {
+                "word": "ぼくぼく"
+            },
+            {
+                "word": "僕僕"
+            },
+            {
+                "word": "僕好き"
+            },
+            {
+                "word": "表題曲"
+            }
+        ],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2021012701,
@@ -2439,7 +2989,11 @@
         "music_id": 310030,
         "music_name": "Wilderness world",
         "music_name_kana": "うぃるだねすわーるど",
-        "music_sub_name": "",
+        "search_word": [
+            {
+                "word": "wildernessworld"
+            }
+        ],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2021012703,
@@ -2453,7 +3007,14 @@
         "music_id": 310040,
         "music_name": "口ほどにもないKISS",
         "music_name_kana": "くちほどにもないきす",
-        "music_sub_name": "",
+        "search_word": [
+            {
+                "word": "口ほどにもないきす"
+            },
+            {
+                "word": "あんだー曲"
+            }
+        ],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2021012704,
@@ -2467,7 +3028,17 @@
         "music_id": 310060,
         "music_name": "Out of the blue",
         "music_name_kana": "あうとおぶざぶるー",
-        "music_sub_name": "",
+        "search_word": [
+            {
+                "word": "あうぶる"
+            },
+            {
+                "word": "あおぶる"
+            },
+            {
+                "word": "4期生曲"
+            }
+        ],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2021012706,
@@ -2481,7 +3052,20 @@
         "music_id": 320010,
         "music_name": "ごめんねFingers crossed",
         "music_name_kana": "ごめんねふぃんがーずくろすと",
-        "music_sub_name": "",
+        "search_word": [
+            {
+                "word": "ふぃんくろ"
+            },
+            {
+                "word": "ごめふぃん"
+            },
+            {
+                "word": "ごめfin"
+            },
+            {
+                "word": "表題曲"
+            }
+        ],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2021060901,
@@ -2495,7 +3079,11 @@
         "music_id": 320020,
         "music_name": "猫舌カモミールティー",
         "music_name_kana": "ねこじたかもみーるてぃー",
-        "music_sub_name": "",
+        "search_word": [
+            {
+                "word": "4期生曲"
+            }
+        ],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2021060902,
@@ -2509,7 +3097,14 @@
         "music_id": 320030,
         "music_name": "錆びたコンパス",
         "music_name_kana": "さびたこんぱす",
-        "music_sub_name": "",
+        "search_word": [
+            {
+                "word": "さびこん"
+            },
+            {
+                "word": "あんだー曲"
+            }
+        ],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2021060903,
@@ -2523,7 +3118,7 @@
         "music_id": 320040,
         "music_name": "ざぶんざざぶん",
         "music_name_kana": "ざぶんざざぶん",
-        "music_sub_name": "",
+        "search_word": [],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2021060904,
@@ -2537,7 +3132,11 @@
         "music_id": 320050,
         "music_name": "大人たちには指示されない",
         "music_name_kana": "おとなたちにはしじされない",
-        "music_sub_name": "",
+        "search_word": [
+            {
+                "word": "3期生曲"
+            }
+        ],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2021060905,
@@ -2551,7 +3150,11 @@
         "music_id": 320060,
         "music_name": "さ～ゆ～Ready？",
         "music_name_kana": "さ～ゆ～れでぃー？",
-        "music_sub_name": "",
+        "search_word": [
+            {
+                "word": "さゆれでぃ"
+            }
+        ],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2021060906,
@@ -2565,7 +3168,17 @@
         "music_id": 330010,
         "music_name": "君に叱られた",
         "music_name_kana": "きみにしかられた",
-        "music_sub_name": "",
+        "search_word": [
+            {
+                "word": "きみしか"
+            },
+            {
+                "word": "君しか"
+            },
+            {
+                "word": "表題曲"
+            }
+        ],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2021092201,
@@ -2579,7 +3192,11 @@
         "music_id": 330030,
         "music_name": "マシンガンレイン",
         "music_name_kana": "ましんがんれいん",
-        "music_sub_name": "",
+        "search_word": [
+            {
+                "word": "あんだー曲"
+            }
+        ],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2021092203,
@@ -2590,10 +3207,28 @@
         "arranger": "CottON"
     },
     {
+        "music_id": 330040,
+        "music_name": "もしも心が透明なら",
+        "music_name_kana": "もしもこころがとうめいなら",
+        "search_word": [
+            {
+                "word": "もしなら"
+            }
+        ],
+        "music_type": 1,
+        "center_girl_id": 104,
+        "release_date": 2021092204,
+        "music_length": 183,
+        "information": "すごく良い曲だよー",
+        "lyricist": "秋元康",
+        "composer": "山本加津彦",
+        "arranger": "千葉\"naotyu-\"直樹，山本加津彦"
+    },
+    {
         "music_id": 330070,
         "music_name": "他人のそら似",
         "music_name_kana": "たにんのそらに",
-        "music_sub_name": "",
+        "search_word": [],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2021092207,
@@ -2607,7 +3242,11 @@
         "music_id": 340010,
         "music_name": "最後のTight Hug",
         "music_name_kana": "さいごのたいとはぐ",
-        "music_sub_name": "",
+        "search_word": [
+            {
+                "word": "たいはぐ"
+            }
+        ],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2021121501,
@@ -2621,7 +3260,7 @@
         "music_id": 340020,
         "music_name": "世界中の隣人よ",
         "music_name_kana": "せかいじゅうのりんじんよ",
-        "music_sub_name": "",
+        "search_word": [],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2021121502,
@@ -2635,7 +3274,11 @@
         "music_id": 340030,
         "music_name": "Route 246",
         "music_name_kana": "るーとつーふぉーてぃーしっくす",
-        "music_sub_name": "",
+        "search_word": [
+            {
+                "word": "るーと246"
+            }
+        ],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2021121503,
@@ -2649,7 +3292,11 @@
         "music_id": 340040,
         "music_name": "ゆっくりと咲く花",
         "music_name_kana": "ゆっくりとさくはな",
-        "music_sub_name": "",
+        "search_word": [
+            {
+                "word": "2期生曲"
+            }
+        ],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2021121504,
@@ -2663,7 +3310,7 @@
         "music_id": 340060,
         "music_name": "あなたからの卒業",
         "music_name_kana": "あなたからのそつぎょう",
-        "music_sub_name": "",
+        "search_word": [],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2021121506,
@@ -2677,7 +3324,14 @@
         "music_id": 350010,
         "music_name": "Actually...",
         "music_name_kana": "あくちゅありー・・・",
-        "music_sub_name": "",
+        "search_word": [
+            {
+                "word": "actuary"
+            },
+            {
+                "word": "表題曲"
+            }
+        ],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2022032301,
@@ -2691,7 +3345,7 @@
         "music_id": 350020,
         "music_name": "深読み",
         "music_name_kana": "ふかよみ",
-        "music_sub_name": "",
+        "search_word": [],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2022032302,
@@ -2705,7 +3359,7 @@
         "music_id": 350030,
         "music_name": "価値あるもの",
         "music_name_kana": "かちあるもの",
-        "music_sub_name": "",
+        "search_word": [],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2022032303,
@@ -2719,7 +3373,7 @@
         "music_id": 350040,
         "music_name": "忘れないといいな",
         "music_name_kana": "わすれないといいな",
-        "music_sub_name": "",
+        "search_word": [],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2022032304,
@@ -2733,7 +3387,11 @@
         "music_id": 350050,
         "music_name": "届かなくたって...",
         "music_name_kana": "とどかなくたって",
-        "music_sub_name": "",
+        "search_word": [
+            {
+                "word": "あんだー曲"
+            }
+        ],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2022032305,
@@ -2747,7 +3405,14 @@
         "music_id": 350060,
         "music_name": "絶望の一秒前",
         "music_name_kana": "ぜつぼうのいちびょうまえ",
-        "music_sub_name": "",
+        "search_word": [
+            {
+                "word": "絶望の1秒前"
+            },
+            {
+                "word": "5期生曲"
+            }
+        ],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2022032306,
@@ -2761,7 +3426,7 @@
         "music_id": 350070,
         "music_name": "好きになってみた",
         "music_name_kana": "すきになってみた",
-        "music_sub_name": "",
+        "search_word": [],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2022032307,
@@ -2775,7 +3440,14 @@
         "music_id": 360010,
         "music_name": "好きというのはロックだぜ！",
         "music_name_kana": "すきというのはろっくだぜ！",
-        "music_sub_name": "",
+        "search_word": [
+            {
+                "word": "すきろっく"
+            },
+            {
+                "word": "表題曲"
+            }
+        ],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2022083101,
@@ -2789,7 +3461,17 @@
         "music_id": 360020,
         "music_name": "Under's Love",
         "music_name_kana": "あんだーずらぶ",
-        "music_sub_name": "",
+        "search_word": [
+            {
+                "word": "underslove"
+            },
+            {
+                "word": "あんらぶ"
+            },
+            {
+                "word": "あんだー曲"
+            }
+        ],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2022083102,
@@ -2803,7 +3485,11 @@
         "music_id": 360030,
         "music_name": "僕が手を叩く方へ",
         "music_name_kana": "ぼくがてをたたくほうへ",
-        "music_sub_name": "",
+        "search_word": [
+            {
+                "word": "3期生曲"
+            }
+        ],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2022083103,
@@ -2817,7 +3503,17 @@
         "music_id": 360040,
         "music_name": "ジャンピングジョーカーフラッシュ",
         "music_name_kana": "じゃんぴんぐじょーかーふらっしゅ",
-        "music_sub_name": "",
+        "search_word": [
+            {
+                "word": "じゃんふら"
+            },
+            {
+                "word": "jjf"
+            },
+            {
+                "word": "4期生曲"
+            }
+        ],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2022083104,
@@ -2831,7 +3527,11 @@
         "music_id": 360050,
         "music_name": "バンドエイド剥がすような別れ方",
         "music_name_kana": "ばんどえいどはがすようなわかれかた",
-        "music_sub_name": "",
+        "search_word": [
+            {
+                "word": "5期生曲"
+            }
+        ],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2022083105,
@@ -2845,7 +3545,7 @@
         "music_id": 360060,
         "music_name": "パッションフルーツの食べ方",
         "music_name_kana": "ぱっしょんふるーつのたべかた",
-        "music_sub_name": "",
+        "search_word": [],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2022083106,
@@ -2859,7 +3559,14 @@
         "music_id": 370010,
         "music_name": "ここにはないもの",
         "music_name_kana": "ここにはないもの",
-        "music_sub_name": "",
+        "search_word": [
+            {
+                "word": "ここない"
+            },
+            {
+                "word": "表題曲"
+            }
+        ],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2022120701,
@@ -2873,7 +3580,11 @@
         "music_id": 370020,
         "music_name": "悪い成分",
         "music_name_kana": "わるいせいぶん",
-        "music_sub_name": "",
+        "search_word": [
+            {
+                "word": "あんだー曲"
+            }
+        ],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2022120702,
@@ -2887,7 +3598,7 @@
         "music_id": 370030,
         "music_name": "これから",
         "music_name_kana": "これから",
-        "music_sub_name": "",
+        "search_word": [],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2022120703,
@@ -2901,7 +3612,7 @@
         "music_id": 370040,
         "music_name": "銭湯ラプソディー",
         "music_name_kana": "せんとうらぷそでぃー",
-        "music_sub_name": "",
+        "search_word": [],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2022120704,
@@ -2915,7 +3626,7 @@
         "music_id": 370050,
         "music_name": "アトノマツリ",
         "music_name_kana": "あとのまつり",
-        "music_sub_name": "",
+        "search_word": [],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2022120705,
@@ -2929,7 +3640,7 @@
         "music_id": 370060,
         "music_name": "甘いエビデンス",
         "music_name_kana": "あまいえびでんす",
-        "music_sub_name": "",
+        "search_word": [],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2022120706,
@@ -2943,7 +3654,14 @@
         "music_id": 370070,
         "music_name": "17分間",
         "music_name_kana": "じゅうななふんかん",
-        "music_sub_name": "",
+        "search_word": [
+            {
+                "word": "十七分間"
+            },
+            {
+                "word": "5期生曲"
+            }
+        ],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2022120707,
@@ -2957,7 +3675,23 @@
         "music_id": 380010,
         "music_name": "人は夢を二度見る",
         "music_name_kana": "ひとはゆめをにどみる",
-        "music_sub_name": "",
+        "search_word": [
+            {
+                "word": "ひとゆめ"
+            },
+            {
+                "word": "にどみ"
+            },
+            {
+                "word": "人夢"
+            },
+            {
+                "word": "二度見"
+            },
+            {
+                "word": "表題曲"
+            }
+        ],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2023032901,
@@ -2971,7 +3705,11 @@
         "music_id": 380030,
         "music_name": "心にもないこと",
         "music_name_kana": "こころにもないこと",
-        "music_sub_name": "",
+        "search_word": [
+            {
+                "word": "5期生曲"
+            }
+        ],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2023032903,
@@ -2985,7 +3723,7 @@
         "music_id": 380050,
         "music_name": "Never say never",
         "music_name_kana": "ねばーせいねばー",
-        "music_sub_name": "",
+        "search_word": [],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2023032905,
@@ -2999,7 +3737,11 @@
         "music_id": 380060,
         "music_name": "さざ波は戻らない",
         "music_name_kana": "さざなみはもどらない",
-        "music_sub_name": "",
+        "search_word": [
+            {
+                "word": "あんだー曲"
+            }
+        ],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2023032906,
@@ -3013,7 +3755,11 @@
         "music_id": 390010,
         "music_name": "おひとりさま天国",
         "music_name_kana": "おひとりさまてんごく",
-        "music_sub_name": "",
+        "search_word": [
+            {
+                "word": "表題曲"
+            }
+        ],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2023082301,
@@ -3027,7 +3773,11 @@
         "music_id": 390020,
         "music_name": "踏んでしまった",
         "music_name_kana": "ふんでしまった",
-        "music_sub_name": "",
+        "search_word": [
+            {
+                "word": "あんだー曲"
+            }
+        ],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2023082302,
@@ -3041,7 +3791,7 @@
         "music_id": 390030,
         "music_name": "誰かの肩",
         "music_name_kana": "だれかのかた",
-        "music_sub_name": "",
+        "search_word": [],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2023082303,
@@ -3055,7 +3805,11 @@
         "music_id": 390050,
         "music_name": "考えないようにする",
         "music_name_kana": "かんがえないようにする",
-        "music_sub_name": "",
+        "search_word": [
+            {
+                "word": "5期生曲"
+            }
+        ],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2023082305,
@@ -3069,7 +3823,7 @@
         "music_id": 390070,
         "music_name": "命の冒涜",
         "music_name_kana": "いのちのぼうとく",
-        "music_sub_name": "",
+        "search_word": [],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2023082307,
@@ -3083,7 +3837,14 @@
         "music_id": 400010,
         "music_name": "Monopoly",
         "music_name_kana": "ものぽりー",
-        "music_sub_name": "",
+        "search_word": [
+            {
+                "word": "monopory"
+            },
+            {
+                "word": "表題曲"
+            }
+        ],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2023120601,
@@ -3097,7 +3858,11 @@
         "music_id": 400020,
         "music_name": "思い出が止まらなくなる",
         "music_name_kana": "おもいでがとまらなくなる",
-        "music_sub_name": "",
+        "search_word": [
+            {
+                "word": "あんだー曲"
+            }
+        ],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2023120602,
@@ -3111,7 +3876,14 @@
         "music_id": 400070,
         "music_name": "いつの日にか、あの歌を・・・",
         "music_name_kana": "いつのひにか、あのうたを・・・",
-        "music_sub_name": "",
+        "search_word": [
+            {
+                "word": "いつの日にかあの歌を"
+            },
+            {
+                "word": "5期生曲"
+            }
+        ],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2023120607,
@@ -3125,7 +3897,14 @@
         "music_id": 410010,
         "music_name": "チャンスは平等",
         "music_name_kana": "ちゃんすはびょうどう",
-        "music_sub_name": "",
+        "search_word": [
+            {
+                "word": "ちゃんびょう"
+            },
+            {
+                "word": "表題曲"
+            }
+        ],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2024041001,
@@ -3139,7 +3918,11 @@
         "music_id": 410020,
         "music_name": "車道側",
         "music_name_kana": "しゃどうがわ",
-        "music_sub_name": "",
+        "search_word": [
+            {
+                "word": "あんだー曲"
+            }
+        ],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2024041002,
@@ -3153,7 +3936,11 @@
         "music_id": 410040,
         "music_name": "あと7曲",
         "music_name_kana": "あと7きょく",
-        "music_sub_name": "",
+        "search_word": [
+            {
+                "word": "あとななきょく"
+            }
+        ],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2024041004,
@@ -3167,7 +3954,7 @@
         "music_id": 410070,
         "music_name": "夏桜",
         "music_name_kana": "なつざくら",
-        "music_sub_name": "",
+        "search_word": [],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2024041007,
@@ -3181,7 +3968,11 @@
         "music_id": 420010,
         "music_name": "チートデイ",
         "music_name_kana": "ちーとでい",
-        "music_sub_name": "",
+        "search_word": [
+            {
+                "word": "表題曲"
+            }
+        ],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2024082101,
@@ -3192,10 +3983,28 @@
         "arranger": "野中“まさ”雄一"
     },
     {
+        "music_id": 420020,
+        "music_name": "あの光",
+        "music_name_kana": "あのひかり",
+        "search_word": [],
+        "music_type": 1,
+        "center_girl_id": 104,
+        "release_date": 2024082102,
+        "music_length": 191,
+        "information": "すごく良い曲だよー",
+        "lyricist": "秋元康",
+        "composer": "BASEMINT",
+        "arranger": "BASEMINT"
+    },
+    {
         "music_id": 420030,
         "music_name": "落とし物",
         "music_name_kana": "おとしもの",
-        "music_sub_name": "",
+        "search_word": [
+            {
+                "word": "あんだー曲"
+            }
+        ],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2024082103,
@@ -3206,10 +4015,35 @@
         "arranger": "野中\"まさ\"雄一"
     },
     {
+        "music_id": 420040,
+        "music_name": "君にDitto",
+        "music_name_kana": "きみにでぃとー",
+        "search_word": [
+            {
+                "word": "君にでぃとー"
+            },
+            {
+                "word": "君にdito"
+            }
+        ],
+        "music_type": 1,
+        "center_girl_id": 104,
+        "release_date": 2024082104,
+        "music_length": 176,
+        "information": "すごく良い曲だよー",
+        "lyricist": "秋元康",
+        "composer": "松原憲",
+        "arranger": "高橋修平"
+    },
+    {
         "music_id": 420070,
         "music_name": "熱狂の捌け口",
         "music_name_kana": "ねっきょうのはけぐち",
-        "music_sub_name": "",
+        "search_word": [
+            {
+                "word": "5期生曲"
+            }
+        ],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2024082107,
@@ -3220,10 +4054,32 @@
         "arranger": "ツタナオヒコ"
     },
     {
+        "music_id": 430010,
+        "music_name": "歩道橋",
+        "music_name_kana": "ほどうきょう",
+        "search_word": [
+            {
+                "word": "表題曲"
+            }
+        ],
+        "music_type": 1,
+        "center_girl_id": 104,
+        "release_date": 2024121101,
+        "music_length": 217,
+        "information": "すごく良い曲だよー",
+        "lyricist": "秋元康",
+        "composer": "杉山勝彦",
+        "arranger": "石原剛志，杉山勝彦，麻尾悠太"
+    },
+    {
         "music_id": 430070,
         "music_name": "それまでの猶予",
         "music_name_kana": "それまでのゆうよ",
-        "music_sub_name": "",
+        "search_word": [
+            {
+                "word": "あんだー曲"
+            }
+        ],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2024121107,
@@ -3234,10 +4090,28 @@
         "arranger": "玉木千尋"
     },
     {
+        "music_id": 440010,
+        "music_name": "ネーブルオレンジ",
+        "music_name_kana": "ねーぶるおれんじ",
+        "search_word": [
+            {
+                "word": "表題曲"
+            }
+        ],
+        "music_type": 1,
+        "center_girl_id": 104,
+        "release_date": 2025032601,
+        "music_length": 227,
+        "information": "すごく良い曲だよー",
+        "lyricist": "秋元康",
+        "composer": "中村泰輔",
+        "arranger": "樫原伸彦"
+    },
+    {
         "music_id": 440020,
         "music_name": "懐かしさの先",
         "music_name_kana": "なつかしさのさき",
-        "music_sub_name": "",
+        "search_word": [],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2025032602,
@@ -3251,7 +4125,14 @@
         "music_id": 440040,
         "music_name": "タイムリミット片想い",
         "music_name_kana": "たいむりみっとかたおもい",
-        "music_sub_name": "",
+        "search_word": [
+            {
+                "word": "たいかた"
+            },
+            {
+                "word": "6期生曲"
+            }
+        ],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2025032604,
@@ -3262,10 +4143,51 @@
         "arranger": "麻尾悠太"
     },
     {
+        "music_id": 450020,
+        "music_name": "真夏日よ",
+        "music_name_kana": "まなつびよ",
+        "search_word": [],
+        "music_type": 1,
+        "center_girl_id": 104,
+        "release_date": 2025073002,
+        "music_length": 178,
+        "information": "すごく良い曲だよー",
+        "lyricist": "秋元康",
+        "composer": "オオヤギヒロオ",
+        "arranger": "オオヤギヒロオ"
+    },
+    {
+        "music_id": 450030,
+        "music_name": "なぜ　僕たちは走るのか？",
+        "music_name_kana": "なぜぼくたちははしるのか？",
+        "search_word": [
+            {
+                "word": "なぜぼく"
+            },
+            {
+                "word": "なぜ僕"
+            },
+            {
+                "word": "なぜたち"
+            },
+            {
+                "word": "6期生曲"
+            }
+        ],
+        "music_type": 1,
+        "center_girl_id": 104,
+        "release_date": 2025073003,
+        "music_length": 137,
+        "information": "すごく良い曲だよー",
+        "lyricist": "秋元康",
+        "composer": "賀佐泰洋",
+        "arranger": "賀佐泰洋"
+    },
+    {
         "music_id": 10000010,
         "music_name": "ワタボコリ",
         "music_name_kana": "わたぼこり",
-        "music_sub_name": "",
+        "search_word": [],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2017052410,
@@ -3279,7 +4201,7 @@
         "music_id": 30000010,
         "music_name": "メドレー1st＜Type-A＞",
         "music_name_kana": "メドレー1st＜Type-A＞",
-        "music_sub_name": "",
+        "search_word": [],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2100010100,
@@ -3293,7 +4215,7 @@
         "music_id": 30000011,
         "music_name": "メドレー1st＜Type-B＞",
         "music_name_kana": "メドレー1st＜Type-B＞",
-        "music_sub_name": "",
+        "search_word": [],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2100010200,
@@ -3307,7 +4229,7 @@
         "music_id": 30000012,
         "music_name": "メドレー1st＜Type-C＞",
         "music_name_kana": "メドレー1st＜Type-C＞",
-        "music_sub_name": "",
+        "search_word": [],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2100010300,
@@ -3321,7 +4243,7 @@
         "music_id": 30000020,
         "music_name": "メドレー2nd＜Type-A＞",
         "music_name_kana": "メドレー2nd＜Type-A＞",
-        "music_sub_name": "",
+        "search_word": [],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2100010400,
@@ -3335,7 +4257,7 @@
         "music_id": 30000021,
         "music_name": "メドレー2nd＜Type-B＞",
         "music_name_kana": "メドレー2nd＜Type-B＞",
-        "music_sub_name": "",
+        "search_word": [],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2100010500,
@@ -3349,7 +4271,7 @@
         "music_id": 30000022,
         "music_name": "メドレー2nd＜Type-C＞",
         "music_name_kana": "メドレー2nd＜Type-C＞",
-        "music_sub_name": "",
+        "search_word": [],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2100010600,
@@ -3363,7 +4285,7 @@
         "music_id": 30000030,
         "music_name": "メドレー3rd＜Type-A＞",
         "music_name_kana": "メドレー3rd＜Type-A＞",
-        "music_sub_name": "",
+        "search_word": [],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2100010700,
@@ -3377,7 +4299,7 @@
         "music_id": 30000031,
         "music_name": "メドレー3rd＜Type-B＞",
         "music_name_kana": "メドレー3rd＜Type-B＞",
-        "music_sub_name": "",
+        "search_word": [],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2100010800,
@@ -3391,7 +4313,7 @@
         "music_id": 30000032,
         "music_name": "メドレー3rd＜Type-C＞",
         "music_name_kana": "メドレー3rd＜Type-C＞",
-        "music_sub_name": "",
+        "search_word": [],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2100010900,
@@ -3405,7 +4327,7 @@
         "music_id": 30000040,
         "music_name": "メドレー4th＜Type-A＞",
         "music_name_kana": "メドレー4th＜Type-A＞",
-        "music_sub_name": "",
+        "search_word": [],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2100011000,
@@ -3419,7 +4341,7 @@
         "music_id": 30000041,
         "music_name": "メドレー4th＜Type-B＞",
         "music_name_kana": "メドレー4th＜Type-B＞",
-        "music_sub_name": "",
+        "search_word": [],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2100011100,
@@ -3433,7 +4355,7 @@
         "music_id": 30000042,
         "music_name": "メドレー4th＜Type-C＞",
         "music_name_kana": "メドレー4th＜Type-C＞",
-        "music_sub_name": "",
+        "search_word": [],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2100011200,
@@ -3447,7 +4369,7 @@
         "music_id": 30000050,
         "music_name": "メドレー5th＜Type-A＞",
         "music_name_kana": "メドレー5th＜Type-A＞",
-        "music_sub_name": "",
+        "search_word": [],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2100011300,
@@ -3461,7 +4383,7 @@
         "music_id": 30000051,
         "music_name": "メドレー5th＜Type-B＞",
         "music_name_kana": "メドレー5th＜Type-B＞",
-        "music_sub_name": "",
+        "search_word": [],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2100011400,
@@ -3475,7 +4397,7 @@
         "music_id": 30000052,
         "music_name": "メドレー5th＜Type-C＞",
         "music_name_kana": "メドレー5th＜Type-C＞",
-        "music_sub_name": "",
+        "search_word": [],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2100011500,
@@ -3489,7 +4411,7 @@
         "music_id": 30000060,
         "music_name": "メドレー6th",
         "music_name_kana": "メドレー6th",
-        "music_sub_name": "",
+        "search_word": [],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2100011600,
@@ -3503,7 +4425,7 @@
         "music_id": 90000000,
         "music_name": "次回本編追加曲",
         "music_name_kana": "次回本編追加曲",
-        "music_sub_name": "",
+        "search_word": [],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2015010709,
@@ -3516,8 +4438,12 @@
     {
         "music_id": 90000010,
         "music_name": "おいでシャンプー -Merry Xmas Show 2015 ver-",
-        "music_name_kana": "おいでしゃんぷー-メリークリスマスショー2015ばーじょん-",
-        "music_sub_name": "",
+        "music_name_kana": "おいでしゃんぷーめりーくりすますしょーにせんじゅうごばーじょん",
+        "search_word": [
+            {
+                "word": "おいしゃん"
+            }
+        ],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2099010100,
@@ -3530,8 +4456,8 @@
     {
         "music_id": 90000020,
         "music_name": "白米様 -\"Dear white rice\" ver-",
-        "music_name_kana": "はくまいさま でぃあ ほわいと らいす ばーじょん",
-        "music_sub_name": "",
+        "music_name_kana": "はくまいさまでぃあほわいとらいすばーじょん",
+        "search_word": [],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2099010200,
@@ -3545,7 +4471,7 @@
         "music_id": 90000030,
         "music_name": "オフショアガール -All members ver-",
         "music_name_kana": "おふしょあがーる-おーるめんばーずばーじょん-",
-        "music_sub_name": "",
+        "search_word": [],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2099010300,
@@ -3558,8 +4484,8 @@
     {
         "music_id": 90000040,
         "music_name": "ブランコ -Summer Tour '19 Limited-",
-        "music_name_kana": "ブランコ-さまーつあー '19りみてっど-",
-        "music_sub_name": "",
+        "music_name_kana": "ぶらんこ-さまーつあーないんてぃーんりみてっど-",
+        "search_word": [],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2099010400,
@@ -3573,7 +4499,14 @@
         "music_id": 90000050,
         "music_name": "あらかじめ語られるロマンス -Merry Xmas Show 2016 ver-",
         "music_name_kana": "あらかじめかたられるろまんす-めりーくりすますしょー2016ばーじょん-",
-        "music_sub_name": "",
+        "search_word": [
+            {
+                "word": "あらろま"
+            },
+            {
+                "word": "かたろま"
+            }
+        ],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2099010500,
@@ -3586,8 +4519,15 @@
     {
         "music_id": 90000060,
         "music_name": "世界で一番 孤独なLover -乃木坂バンド ver-",
-        "music_name_kana": "せかいでいちばん　こどくならばー-のぎざかばんど　ばーじょん-",
-        "music_sub_name": "",
+        "music_name_kana": "せかいでいちばんこどくならばー-のぎざかばんどばーじょん-",
+        "search_word": [
+            {
+                "word": "せからば"
+            },
+            {
+                "word": "世界で一番孤独ならばー"
+            }
+        ],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2099010600,
@@ -3600,8 +4540,12 @@
     {
         "music_id": 90000070,
         "music_name": "三番目の風 -真夏の全国ツアー2019 ver-",
-        "music_name_kana": "さんばんめのかぜ-まなつのぜんこくつあーにせんじゅうきゅう　ばーじょん-",
-        "music_sub_name": "",
+        "music_name_kana": "さんばんめのかぜ-まなつのぜんこくつあーにせんじゅうきゅうばーじょん-",
+        "search_word": [
+            {
+                "word": "3番目の風"
+            }
+        ],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2099010700,
@@ -3614,8 +4558,8 @@
     {
         "music_id": 90000080,
         "music_name": "命は美しい -\"Light\" Remix-",
-        "music_name_kana": "いのちはうつくしい らいと りみっくす",
-        "music_sub_name": "",
+        "music_name_kana": "いのちはうつくしいらいとりみっくす",
+        "search_word": [],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2099010800,
@@ -3629,7 +4573,7 @@
         "music_id": 90000090,
         "music_name": "OVERTURE 2020ver",
         "music_name_kana": "おーばーちゅあにせんにじゅうばーじょん",
-        "music_sub_name": "",
+        "search_word": [],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2099010900,
@@ -3643,7 +4587,11 @@
         "music_id": 90000100,
         "music_name": "裸足でSummer -Merry Xmas Show 2016 ver-",
         "music_name_kana": "はだしでさまーめりーくりすますにせんじゅうろくばーじょん",
-        "music_sub_name": "",
+        "search_word": [
+            {
+                "word": "はださま"
+            }
+        ],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2099011000,
@@ -3656,8 +4604,8 @@
     {
         "music_id": 90000110,
         "music_name": "シンクロニシティ -6th YEAR BIRTHDAY LIVE ver-",
-        "music_name_kana": "しんくろにしてぃ　しっくすいやーばーすでーらいぶばーじょん",
-        "music_sub_name": "",
+        "music_name_kana": "しんくろにしてぃしっくすいやーばーすでーらいぶばーじょん",
+        "search_word": [],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2099011100,
@@ -3670,8 +4618,15 @@
     {
         "music_id": 90000120,
         "music_name": "ぐるぐるカーテン -8th YEAR BIRTHDAY LIVE ver-",
-        "music_name_kana": "ぐるぐるかーてん　えいすいやーばーすでーらいぶばーじょん",
-        "music_sub_name": "",
+        "music_name_kana": "ぐるぐるかーてんえいすいやーばーすでーらいぶばーじょん",
+        "search_word": [
+            {
+                "word": "ぐるか"
+            },
+            {
+                "word": "ぐるかー"
+            }
+        ],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2099011200,
@@ -3684,8 +4639,12 @@
     {
         "music_id": 90000130,
         "music_name": "転がった鐘を鳴らせ！ -8th YEAR BIRTHDAY LIVE ver-",
-        "music_name_kana": "ころがったかねをならせ！ えいすいやーばーすでーらいぶばーじょん",
-        "music_sub_name": "",
+        "music_name_kana": "ころがったかねをならせ！えいすいやーばーすでーらいぶばーじょん",
+        "search_word": [
+            {
+                "word": "ころかね"
+            }
+        ],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2099011300,
@@ -3698,8 +4657,15 @@
     {
         "music_id": 90000140,
         "music_name": "全部　夢のまま",
-        "music_name_kana": "ぜんぶ　ゆめのまま",
-        "music_sub_name": "",
+        "music_name_kana": "ぜんぶゆめのまま",
+        "search_word": [
+            {
+                "word": "ゆめまま"
+            },
+            {
+                "word": "夢まま"
+            }
+        ],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2099011400,
@@ -3712,8 +4678,8 @@
     {
         "music_id": 90000150,
         "music_name": "日常 -乃木フェスオリジナルライブ ver-",
-        "music_name_kana": "にちじょう のぎふぇすおりじなるらいぶ ばーじょん",
-        "music_sub_name": "",
+        "music_name_kana": "にちじょうのぎふぇすおりじなるらいぶばーじょん",
+        "search_word": [],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2099011500,
@@ -3726,8 +4692,8 @@
     {
         "music_id": 90000160,
         "music_name": "制服のマネキン -乃木フェスオリジナルライブ ver-",
-        "music_name_kana": "せいふくのまねきん のぎふぇすおりじなるらいぶ ばーじょん",
-        "music_sub_name": "",
+        "music_name_kana": "せいふくのまねきんのぎふぇすおりじなるらいぶばーじょん",
+        "search_word": [],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2099011600,
@@ -3740,8 +4706,12 @@
     {
         "music_id": 90000170,
         "music_name": "ガールズルール -乃木フェスオリジナルライブ ver-",
-        "music_name_kana": "がーるずるーる のぎふぇすおりじなるらいぶ ばーじょん",
-        "music_sub_name": "",
+        "music_name_kana": "がーるずるーるのぎふぇすおりじなるらいぶばーじょん",
+        "search_word": [
+            {
+                "word": "がるる"
+            }
+        ],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2099011700,
@@ -3754,8 +4724,8 @@
     {
         "music_id": 90000180,
         "music_name": "ひと夏の長さより・・・ -真夏の全国ツアー2018 ver-",
-        "music_name_kana": "ひとなつのながさより・・・　まなつのぜんこくつあーにせんじゅうはちばーじょん",
-        "music_sub_name": "",
+        "music_name_kana": "ひとなつのながさより・・・まなつのぜんこくつあーにせんじゅうはちばーじょん",
+        "search_word": [],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2099011800,
@@ -3769,7 +4739,7 @@
         "music_id": 90000190,
         "music_name": "ポピパッパパー -8th YEAR BIRTHDAY LIVE ver-",
         "music_name_kana": "ぽぴぱっぱぱーえいすいやーばーすでーらいぶばーじょん",
-        "music_sub_name": "",
+        "search_word": [],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2099011900,
@@ -3782,8 +4752,8 @@
     {
         "music_id": 90000200,
         "music_name": "思い出ファースト -真夏の全国ツアー2017 ver-",
-        "music_name_kana": "おもいでふぁーすと まなつのぜんこくつあーにせんじゅうななばーじょん",
-        "music_sub_name": "",
+        "music_name_kana": "おもいでふぁーすとまなつのぜんこくつあーにせんじゅうななばーじょん",
+        "search_word": [],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2099012000,
@@ -3797,7 +4767,7 @@
         "music_id": 90000210,
         "music_name": "4th Anniversary Eve Medley",
         "music_name_kana": "ふぉーすあにばーさりーいぶめどれー",
-        "music_sub_name": "",
+        "search_word": [],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2099012100,
@@ -3810,8 +4780,8 @@
     {
         "music_id": 90000220,
         "music_name": "何空&ガルル Xmasメドレー -Merry Xmas Show 2015ver-",
-        "music_name_kana": "なんぞらあんどがるるくりすますめどれー　めりーくりすますしょーにせんじゅうごばーじょん",
-        "music_sub_name": "",
+        "music_name_kana": "なんぞらあんどがるるくりすますめどれーめりーくりすますしょーにせんじゅうごばーじょん",
+        "search_word": [],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2099012200,
@@ -3824,8 +4794,24 @@
     {
         "music_id": 90000230,
         "music_name": "今、話したい誰かがいる -8th YEAR BIRTHDAY LIVE ver-",
-        "music_name_kana": "いまはなしたいだれかがいる　えいすいやーばーすでーらいぶばーじょん",
-        "music_sub_name": "",
+        "music_name_kana": "いまはなしたいだれかがいるえいすいやーばーすでーらいぶばーじょん",
+        "search_word": [
+            {
+                "word": "いまだれ"
+            },
+            {
+                "word": "今誰"
+            },
+            {
+                "word": "今話したい誰かがいる"
+            },
+            {
+                "word": "いまはなしたい"
+            },
+            {
+                "word": "表題曲"
+            }
+        ],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2099012200,
@@ -3839,7 +4825,7 @@
         "music_id": 90000240,
         "music_name": "泣いたっていいじゃないか？ -真夏の全国ツアー2021 FINAL! ver-",
         "music_name_kana": "ないたっていいじゃないか？-まなつのぜんこくつあーにせんにじゅういちふぁいなるばーじょん-",
-        "music_sub_name": "",
+        "search_word": [],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2099012300,
@@ -3852,8 +4838,15 @@
     {
         "music_id": 90000250,
         "music_name": "他の星から -真夏の全国ツアー2021 ver-",
-        "music_name_kana": "ほかのほしから まなつのぜんこくつあーにせんにじゅういちばーじょん",
-        "music_sub_name": "",
+        "music_name_kana": "ほかのほしからまなつのぜんこくつあーにせんにじゅういちばーじょん",
+        "search_word": [
+            {
+                "word": "ほかほし"
+            },
+            {
+                "word": "他星"
+            }
+        ],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2099012400,
@@ -3867,7 +4860,7 @@
         "music_id": 90000260,
         "music_name": "君の名は希望 -8th YEAR BIRTHDAY LIVE ver-",
         "music_name_kana": "きみのなはきぼうえいすいやーばーすでーらいぶばーじょん",
-        "music_sub_name": "",
+        "search_word": [],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2099012500,
@@ -3880,8 +4873,8 @@
     {
         "music_id": 90000270,
         "music_name": "インフルエンサー -真夏の全国ツアー2017 FINAL! ver-",
-        "music_name_kana": "いんふるえんさー まなつのぜんこくつあーにせんじゅうななふぁいなるばーじょん",
-        "music_sub_name": "",
+        "music_name_kana": "いんふるえんさーまなつのぜんこくつあーにせんじゅうななふぁいなるばーじょん",
+        "search_word": [],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2099012600,
@@ -3894,8 +4887,8 @@
     {
         "music_id": 90000280,
         "music_name": "扇風機 -真夏の全国ツアー2021 ver-",
-        "music_name_kana": "せんぷうき　まなつのぜんこくつあーにせんにじゅういちばーじょん",
-        "music_sub_name": "",
+        "music_name_kana": "せんぷうきまなつのぜんこくつあーにせんにじゅういちばーじょん",
+        "search_word": [],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2099012700,
@@ -3908,8 +4901,8 @@
     {
         "music_id": 90000290,
         "music_name": "ここにいる理由 -4th YEAR BIRTHDAY LIVE ver-",
-        "music_name_kana": "ここにいるりゆう ふぉーすいやーばーすでーらいぶばーしょん",
-        "music_sub_name": "",
+        "music_name_kana": "ここにいるりゆうふぉーすいやーばーすでーらいぶばーしょん",
+        "search_word": [],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2099012800,
@@ -3922,8 +4915,8 @@
     {
         "music_id": 90000300,
         "music_name": "逃げ水 -真夏の全国ツアー2017 FINAL! ver-",
-        "music_name_kana": "にげみず まなつのぜんこくつあーにせんじゅうななふぁいなるばーじょん",
-        "music_sub_name": "",
+        "music_name_kana": "にげみずまなつのぜんこくつあーにせんじゅうななふぁいなるばーじょん",
+        "search_word": [],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2099012900,
@@ -3936,8 +4929,18 @@
     {
         "music_id": 90000310,
         "music_name": "13日の金曜日 -8th YEAR BIRTHDAY LIVE ver-",
-        "music_name_kana": "じゅうさんにちのきんようび　えいすいやーばーすでーらいぶばーじょん",
-        "music_sub_name": "",
+        "music_name_kana": "じゅうさんにちのきんようびえいすいやーばーすでーらいぶばーじょん",
+        "search_word": [
+            {
+                "word": "じゅうさんきん"
+            },
+            {
+                "word": "13金"
+            },
+            {
+                "word": "13きん"
+            }
+        ],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2099013000,
@@ -3950,8 +4953,8 @@
     {
         "music_id": 90000320,
         "music_name": "帰り道は遠回りしたくなる -8th YEAR BIRTHDAY LIVE ver-",
-        "music_name_kana": "かえりみちはとおまわりしたくなる　えいすいやーばーすでーらいぶばーじょん",
-        "music_sub_name": "",
+        "music_name_kana": "かえりみちはとおまわりしたくなるえいすいやーばーすでーらいぶばーじょん",
+        "search_word": [],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2099013100,
@@ -3964,8 +4967,8 @@
     {
         "music_id": 90000330,
         "music_name": "スカイダイビング -真夏の全国ツアー2022 ver-",
-        "music_name_kana": "すかいだいびんぐ　まなつのせんこくつあーにせんにじゅうにばーじょん",
-        "music_sub_name": "",
+        "music_name_kana": "すかいだいびんぐまなつのせんこくつあーにせんにじゅうにばーじょん",
+        "search_word": [],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2099020100,
@@ -3978,8 +4981,8 @@
     {
         "music_id": 90000340,
         "music_name": "風船は生きている -真夏の全国ツアー2022 ver-",
-        "music_name_kana": "ふうせんはいきている　まなつのせんこくつあーにせんにじゅうにばーじょん",
-        "music_sub_name": "",
+        "music_name_kana": "ふうせんはいきているまなつのせんこくつあーにせんにじゅうにばーじょん",
+        "search_word": [],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2099020200,
@@ -3992,8 +4995,12 @@
     {
         "music_id": 90000350,
         "music_name": "シークレットグラフィティー -樋口日奈 卒業セレモニー ver-",
-        "music_name_kana": "しーくれっとぐらふぃてぃー ひぐちひなそつぎょうせれもにーばーじょん",
-        "music_sub_name": "",
+        "music_name_kana": "しーくれっとぐらふぃてぃーひぐちひなそつぎょうせれもにーばーじょん",
+        "search_word": [
+            {
+                "word": "しーぐら"
+            }
+        ],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2099020300,
@@ -4006,8 +5013,15 @@
     {
         "music_id": 90000360,
         "music_name": "ごめんね、スムージー -真夏の全国ツアー2022 ver-",
-        "music_name_kana": "ごめんね、すむーじー　まなつのせんこくつあーにせんにじゅうにばーじょん",
-        "music_sub_name": "",
+        "music_name_kana": "ごめんね、すむーじーまなつのせんこくつあーにせんにじゅうにばーじょん",
+        "search_word": [
+            {
+                "word": "ごめすむ"
+            },
+            {
+                "word": "ごめんねすむーじー"
+            }
+        ],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2099020400,
@@ -4020,8 +5034,8 @@
     {
         "music_id": 90000370,
         "music_name": "空扉 -3・4期生ライブ ver-",
-        "music_name_kana": "そらとびら さんよんきせいらいぶばーじょん",
-        "music_sub_name": "",
+        "music_name_kana": "そらとびらさんよんきせいらいぶばーじょん",
+        "search_word": [],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2099020500,
@@ -4034,8 +5048,8 @@
     {
         "music_id": 90000380,
         "music_name": "ジコチューで行こう！ -真夏の全国ツアー2022 ver-",
-        "music_name_kana": "じこちゅーでいこう！　まなつのぜんこくつあーにせんにじゅうにばーじょん",
-        "music_sub_name": "",
+        "music_name_kana": "じこちゅーでいこう！まなつのぜんこくつあーにせんにじゅうにばーじょん",
+        "search_word": [],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2099020600,
@@ -4048,8 +5062,8 @@
     {
         "music_id": 90000390,
         "music_name": "マシンガンレイン -真夏の全国ツアー2022 ver-",
-        "music_name_kana": "ましんがんれいん　まなつのぜんこくつあーにせんにじゅうにばーじょん",
-        "music_sub_name": "",
+        "music_name_kana": "ましんがんれいんまなつのぜんこくつあーにせんにじゅうにばーじょん",
+        "search_word": [],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2099020700,
@@ -4062,8 +5076,8 @@
     {
         "music_id": 90000400,
         "music_name": "制服のマネキン -秋元真夏 卒業コンサート ver-",
-        "music_name_kana": "せいふくのまねきん あきもとまなつそつぎょうこんさーとばーじょん",
-        "music_sub_name": "",
+        "music_name_kana": "せいふくのまねきんあきもとまなつそつぎょうこんさーとばーじょん",
+        "search_word": [],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2099020800,
@@ -4076,8 +5090,12 @@
     {
         "music_id": 90000410,
         "music_name": "裸足でSummer -真夏の全国ツアー2022 ver-",
-        "music_name_kana": "はだしでさまー　まなつのぜんこくつあーにせんにじゅうにばーじょん",
-        "music_sub_name": "",
+        "music_name_kana": "はだしでさまーまなつのぜんこくつあーにせんにじゅうにばーじょん",
+        "search_word": [
+            {
+                "word": "はださま"
+            }
+        ],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2099020900,
@@ -4090,8 +5108,12 @@
     {
         "music_id": 90000420,
         "music_name": "未来の答え -11th YEAR BIRTHDAY LIVE ～3期生ライブ～ ver-",
-        "music_name_kana": "みらいのこたえ　いれぶんすいやーばーすでーらいぶ～さんきせいらいぶ～ばーじょん",
-        "music_sub_name": "",
+        "music_name_kana": "みらいのこたえいれぶんすいやーばーすでーらいぶ～さんきせいらいぶ～ばーじょん",
+        "search_word": [
+            {
+                "word": "みらこた"
+            }
+        ],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2099021000,
@@ -4104,8 +5126,8 @@
     {
         "music_id": 90000430,
         "music_name": "I see... -11th YEAR BIRTHDAY LIVE ～4期生ライブ～ ver-",
-        "music_name_kana": "あいしー...　いれぶんすいやーばーすでーらいぶ～よんきせいらいぶ～ばーじょん",
-        "music_sub_name": "",
+        "music_name_kana": "あいしー...いれぶんすいやーばーすでーらいぶ～よんきせいらいぶ～ばーじょん",
+        "search_word": [],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2099021100,
@@ -4118,8 +5140,8 @@
     {
         "music_id": 90000440,
         "music_name": "君が扇いでくれた -真夏の全国ツアー2022 ver-",
-        "music_name_kana": "きみがあおいでくれた まなつのぜんこくつあーにせんにじゅうにばーじょん",
-        "music_sub_name": "",
+        "music_name_kana": "きみがあおいでくれたまなつのぜんこくつあーにせんにじゅうにばーじょん",
+        "search_word": [],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2099021200,
@@ -4132,8 +5154,8 @@
     {
         "music_id": 90000450,
         "music_name": "夏曲メドレー -真夏の全国ツアー2023 ver-",
-        "music_name_kana": "なつきょくめどれー まなつのぜんこくつあーにせんにじゅうさんばーじょん",
-        "music_sub_name": "",
+        "music_name_kana": "なつきょくめどれーまなつのぜんこくつあーにせんにじゅうさんばーじょん",
+        "search_word": [],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2099021300,
@@ -4146,8 +5168,15 @@
     {
         "music_id": 90000460,
         "music_name": "Out of the blue -9th YEAR BIRTHDAY LIVE ～4期生ライブ～ ver-",
-        "music_name_kana": "あうとおぶざぶるー　ないんすいやーばーすでーらいぶよんきせいらいぶばーじょん",
-        "music_sub_name": "",
+        "music_name_kana": "あうとおぶざぶるーないんすいやーばーすでーらいぶよんきせいらいぶばーじょん",
+        "search_word": [
+            {
+                "word": "あうぶる"
+            },
+            {
+                "word": "あおぶる"
+            }
+        ],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2099021400,
@@ -4160,8 +5189,12 @@
     {
         "music_id": 90000470,
         "music_name": "おいでシャンプー -真夏の全国ツアー2023 ver-",
-        "music_name_kana": "おいでしゃんぷー　まなつのぜんこくつあーにせんにじゅうさんばーじょん",
-        "music_sub_name": "",
+        "music_name_kana": "おいでしゃんぷーまなつのぜんこくつあーにせんにじゅうさんばーじょん",
+        "search_word": [
+            {
+                "word": "おいしゃん"
+            }
+        ],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2099021500,
@@ -4174,8 +5207,12 @@
     {
         "music_id": 90000480,
         "music_name": "ロマンティックいか焼き -真夏の全国ツアー2023 ver-",
-        "music_name_kana": "ろまんてぃっくいかやき　まなつのぜんこくつあーにせんにじゅうさんばーじょん",
-        "music_sub_name": "",
+        "music_name_kana": "ろまんてぃっくいかやきまなつのぜんこくつあーにせんにじゅうさんばーじょん",
+        "search_word": [
+            {
+                "word": "ろまいか"
+            }
+        ],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2099021600,
@@ -4188,8 +5225,12 @@
     {
         "music_id": 90000490,
         "music_name": "いつかできるから今日できる -10th YEAR BIRTHDAY LIVE ver-",
-        "music_name_kana": "いつかできるからきょうできる　てんすいやーばーすでーらいぶばーじょん",
-        "music_sub_name": "",
+        "music_name_kana": "いつかできるからきょうできるてんすいやーばーすでーらいぶばーじょん",
+        "search_word": [
+            {
+                "word": "いつでき"
+            }
+        ],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2099021700,
@@ -4202,8 +5243,18 @@
     {
         "music_id": 90000500,
         "music_name": "気づいたら片想い -10th YEAR BIRTHDAY LIVE ver-",
-        "music_name_kana": "きづいたらかたおもい　てんすいやーばーすでーらいぶばーじょん",
-        "music_sub_name": "",
+        "music_name_kana": "きづいたらかたおもいてんすいやーばーすでーらいぶばーじょん",
+        "search_word": [
+            {
+                "word": "きづかた"
+            },
+            {
+                "word": "きずかた"
+            },
+            {
+                "word": "気づいたら片思い"
+            }
+        ],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2099021800,
@@ -4216,8 +5267,8 @@
     {
         "music_id": 90000510,
         "music_name": "夜明けまで強がらなくてもいい -真夏の全国ツアー2023 ver-",
-        "music_name_kana": "よあけまでつよがらなくてもいい　まなつのぜんこくつあーにせんにじゅうさんばーじょん",
-        "music_sub_name": "",
+        "music_name_kana": "よあけまでつよがらなくてもいいまなつのぜんこくつあーにせんにじゅうさんばーじょん",
+        "search_word": [],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2099021900,
@@ -4230,8 +5281,8 @@
     {
         "music_id": 90000520,
         "music_name": "きっかけ -11th YEAR BIRTHDAY LIVE ver-",
-        "music_name_kana": "きっかけ いれぶんすいやーばーすでーらいぶばーじょん",
-        "music_sub_name": "",
+        "music_name_kana": "きっかけいれぶんすいやーばーすでーらいぶばーじょん",
+        "search_word": [],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2099022000,
@@ -4244,8 +5295,8 @@
     {
         "music_id": 90000530,
         "music_name": "シンクロニシティ -10th YEAR BIRTHDAY LIVE ver-",
-        "music_name_kana": "しんくろにしてぃ　てんすいやーばーすでーらいぶばーじょん",
-        "music_sub_name": "",
+        "music_name_kana": "しんくろにしてぃてんすいやーばーすでーらいぶばーじょん",
+        "search_word": [],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2099022100,
@@ -4258,8 +5309,8 @@
     {
         "music_id": 90000540,
         "music_name": "帰り道は遠回りしたくなる -10th YEAR BIRTHDAY LIVE ver-",
-        "music_name_kana": "かえりみちはとおまわりしたくなる　てんすいやーばーすでーらいぶばーじょん",
-        "music_sub_name": "",
+        "music_name_kana": "かえりみちはとおまわりしたくなるてんすいやーばーすでーらいぶばーじょん",
+        "search_word": [],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2099022200,
@@ -4272,8 +5323,8 @@
     {
         "music_id": 90000550,
         "music_name": "ハルジオンが咲く頃 -10th YEAR BIRTHDAY LIVE ver-",
-        "music_name_kana": "はるじおんがさくころ　てんすいやーばーすでーらいぶばーじょん",
-        "music_sub_name": "",
+        "music_name_kana": "はるじおんがさくころてんすいやーばーすでーらいぶばーじょん",
+        "search_word": [],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2099022300,
@@ -4286,8 +5337,8 @@
     {
         "music_id": 90000560,
         "music_name": "白米様 -真夏の全国ツアー2023 ver-",
-        "music_name_kana": "はくまいさま まなつのぜんこくつあーにせんにじゅうさんばーじょん",
-        "music_sub_name": "",
+        "music_name_kana": "はくまいさままなつのぜんこくつあーにせんにじゅうさんばーじょん",
+        "search_word": [],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2099022400,
@@ -4300,8 +5351,8 @@
     {
         "music_id": 90000570,
         "music_name": "でこぴん -真夏の全国ツアー2023 ver-",
-        "music_name_kana": "でこぴん　まなつのぜんこくつあーにせんにじゅうさんばーじょん",
-        "music_sub_name": "",
+        "music_name_kana": "でこぴんまなつのぜんこくつあーにせんにじゅうさんばーじょん",
+        "search_word": [],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2099022500,
@@ -4314,8 +5365,8 @@
     {
         "music_id": 90000580,
         "music_name": "ハウス！ -真夏の全国ツアー2023 ver-",
-        "music_name_kana": "はうす！　まなつのぜんこくつあーにせんにじゅうさんばーじょん",
-        "music_sub_name": "",
+        "music_name_kana": "はうす！まなつのぜんこくつあーにせんにじゅうさんばーじょん",
+        "search_word": [],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2099022600,
@@ -4328,8 +5379,8 @@
     {
         "music_id": 90000590,
         "music_name": "バレッタ -12th YEAR BIRTHDAY LIVE ver-",
-        "music_name_kana": "ばれった とぅえるぶすいやーばーすでーらいぶばーじょん",
-        "music_sub_name": "",
+        "music_name_kana": "ばれったとぅえるぶすいやーばーすでーらいぶばーじょん",
+        "search_word": [],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2099022700,
@@ -4342,8 +5393,12 @@
     {
         "music_id": 90000600,
         "music_name": "三番目の風 -12th YEAR BIRTHDAY LIVE ver-",
-        "music_name_kana": "さんばんめのかぜ とぅえるぶすいやーばーすでーらいぶばーじょん",
-        "music_sub_name": "",
+        "music_name_kana": "さんばんめのかぜとぅえるぶすいやーばーすでーらいぶばーじょん",
+        "search_word": [
+            {
+                "word": "3番目の風"
+            }
+        ],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2099022800,
@@ -4356,8 +5411,18 @@
     {
         "music_id": 90000610,
         "music_name": "キスの手裏剣 -12th YEAR BIRTHDAY LIVE ver-",
-        "music_name_kana": "きすのしゅりけん とぅえるぶすいやーばーすでーらいぶばーじょん",
-        "music_sub_name": "",
+        "music_name_kana": "きすのしゅりけんとぅえるぶすいやーばーすでーらいぶばーじょん",
+        "search_word": [
+            {
+                "word": "きすしゅり"
+            },
+            {
+                "word": "きす手裏剣"
+            },
+            {
+                "word": "きす手裏"
+            }
+        ],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2099030100,
@@ -4370,8 +5435,8 @@
     {
         "music_id": 90000620,
         "music_name": "命は美しい -11th YEAR BIRTHDAY LIVE ～3期生ライブ～ ver-",
-        "music_name_kana": "いのちはうつくしい いれぶんすいやーばーすでーらいぶ さんきせいらいぶばーじょん",
-        "music_sub_name": "",
+        "music_name_kana": "いのちはうつくしいいれぶんすいやーばーすでーらいぶさんきせいらいぶばーじょん",
+        "search_word": [],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2099030200,
@@ -4384,8 +5449,15 @@
     {
         "music_id": 90000630,
         "music_name": "ぐるぐるカーテン -11th YEAR BIRTHDAY LIVE ～4期生ライブ～ ver-",
-        "music_name_kana": "ぐるぐるかーてん いれぶんすいやーばーすでーらいぶ　よんきせいらいぶばーじょん",
-        "music_sub_name": "",
+        "music_name_kana": "ぐるぐるかーてんいれぶんすいやーばーすでーらいぶよんきせいらいぶばーじょん",
+        "search_word": [
+            {
+                "word": "ぐるか"
+            },
+            {
+                "word": "ぐるかー"
+            }
+        ],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2099030300,
@@ -4398,8 +5470,12 @@
     {
         "music_id": 90000640,
         "music_name": "好きというのはロックだぜ！ -11th YEAR BIRTHDAY LIVE ～5期生ライブ～ ver-",
-        "music_name_kana": "すきというのはろっくだぜ！ いれぶんすいやーばーすでーらいぶ　ごきせいらいぶばーじょん",
-        "music_sub_name": "",
+        "music_name_kana": "すきというのはろっくだぜ！いれぶんすいやーばーすでーらいぶごきせいらいぶばーじょん",
+        "search_word": [
+            {
+                "word": "すきろっく"
+            }
+        ],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2099030400,
@@ -4412,8 +5488,8 @@
     {
         "music_id": 90000650,
         "music_name": "自惚れビーチ -34thSGアンダーライブ ver-",
-        "music_name_kana": "うぬぼれびーち　さーてぃーふぉーすしんぐるあんだーらいぶばーじょん",
-        "music_sub_name": "",
+        "music_name_kana": "うぬぼれびーちさーてぃーふぉーすしんぐるあんだーらいぶばーじょん",
+        "search_word": [],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2099030500,
@@ -4426,8 +5502,8 @@
     {
         "music_id": 90000660,
         "music_name": "猫舌カモミールティー -11th YEAR BIRTHDAY LIVE ～4期生ライブ～ ver-",
-        "music_name_kana": "ねこじたかもみーるてぃー いれぶんすいやーばーすでーらいぶ　よんきせいらいぶばーじょん",
-        "music_sub_name": "",
+        "music_name_kana": "ねこじたかもみーるてぃーいれぶんすいやーばーすでーらいぶよんきせいらいぶばーじょん",
+        "search_word": [],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2099030600,
@@ -4440,8 +5516,12 @@
     {
         "music_id": 90000670,
         "music_name": "口ほどにもないKISS -32ndSGアンダーライブ ver-",
-        "music_name_kana": "くちほどにもないきす　さーてぃーせかんどしんぐるあんだーらいぶばーじょん",
-        "music_sub_name": "",
+        "music_name_kana": "くちほどにもないきすさーてぃーせかんどしんぐるあんだーらいぶばーじょん",
+        "search_word": [
+            {
+                "word": "口ほどにもないきす"
+            }
+        ],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2099030700,
@@ -4454,8 +5534,8 @@
     {
         "music_id": 90000680,
         "music_name": "君の名は希望 -11th YEAR BIRTHDAY LIVE ～4期生ライブ～ ver-",
-        "music_name_kana": "きみのなはきぼういれぶんすいやーばーすでーらいぶ　よんきせいらいぶばーじょん",
-        "music_sub_name": "",
+        "music_name_kana": "きみのなはきぼういれぶんすいやーばーすでーらいぶよんきせいらいぶばーじょん",
+        "search_word": [],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2099030800,
@@ -4468,8 +5548,8 @@
     {
         "music_id": 90000690,
         "music_name": "ひと夏の長さより・・・ -真夏の全国ツアー2024 ver-",
-        "music_name_kana": "ひとなつのながさより・・・　まなつのぜんこくつあーにせんにじゅうよんばーじょん",
-        "music_sub_name": "",
+        "music_name_kana": "ひとなつのながさより・・・まなつのぜんこくつあーにせんにじゅうよんばーじょん",
+        "search_word": [],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2099030900,
@@ -4482,8 +5562,8 @@
     {
         "music_id": 90000700,
         "music_name": "Wilderness world -真夏の全国ツアー2024 ver-",
-        "music_name_kana": "うぃるだねすわーるど　まなつのぜんこくつあーにせんにじゅうよんばーじょん",
-        "music_sub_name": "",
+        "music_name_kana": "うぃるだねすわーるどまなつのぜんこくつあーにせんにじゅうよんばーじょん",
+        "search_word": [],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2099031000,
@@ -4496,8 +5576,12 @@
     {
         "music_id": 90000710,
         "music_name": "Am I loving？ -真夏の全国ツアー2024 ver-",
-        "music_name_kana": "あむ あい らびんぐ？　まなつのぜんこくつあーにせんにじゅうよんばーじょん",
-        "music_sub_name": "",
+        "music_name_kana": "あむあいらびんぐ？まなつのぜんこくつあーにせんにじゅうよんばーじょん",
+        "search_word": [
+            {
+                "word": "あむあい"
+            }
+        ],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2099031100,
@@ -4510,8 +5594,15 @@
     {
         "music_id": 90000720,
         "music_name": "全部　夢のまま -11th YEAR BIRTHDAY LIVE ver-",
-        "music_name_kana": "ぜんぶ　ゆめのまま いれぶんすいやーばーすでーらいぶばーじょん",
-        "music_sub_name": "",
+        "music_name_kana": "ぜんぶゆめのままいれぶんすいやーばーすでーらいぶばーじょん",
+        "search_word": [
+            {
+                "word": "ゆめまま"
+            },
+            {
+                "word": "夢まま"
+            }
+        ],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2099031200,
@@ -4524,8 +5615,8 @@
     {
         "music_id": 90000730,
         "music_name": "Sing Out！ -大感謝祭2024 ver-",
-        "music_name_kana": "しんぐあうと　だいかんしゃさいにせんにじゅうよんばーじょん",
-        "music_sub_name": "",
+        "music_name_kana": "しんぐあうとだいかんしゃさいにせんにじゅうよんばーじょん",
+        "search_word": [],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2099031300,
@@ -4538,8 +5629,8 @@
     {
         "music_id": 90000740,
         "music_name": "サヨナラの意味 -向井葉月 卒業セレモニー ver-",
-        "music_name_kana": "さよならのいみ　むかいはづきそつぎょうせれもにーばーじょん",
-        "music_sub_name": "",
+        "music_name_kana": "さよならのいみむかいはづきそつぎょうせれもにーばーじょん",
+        "search_word": [],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2099031400,
@@ -4552,8 +5643,18 @@
     {
         "music_id": 90000750,
         "music_name": "ごめんねFingers crossed -12th YEAR BIRTHDAY LIVE ver-",
-        "music_name_kana": "ごめんねふぃんがーずくろすと　とぅえるぶすいやーばーすでーらいぶばーじょん",
-        "music_sub_name": "",
+        "music_name_kana": "ごめんねふぃんがーずくろすととぅえるぶすいやーばーすでーらいぶばーじょん",
+        "search_word": [
+            {
+                "word": "ふぃんくろ"
+            },
+            {
+                "word": "ごめふぃん"
+            },
+            {
+                "word": "ごめfin"
+            }
+        ],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2099031500,
@@ -4566,8 +5667,8 @@
     {
         "music_id": 90000760,
         "music_name": "太陽ノック -真夏の全国ツアー2024 ver-",
-        "music_name_kana": "たいようのっく　まなつのぜんこくつあーにせんにじゅうよんばーじょん",
-        "music_sub_name": "",
+        "music_name_kana": "たいようのっくまなつのぜんこくつあーにせんにじゅうよんばーじょん",
+        "search_word": [],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2099031600,
@@ -4580,8 +5681,8 @@
     {
         "music_id": 90000770,
         "music_name": "のぎまつりメドレー -真夏の全国ツアー2024 ver-",
-        "music_name_kana": "のぎまつりめどれー　まなつのぜんこくつあーにせんにじゅうよんばーじょん",
-        "music_sub_name": "",
+        "music_name_kana": "のぎまつりめどれーまなつのぜんこくつあーにせんにじゅうよんばーじょん",
+        "search_word": [],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2099031700,
@@ -4594,8 +5695,8 @@
     {
         "music_id": 90000780,
         "music_name": "心のモノローグ -12th YEAR BIRTHDAY LIVE ver-",
-        "music_name_kana": "こころのものろーぐ　とぅえるぶすいやーばーすでーらいぶばーじょん",
-        "music_sub_name": "",
+        "music_name_kana": "こころのものろーぐとぅえるぶすいやーばーすでーらいぶばーじょん",
+        "search_word": [],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2099031800,
@@ -4608,8 +5709,21 @@
     {
         "music_id": 90000790,
         "music_name": "僕は僕を好きになる -13th YEAR BIRTHDAY LIVE ver-",
-        "music_name_kana": "ぼくはぼくをすきになる　さーてぃーんすいやーばーすでーらいぶばーじょん",
-        "music_sub_name": "",
+        "music_name_kana": "ぼくはぼくをすきになるさーてぃーんすいやーばーすでーらいぶばーじょん",
+        "search_word": [
+            {
+                "word": "ぼくすき"
+            },
+            {
+                "word": "ぼくぼく"
+            },
+            {
+                "word": "僕僕"
+            },
+            {
+                "word": "僕好き"
+            }
+        ],
         "music_type": 1,
         "center_girl_id": 104,
         "release_date": 2099031900,
@@ -4618,5 +5732,82 @@
         "lyricist": "秋元康",
         "composer": "杉山勝彦",
         "arranger": "杉山勝彦，石原剛志"
+    },
+    {
+        "music_id": 90000800,
+        "music_name": "僕の衝動 -12th YEAR BIRTHDAY LIVE ver-",
+        "music_name_kana": "ぼくのしょうどうとぅえるぶすいやーばーすでーらいぶばーじょん",
+        "search_word": [],
+        "music_type": 1,
+        "center_girl_id": 104,
+        "release_date": 2099032000,
+        "music_length": 167,
+        "information": "すごく良い曲だよー",
+        "lyricist": "秋元 康",
+        "composer": "石井 伸昂",
+        "arranger": "石井 伸昂"
+    },
+    {
+        "music_id": 90000810,
+        "music_name": "他の星から -12th YEAR BIRTHDAY LIVE ver-",
+        "music_name_kana": "ほかのほしからとぅえるぶすいやーばーすでーらいぶばーじょん",
+        "search_word": [
+            {
+                "word": "ほかほし"
+            },
+            {
+                "word": "他星"
+            }
+        ],
+        "music_type": 1,
+        "center_girl_id": 104,
+        "release_date": 2099032100,
+        "music_length": 125,
+        "information": "すごく良い曲だよー",
+        "lyricist": "秋元 康",
+        "composer": "Sugaya Bros.，松村PONY",
+        "arranger": "Sugaya Bros."
+    },
+    {
+        "music_id": 90000820,
+        "music_name": "君に叱られた -真夏の全国ツアー2025 ver-",
+        "music_name_kana": "きみにしかられたまなつのぜんこくつあーにせんにじゅうごばーじょん",
+        "search_word": [
+            {
+                "word": "きみしか"
+            },
+            {
+                "word": "君しか"
+            }
+        ],
+        "music_type": 1,
+        "center_girl_id": 104,
+        "release_date": 2099032200,
+        "music_length": 190,
+        "information": "すごく良い曲だよー",
+        "lyricist": "秋元康",
+        "composer": "youth case",
+        "arranger": "石塚知生"
+    },
+    {
+        "music_id": 90000830,
+        "music_name": "Threefold choice -12th YEAR BIRTHDAY LIVE ver-",
+        "music_name_kana": "すりーふぉーるどちょいすとぅえるぶすいやーばーすでーらいぶばーじょん",
+        "search_word": [
+            {
+                "word": "すりふぉ"
+            },
+            {
+                "word": "すりほ"
+            }
+        ],
+        "music_type": 1,
+        "center_girl_id": 104,
+        "release_date": 2099032300,
+        "music_length": 100,
+        "information": "すごく良い曲だよー",
+        "lyricist": "秋元 康",
+        "composer": "古川 貴浩",
+        "arranger": "古川 貴浩"
     }
 ]

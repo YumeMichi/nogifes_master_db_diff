@@ -13396,5 +13396,614 @@
                 "proc_param": "50"
             }
         ]
+    },
+    {
+        "event_item_id": 639,
+        "event_id": 264,
+        "item_name": "ブーストクッキー",
+        "item_category": 1,
+        "item_type": 5,
+        "disp_order": 1,
+        "max_possession": 999999,
+        "exchange_data_type": 15,
+        "exchange_data_id": 0,
+        "exchange_rate": 500,
+        "description": "イベントアイテム（フラワーワッペン）の獲得量が2倍。<br />※イベント終了後｢交換P｣に変換されます。",
+        "resource_id": 1,
+        "proc_data": [
+            {
+                "proc_type": 701,
+                "proc_time": 1,
+                "proc_param": "20000@0"
+            }
+        ]
+    },
+    {
+        "event_item_id": 640,
+        "event_id": 264,
+        "item_name": "イベントライト",
+        "item_category": 2,
+        "item_type": 5,
+        "disp_order": 2,
+        "max_possession": 99,
+        "exchange_data_type": 15,
+        "exchange_data_id": 0,
+        "exchange_rate": 500000,
+        "description": "所持しているとイベントP獲得量が常時｢＋50%｣。<br />※イベント終了後｢交換P｣に変換されます。",
+        "resource_id": 2,
+        "proc_data": [
+            {
+                "proc_type": 702,
+                "proc_time": 99999,
+                "proc_param": "0@5000"
+            }
+        ]
+    },
+    {
+        "event_item_id": 641,
+        "event_id": 264,
+        "item_name": "イベントLPドリンク50",
+        "item_category": 1,
+        "item_type": 2,
+        "disp_order": 3,
+        "max_possession": 999999,
+        "exchange_data_type": 0,
+        "exchange_data_id": 0,
+        "exchange_rate": 0,
+        "description": "LPを50回復する。イベント期間中のみ使用可。<br />※イベント終了後は消滅します。",
+        "resource_id": 3,
+        "proc_data": [
+            {
+                "proc_type": 401,
+                "proc_time": 1,
+                "proc_param": "50"
+            }
+        ]
+    },
+    {
+        "event_item_id": 642,
+        "event_id": 265,
+        "item_name": "ブーストクッキー",
+        "item_category": 1,
+        "item_type": 5,
+        "disp_order": 1,
+        "max_possession": 999999,
+        "exchange_data_type": 15,
+        "exchange_data_id": 0,
+        "exchange_rate": 500,
+        "description": "イベントアイテム（N46ブラスター）の獲得量が2倍。<br />※イベント終了後｢交換P｣に変換されます。",
+        "resource_id": 1,
+        "proc_data": [
+            {
+                "proc_type": 701,
+                "proc_time": 1,
+                "proc_param": "20000@0"
+            }
+        ]
+    },
+    {
+        "event_item_id": 643,
+        "event_id": 265,
+        "item_name": "イベントライト",
+        "item_category": 2,
+        "item_type": 5,
+        "disp_order": 2,
+        "max_possession": 99,
+        "exchange_data_type": 15,
+        "exchange_data_id": 0,
+        "exchange_rate": 500000,
+        "description": "所持しているとイベントP獲得量が常時｢＋50%｣。<br />※イベント終了後｢交換P｣に変換されます。",
+        "resource_id": 2,
+        "proc_data": [
+            {
+                "proc_type": 702,
+                "proc_time": 99999,
+                "proc_param": "0@5000"
+            }
+        ]
+    },
+    {
+        "event_item_id": 644,
+        "event_id": 265,
+        "item_name": "イベントLPドリンク50",
+        "item_category": 1,
+        "item_type": 2,
+        "disp_order": 3,
+        "max_possession": 999999,
+        "exchange_data_type": 0,
+        "exchange_data_id": 0,
+        "exchange_rate": 0,
+        "description": "LPを50回復する。イベント期間中のみ使用可。<br />※イベント終了後は消滅します。",
+        "resource_id": 3,
+        "proc_data": [
+            {
+                "proc_type": 401,
+                "proc_time": 1,
+                "proc_param": "50"
+            }
+        ]
+    },
+    {
+        "event_item_id": 645,
+        "event_id": 266,
+        "item_name": "ブーストクッキー",
+        "item_category": 1,
+        "item_type": 5,
+        "disp_order": 1,
+        "max_possession": 999999,
+        "exchange_data_type": 15,
+        "exchange_data_id": 0,
+        "exchange_rate": 500,
+        "description": "イベントアイテム（ヒロインクラウン）の獲得量が2倍。<br />※イベント終了後｢交換P｣に変換されます。",
+        "resource_id": 1,
+        "proc_data": [
+            {
+                "proc_type": 701,
+                "proc_time": 1,
+                "proc_param": "20000@0"
+            }
+        ]
+    },
+    {
+        "event_item_id": 646,
+        "event_id": 266,
+        "item_name": "イベントライト",
+        "item_category": 2,
+        "item_type": 5,
+        "disp_order": 2,
+        "max_possession": 99,
+        "exchange_data_type": 15,
+        "exchange_data_id": 0,
+        "exchange_rate": 500000,
+        "description": "所持しているとイベントP獲得量が常時｢＋50%｣。<br />※イベント終了後｢交換P｣に変換されます。",
+        "resource_id": 2,
+        "proc_data": [
+            {
+                "proc_type": 702,
+                "proc_time": 99999,
+                "proc_param": "0@5000"
+            }
+        ]
+    },
+    {
+        "event_item_id": 647,
+        "event_id": 266,
+        "item_name": "イベントLPドリンク50",
+        "item_category": 1,
+        "item_type": 2,
+        "disp_order": 3,
+        "max_possession": 999999,
+        "exchange_data_type": 0,
+        "exchange_data_id": 0,
+        "exchange_rate": 0,
+        "description": "LPを50回復する。イベント期間中のみ使用可。<br />※イベント終了後は消滅します。",
+        "resource_id": 3,
+        "proc_data": [
+            {
+                "proc_type": 401,
+                "proc_time": 1,
+                "proc_param": "50"
+            }
+        ]
+    },
+    {
+        "event_item_id": 648,
+        "event_id": 267,
+        "item_name": "ブーストクッキー",
+        "item_category": 1,
+        "item_type": 5,
+        "disp_order": 1,
+        "max_possession": 999999,
+        "exchange_data_type": 15,
+        "exchange_data_id": 0,
+        "exchange_rate": 500,
+        "description": "イベントアイテム（ハンドトロフィー）の獲得量が2倍。<br />※イベント終了後｢交換P｣に変換されます。",
+        "resource_id": 1,
+        "proc_data": [
+            {
+                "proc_type": 701,
+                "proc_time": 1,
+                "proc_param": "20000@0"
+            }
+        ]
+    },
+    {
+        "event_item_id": 649,
+        "event_id": 267,
+        "item_name": "イベントライト",
+        "item_category": 2,
+        "item_type": 5,
+        "disp_order": 2,
+        "max_possession": 99,
+        "exchange_data_type": 15,
+        "exchange_data_id": 0,
+        "exchange_rate": 500000,
+        "description": "所持しているとイベントP獲得量が常時｢＋50%｣。<br />※イベント終了後｢交換P｣に変換されます。",
+        "resource_id": 2,
+        "proc_data": [
+            {
+                "proc_type": 702,
+                "proc_time": 99999,
+                "proc_param": "0@5000"
+            }
+        ]
+    },
+    {
+        "event_item_id": 650,
+        "event_id": 267,
+        "item_name": "イベントLPドリンク50",
+        "item_category": 1,
+        "item_type": 2,
+        "disp_order": 3,
+        "max_possession": 999999,
+        "exchange_data_type": 0,
+        "exchange_data_id": 0,
+        "exchange_rate": 0,
+        "description": "LPを50回復する。イベント期間中のみ使用可。<br />※イベント終了後は消滅します。",
+        "resource_id": 3,
+        "proc_data": [
+            {
+                "proc_type": 401,
+                "proc_time": 1,
+                "proc_param": "50"
+            }
+        ]
+    },
+    {
+        "event_item_id": 651,
+        "event_id": 268,
+        "item_name": "イベントライト",
+        "item_category": 2,
+        "item_type": 5,
+        "disp_order": 1,
+        "max_possession": 99,
+        "exchange_data_type": 15,
+        "exchange_data_id": 0,
+        "exchange_rate": 500000,
+        "description": "所持しているとイベントP獲得量が常時｢＋50%｣。<br />※イベント終了後｢交換P｣に変換されます。",
+        "resource_id": 2,
+        "proc_data": [
+            {
+                "proc_type": 702,
+                "proc_time": 99999,
+                "proc_param": "0@5000"
+            }
+        ]
+    },
+    {
+        "event_item_id": 652,
+        "event_id": 268,
+        "item_name": "イベントLPドリンク50",
+        "item_category": 1,
+        "item_type": 2,
+        "disp_order": 2,
+        "max_possession": 999999,
+        "exchange_data_type": 0,
+        "exchange_data_id": 0,
+        "exchange_rate": 0,
+        "description": "LPを50回復する。イベント期間中のみ使用可。<br />※イベント終了後は消滅します。",
+        "resource_id": 3,
+        "proc_data": [
+            {
+                "proc_type": 401,
+                "proc_time": 1,
+                "proc_param": "50"
+            }
+        ]
+    },
+    {
+        "event_item_id": 653,
+        "event_id": 269,
+        "item_name": "ブーストクッキー",
+        "item_category": 1,
+        "item_type": 5,
+        "disp_order": 1,
+        "max_possession": 999999,
+        "exchange_data_type": 15,
+        "exchange_data_id": 0,
+        "exchange_rate": 500,
+        "description": "イベントアイテム（8周年ロゼット）の獲得量が2倍。<br />※イベント終了後｢交換P｣に変換されます。",
+        "resource_id": 1,
+        "proc_data": [
+            {
+                "proc_type": 701,
+                "proc_time": 1,
+                "proc_param": "20000@0"
+            }
+        ]
+    },
+    {
+        "event_item_id": 654,
+        "event_id": 269,
+        "item_name": "イベントライト",
+        "item_category": 2,
+        "item_type": 5,
+        "disp_order": 2,
+        "max_possession": 99,
+        "exchange_data_type": 15,
+        "exchange_data_id": 0,
+        "exchange_rate": 500000,
+        "description": "所持しているとイベントP獲得量が常時｢＋50%｣。<br />※イベント終了後｢交換P｣に変換されます。",
+        "resource_id": 2,
+        "proc_data": [
+            {
+                "proc_type": 702,
+                "proc_time": 99999,
+                "proc_param": "0@5000"
+            }
+        ]
+    },
+    {
+        "event_item_id": 655,
+        "event_id": 269,
+        "item_name": "イベントLPドリンク50",
+        "item_category": 1,
+        "item_type": 2,
+        "disp_order": 3,
+        "max_possession": 999999,
+        "exchange_data_type": 0,
+        "exchange_data_id": 0,
+        "exchange_rate": 0,
+        "description": "LPを50回復する。イベント期間中のみ使用可。<br />※イベント終了後は消滅します。",
+        "resource_id": 3,
+        "proc_data": [
+            {
+                "proc_type": 401,
+                "proc_time": 1,
+                "proc_param": "50"
+            }
+        ]
+    },
+    {
+        "event_item_id": 656,
+        "event_id": 270,
+        "item_name": "ブーストクッキー",
+        "item_category": 1,
+        "item_type": 5,
+        "disp_order": 1,
+        "max_possession": 999999,
+        "exchange_data_type": 15,
+        "exchange_data_id": 0,
+        "exchange_rate": 500,
+        "description": "イベントアイテム（8周年耳飾り）の獲得量が2倍。<br />※イベント終了後｢交換P｣に変換されます。",
+        "resource_id": 1,
+        "proc_data": [
+            {
+                "proc_type": 701,
+                "proc_time": 1,
+                "proc_param": "20000@0"
+            }
+        ]
+    },
+    {
+        "event_item_id": 657,
+        "event_id": 270,
+        "item_name": "イベントライト",
+        "item_category": 2,
+        "item_type": 5,
+        "disp_order": 2,
+        "max_possession": 99,
+        "exchange_data_type": 15,
+        "exchange_data_id": 0,
+        "exchange_rate": 500000,
+        "description": "所持しているとイベントP獲得量が常時｢＋50%｣。<br />※イベント終了後｢交換P｣に変換されます。",
+        "resource_id": 2,
+        "proc_data": [
+            {
+                "proc_type": 702,
+                "proc_time": 99999,
+                "proc_param": "0@5000"
+            }
+        ]
+    },
+    {
+        "event_item_id": 658,
+        "event_id": 270,
+        "item_name": "イベントLPドリンク50",
+        "item_category": 1,
+        "item_type": 2,
+        "disp_order": 3,
+        "max_possession": 999999,
+        "exchange_data_type": 0,
+        "exchange_data_id": 0,
+        "exchange_rate": 0,
+        "description": "LPを50回復する。イベント期間中のみ使用可。<br />※イベント終了後は消滅します。",
+        "resource_id": 3,
+        "proc_data": [
+            {
+                "proc_type": 401,
+                "proc_time": 1,
+                "proc_param": "50"
+            }
+        ]
+    },
+    {
+        "event_item_id": 659,
+        "event_id": 271,
+        "item_name": "ブーストクッキー",
+        "item_category": 1,
+        "item_type": 5,
+        "disp_order": 1,
+        "max_possession": 999999,
+        "exchange_data_type": 15,
+        "exchange_data_id": 0,
+        "exchange_rate": 500,
+        "description": "イベントアイテム（エイスノードーム）の獲得量が2倍。<br />※イベント終了後｢交換P｣に変換されます。",
+        "resource_id": 1,
+        "proc_data": [
+            {
+                "proc_type": 701,
+                "proc_time": 1,
+                "proc_param": "20000@0"
+            }
+        ]
+    },
+    {
+        "event_item_id": 660,
+        "event_id": 271,
+        "item_name": "イベントライト",
+        "item_category": 2,
+        "item_type": 5,
+        "disp_order": 2,
+        "max_possession": 99,
+        "exchange_data_type": 15,
+        "exchange_data_id": 0,
+        "exchange_rate": 500000,
+        "description": "所持しているとイベントP獲得量が常時｢＋50%｣。<br />※イベント終了後｢交換P｣に変換されます。",
+        "resource_id": 2,
+        "proc_data": [
+            {
+                "proc_type": 702,
+                "proc_time": 99999,
+                "proc_param": "0@5000"
+            }
+        ]
+    },
+    {
+        "event_item_id": 661,
+        "event_id": 271,
+        "item_name": "イベントLPドリンク50",
+        "item_category": 1,
+        "item_type": 2,
+        "disp_order": 3,
+        "max_possession": 999999,
+        "exchange_data_type": 0,
+        "exchange_data_id": 0,
+        "exchange_rate": 0,
+        "description": "LPを50回復する。イベント期間中のみ使用可。<br />※イベント終了後は消滅します。",
+        "resource_id": 3,
+        "proc_data": [
+            {
+                "proc_type": 401,
+                "proc_time": 1,
+                "proc_param": "50"
+            }
+        ]
+    },
+    {
+        "event_item_id": 662,
+        "event_id": 272,
+        "item_name": "ブーストクッキー",
+        "item_category": 1,
+        "item_type": 5,
+        "disp_order": 1,
+        "max_possession": 999999,
+        "exchange_data_type": 15,
+        "exchange_data_id": 0,
+        "exchange_rate": 500,
+        "description": "イベントアイテム（馬の金屏風）の獲得量が2倍。<br />※イベント終了後｢交換P｣に変換されます。",
+        "resource_id": 1,
+        "proc_data": [
+            {
+                "proc_type": 701,
+                "proc_time": 1,
+                "proc_param": "20000@0"
+            }
+        ]
+    },
+    {
+        "event_item_id": 663,
+        "event_id": 272,
+        "item_name": "イベントライト",
+        "item_category": 2,
+        "item_type": 5,
+        "disp_order": 2,
+        "max_possession": 99,
+        "exchange_data_type": 15,
+        "exchange_data_id": 0,
+        "exchange_rate": 500000,
+        "description": "所持しているとイベントP獲得量が常時｢＋50%｣。<br />※イベント終了後｢交換P｣に変換されます。",
+        "resource_id": 2,
+        "proc_data": [
+            {
+                "proc_type": 702,
+                "proc_time": 99999,
+                "proc_param": "0@5000"
+            }
+        ]
+    },
+    {
+        "event_item_id": 664,
+        "event_id": 272,
+        "item_name": "イベントLPドリンク50",
+        "item_category": 1,
+        "item_type": 2,
+        "disp_order": 3,
+        "max_possession": 999999,
+        "exchange_data_type": 0,
+        "exchange_data_id": 0,
+        "exchange_rate": 0,
+        "description": "LPを50回復する。イベント期間中のみ使用可。<br />※イベント終了後は消滅します。",
+        "resource_id": 3,
+        "proc_data": [
+            {
+                "proc_type": 401,
+                "proc_time": 1,
+                "proc_param": "50"
+            }
+        ]
+    },
+    {
+        "event_item_id": 665,
+        "event_id": 273,
+        "item_name": "ブーストクッキー",
+        "item_category": 1,
+        "item_type": 5,
+        "disp_order": 1,
+        "max_possession": 999999,
+        "exchange_data_type": 15,
+        "exchange_data_id": 0,
+        "exchange_rate": 500,
+        "description": "イベントアイテム（青春のリボン）の獲得量が2倍。<br />※イベント終了後｢交換P｣に変換されます。",
+        "resource_id": 1,
+        "proc_data": [
+            {
+                "proc_type": 701,
+                "proc_time": 1,
+                "proc_param": "20000@0"
+            }
+        ]
+    },
+    {
+        "event_item_id": 666,
+        "event_id": 273,
+        "item_name": "イベントライト",
+        "item_category": 2,
+        "item_type": 5,
+        "disp_order": 2,
+        "max_possession": 99,
+        "exchange_data_type": 15,
+        "exchange_data_id": 0,
+        "exchange_rate": 500000,
+        "description": "所持しているとイベントP獲得量が常時｢＋50%｣。<br />※イベント終了後｢交換P｣に変換されます。",
+        "resource_id": 2,
+        "proc_data": [
+            {
+                "proc_type": 702,
+                "proc_time": 99999,
+                "proc_param": "0@5000"
+            }
+        ]
+    },
+    {
+        "event_item_id": 667,
+        "event_id": 273,
+        "item_name": "イベントLPドリンク50",
+        "item_category": 1,
+        "item_type": 2,
+        "disp_order": 3,
+        "max_possession": 999999,
+        "exchange_data_type": 0,
+        "exchange_data_id": 0,
+        "exchange_rate": 0,
+        "description": "LPを50回復する。イベント期間中のみ使用可。<br />※イベント終了後は消滅します。",
+        "resource_id": 3,
+        "proc_data": [
+            {
+                "proc_type": 401,
+                "proc_time": 1,
+                "proc_param": "50"
+            }
+        ]
     }
 ]

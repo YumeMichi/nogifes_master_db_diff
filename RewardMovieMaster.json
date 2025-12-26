@@ -48464,5 +48464,158 @@
                 "movie_get_type": 1
             }
         ]
+    },
+    {
+        "reward_movie_id": 2933,
+        "reward_movie_name": "真夏の全国ツアー2025 大阪公演<br />君に叱られた SPライブMOVIE",
+        "reward_movie_name_kana": "まなつのぜんこくつあーにせんにじゅうご　おおさかこうえん　きみにしかられた　すぺしゃるらいぶむーびー",
+        "movie_type": 3,
+        "start_date": 1761285600,
+        "unit_data": [
+            {
+                "unit_id": 122120,
+                "movie_get_type": 1
+            },
+            {
+                "unit_id": 122121,
+                "movie_get_type": 1
+            }
+        ]
+    },
+    {
+        "reward_movie_id": 2934,
+        "reward_movie_name": "12th YEAR BIRTHDAY LIVE<br />Threefold choice SPライブMOVIE",
+        "reward_movie_name_kana": "とぅえるぶすいやーばーすでーらいぶ<br />すりーふぉーるどちょいす　えすぴーむーびー",
+        "movie_type": 3,
+        "start_date": 1763391600,
+        "unit_data": [
+            {
+                "unit_id": 122860,
+                "movie_get_type": 1
+            },
+            {
+                "unit_id": 122861,
+                "movie_get_type": 1
+            }
+        ]
+    },
+    {
+        "reward_movie_id": 2935,
+        "reward_movie_name": "真夏の全国ツアー2025 大阪公演<br />ネーブルオレンジ SPライブMOVIE",
+        "reward_movie_name_kana": "まなつのぜんこくつあーにせんにじゅうご　おおさかこうえん　ねーぶるおれんじ　すぺしゃるらいぶむーびー",
+        "movie_type": 3,
+        "start_date": 1763618400,
+        "unit_data": [
+            {
+                "unit_id": 123680,
+                "movie_get_type": 1
+            },
+            {
+                "unit_id": 123681,
+                "movie_get_type": 1
+            }
+        ]
+    },
+    {
+        "reward_movie_id": 2936,
+        "reward_movie_name": "オフショット撮影にチャレンジ！<br />Photo by Sakura Kawasaki",
+        "reward_movie_name_kana": "おふしょっとさつえいちゃれんじ　ふぉと　ばい　さくら　かわさき",
+        "movie_type": 1,
+        "start_date": 1763618400,
+        "unit_data": [
+            {
+                "unit_id": 125760,
+                "movie_get_type": 1
+            },
+            {
+                "unit_id": 125761,
+                "movie_get_type": 1
+            }
+        ]
+    },
+    {
+        "reward_movie_id": 2937,
+        "reward_movie_name": "オフショット撮影チャレンジ！<br />Photo by Saya Kanagawa",
+        "reward_movie_name_kana": "おふしょっとさつえいちゃれんじ　ふぉと　ばい　さや　かながわ",
+        "movie_type": 1,
+        "start_date": 1764741600,
+        "unit_data": [
+            {
+                "unit_id": 125770,
+                "movie_get_type": 1
+            },
+            {
+                "unit_id": 125771,
+                "movie_get_type": 1
+            }
+        ]
+    },
+    {
+        "reward_movie_id": 2938,
+        "reward_movie_name": "オフショット撮影チャレンジ！<br />Photo by Nao Tomisato",
+        "reward_movie_name_kana": "おふしょっとさつえいちゃれんじ　ふぉと　ばい　なお　とみさと",
+        "movie_type": 1,
+        "start_date": 1765864800,
+        "unit_data": [
+            {
+                "unit_id": 125780,
+                "movie_get_type": 1
+            },
+            {
+                "unit_id": 125781,
+                "movie_get_type": 1
+            }
+        ]
+    },
+    {
+        "reward_movie_id": 2939,
+        "reward_movie_name": "真夏の全国ツアー2024<br />僕が手を叩く方へ SPライブMOVIE",
+        "reward_movie_name_kana": "まなつのぜんこくつあーにせんにじゅうよん　ぼくがてをたたくほうへ　すぺしゃるらいぶむーびー",
+        "movie_type": 3,
+        "start_date": 1765864800,
+        "unit_data": [
+            {
+                "unit_id": 126000,
+                "movie_get_type": 1
+            },
+            {
+                "unit_id": 126001,
+                "movie_get_type": 1
+            }
+        ]
+    },
+    {
+        "reward_movie_id": 2940,
+        "reward_movie_name": "真夏の全国ツアー2025 大阪公演<br />なぜ　僕たちは走るのか？ SPライブMOVIE",
+        "reward_movie_name_kana": "まなつのぜんこくつあーにせんにじゅうご　おおさかこうえん　なぜぼくたちははしるのか？　すぺしゃるらいぶむーびー",
+        "movie_type": 3,
+        "start_date": 1768370400,
+        "unit_data": [
+            {
+                "unit_id": 126680,
+                "movie_get_type": 1
+            },
+            {
+                "unit_id": 126681,
+                "movie_get_type": 1
+            }
+        ]
+    },
+    {
+        "reward_movie_id": 2941,
+        "reward_movie_name": "Mitsuki Birthday Memory",
+        "reward_movie_name_kana": "みつき　ばーすでい　めもりー",
+        "movie_type": 1,
+        "start_date": 1768284000,
+        "unit_data": [
+            {
+                "unit_id": 126780,
+                "movie_get_type": 1
+            },
+            {
+                "unit_id": 126781,
+                "movie_get_type": 1
+            }
+        ]
     }
 ]

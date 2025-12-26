@@ -3330,6 +3330,24 @@
         "live_location": "立川ステージガーデン"
     },
     {
+        "live_bg_id": 330041,
+        "live_bg_name": "もしも心が透明なら",
+        "live_bg_type": 1,
+        "music_id": 330040,
+        "live_name": "12th YEAR BIRTHDAY LIVE",
+        "live_date": "2024年3月10日",
+        "live_location": "さいたまスーパーアリーナ"
+    },
+    {
+        "live_bg_id": 330042,
+        "live_bg_name": "もしも心が透明なら",
+        "live_bg_type": 2,
+        "music_id": 330040,
+        "live_name": "12th YEAR BIRTHDAY LIVE",
+        "live_date": "2024年3月10日",
+        "live_location": "さいたまスーパーアリーナ"
+    },
+    {
         "live_bg_id": 330071,
         "live_bg_name": "他人のそら似",
         "live_bg_type": 1,
@@ -4104,6 +4122,24 @@
         "live_location": "バンテリンドーム ナゴヤ"
     },
     {
+        "live_bg_id": 420021,
+        "live_bg_name": "あの光",
+        "live_bg_type": 1,
+        "music_id": 420020,
+        "live_name": "真夏の全国ツアー2025",
+        "live_date": "2025年7月16日",
+        "live_location": "大阪城ホール"
+    },
+    {
+        "live_bg_id": 420022,
+        "live_bg_name": "あの光",
+        "live_bg_type": 2,
+        "music_id": 420020,
+        "live_name": "真夏の全国ツアー2025",
+        "live_date": "2025年7月16日",
+        "live_location": "大阪城ホール"
+    },
+    {
         "live_bg_id": 420031,
         "live_bg_name": "落とし物",
         "live_bg_type": 1,
@@ -4120,6 +4156,24 @@
         "live_name": "真夏の全国ツアー2024",
         "live_date": "2024年8月24日",
         "live_location": "バンテリンドーム ナゴヤ"
+    },
+    {
+        "live_bg_id": 420041,
+        "live_bg_name": "君にDitto",
+        "live_bg_type": 1,
+        "music_id": 420040,
+        "live_name": "真夏の全国ツアー2025",
+        "live_date": "2025年7月17日",
+        "live_location": "大阪城ホール"
+    },
+    {
+        "live_bg_id": 420042,
+        "live_bg_name": "君にDitto",
+        "live_bg_type": 2,
+        "music_id": 420040,
+        "live_name": "真夏の全国ツアー2025",
+        "live_date": "2025年7月17日",
+        "live_location": "大阪城ホール"
     },
     {
         "live_bg_id": 420071,
@@ -4140,6 +4194,24 @@
         "live_location": "明治神宮野球場"
     },
     {
+        "live_bg_id": 430011,
+        "live_bg_name": "歩道橋",
+        "live_bg_type": 1,
+        "music_id": 430010,
+        "live_name": "13th YEAR BIRTHDAY LIVE",
+        "live_date": "2025年5月17日",
+        "live_location": "味の素スタジアム"
+    },
+    {
+        "live_bg_id": 430012,
+        "live_bg_name": "歩道橋",
+        "live_bg_type": 2,
+        "music_id": 430010,
+        "live_name": "13th YEAR BIRTHDAY LIVE",
+        "live_date": "2025年5月17日",
+        "live_location": "味の素スタジアム"
+    },
+    {
         "live_bg_id": 430071,
         "live_bg_name": "それまでの猶予",
         "live_bg_type": 1,
@@ -4156,6 +4228,24 @@
         "live_name": "37thSGアンダーライブ",
         "live_date": "2025年1月29日",
         "live_location": "幕張ﾒｯｾ 幕張ｲﾍﾞﾝﾄﾎｰﾙ"
+    },
+    {
+        "live_bg_id": 440011,
+        "live_bg_name": "ネーブルオレンジ",
+        "live_bg_type": 1,
+        "music_id": 440010,
+        "live_name": "真夏の全国ツアー2025",
+        "live_date": "2025年7月17日",
+        "live_location": "大阪城ホール"
+    },
+    {
+        "live_bg_id": 440012,
+        "live_bg_name": "ネーブルオレンジ",
+        "live_bg_type": 2,
+        "music_id": 440010,
+        "live_name": "真夏の全国ツアー2025",
+        "live_date": "2025年7月17日",
+        "live_location": "大阪城ホール"
     },
     {
         "live_bg_id": 440021,
@@ -4192,6 +4282,42 @@
         "live_name": "13th YEAR BIRTHDAY LIVE",
         "live_date": "2025年5月18日",
         "live_location": "味の素スタジアム"
+    },
+    {
+        "live_bg_id": 450021,
+        "live_bg_name": "真夏日よ",
+        "live_bg_type": 1,
+        "music_id": 450020,
+        "live_name": "真夏の全国ツアー2025",
+        "live_date": "2025年7月16日",
+        "live_location": "大阪城ホール"
+    },
+    {
+        "live_bg_id": 450022,
+        "live_bg_name": "真夏日よ",
+        "live_bg_type": 2,
+        "music_id": 450020,
+        "live_name": "真夏の全国ツアー2025",
+        "live_date": "2025年7月16日",
+        "live_location": "大阪城ホール"
+    },
+    {
+        "live_bg_id": 450031,
+        "live_bg_name": "なぜ　僕たちは走るのか？",
+        "live_bg_type": 1,
+        "music_id": 450030,
+        "live_name": "真夏の全国ツアー2025",
+        "live_date": "2025年7月16日",
+        "live_location": "大阪城ホール"
+    },
+    {
+        "live_bg_id": 450032,
+        "live_bg_name": "なぜ　僕たちは走るのか？",
+        "live_bg_type": 2,
+        "music_id": 450030,
+        "live_name": "真夏の全国ツアー2025",
+        "live_date": "2025年7月16日",
+        "live_location": "大阪城ホール"
     },
     {
         "live_bg_id": 10000011,
@@ -5650,6 +5776,78 @@
         "live_name": "13th YEAR BIRTHDAY LIVE",
         "live_date": "2025年5月17日",
         "live_location": "味の素スタジアム"
+    },
+    {
+        "live_bg_id": 90000801,
+        "live_bg_name": "僕の衝動 -12th YEAR BIRTHDAY LIVE ver-",
+        "live_bg_type": 1,
+        "music_id": 90000800,
+        "live_name": "12th YEAR BIRTHDAY LIVE",
+        "live_date": "2024年3月8日",
+        "live_location": "さいたまスーパーアリーナ"
+    },
+    {
+        "live_bg_id": 90000802,
+        "live_bg_name": "僕の衝動 -12th YEAR BIRTHDAY LIVE ver-",
+        "live_bg_type": 2,
+        "music_id": 90000800,
+        "live_name": "12th YEAR BIRTHDAY LIVE",
+        "live_date": "2024年3月8日",
+        "live_location": "さいたまスーパーアリーナ"
+    },
+    {
+        "live_bg_id": 90000811,
+        "live_bg_name": "他の星から -12th YEAR BIRTHDAY LIVE ver-",
+        "live_bg_type": 1,
+        "music_id": 90000810,
+        "live_name": "12th YEAR BIRTHDAY LIVE",
+        "live_date": "2024年3月7日",
+        "live_location": "さいたまスーパーアリーナ"
+    },
+    {
+        "live_bg_id": 90000812,
+        "live_bg_name": "他の星から -12th YEAR BIRTHDAY LIVE ver-",
+        "live_bg_type": 2,
+        "music_id": 90000810,
+        "live_name": "12th YEAR BIRTHDAY LIVE",
+        "live_date": "2024年3月7日",
+        "live_location": "さいたまスーパーアリーナ"
+    },
+    {
+        "live_bg_id": 90000821,
+        "live_bg_name": "君に叱られた -真夏の全国ツアー2025 ver-",
+        "live_bg_type": 1,
+        "music_id": 90000820,
+        "live_name": "真夏の全国ツアー2025",
+        "live_date": "2025年7月17日",
+        "live_location": "大阪城ホール"
+    },
+    {
+        "live_bg_id": 90000822,
+        "live_bg_name": "君に叱られた -真夏の全国ツアー2025 ver-",
+        "live_bg_type": 2,
+        "music_id": 90000820,
+        "live_name": "真夏の全国ツアー2025",
+        "live_date": "2025年7月17日",
+        "live_location": "大阪城ホール"
+    },
+    {
+        "live_bg_id": 90000831,
+        "live_bg_name": "Threefold choice -12th YEAR BIRTHDAY LIVE ver-",
+        "live_bg_type": 1,
+        "music_id": 90000830,
+        "live_name": "12th YEAR BIRTHDAY LIVE",
+        "live_date": "2024年3月8日",
+        "live_location": "さいたまスーパーアリーナ"
+    },
+    {
+        "live_bg_id": 90000832,
+        "live_bg_name": "Threefold choice -12th YEAR BIRTHDAY LIVE ver-",
+        "live_bg_type": 2,
+        "music_id": 90000830,
+        "live_name": "12th YEAR BIRTHDAY LIVE",
+        "live_date": "2024年3月8日",
+        "live_location": "さいたまスーパーアリーナ"
     },
     {
         "live_bg_id": 90010011,

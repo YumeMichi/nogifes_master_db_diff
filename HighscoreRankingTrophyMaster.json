@@ -6298,5 +6298,305 @@
         "target_event_id": 264,
         "type": 1,
         "special_bonus_rate": 1000
+    },
+    {
+        "trophy_id": 1051,
+        "target_event_id": 265,
+        "type": 5,
+        "special_bonus_rate": 10000
+    },
+    {
+        "trophy_id": 1052,
+        "target_event_id": 265,
+        "type": 4,
+        "special_bonus_rate": 7000
+    },
+    {
+        "trophy_id": 1053,
+        "target_event_id": 265,
+        "type": 3,
+        "special_bonus_rate": 4000
+    },
+    {
+        "trophy_id": 1054,
+        "target_event_id": 265,
+        "type": 2,
+        "special_bonus_rate": 2000
+    },
+    {
+        "trophy_id": 1055,
+        "target_event_id": 265,
+        "type": 1,
+        "special_bonus_rate": 1000
+    },
+    {
+        "trophy_id": 1056,
+        "target_event_id": 266,
+        "type": 5,
+        "special_bonus_rate": 10000
+    },
+    {
+        "trophy_id": 1057,
+        "target_event_id": 266,
+        "type": 4,
+        "special_bonus_rate": 7000
+    },
+    {
+        "trophy_id": 1058,
+        "target_event_id": 266,
+        "type": 3,
+        "special_bonus_rate": 4000
+    },
+    {
+        "trophy_id": 1059,
+        "target_event_id": 266,
+        "type": 2,
+        "special_bonus_rate": 2000
+    },
+    {
+        "trophy_id": 1060,
+        "target_event_id": 266,
+        "type": 1,
+        "special_bonus_rate": 1000
+    },
+    {
+        "trophy_id": 1061,
+        "target_event_id": 267,
+        "type": 5,
+        "special_bonus_rate": 10000
+    },
+    {
+        "trophy_id": 1062,
+        "target_event_id": 267,
+        "type": 4,
+        "special_bonus_rate": 7000
+    },
+    {
+        "trophy_id": 1063,
+        "target_event_id": 267,
+        "type": 3,
+        "special_bonus_rate": 4000
+    },
+    {
+        "trophy_id": 1064,
+        "target_event_id": 267,
+        "type": 2,
+        "special_bonus_rate": 2000
+    },
+    {
+        "trophy_id": 1065,
+        "target_event_id": 267,
+        "type": 1,
+        "special_bonus_rate": 1000
+    },
+    {
+        "trophy_id": 1066,
+        "target_event_id": 268,
+        "type": 5,
+        "special_bonus_rate": 10000
+    },
+    {
+        "trophy_id": 1067,
+        "target_event_id": 268,
+        "type": 4,
+        "special_bonus_rate": 7000
+    },
+    {
+        "trophy_id": 1068,
+        "target_event_id": 268,
+        "type": 3,
+        "special_bonus_rate": 4000
+    },
+    {
+        "trophy_id": 1069,
+        "target_event_id": 268,
+        "type": 2,
+        "special_bonus_rate": 2000
+    },
+    {
+        "trophy_id": 1070,
+        "target_event_id": 268,
+        "type": 1,
+        "special_bonus_rate": 1000
+    },
+    {
+        "trophy_id": 1071,
+        "target_event_id": 269,
+        "type": 5,
+        "special_bonus_rate": 10000
+    },
+    {
+        "trophy_id": 1072,
+        "target_event_id": 269,
+        "type": 4,
+        "special_bonus_rate": 7000
+    },
+    {
+        "trophy_id": 1073,
+        "target_event_id": 269,
+        "type": 3,
+        "special_bonus_rate": 4000
+    },
+    {
+        "trophy_id": 1074,
+        "target_event_id": 269,
+        "type": 2,
+        "special_bonus_rate": 2000
+    },
+    {
+        "trophy_id": 1075,
+        "target_event_id": 269,
+        "type": 1,
+        "special_bonus_rate": 1000
+    },
+    {
+        "trophy_id": 1076,
+        "target_event_id": 270,
+        "type": 5,
+        "special_bonus_rate": 10000
+    },
+    {
+        "trophy_id": 1077,
+        "target_event_id": 270,
+        "type": 4,
+        "special_bonus_rate": 7000
+    },
+    {
+        "trophy_id": 1078,
+        "target_event_id": 270,
+        "type": 3,
+        "special_bonus_rate": 4000
+    },
+    {
+        "trophy_id": 1079,
+        "target_event_id": 270,
+        "type": 2,
+        "special_bonus_rate": 2000
+    },
+    {
+        "trophy_id": 1080,
+        "target_event_id": 270,
+        "type": 1,
+        "special_bonus_rate": 1000
+    },
+    {
+        "trophy_id": 1081,
+        "target_event_id": 271,
+        "type": 5,
+        "special_bonus_rate": 10000
+    },
+    {
+        "trophy_id": 1082,
+        "target_event_id": 271,
+        "type": 4,
+        "special_bonus_rate": 7000
+    },
+    {
+        "trophy_id": 1083,
+        "target_event_id": 271,
+        "type": 3,
+        "special_bonus_rate": 4000
+    },
+    {
+        "trophy_id": 1084,
+        "target_event_id": 271,
+        "type": 2,
+        "special_bonus_rate": 2000
+    },
+    {
+        "trophy_id": 1085,
+        "target_event_id": 271,
+        "type": 1,
+        "special_bonus_rate": 1000
+    },
+    {
+        "trophy_id": 1086,
+        "target_event_id": 272,
+        "type": 5,
+        "special_bonus_rate": 10000
+    },
+    {
+        "trophy_id": 1087,
+        "target_event_id": 272,
+        "type": 4,
+        "special_bonus_rate": 7000
+    },
+    {
+        "trophy_id": 1088,
+        "target_event_id": 272,
+        "type": 3,
+        "special_bonus_rate": 4000
+    },
+    {
+        "trophy_id": 1089,
+        "target_event_id": 272,
+        "type": 2,
+        "special_bonus_rate": 2000
+    },
+    {
+        "trophy_id": 1090,
+        "target_event_id": 272,
+        "type": 1,
+        "special_bonus_rate": 1000
+    },
+    {
+        "trophy_id": 1091,
+        "target_event_id": 273,
+        "type": 5,
+        "special_bonus_rate": 10000
+    },
+    {
+        "trophy_id": 1092,
+        "target_event_id": 273,
+        "type": 4,
+        "special_bonus_rate": 7000
+    },
+    {
+        "trophy_id": 1093,
+        "target_event_id": 273,
+        "type": 3,
+        "special_bonus_rate": 4000
+    },
+    {
+        "trophy_id": 1094,
+        "target_event_id": 273,
+        "type": 2,
+        "special_bonus_rate": 2000
+    },
+    {
+        "trophy_id": 1095,
+        "target_event_id": 273,
+        "type": 1,
+        "special_bonus_rate": 1000
+    },
+    {
+        "trophy_id": 1096,
+        "target_event_id": 274,
+        "type": 5,
+        "special_bonus_rate": 10000
+    },
+    {
+        "trophy_id": 1097,
+        "target_event_id": 274,
+        "type": 4,
+        "special_bonus_rate": 7000
+    },
+    {
+        "trophy_id": 1098,
+        "target_event_id": 274,
+        "type": 3,
+        "special_bonus_rate": 4000
+    },
+    {
+        "trophy_id": 1099,
+        "target_event_id": 274,
+        "type": 2,
+        "special_bonus_rate": 2000
+    },
+    {
+        "trophy_id": 1100,
+        "target_event_id": 274,
+        "type": 1,
+        "special_bonus_rate": 1000
     }
 ]

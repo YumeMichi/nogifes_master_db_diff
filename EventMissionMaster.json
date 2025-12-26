@@ -54622,5 +54622,2117 @@
                 ]
             }
         ]
+    },
+    {
+        "mission_panel_id": 856,
+        "event_id": 266,
+        "level": 1,
+        "title": "イベントチャレンジ【Lv.1】",
+        "adv_id": 0,
+        "panel_reward_data": [
+            {
+                "data_type": 10,
+                "data_id": 0,
+                "data_num": 2000
+            }
+        ],
+        "task_data": [
+            {
+                "task_id": 1,
+                "terms_name": "SCORE65,000以上でクリア",
+                "terms_id": 62,
+                "reward_data": [
+                    {
+                        "data_type": 4,
+                        "data_id": 1,
+                        "data_num": 5
+                    }
+                ]
+            },
+            {
+                "task_id": 2,
+                "terms_name": "残りHP 1％以上でクリア",
+                "terms_id": 63,
+                "reward_data": [
+                    {
+                        "data_type": 10,
+                        "data_id": 0,
+                        "data_num": 1000
+                    }
+                ]
+            },
+            {
+                "task_id": 3,
+                "terms_name": "GREAT以下判定を150回以内でクリア",
+                "terms_id": 64,
+                "reward_data": [
+                    {
+                        "data_type": 18,
+                        "data_id": 645,
+                        "data_num": 20
+                    }
+                ]
+            },
+            {
+                "task_id": 4,
+                "terms_name": "MAX COMBO 10以上でクリア",
+                "terms_id": 65,
+                "reward_data": [
+                    {
+                        "data_type": 20,
+                        "data_id": 3,
+                        "data_num": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "mission_panel_id": 857,
+        "event_id": 266,
+        "level": 2,
+        "title": "イベントチャレンジ【Lv.2】",
+        "adv_id": 0,
+        "panel_reward_data": [
+            {
+                "data_type": 18,
+                "data_id": 647,
+                "data_num": 1
+            }
+        ],
+        "task_data": [
+            {
+                "task_id": 1,
+                "terms_name": "SCORE100,000以上でクリア",
+                "terms_id": 66,
+                "reward_data": [
+                    {
+                        "data_type": 5,
+                        "data_id": 1,
+                        "data_num": 30
+                    }
+                ]
+            },
+            {
+                "task_id": 2,
+                "terms_name": "残りHP 10％以上でクリア",
+                "terms_id": 67,
+                "reward_data": [
+                    {
+                        "data_type": 10,
+                        "data_id": 0,
+                        "data_num": 2000
+                    }
+                ]
+            },
+            {
+                "task_id": 3,
+                "terms_name": "GREAT以下判定を130回以内でクリア",
+                "terms_id": 68,
+                "reward_data": [
+                    {
+                        "data_type": 11,
+                        "data_id": 0,
+                        "data_num": 200
+                    }
+                ]
+            },
+            {
+                "task_id": 4,
+                "terms_name": "MAX COMBO 30以上でクリア",
+                "terms_id": 69,
+                "reward_data": [
+                    {
+                        "data_type": 20,
+                        "data_id": 3,
+                        "data_num": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "mission_panel_id": 858,
+        "event_id": 266,
+        "level": 3,
+        "title": "イベントチャレンジ【Lv.3】",
+        "adv_id": 0,
+        "panel_reward_data": [
+            {
+                "data_type": 4,
+                "data_id": 4,
+                "data_num": 3
+            }
+        ],
+        "task_data": [
+            {
+                "task_id": 1,
+                "terms_name": "SCORE150,000以上でクリア",
+                "terms_id": 70,
+                "reward_data": [
+                    {
+                        "data_type": 5,
+                        "data_id": 4,
+                        "data_num": 20
+                    }
+                ]
+            },
+            {
+                "task_id": 2,
+                "terms_name": "残りHP 20％以上でクリア",
+                "terms_id": 71,
+                "reward_data": [
+                    {
+                        "data_type": 10,
+                        "data_id": 0,
+                        "data_num": 3000
+                    }
+                ]
+            },
+            {
+                "task_id": 3,
+                "terms_name": "GREAT以下判定を100回以内でクリア",
+                "terms_id": 72,
+                "reward_data": [
+                    {
+                        "data_type": 3,
+                        "data_id": 6,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "task_id": 4,
+                "terms_name": "MAX COMBO 50以上でクリア",
+                "terms_id": 73,
+                "reward_data": [
+                    {
+                        "data_type": 20,
+                        "data_id": 3,
+                        "data_num": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "mission_panel_id": 859,
+        "event_id": 266,
+        "level": 4,
+        "title": "イベントチャレンジ【Lv.4】",
+        "adv_id": 0,
+        "panel_reward_data": [
+            {
+                "data_type": 18,
+                "data_id": 647,
+                "data_num": 1
+            }
+        ],
+        "task_data": [
+            {
+                "task_id": 1,
+                "terms_name": "SCORE200,000以上でクリア",
+                "terms_id": 74,
+                "reward_data": [
+                    {
+                        "data_type": 5,
+                        "data_id": 7,
+                        "data_num": 10
+                    }
+                ]
+            },
+            {
+                "task_id": 2,
+                "terms_name": "残りHP 30％以上でクリア",
+                "terms_id": 75,
+                "reward_data": [
+                    {
+                        "data_type": 11,
+                        "data_id": 0,
+                        "data_num": 300
+                    }
+                ]
+            },
+            {
+                "task_id": 3,
+                "terms_name": "GREAT以下判定を90回以内でクリア",
+                "terms_id": 76,
+                "reward_data": [
+                    {
+                        "data_type": 3,
+                        "data_id": 7,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "task_id": 4,
+                "terms_name": "MAX COMBO 100以上でクリア",
+                "terms_id": 77,
+                "reward_data": [
+                    {
+                        "data_type": 20,
+                        "data_id": 3,
+                        "data_num": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "mission_panel_id": 860,
+        "event_id": 266,
+        "level": 5,
+        "title": "イベントチャレンジ【Lv.5】",
+        "adv_id": 0,
+        "panel_reward_data": [
+            {
+                "data_type": 1,
+                "data_id": 122190,
+                "data_num": 1
+            }
+        ],
+        "task_data": [
+            {
+                "task_id": 1,
+                "terms_name": "賀喜遥香を1人編成・「君に叱られた -真夏の全国ツアー2025 ver-」のLIVEをSCORE300,000以上でクリア",
+                "terms_id": 1968,
+                "reward_data": [
+                    {
+                        "data_type": 5,
+                        "data_id": 10,
+                        "data_num": 5
+                    }
+                ]
+            },
+            {
+                "task_id": 2,
+                "terms_name": "HP回復無し・残りHP 40％以上・星属性のみ編成でクリア",
+                "terms_id": 167,
+                "reward_data": [
+                    {
+                        "data_type": 5,
+                        "data_id": 13,
+                        "data_num": 2
+                    }
+                ]
+            },
+            {
+                "task_id": 3,
+                "terms_name": "GREAT以下判定を80回以内・星属性のみ編成でクリア",
+                "terms_id": 125,
+                "reward_data": [
+                    {
+                        "data_type": 3,
+                        "data_id": 8,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "task_id": 4,
+                "terms_name": "FULL COMBO以上・星属性のみ編成でクリア",
+                "terms_id": 126,
+                "reward_data": [
+                    {
+                        "data_type": 20,
+                        "data_id": 3,
+                        "data_num": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "mission_panel_id": 861,
+        "event_id": 266,
+        "level": 6,
+        "title": "イベントチャレンジ【Lv.6】",
+        "adv_id": 0,
+        "panel_reward_data": [
+            {
+                "data_type": 4,
+                "data_id": 7,
+                "data_num": 2
+            }
+        ],
+        "task_data": [
+            {
+                "task_id": 1,
+                "terms_name": "SCORE400,000以上でクリア",
+                "terms_id": 82,
+                "reward_data": [
+                    {
+                        "data_type": 13,
+                        "data_id": 0,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "task_id": 2,
+                "terms_name": "難易度NORMAL以上・残りHP 50％以上でクリア",
+                "terms_id": 83,
+                "reward_data": [
+                    {
+                        "data_type": 13,
+                        "data_id": 0,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "task_id": 3,
+                "terms_name": "難易度NORMAL以上・GREAT以下判定を70回以内でクリア",
+                "terms_id": 84,
+                "reward_data": [
+                    {
+                        "data_type": 13,
+                        "data_id": 0,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "task_id": 4,
+                "terms_name": "難易度NORMAL以上・MAX COMBO 150以上でクリア",
+                "terms_id": 85,
+                "reward_data": [
+                    {
+                        "data_type": 13,
+                        "data_id": 0,
+                        "data_num": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "mission_panel_id": 862,
+        "event_id": 266,
+        "level": 7,
+        "title": "イベントチャレンジ【Lv.7】",
+        "adv_id": 0,
+        "panel_reward_data": [
+            {
+                "data_type": 20,
+                "data_id": 1,
+                "data_num": 5
+            }
+        ],
+        "task_data": [
+            {
+                "task_id": 1,
+                "terms_name": "SCORE550,000以上でクリア",
+                "terms_id": 86,
+                "reward_data": [
+                    {
+                        "data_type": 13,
+                        "data_id": 0,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "task_id": 2,
+                "terms_name": "難易度NORMAL以上・残りHP 60％以上でクリア",
+                "terms_id": 87,
+                "reward_data": [
+                    {
+                        "data_type": 13,
+                        "data_id": 0,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "task_id": 3,
+                "terms_name": "難易度NORMAL以上・GREAT以下判定を60回以内でクリア",
+                "terms_id": 88,
+                "reward_data": [
+                    {
+                        "data_type": 13,
+                        "data_id": 0,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "task_id": 4,
+                "terms_name": "難易度NORMAL以上・MAX COMBO 250以上でクリア",
+                "terms_id": 89,
+                "reward_data": [
+                    {
+                        "data_type": 13,
+                        "data_id": 0,
+                        "data_num": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "mission_panel_id": 863,
+        "event_id": 266,
+        "level": 8,
+        "title": "イベントチャレンジ【Lv.8】",
+        "adv_id": 0,
+        "panel_reward_data": [
+            {
+                "data_type": 4,
+                "data_id": 7,
+                "data_num": 2
+            }
+        ],
+        "task_data": [
+            {
+                "task_id": 1,
+                "terms_name": "賀喜遥香を1人編成・「君に叱られた -真夏の全国ツアー2025 ver-」のLIVEをSCORE700,000以上でクリア",
+                "terms_id": 1969,
+                "reward_data": [
+                    {
+                        "data_type": 13,
+                        "data_id": 0,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "task_id": 2,
+                "terms_name": "難易度HARD以上・残りHP 70％以上でクリア",
+                "terms_id": 91,
+                "reward_data": [
+                    {
+                        "data_type": 13,
+                        "data_id": 0,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "task_id": 3,
+                "terms_name": "難易度HARD以上・GREAT以下判定を50回以内でクリア",
+                "terms_id": 92,
+                "reward_data": [
+                    {
+                        "data_type": 13,
+                        "data_id": 0,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "task_id": 4,
+                "terms_name": "難易度HARD以上・FULL COMBO以上でクリア",
+                "terms_id": 93,
+                "reward_data": [
+                    {
+                        "data_type": 13,
+                        "data_id": 0,
+                        "data_num": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "mission_panel_id": 864,
+        "event_id": 266,
+        "level": 9,
+        "title": "イベントチャレンジ【Lv.EX1】",
+        "adv_id": 0,
+        "panel_reward_data": [
+            {
+                "data_type": 22,
+                "data_id": 3,
+                "data_num": 1
+            }
+        ],
+        "task_data": [
+            {
+                "task_id": 1,
+                "terms_name": "賀喜遥香を1人編成・SCORE1,000,000以上・星属性のみ編成でクリア",
+                "terms_id": 1970,
+                "reward_data": [
+                    {
+                        "data_type": 13,
+                        "data_id": 0,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "task_id": 2,
+                "terms_name": "楽曲Lv16以上・残りHP 80％以上・星属性のみ編成でクリア",
+                "terms_id": 129,
+                "reward_data": [
+                    {
+                        "data_type": 13,
+                        "data_id": 0,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "task_id": 3,
+                "terms_name": "楽曲Lv16以上・GREAT以下判定を20回以内・星属性のみ編成でクリア",
+                "terms_id": 130,
+                "reward_data": [
+                    {
+                        "data_type": 13,
+                        "data_id": 0,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "task_id": 4,
+                "terms_name": "楽曲Lv18以上・FULL COMBO以上・星属性のみ編成でクリア",
+                "terms_id": 131,
+                "reward_data": [
+                    {
+                        "data_type": 13,
+                        "data_id": 0,
+                        "data_num": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "mission_panel_id": 865,
+        "event_id": 266,
+        "level": 10,
+        "title": "イベントチャレンジ【Lv.EX2】",
+        "adv_id": 0,
+        "panel_reward_data": [
+            {
+                "data_type": 20,
+                "data_id": 2,
+                "data_num": 3
+            }
+        ],
+        "task_data": [
+            {
+                "task_id": 1,
+                "terms_name": "賀喜遥香を1人編成・SCORE1,150,000以上・星属性のみ編成でクリア",
+                "terms_id": 1971,
+                "reward_data": [
+                    {
+                        "data_type": 13,
+                        "data_id": 0,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "task_id": 2,
+                "terms_name": "楽曲Lv18以上・残りHP 100％以上・星属性のみ編成でクリア",
+                "terms_id": 133,
+                "reward_data": [
+                    {
+                        "data_type": 13,
+                        "data_id": 0,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "task_id": 3,
+                "terms_name": "楽曲Lv18以上・GREAT以下判定を15回以内・星属性のみ編成でクリア",
+                "terms_id": 134,
+                "reward_data": [
+                    {
+                        "data_type": 13,
+                        "data_id": 0,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "task_id": 4,
+                "terms_name": "楽曲Lv19以上・FULL COMBO以上・星属性のみ編成でクリア",
+                "terms_id": 135,
+                "reward_data": [
+                    {
+                        "data_type": 13,
+                        "data_id": 0,
+                        "data_num": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "mission_panel_id": 866,
+        "event_id": 266,
+        "level": 11,
+        "title": "イベントチャレンジ【Lv.EX3】",
+        "adv_id": 0,
+        "panel_reward_data": [
+            {
+                "data_type": 9,
+                "data_id": 839,
+                "data_num": 1
+            }
+        ],
+        "task_data": [
+            {
+                "task_id": 1,
+                "terms_name": "賀喜遥香を1人編成・「君に叱られた -真夏の全国ツアー2025 ver-」のLIVEをSCORE1,250,000以上でクリア",
+                "terms_id": 1972,
+                "reward_data": [
+                    {
+                        "data_type": 13,
+                        "data_id": 0,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "task_id": 2,
+                "terms_name": "楽曲Lv20以上・残りHP 100％以上・星属性のみ編成でクリア",
+                "terms_id": 137,
+                "reward_data": [
+                    {
+                        "data_type": 13,
+                        "data_id": 0,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "task_id": 3,
+                "terms_name": "楽曲Lv20以上・GREAT以下判定を10回以内・星属性のみ編成でクリア",
+                "terms_id": 138,
+                "reward_data": [
+                    {
+                        "data_type": 13,
+                        "data_id": 0,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "task_id": 4,
+                "terms_name": "楽曲Lv20以上・FULL COMBO以上・星属性のみ編成でクリア",
+                "terms_id": 139,
+                "reward_data": [
+                    {
+                        "data_type": 13,
+                        "data_id": 0,
+                        "data_num": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "mission_panel_id": 867,
+        "event_id": 267,
+        "level": 1,
+        "title": "イベントチャレンジ【Lv.1】",
+        "adv_id": 0,
+        "panel_reward_data": [
+            {
+                "data_type": 10,
+                "data_id": 0,
+                "data_num": 2000
+            }
+        ],
+        "task_data": [
+            {
+                "task_id": 1,
+                "terms_name": "SCORE65,000以上でクリア",
+                "terms_id": 62,
+                "reward_data": [
+                    {
+                        "data_type": 4,
+                        "data_id": 3,
+                        "data_num": 5
+                    }
+                ]
+            },
+            {
+                "task_id": 2,
+                "terms_name": "残りHP 1％以上でクリア",
+                "terms_id": 63,
+                "reward_data": [
+                    {
+                        "data_type": 10,
+                        "data_id": 0,
+                        "data_num": 1000
+                    }
+                ]
+            },
+            {
+                "task_id": 3,
+                "terms_name": "GREAT以下判定を150回以内でクリア",
+                "terms_id": 64,
+                "reward_data": [
+                    {
+                        "data_type": 18,
+                        "data_id": 648,
+                        "data_num": 20
+                    }
+                ]
+            },
+            {
+                "task_id": 4,
+                "terms_name": "MAX COMBO 10以上でクリア",
+                "terms_id": 65,
+                "reward_data": [
+                    {
+                        "data_type": 20,
+                        "data_id": 3,
+                        "data_num": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "mission_panel_id": 868,
+        "event_id": 267,
+        "level": 2,
+        "title": "イベントチャレンジ【Lv.2】",
+        "adv_id": 0,
+        "panel_reward_data": [
+            {
+                "data_type": 18,
+                "data_id": 650,
+                "data_num": 1
+            }
+        ],
+        "task_data": [
+            {
+                "task_id": 1,
+                "terms_name": "SCORE100,000以上でクリア",
+                "terms_id": 66,
+                "reward_data": [
+                    {
+                        "data_type": 5,
+                        "data_id": 3,
+                        "data_num": 30
+                    }
+                ]
+            },
+            {
+                "task_id": 2,
+                "terms_name": "残りHP 10％以上でクリア",
+                "terms_id": 67,
+                "reward_data": [
+                    {
+                        "data_type": 10,
+                        "data_id": 0,
+                        "data_num": 2000
+                    }
+                ]
+            },
+            {
+                "task_id": 3,
+                "terms_name": "GREAT以下判定を130回以内でクリア",
+                "terms_id": 68,
+                "reward_data": [
+                    {
+                        "data_type": 11,
+                        "data_id": 0,
+                        "data_num": 200
+                    }
+                ]
+            },
+            {
+                "task_id": 4,
+                "terms_name": "MAX COMBO 30以上でクリア",
+                "terms_id": 69,
+                "reward_data": [
+                    {
+                        "data_type": 20,
+                        "data_id": 3,
+                        "data_num": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "mission_panel_id": 869,
+        "event_id": 267,
+        "level": 3,
+        "title": "イベントチャレンジ【Lv.3】",
+        "adv_id": 0,
+        "panel_reward_data": [
+            {
+                "data_type": 4,
+                "data_id": 6,
+                "data_num": 3
+            }
+        ],
+        "task_data": [
+            {
+                "task_id": 1,
+                "terms_name": "SCORE150,000以上でクリア",
+                "terms_id": 70,
+                "reward_data": [
+                    {
+                        "data_type": 5,
+                        "data_id": 6,
+                        "data_num": 20
+                    }
+                ]
+            },
+            {
+                "task_id": 2,
+                "terms_name": "残りHP 20％以上でクリア",
+                "terms_id": 71,
+                "reward_data": [
+                    {
+                        "data_type": 10,
+                        "data_id": 0,
+                        "data_num": 3000
+                    }
+                ]
+            },
+            {
+                "task_id": 3,
+                "terms_name": "GREAT以下判定を100回以内でクリア",
+                "terms_id": 72,
+                "reward_data": [
+                    {
+                        "data_type": 3,
+                        "data_id": 6,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "task_id": 4,
+                "terms_name": "MAX COMBO 50以上でクリア",
+                "terms_id": 73,
+                "reward_data": [
+                    {
+                        "data_type": 20,
+                        "data_id": 3,
+                        "data_num": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "mission_panel_id": 870,
+        "event_id": 267,
+        "level": 4,
+        "title": "イベントチャレンジ【Lv.4】",
+        "adv_id": 0,
+        "panel_reward_data": [
+            {
+                "data_type": 18,
+                "data_id": 650,
+                "data_num": 1
+            }
+        ],
+        "task_data": [
+            {
+                "task_id": 1,
+                "terms_name": "SCORE200,000以上でクリア",
+                "terms_id": 74,
+                "reward_data": [
+                    {
+                        "data_type": 5,
+                        "data_id": 9,
+                        "data_num": 10
+                    }
+                ]
+            },
+            {
+                "task_id": 2,
+                "terms_name": "残りHP 30％以上でクリア",
+                "terms_id": 75,
+                "reward_data": [
+                    {
+                        "data_type": 11,
+                        "data_id": 0,
+                        "data_num": 300
+                    }
+                ]
+            },
+            {
+                "task_id": 3,
+                "terms_name": "GREAT以下判定を90回以内でクリア",
+                "terms_id": 76,
+                "reward_data": [
+                    {
+                        "data_type": 3,
+                        "data_id": 7,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "task_id": 4,
+                "terms_name": "MAX COMBO 100以上でクリア",
+                "terms_id": 77,
+                "reward_data": [
+                    {
+                        "data_type": 20,
+                        "data_id": 3,
+                        "data_num": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "mission_panel_id": 871,
+        "event_id": 267,
+        "level": 5,
+        "title": "イベントチャレンジ【Lv.5】",
+        "adv_id": 0,
+        "panel_reward_data": [
+            {
+                "data_type": 1,
+                "data_id": 122530,
+                "data_num": 1
+            }
+        ],
+        "task_data": [
+            {
+                "task_id": 1,
+                "terms_name": "川﨑桜を1人編成・「君にDitto」のLIVEをSCORE300,000以上でクリア",
+                "terms_id": 1973,
+                "reward_data": [
+                    {
+                        "data_type": 5,
+                        "data_id": 12,
+                        "data_num": 5
+                    }
+                ]
+            },
+            {
+                "task_id": 2,
+                "terms_name": "HP回復無し・残りHP 40％以上・太陽属性のみ編成でクリア",
+                "terms_id": 107,
+                "reward_data": [
+                    {
+                        "data_type": 5,
+                        "data_id": 13,
+                        "data_num": 2
+                    }
+                ]
+            },
+            {
+                "task_id": 3,
+                "terms_name": "GREAT以下判定を80回以内・太陽属性のみ編成でクリア",
+                "terms_id": 108,
+                "reward_data": [
+                    {
+                        "data_type": 3,
+                        "data_id": 8,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "task_id": 4,
+                "terms_name": "FULL COMBO以上・太陽属性のみ編成でクリア",
+                "terms_id": 109,
+                "reward_data": [
+                    {
+                        "data_type": 20,
+                        "data_id": 3,
+                        "data_num": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "mission_panel_id": 872,
+        "event_id": 267,
+        "level": 6,
+        "title": "イベントチャレンジ【Lv.6】",
+        "adv_id": 0,
+        "panel_reward_data": [
+            {
+                "data_type": 4,
+                "data_id": 9,
+                "data_num": 2
+            }
+        ],
+        "task_data": [
+            {
+                "task_id": 1,
+                "terms_name": "SCORE400,000以上でクリア",
+                "terms_id": 82,
+                "reward_data": [
+                    {
+                        "data_type": 13,
+                        "data_id": 0,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "task_id": 2,
+                "terms_name": "難易度NORMAL以上・残りHP 50％以上でクリア",
+                "terms_id": 83,
+                "reward_data": [
+                    {
+                        "data_type": 13,
+                        "data_id": 0,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "task_id": 3,
+                "terms_name": "難易度NORMAL以上・GREAT以下判定を70回以内でクリア",
+                "terms_id": 84,
+                "reward_data": [
+                    {
+                        "data_type": 13,
+                        "data_id": 0,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "task_id": 4,
+                "terms_name": "難易度NORMAL以上・MAX COMBO 150以上でクリア",
+                "terms_id": 85,
+                "reward_data": [
+                    {
+                        "data_type": 13,
+                        "data_id": 0,
+                        "data_num": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "mission_panel_id": 873,
+        "event_id": 267,
+        "level": 7,
+        "title": "イベントチャレンジ【Lv.7】",
+        "adv_id": 0,
+        "panel_reward_data": [
+            {
+                "data_type": 20,
+                "data_id": 1,
+                "data_num": 5
+            }
+        ],
+        "task_data": [
+            {
+                "task_id": 1,
+                "terms_name": "SCORE550,000以上でクリア",
+                "terms_id": 86,
+                "reward_data": [
+                    {
+                        "data_type": 13,
+                        "data_id": 0,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "task_id": 2,
+                "terms_name": "難易度NORMAL以上・残りHP 60％以上でクリア",
+                "terms_id": 87,
+                "reward_data": [
+                    {
+                        "data_type": 13,
+                        "data_id": 0,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "task_id": 3,
+                "terms_name": "難易度NORMAL以上・GREAT以下判定を60回以内でクリア",
+                "terms_id": 88,
+                "reward_data": [
+                    {
+                        "data_type": 13,
+                        "data_id": 0,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "task_id": 4,
+                "terms_name": "難易度NORMAL以上・MAX COMBO 250以上でクリア",
+                "terms_id": 89,
+                "reward_data": [
+                    {
+                        "data_type": 13,
+                        "data_id": 0,
+                        "data_num": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "mission_panel_id": 874,
+        "event_id": 267,
+        "level": 8,
+        "title": "イベントチャレンジ【Lv.8】",
+        "adv_id": 0,
+        "panel_reward_data": [
+            {
+                "data_type": 4,
+                "data_id": 9,
+                "data_num": 2
+            }
+        ],
+        "task_data": [
+            {
+                "task_id": 1,
+                "terms_name": "奥田いろはを1人編成・「君にDitto」のLIVEをSCORE700,000以上でクリア",
+                "terms_id": 1974,
+                "reward_data": [
+                    {
+                        "data_type": 13,
+                        "data_id": 0,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "task_id": 2,
+                "terms_name": "難易度HARD以上・残りHP 70％以上でクリア",
+                "terms_id": 91,
+                "reward_data": [
+                    {
+                        "data_type": 13,
+                        "data_id": 0,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "task_id": 3,
+                "terms_name": "難易度HARD以上・GREAT以下判定を50回以内でクリア",
+                "terms_id": 92,
+                "reward_data": [
+                    {
+                        "data_type": 13,
+                        "data_id": 0,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "task_id": 4,
+                "terms_name": "難易度HARD以上・FULL COMBO以上でクリア",
+                "terms_id": 93,
+                "reward_data": [
+                    {
+                        "data_type": 13,
+                        "data_id": 0,
+                        "data_num": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "mission_panel_id": 875,
+        "event_id": 267,
+        "level": 9,
+        "title": "イベントチャレンジ【Lv.EX1】",
+        "adv_id": 0,
+        "panel_reward_data": [
+            {
+                "data_type": 22,
+                "data_id": 3,
+                "data_num": 1
+            }
+        ],
+        "task_data": [
+            {
+                "task_id": 1,
+                "terms_name": "五百城茉央を1人編成・SCORE1,000,000以上・太陽属性のみ編成でクリア",
+                "terms_id": 1975,
+                "reward_data": [
+                    {
+                        "data_type": 13,
+                        "data_id": 0,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "task_id": 2,
+                "terms_name": "楽曲Lv16以上・残りHP 80％以上・太陽属性のみ編成でクリア",
+                "terms_id": 112,
+                "reward_data": [
+                    {
+                        "data_type": 13,
+                        "data_id": 0,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "task_id": 3,
+                "terms_name": "楽曲Lv16以上・GREAT以下判定を20回以内・太陽属性のみ編成でクリア",
+                "terms_id": 113,
+                "reward_data": [
+                    {
+                        "data_type": 13,
+                        "data_id": 0,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "task_id": 4,
+                "terms_name": "楽曲Lv18以上・FULL COMBO以上・太陽属性のみ編成でクリア",
+                "terms_id": 114,
+                "reward_data": [
+                    {
+                        "data_type": 13,
+                        "data_id": 0,
+                        "data_num": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "mission_panel_id": 876,
+        "event_id": 267,
+        "level": 10,
+        "title": "イベントチャレンジ【Lv.EX2】",
+        "adv_id": 0,
+        "panel_reward_data": [
+            {
+                "data_type": 20,
+                "data_id": 2,
+                "data_num": 3
+            }
+        ],
+        "task_data": [
+            {
+                "task_id": 1,
+                "terms_name": "筒井あやめを1人編成・SCORE1,150,000以上・太陽属性のみ編成でクリア",
+                "terms_id": 1976,
+                "reward_data": [
+                    {
+                        "data_type": 13,
+                        "data_id": 0,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "task_id": 2,
+                "terms_name": "楽曲Lv18以上・残りHP 100％以上・太陽属性のみ編成でクリア",
+                "terms_id": 116,
+                "reward_data": [
+                    {
+                        "data_type": 13,
+                        "data_id": 0,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "task_id": 3,
+                "terms_name": "楽曲Lv18以上・GREAT以下判定を15回以内・太陽属性のみ編成でクリア",
+                "terms_id": 117,
+                "reward_data": [
+                    {
+                        "data_type": 13,
+                        "data_id": 0,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "task_id": 4,
+                "terms_name": "楽曲Lv19以上・FULL COMBO以上・太陽属性のみ編成でクリア",
+                "terms_id": 118,
+                "reward_data": [
+                    {
+                        "data_type": 13,
+                        "data_id": 0,
+                        "data_num": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "mission_panel_id": 877,
+        "event_id": 267,
+        "level": 11,
+        "title": "イベントチャレンジ【Lv.EX3】",
+        "adv_id": 0,
+        "panel_reward_data": [
+            {
+                "data_type": 9,
+                "data_id": 841,
+                "data_num": 1
+            }
+        ],
+        "task_data": [
+            {
+                "task_id": 1,
+                "terms_name": "弓木奈於を1人編成・「君にDitto」のLIVEをSCORE1,250,000以上でクリア",
+                "terms_id": 1977,
+                "reward_data": [
+                    {
+                        "data_type": 13,
+                        "data_id": 0,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "task_id": 2,
+                "terms_name": "楽曲Lv20以上・残りHP 100％以上・太陽属性のみ編成でクリア",
+                "terms_id": 120,
+                "reward_data": [
+                    {
+                        "data_type": 13,
+                        "data_id": 0,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "task_id": 3,
+                "terms_name": "楽曲Lv20以上・GREAT以下判定を10回以内・太陽属性のみ編成でクリア",
+                "terms_id": 121,
+                "reward_data": [
+                    {
+                        "data_type": 13,
+                        "data_id": 0,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "task_id": 4,
+                "terms_name": "楽曲Lv20以上・FULL COMBO以上・太陽属性のみ編成でクリア",
+                "terms_id": 122,
+                "reward_data": [
+                    {
+                        "data_type": 13,
+                        "data_id": 0,
+                        "data_num": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "mission_panel_id": 878,
+        "event_id": 273,
+        "level": 1,
+        "title": "イベントチャレンジ【Lv.1】",
+        "adv_id": 0,
+        "panel_reward_data": [
+            {
+                "data_type": 10,
+                "data_id": 0,
+                "data_num": 2000
+            }
+        ],
+        "task_data": [
+            {
+                "task_id": 1,
+                "terms_name": "SCORE65,000以上でクリア",
+                "terms_id": 62,
+                "reward_data": [
+                    {
+                        "data_type": 4,
+                        "data_id": 3,
+                        "data_num": 5
+                    }
+                ]
+            },
+            {
+                "task_id": 2,
+                "terms_name": "残りHP 1％以上でクリア",
+                "terms_id": 63,
+                "reward_data": [
+                    {
+                        "data_type": 10,
+                        "data_id": 0,
+                        "data_num": 1000
+                    }
+                ]
+            },
+            {
+                "task_id": 3,
+                "terms_name": "GREAT以下判定を150回以内でクリア",
+                "terms_id": 64,
+                "reward_data": [
+                    {
+                        "data_type": 18,
+                        "data_id": 665,
+                        "data_num": 20
+                    }
+                ]
+            },
+            {
+                "task_id": 4,
+                "terms_name": "MAX COMBO 10以上でクリア",
+                "terms_id": 65,
+                "reward_data": [
+                    {
+                        "data_type": 20,
+                        "data_id": 3,
+                        "data_num": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "mission_panel_id": 879,
+        "event_id": 273,
+        "level": 2,
+        "title": "イベントチャレンジ【Lv.2】",
+        "adv_id": 0,
+        "panel_reward_data": [
+            {
+                "data_type": 18,
+                "data_id": 667,
+                "data_num": 1
+            }
+        ],
+        "task_data": [
+            {
+                "task_id": 1,
+                "terms_name": "SCORE100,000以上でクリア",
+                "terms_id": 66,
+                "reward_data": [
+                    {
+                        "data_type": 5,
+                        "data_id": 3,
+                        "data_num": 30
+                    }
+                ]
+            },
+            {
+                "task_id": 2,
+                "terms_name": "残りHP 10％以上でクリア",
+                "terms_id": 67,
+                "reward_data": [
+                    {
+                        "data_type": 10,
+                        "data_id": 0,
+                        "data_num": 2000
+                    }
+                ]
+            },
+            {
+                "task_id": 3,
+                "terms_name": "GREAT以下判定を130回以内でクリア",
+                "terms_id": 68,
+                "reward_data": [
+                    {
+                        "data_type": 11,
+                        "data_id": 0,
+                        "data_num": 200
+                    }
+                ]
+            },
+            {
+                "task_id": 4,
+                "terms_name": "MAX COMBO 30以上でクリア",
+                "terms_id": 69,
+                "reward_data": [
+                    {
+                        "data_type": 20,
+                        "data_id": 3,
+                        "data_num": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "mission_panel_id": 880,
+        "event_id": 273,
+        "level": 3,
+        "title": "イベントチャレンジ【Lv.3】",
+        "adv_id": 0,
+        "panel_reward_data": [
+            {
+                "data_type": 4,
+                "data_id": 6,
+                "data_num": 3
+            }
+        ],
+        "task_data": [
+            {
+                "task_id": 1,
+                "terms_name": "SCORE150,000以上でクリア",
+                "terms_id": 70,
+                "reward_data": [
+                    {
+                        "data_type": 5,
+                        "data_id": 6,
+                        "data_num": 20
+                    }
+                ]
+            },
+            {
+                "task_id": 2,
+                "terms_name": "残りHP 20％以上でクリア",
+                "terms_id": 71,
+                "reward_data": [
+                    {
+                        "data_type": 10,
+                        "data_id": 0,
+                        "data_num": 3000
+                    }
+                ]
+            },
+            {
+                "task_id": 3,
+                "terms_name": "GREAT以下判定を100回以内でクリア",
+                "terms_id": 72,
+                "reward_data": [
+                    {
+                        "data_type": 3,
+                        "data_id": 6,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "task_id": 4,
+                "terms_name": "MAX COMBO 50以上でクリア",
+                "terms_id": 73,
+                "reward_data": [
+                    {
+                        "data_type": 20,
+                        "data_id": 3,
+                        "data_num": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "mission_panel_id": 881,
+        "event_id": 273,
+        "level": 4,
+        "title": "イベントチャレンジ【Lv.4】",
+        "adv_id": 0,
+        "panel_reward_data": [
+            {
+                "data_type": 18,
+                "data_id": 667,
+                "data_num": 1
+            }
+        ],
+        "task_data": [
+            {
+                "task_id": 1,
+                "terms_name": "SCORE200,000以上でクリア",
+                "terms_id": 74,
+                "reward_data": [
+                    {
+                        "data_type": 5,
+                        "data_id": 9,
+                        "data_num": 10
+                    }
+                ]
+            },
+            {
+                "task_id": 2,
+                "terms_name": "残りHP 30％以上でクリア",
+                "terms_id": 75,
+                "reward_data": [
+                    {
+                        "data_type": 11,
+                        "data_id": 0,
+                        "data_num": 300
+                    }
+                ]
+            },
+            {
+                "task_id": 3,
+                "terms_name": "GREAT以下判定を90回以内でクリア",
+                "terms_id": 76,
+                "reward_data": [
+                    {
+                        "data_type": 3,
+                        "data_id": 7,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "task_id": 4,
+                "terms_name": "MAX COMBO 100以上でクリア",
+                "terms_id": 77,
+                "reward_data": [
+                    {
+                        "data_type": 20,
+                        "data_id": 3,
+                        "data_num": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "mission_panel_id": 882,
+        "event_id": 273,
+        "level": 5,
+        "title": "イベントチャレンジ【Lv.5】",
+        "adv_id": 0,
+        "panel_reward_data": [
+            {
+                "data_type": 1,
+                "data_id": 126770,
+                "data_num": 1
+            }
+        ],
+        "task_data": [
+            {
+                "task_id": 1,
+                "terms_name": "6期生メンバーを1人編成・「なぜ　僕たちは走るのか？」のLIVEをSCORE300,000以上でクリア",
+                "terms_id": 2028,
+                "reward_data": [
+                    {
+                        "data_type": 5,
+                        "data_id": 12,
+                        "data_num": 5
+                    }
+                ]
+            },
+            {
+                "task_id": 2,
+                "terms_name": "HP回復無し・残りHP 40％以上・太陽属性のみ編成でクリア",
+                "terms_id": 107,
+                "reward_data": [
+                    {
+                        "data_type": 5,
+                        "data_id": 13,
+                        "data_num": 2
+                    }
+                ]
+            },
+            {
+                "task_id": 3,
+                "terms_name": "GREAT以下判定を80回以内・太陽属性のみ編成でクリア",
+                "terms_id": 108,
+                "reward_data": [
+                    {
+                        "data_type": 3,
+                        "data_id": 8,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "task_id": 4,
+                "terms_name": "FULL COMBO以上・太陽属性のみ編成でクリア",
+                "terms_id": 109,
+                "reward_data": [
+                    {
+                        "data_type": 20,
+                        "data_id": 3,
+                        "data_num": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "mission_panel_id": 883,
+        "event_id": 273,
+        "level": 6,
+        "title": "イベントチャレンジ【Lv.6】",
+        "adv_id": 0,
+        "panel_reward_data": [
+            {
+                "data_type": 4,
+                "data_id": 9,
+                "data_num": 2
+            }
+        ],
+        "task_data": [
+            {
+                "task_id": 1,
+                "terms_name": "SCORE400,000以上でクリア",
+                "terms_id": 82,
+                "reward_data": [
+                    {
+                        "data_type": 13,
+                        "data_id": 0,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "task_id": 2,
+                "terms_name": "難易度NORMAL以上・残りHP 50％以上でクリア",
+                "terms_id": 83,
+                "reward_data": [
+                    {
+                        "data_type": 13,
+                        "data_id": 0,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "task_id": 3,
+                "terms_name": "難易度NORMAL以上・GREAT以下判定を70回以内でクリア",
+                "terms_id": 84,
+                "reward_data": [
+                    {
+                        "data_type": 13,
+                        "data_id": 0,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "task_id": 4,
+                "terms_name": "難易度NORMAL以上・MAX COMBO 150以上でクリア",
+                "terms_id": 85,
+                "reward_data": [
+                    {
+                        "data_type": 13,
+                        "data_id": 0,
+                        "data_num": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "mission_panel_id": 884,
+        "event_id": 273,
+        "level": 7,
+        "title": "イベントチャレンジ【Lv.7】",
+        "adv_id": 0,
+        "panel_reward_data": [
+            {
+                "data_type": 20,
+                "data_id": 1,
+                "data_num": 5
+            }
+        ],
+        "task_data": [
+            {
+                "task_id": 1,
+                "terms_name": "SCORE550,000以上でクリア",
+                "terms_id": 86,
+                "reward_data": [
+                    {
+                        "data_type": 13,
+                        "data_id": 0,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "task_id": 2,
+                "terms_name": "難易度NORMAL以上・残りHP 60％以上でクリア",
+                "terms_id": 87,
+                "reward_data": [
+                    {
+                        "data_type": 13,
+                        "data_id": 0,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "task_id": 3,
+                "terms_name": "難易度NORMAL以上・GREAT以下判定を60回以内でクリア",
+                "terms_id": 88,
+                "reward_data": [
+                    {
+                        "data_type": 13,
+                        "data_id": 0,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "task_id": 4,
+                "terms_name": "難易度NORMAL以上・MAX COMBO 250以上でクリア",
+                "terms_id": 89,
+                "reward_data": [
+                    {
+                        "data_type": 13,
+                        "data_id": 0,
+                        "data_num": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "mission_panel_id": 885,
+        "event_id": 273,
+        "level": 8,
+        "title": "イベントチャレンジ【Lv.8】",
+        "adv_id": 0,
+        "panel_reward_data": [
+            {
+                "data_type": 4,
+                "data_id": 9,
+                "data_num": 2
+            }
+        ],
+        "task_data": [
+            {
+                "task_id": 1,
+                "terms_name": "6期生メンバーを1人編成・「なぜ　僕たちは走るのか？」のLIVEをSCORE700,000以上でクリア",
+                "terms_id": 2029,
+                "reward_data": [
+                    {
+                        "data_type": 13,
+                        "data_id": 0,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "task_id": 2,
+                "terms_name": "難易度HARD以上・残りHP 70％以上でクリア",
+                "terms_id": 91,
+                "reward_data": [
+                    {
+                        "data_type": 13,
+                        "data_id": 0,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "task_id": 3,
+                "terms_name": "難易度HARD以上・GREAT以下判定を50回以内でクリア",
+                "terms_id": 92,
+                "reward_data": [
+                    {
+                        "data_type": 13,
+                        "data_id": 0,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "task_id": 4,
+                "terms_name": "難易度HARD以上・FULL COMBO以上でクリア",
+                "terms_id": 93,
+                "reward_data": [
+                    {
+                        "data_type": 13,
+                        "data_id": 0,
+                        "data_num": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "mission_panel_id": 886,
+        "event_id": 273,
+        "level": 9,
+        "title": "イベントチャレンジ【Lv.EX1】",
+        "adv_id": 0,
+        "panel_reward_data": [
+            {
+                "data_type": 22,
+                "data_id": 3,
+                "data_num": 1
+            }
+        ],
+        "task_data": [
+            {
+                "task_id": 1,
+                "terms_name": "6期生メンバーを1人編成・SCORE1,000,000以上・太陽属性のみ編成でクリア",
+                "terms_id": 1820,
+                "reward_data": [
+                    {
+                        "data_type": 13,
+                        "data_id": 0,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "task_id": 2,
+                "terms_name": "楽曲Lv16以上・残りHP 80％以上・太陽属性のみ編成でクリア",
+                "terms_id": 112,
+                "reward_data": [
+                    {
+                        "data_type": 13,
+                        "data_id": 0,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "task_id": 3,
+                "terms_name": "楽曲Lv16以上・GREAT以下判定を20回以内・太陽属性のみ編成でクリア",
+                "terms_id": 113,
+                "reward_data": [
+                    {
+                        "data_type": 13,
+                        "data_id": 0,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "task_id": 4,
+                "terms_name": "楽曲Lv18以上・FULL COMBO以上・太陽属性のみ編成でクリア",
+                "terms_id": 114,
+                "reward_data": [
+                    {
+                        "data_type": 13,
+                        "data_id": 0,
+                        "data_num": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "mission_panel_id": 887,
+        "event_id": 273,
+        "level": 10,
+        "title": "イベントチャレンジ【Lv.EX2】",
+        "adv_id": 0,
+        "panel_reward_data": [
+            {
+                "data_type": 20,
+                "data_id": 2,
+                "data_num": 3
+            }
+        ],
+        "task_data": [
+            {
+                "task_id": 1,
+                "terms_name": "6期生メンバーを1人編成・SCORE1,150,000以上・太陽属性のみ編成でクリア",
+                "terms_id": 1821,
+                "reward_data": [
+                    {
+                        "data_type": 13,
+                        "data_id": 0,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "task_id": 2,
+                "terms_name": "楽曲Lv18以上・残りHP 100％以上・太陽属性のみ編成でクリア",
+                "terms_id": 116,
+                "reward_data": [
+                    {
+                        "data_type": 13,
+                        "data_id": 0,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "task_id": 3,
+                "terms_name": "楽曲Lv18以上・GREAT以下判定を15回以内・太陽属性のみ編成でクリア",
+                "terms_id": 117,
+                "reward_data": [
+                    {
+                        "data_type": 13,
+                        "data_id": 0,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "task_id": 4,
+                "terms_name": "楽曲Lv19以上・FULL COMBO以上・太陽属性のみ編成でクリア",
+                "terms_id": 118,
+                "reward_data": [
+                    {
+                        "data_type": 13,
+                        "data_id": 0,
+                        "data_num": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "mission_panel_id": 888,
+        "event_id": 273,
+        "level": 11,
+        "title": "イベントチャレンジ【Lv.EX3】",
+        "adv_id": 0,
+        "panel_reward_data": [
+            {
+                "data_type": 9,
+                "data_id": 848,
+                "data_num": 1
+            }
+        ],
+        "task_data": [
+            {
+                "task_id": 1,
+                "terms_name": "瀬戸口心月を1人編成・「なぜ　僕たちは走るのか？」のLIVEをSCORE1,250,000以上でクリア",
+                "terms_id": 2030,
+                "reward_data": [
+                    {
+                        "data_type": 13,
+                        "data_id": 0,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "task_id": 2,
+                "terms_name": "楽曲Lv20以上・残りHP 100％以上・太陽属性のみ編成でクリア",
+                "terms_id": 120,
+                "reward_data": [
+                    {
+                        "data_type": 13,
+                        "data_id": 0,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "task_id": 3,
+                "terms_name": "楽曲Lv20以上・GREAT以下判定を10回以内・太陽属性のみ編成でクリア",
+                "terms_id": 121,
+                "reward_data": [
+                    {
+                        "data_type": 13,
+                        "data_id": 0,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "task_id": 4,
+                "terms_name": "楽曲Lv20以上・FULL COMBO以上・太陽属性のみ編成でクリア",
+                "terms_id": 122,
+                "reward_data": [
+                    {
+                        "data_type": 13,
+                        "data_id": 0,
+                        "data_num": 1
+                    }
+                ]
+            }
+        ]
     }
 ]

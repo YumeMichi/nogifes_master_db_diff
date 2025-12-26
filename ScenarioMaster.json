@@ -330,6 +330,12 @@
         "movie_resource_id": 0
     },
     {
+        "scenario_id": 100056,
+        "scenario_name": "もしも心が透明なら",
+        "scenario_type": 1,
+        "movie_resource_id": 0
+    },
+    {
         "scenario_id": 200001,
         "scenario_name": "イベント001",
         "scenario_type": 2,
@@ -1904,6 +1910,66 @@
     {
         "scenario_id": 200263,
         "scenario_name": "Love you more",
+        "scenario_type": 2,
+        "movie_resource_id": 0
+    },
+    {
+        "scenario_id": 200264,
+        "scenario_name": "THE LAST POSE",
+        "scenario_type": 2,
+        "movie_resource_id": 0
+    },
+    {
+        "scenario_id": 200265,
+        "scenario_name": "異星人襲来は為政者の指示！？",
+        "scenario_type": 2,
+        "movie_resource_id": 0
+    },
+    {
+        "scenario_id": 200266,
+        "scenario_name": "MY HEROINE",
+        "scenario_type": 2,
+        "movie_resource_id": 0
+    },
+    {
+        "scenario_id": 200267,
+        "scenario_name": "IT'S DITTO",
+        "scenario_type": 2,
+        "movie_resource_id": 0
+    },
+    {
+        "scenario_id": 200268,
+        "scenario_name": "誰をいちばん愛しているの！？",
+        "scenario_type": 2,
+        "movie_resource_id": 0
+    },
+    {
+        "scenario_id": 200269,
+        "scenario_name": "ネーブルオレンジ",
+        "scenario_type": 2,
+        "movie_resource_id": 0
+    },
+    {
+        "scenario_id": 200270,
+        "scenario_name": "Summer Refrain",
+        "scenario_type": 2,
+        "movie_resource_id": 0
+    },
+    {
+        "scenario_id": 200271,
+        "scenario_name": "歩道橋 -waver winter-",
+        "scenario_type": 2,
+        "movie_resource_id": 0
+    },
+    {
+        "scenario_id": 200272,
+        "scenario_name": "あの光へ",
+        "scenario_type": 2,
+        "movie_resource_id": 0
+    },
+    {
+        "scenario_id": 200273,
+        "scenario_name": "Why do we run？",
         "scenario_type": 2,
         "movie_resource_id": 0
     },

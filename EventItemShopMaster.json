@@ -22991,5 +22991,1024 @@
                 ]
             }
         ]
+    },
+    {
+        "event_id": 264,
+        "event_item_shop_data": [
+            {
+                "product_id": 1043,
+                "product_name": "【超得！】イベントスペシャルセット",
+                "paid_diamond": 200,
+                "diamond": 0,
+                "gold": 0,
+                "item_shop_purchase_type": 1,
+                "max_purchase_num": 1,
+                "start_date": 1759384800,
+                "end_date": 1760108399,
+                "description": "ブーストクッキーに2つのイベント専用アイテムが付いた、<br />期間中1セットだけ購入することのできる超お得セットで<br />す！<br /><br />【セット内容】<br />●ブーストクッキー5000個<br />（イベントアイテム獲得量2倍）<br />●イベントライト1個<br />（イベント中常時イベントP獲得量｢＋50%｣）<br />●イベントLPドリンク50 10個<br />（LP50回復）<br /><br />※ブーストクッキーとイベントライトはイベント終了後<br />｢交換P｣に変換されます。<br />※イベントLPドリンクはイベント終了後に消滅します。",
+                "product_data": [
+                    {
+                        "data_type": 18,
+                        "data_id": 639,
+                        "data_num": 5000
+                    },
+                    {
+                        "data_type": 18,
+                        "data_id": 640,
+                        "data_num": 1
+                    },
+                    {
+                        "data_type": 18,
+                        "data_id": 641,
+                        "data_num": 10
+                    }
+                ]
+            },
+            {
+                "product_id": 1044,
+                "product_name": "【600個得！】ブーストクッキー3000個",
+                "paid_diamond": 100,
+                "diamond": 0,
+                "gold": 0,
+                "item_shop_purchase_type": 0,
+                "max_purchase_num": 0,
+                "start_date": 1759384800,
+                "end_date": 1760108399,
+                "description": "600個分お得に購入可能！<br />使用するとイベントアイテム（フラワーワッペン）の獲得量<br />が2倍になるブーストクッキーを3000個購入できます。<br />※ブーストクッキーはイベント終了後｢交換P｣に変換され<br />ます。",
+                "product_data": [
+                    {
+                        "data_type": 18,
+                        "data_id": 639,
+                        "data_num": 3000
+                    }
+                ]
+            },
+            {
+                "product_id": 1045,
+                "product_name": "【120個得！】ブーストクッキー1200個",
+                "paid_diamond": 45,
+                "diamond": 0,
+                "gold": 0,
+                "item_shop_purchase_type": 0,
+                "max_purchase_num": 0,
+                "start_date": 1759384800,
+                "end_date": 1760108399,
+                "description": "120個分お得に購入可能！<br />使用するとイベントアイテム（フラワーワッペン）の獲得量<br />が2倍になるブーストクッキーを1200個購入できます。<br />※ブーストクッキーはイベント終了後｢交換P｣に変換され<br />ます。",
+                "product_data": [
+                    {
+                        "data_type": 18,
+                        "data_id": 639,
+                        "data_num": 1200
+                    }
+                ]
+            },
+            {
+                "product_id": 1046,
+                "product_name": "【25個得！】ブーストクッキー505個",
+                "paid_diamond": 20,
+                "diamond": 0,
+                "gold": 0,
+                "item_shop_purchase_type": 0,
+                "max_purchase_num": 0,
+                "start_date": 1759384800,
+                "end_date": 1760108399,
+                "description": "25個分お得に購入可能！<br />使用するとイベントアイテム（フラワーワッペン）の獲得量<br />が2倍になるブーストクッキーを505個購入できます。<br />※ブーストクッキーはイベント終了後｢交換P｣に変換され<br />ます。",
+                "product_data": [
+                    {
+                        "data_type": 18,
+                        "data_id": 639,
+                        "data_num": 505
+                    }
+                ]
+            },
+            {
+                "product_id": 1047,
+                "product_name": "ブーストクッキー120個",
+                "paid_diamond": 5,
+                "diamond": 0,
+                "gold": 0,
+                "item_shop_purchase_type": 0,
+                "max_purchase_num": 0,
+                "start_date": 1759384800,
+                "end_date": 1760108399,
+                "description": "使用するとイベントアイテム（フラワーワッペン）の獲得量<br />が2倍になるブーストクッキーを120個購入できます。<br />※ブーストクッキーはイベント終了後｢交換P｣に変換され<br />ます。",
+                "product_data": [
+                    {
+                        "data_type": 18,
+                        "data_id": 639,
+                        "data_num": 120
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "event_id": 265,
+        "event_item_shop_data": [
+            {
+                "product_id": 1048,
+                "product_name": "【超得！】イベントスペシャルセット",
+                "paid_diamond": 200,
+                "diamond": 0,
+                "gold": 0,
+                "item_shop_purchase_type": 1,
+                "max_purchase_num": 1,
+                "start_date": 1760335200,
+                "end_date": 1761058799,
+                "description": "ブーストクッキーに2つのイベント専用アイテムが付いた、<br />期間中1セットだけ購入することのできる超お得セットで<br />す！<br /><br />【セット内容】<br />●ブーストクッキー5000個<br />（イベントアイテム獲得量2倍）<br />●イベントライト1個<br />（イベント中常時イベントP獲得量｢＋50%｣）<br />●イベントLPドリンク50 10個<br />（LP50回復）<br /><br />※ブーストクッキーとイベントライトはイベント終了後<br />｢交換P｣に変換されます。<br />※イベントLPドリンクはイベント終了後に消滅します。",
+                "product_data": [
+                    {
+                        "data_type": 18,
+                        "data_id": 642,
+                        "data_num": 5000
+                    },
+                    {
+                        "data_type": 18,
+                        "data_id": 643,
+                        "data_num": 1
+                    },
+                    {
+                        "data_type": 18,
+                        "data_id": 644,
+                        "data_num": 10
+                    }
+                ]
+            },
+            {
+                "product_id": 1049,
+                "product_name": "【600個得！】ブーストクッキー3000個",
+                "paid_diamond": 100,
+                "diamond": 0,
+                "gold": 0,
+                "item_shop_purchase_type": 0,
+                "max_purchase_num": 0,
+                "start_date": 1760335200,
+                "end_date": 1761058799,
+                "description": "600個分お得に購入可能！<br />使用するとイベントアイテム（N46ブラスター）の獲得量<br />が2倍になるブーストクッキーを3000個購入できます。<br />※ブーストクッキーはイベント終了後｢交換P｣に変換され<br />ます。",
+                "product_data": [
+                    {
+                        "data_type": 18,
+                        "data_id": 642,
+                        "data_num": 3000
+                    }
+                ]
+            },
+            {
+                "product_id": 1050,
+                "product_name": "【120個得！】ブーストクッキー1200個",
+                "paid_diamond": 45,
+                "diamond": 0,
+                "gold": 0,
+                "item_shop_purchase_type": 0,
+                "max_purchase_num": 0,
+                "start_date": 1760335200,
+                "end_date": 1761058799,
+                "description": "120個分お得に購入可能！<br />使用するとイベントアイテム（N46ブラスター）の獲得量<br />が2倍になるブーストクッキーを1200個購入できます。<br />※ブーストクッキーはイベント終了後｢交換P｣に変換され<br />ます。",
+                "product_data": [
+                    {
+                        "data_type": 18,
+                        "data_id": 642,
+                        "data_num": 1200
+                    }
+                ]
+            },
+            {
+                "product_id": 1051,
+                "product_name": "【25個得！】ブーストクッキー505個",
+                "paid_diamond": 20,
+                "diamond": 0,
+                "gold": 0,
+                "item_shop_purchase_type": 0,
+                "max_purchase_num": 0,
+                "start_date": 1760335200,
+                "end_date": 1761058799,
+                "description": "25個分お得に購入可能！<br />使用するとイベントアイテム（N46ブラスター）の獲得量<br />が2倍になるブーストクッキーを505個購入できます。<br />※ブーストクッキーはイベント終了後｢交換P｣に変換され<br />ます。",
+                "product_data": [
+                    {
+                        "data_type": 18,
+                        "data_id": 642,
+                        "data_num": 505
+                    }
+                ]
+            },
+            {
+                "product_id": 1052,
+                "product_name": "ブーストクッキー120個",
+                "paid_diamond": 5,
+                "diamond": 0,
+                "gold": 0,
+                "item_shop_purchase_type": 0,
+                "max_purchase_num": 0,
+                "start_date": 1760335200,
+                "end_date": 1761058799,
+                "description": "使用するとイベントアイテム（N46ブラスター）の獲得量<br />が2倍になるブーストクッキーを120個購入できます。<br />※ブーストクッキーはイベント終了後｢交換P｣に変換され<br />ます。",
+                "product_data": [
+                    {
+                        "data_type": 18,
+                        "data_id": 642,
+                        "data_num": 120
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "event_id": 266,
+        "event_item_shop_data": [
+            {
+                "product_id": 1053,
+                "product_name": "【超得！】イベントスペシャルセット",
+                "paid_diamond": 200,
+                "diamond": 0,
+                "gold": 0,
+                "item_shop_purchase_type": 1,
+                "max_purchase_num": 1,
+                "start_date": 1761285600,
+                "end_date": 1761836399,
+                "description": "ブーストクッキーに2つのイベント専用アイテムが付いた、<br />期間中1セットだけ購入することのできる超お得セットで<br />す！<br /><br />【セット内容】<br />●ブーストクッキー5000個<br />（イベントアイテム獲得量2倍）<br />●イベントライト1個<br />（イベント中常時イベントP獲得量｢＋50%｣）<br />●イベントLPドリンク50 10個<br />（LP50回復）<br /><br />※ブーストクッキーとイベントライトはイベント終了後<br />｢交換P｣に変換されます。<br />※イベントLPドリンクはイベント終了後に消滅します。",
+                "product_data": [
+                    {
+                        "data_type": 18,
+                        "data_id": 645,
+                        "data_num": 5000
+                    },
+                    {
+                        "data_type": 18,
+                        "data_id": 646,
+                        "data_num": 1
+                    },
+                    {
+                        "data_type": 18,
+                        "data_id": 647,
+                        "data_num": 10
+                    }
+                ]
+            },
+            {
+                "product_id": 1054,
+                "product_name": "【600個得！】ブーストクッキー3000個",
+                "paid_diamond": 100,
+                "diamond": 0,
+                "gold": 0,
+                "item_shop_purchase_type": 0,
+                "max_purchase_num": 0,
+                "start_date": 1761285600,
+                "end_date": 1761836399,
+                "description": "600個分お得に購入可能！<br />使用するとイベントアイテム（ヒロインクラウン）の獲得量<br />が2倍になるブーストクッキーを3000個購入できます。<br />※ブーストクッキーはイベント終了後｢交換P｣に変換され<br />ます。",
+                "product_data": [
+                    {
+                        "data_type": 18,
+                        "data_id": 645,
+                        "data_num": 3000
+                    }
+                ]
+            },
+            {
+                "product_id": 1055,
+                "product_name": "【120個得！】ブーストクッキー1200個",
+                "paid_diamond": 45,
+                "diamond": 0,
+                "gold": 0,
+                "item_shop_purchase_type": 0,
+                "max_purchase_num": 0,
+                "start_date": 1761285600,
+                "end_date": 1761836399,
+                "description": "120個分お得に購入可能！<br />使用するとイベントアイテム（ヒロインクラウン）の獲得量<br />が2倍になるブーストクッキーを1200個購入できます。<br />※ブーストクッキーはイベント終了後｢交換P｣に変換され<br />ます。",
+                "product_data": [
+                    {
+                        "data_type": 18,
+                        "data_id": 645,
+                        "data_num": 1200
+                    }
+                ]
+            },
+            {
+                "product_id": 1056,
+                "product_name": "【25個得！】ブーストクッキー505個",
+                "paid_diamond": 20,
+                "diamond": 0,
+                "gold": 0,
+                "item_shop_purchase_type": 0,
+                "max_purchase_num": 0,
+                "start_date": 1761285600,
+                "end_date": 1761836399,
+                "description": "25個分お得に購入可能！<br />使用するとイベントアイテム（ヒロインクラウン）の獲得量<br />が2倍になるブーストクッキーを505個購入できます。<br />※ブーストクッキーはイベント終了後｢交換P｣に変換され<br />ます。",
+                "product_data": [
+                    {
+                        "data_type": 18,
+                        "data_id": 645,
+                        "data_num": 505
+                    }
+                ]
+            },
+            {
+                "product_id": 1057,
+                "product_name": "ブーストクッキー120個",
+                "paid_diamond": 5,
+                "diamond": 0,
+                "gold": 0,
+                "item_shop_purchase_type": 0,
+                "max_purchase_num": 0,
+                "start_date": 1761285600,
+                "end_date": 1761836399,
+                "description": "使用するとイベントアイテム（ヒロインクラウン）の獲得量<br />が2倍になるブーストクッキーを120個購入できます。<br />※ブーストクッキーはイベント終了後｢交換P｣に変換され<br />ます。",
+                "product_data": [
+                    {
+                        "data_type": 18,
+                        "data_id": 645,
+                        "data_num": 120
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "event_id": 267,
+        "event_item_shop_data": [
+            {
+                "product_id": 1058,
+                "product_name": "【超得！】イベントスペシャルセット",
+                "paid_diamond": 200,
+                "diamond": 0,
+                "gold": 0,
+                "item_shop_purchase_type": 1,
+                "max_purchase_num": 1,
+                "start_date": 1762063200,
+                "end_date": 1762613999,
+                "description": "ブーストクッキーに2つのイベント専用アイテムが付いた、<br />期間中1セットだけ購入することのできる超お得セットで<br />す！<br /><br />【セット内容】<br />●ブーストクッキー5000個<br />（イベントアイテム獲得量2倍）<br />●イベントライト1個<br />（イベント中常時イベントP獲得量｢＋50%｣）<br />●イベントLPドリンク50 10個<br />（LP50回復）<br /><br />※ブーストクッキーとイベントライトはイベント終了後<br />｢交換P｣に変換されます。<br />※イベントLPドリンクはイベント終了後に消滅します。",
+                "product_data": [
+                    {
+                        "data_type": 18,
+                        "data_id": 648,
+                        "data_num": 5000
+                    },
+                    {
+                        "data_type": 18,
+                        "data_id": 649,
+                        "data_num": 1
+                    },
+                    {
+                        "data_type": 18,
+                        "data_id": 650,
+                        "data_num": 10
+                    }
+                ]
+            },
+            {
+                "product_id": 1059,
+                "product_name": "【600個得！】ブーストクッキー3000個",
+                "paid_diamond": 100,
+                "diamond": 0,
+                "gold": 0,
+                "item_shop_purchase_type": 0,
+                "max_purchase_num": 0,
+                "start_date": 1762063200,
+                "end_date": 1762613999,
+                "description": "600個分お得に購入可能！<br />使用するとイベントアイテム（ハンドトロフィー）の獲得量<br />が2倍になるブーストクッキーを3000個購入できます。<br />※ブーストクッキーはイベント終了後｢交換P｣に変換され<br />ます。",
+                "product_data": [
+                    {
+                        "data_type": 18,
+                        "data_id": 648,
+                        "data_num": 3000
+                    }
+                ]
+            },
+            {
+                "product_id": 1060,
+                "product_name": "【120個得！】ブーストクッキー1200個",
+                "paid_diamond": 45,
+                "diamond": 0,
+                "gold": 0,
+                "item_shop_purchase_type": 0,
+                "max_purchase_num": 0,
+                "start_date": 1762063200,
+                "end_date": 1762613999,
+                "description": "120個分お得に購入可能！<br />使用するとイベントアイテム（ハンドトロフィー）の獲得量<br />が2倍になるブーストクッキーを1200個購入できます。<br />※ブーストクッキーはイベント終了後｢交換P｣に変換され<br />ます。",
+                "product_data": [
+                    {
+                        "data_type": 18,
+                        "data_id": 648,
+                        "data_num": 1200
+                    }
+                ]
+            },
+            {
+                "product_id": 1061,
+                "product_name": "【25個得！】ブーストクッキー505個",
+                "paid_diamond": 20,
+                "diamond": 0,
+                "gold": 0,
+                "item_shop_purchase_type": 0,
+                "max_purchase_num": 0,
+                "start_date": 1762063200,
+                "end_date": 1762613999,
+                "description": "25個分お得に購入可能！<br />使用するとイベントアイテム（ハンドトロフィー）の獲得量<br />が2倍になるブーストクッキーを505個購入できます。<br />※ブーストクッキーはイベント終了後｢交換P｣に変換され<br />ます。",
+                "product_data": [
+                    {
+                        "data_type": 18,
+                        "data_id": 648,
+                        "data_num": 505
+                    }
+                ]
+            },
+            {
+                "product_id": 1062,
+                "product_name": "ブーストクッキー120個",
+                "paid_diamond": 5,
+                "diamond": 0,
+                "gold": 0,
+                "item_shop_purchase_type": 0,
+                "max_purchase_num": 0,
+                "start_date": 1762063200,
+                "end_date": 1762613999,
+                "description": "使用するとイベントアイテム（ハンドトロフィー）の獲得量<br />が2倍になるブーストクッキーを120個購入できます。<br />※ブーストクッキーはイベント終了後｢交換P｣に変換され<br />ます。",
+                "product_data": [
+                    {
+                        "data_type": 18,
+                        "data_id": 648,
+                        "data_num": 120
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "event_id": 268,
+        "event_item_shop_data": [
+            {
+                "product_id": 1063,
+                "product_name": "イベントライト＆LPドリンクセット",
+                "paid_diamond": 70,
+                "diamond": 0,
+                "gold": 0,
+                "item_shop_purchase_type": 1,
+                "max_purchase_num": 1,
+                "start_date": 1762840800,
+                "end_date": 1763305199,
+                "description": "所持しているとイベントP獲得量が常時｢＋50%｣の効果<br />のある「イベントライト」と、イベント期間中のみ使用でき<br />る「イベントLPドリンク50」のセットです！<br /><br />【セット内容】<br />●イベントライト1個<br />（イベント中常時イベントP獲得量｢＋50%｣）<br />●イベントLPドリンク50 10個<br />（LP50回復）<br /><br />※イベントライトはイベント終了後｢交換P｣に変換されま<br />す。<br />※イベントLPドリンクはイベント終了後に消滅します。",
+                "product_data": [
+                    {
+                        "data_type": 18,
+                        "data_id": 651,
+                        "data_num": 1
+                    },
+                    {
+                        "data_type": 18,
+                        "data_id": 652,
+                        "data_num": 10
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "event_id": 269,
+        "event_item_shop_data": [
+            {
+                "product_id": 1064,
+                "product_name": "【超得！】イベントスペシャルセット",
+                "paid_diamond": 200,
+                "diamond": 0,
+                "gold": 0,
+                "item_shop_purchase_type": 1,
+                "max_purchase_num": 1,
+                "start_date": 1763618400,
+                "end_date": 1764428399,
+                "description": "ブーストクッキーに2つのイベント専用アイテムが付いた、<br />期間中1セットだけ購入することのできる超お得セットで<br />す！<br /><br />【セット内容】<br />●ブーストクッキー5000個<br />（イベントアイテム獲得量2倍）<br />●イベントライト1個<br />（イベント中常時イベントP獲得量｢＋50%｣）<br />●イベントLPドリンク50 10個<br />（LP50回復）<br /><br />※ブーストクッキーとイベントライトはイベント終了後<br />｢交換P｣に変換されます。<br />※イベントLPドリンクはイベント終了後に消滅します。",
+                "product_data": [
+                    {
+                        "data_type": 18,
+                        "data_id": 653,
+                        "data_num": 5000
+                    },
+                    {
+                        "data_type": 18,
+                        "data_id": 654,
+                        "data_num": 1
+                    },
+                    {
+                        "data_type": 18,
+                        "data_id": 655,
+                        "data_num": 10
+                    }
+                ]
+            },
+            {
+                "product_id": 1065,
+                "product_name": "【600個得！】ブーストクッキー3000個",
+                "paid_diamond": 100,
+                "diamond": 0,
+                "gold": 0,
+                "item_shop_purchase_type": 0,
+                "max_purchase_num": 0,
+                "start_date": 1763618400,
+                "end_date": 1764428399,
+                "description": "600個分お得に購入可能！<br />使用するとイベントアイテム（8周年ロゼット）の獲得量<br />が2倍になるブーストクッキーを3000個購入できます。<br />※ブーストクッキーはイベント終了後｢交換P｣に変換され<br />ます。",
+                "product_data": [
+                    {
+                        "data_type": 18,
+                        "data_id": 653,
+                        "data_num": 3000
+                    }
+                ]
+            },
+            {
+                "product_id": 1066,
+                "product_name": "【120個得！】ブーストクッキー1200個",
+                "paid_diamond": 45,
+                "diamond": 0,
+                "gold": 0,
+                "item_shop_purchase_type": 0,
+                "max_purchase_num": 0,
+                "start_date": 1763618400,
+                "end_date": 1764428399,
+                "description": "120個分お得に購入可能！<br />使用するとイベントアイテム（8周年ロゼット）の獲得量<br />が2倍になるブーストクッキーを1200個購入できます。<br />※ブーストクッキーはイベント終了後｢交換P｣に変換され<br />ます。",
+                "product_data": [
+                    {
+                        "data_type": 18,
+                        "data_id": 653,
+                        "data_num": 1200
+                    }
+                ]
+            },
+            {
+                "product_id": 1067,
+                "product_name": "【25個得！】ブーストクッキー505個",
+                "paid_diamond": 20,
+                "diamond": 0,
+                "gold": 0,
+                "item_shop_purchase_type": 0,
+                "max_purchase_num": 0,
+                "start_date": 1763618400,
+                "end_date": 1764428399,
+                "description": "25個分お得に購入可能！<br />使用するとイベントアイテム（8周年ロゼット）の獲得量<br />が2倍になるブーストクッキーを505個購入できます。<br />※ブーストクッキーはイベント終了後｢交換P｣に変換され<br />ます。",
+                "product_data": [
+                    {
+                        "data_type": 18,
+                        "data_id": 653,
+                        "data_num": 505
+                    }
+                ]
+            },
+            {
+                "product_id": 1068,
+                "product_name": "ブーストクッキー120個",
+                "paid_diamond": 5,
+                "diamond": 0,
+                "gold": 0,
+                "item_shop_purchase_type": 0,
+                "max_purchase_num": 0,
+                "start_date": 1763618400,
+                "end_date": 1764428399,
+                "description": "使用するとイベントアイテム（8周年ロゼット）の獲得量<br />が2倍になるブーストクッキーを120個購入できます。<br />※ブーストクッキーはイベント終了後｢交換P｣に変換され<br />ます。",
+                "product_data": [
+                    {
+                        "data_type": 18,
+                        "data_id": 653,
+                        "data_num": 120
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "event_id": 270,
+        "event_item_shop_data": [
+            {
+                "product_id": 1069,
+                "product_name": "【超得！】イベントスペシャルセット",
+                "paid_diamond": 200,
+                "diamond": 0,
+                "gold": 0,
+                "item_shop_purchase_type": 1,
+                "max_purchase_num": 1,
+                "start_date": 1764741600,
+                "end_date": 1765551599,
+                "description": "ブーストクッキーに2つのイベント専用アイテムが付いた、<br />期間中1セットだけ購入することのできる超お得セットで<br />す！<br /><br />【セット内容】<br />●ブーストクッキー5000個<br />（イベントアイテム獲得量2倍）<br />●イベントライト1個<br />（イベント中常時イベントP獲得量｢＋50%｣）<br />●イベントLPドリンク50 10個<br />（LP50回復）<br /><br />※ブーストクッキーとイベントライトはイベント終了後<br />｢交換P｣に変換されます。<br />※イベントLPドリンクはイベント終了後に消滅します。",
+                "product_data": [
+                    {
+                        "data_type": 18,
+                        "data_id": 656,
+                        "data_num": 5000
+                    },
+                    {
+                        "data_type": 18,
+                        "data_id": 657,
+                        "data_num": 1
+                    },
+                    {
+                        "data_type": 18,
+                        "data_id": 658,
+                        "data_num": 10
+                    }
+                ]
+            },
+            {
+                "product_id": 1070,
+                "product_name": "【600個得！】ブーストクッキー3000個",
+                "paid_diamond": 100,
+                "diamond": 0,
+                "gold": 0,
+                "item_shop_purchase_type": 0,
+                "max_purchase_num": 0,
+                "start_date": 1764741600,
+                "end_date": 1765551599,
+                "description": "600個分お得に購入可能！<br />使用するとイベントアイテム（8周年耳飾り）の獲得量<br />が2倍になるブーストクッキーを3000個購入できます。<br />※ブーストクッキーはイベント終了後｢交換P｣に変換され<br />ます。",
+                "product_data": [
+                    {
+                        "data_type": 18,
+                        "data_id": 656,
+                        "data_num": 3000
+                    }
+                ]
+            },
+            {
+                "product_id": 1071,
+                "product_name": "【120個得！】ブーストクッキー1200個",
+                "paid_diamond": 45,
+                "diamond": 0,
+                "gold": 0,
+                "item_shop_purchase_type": 0,
+                "max_purchase_num": 0,
+                "start_date": 1764741600,
+                "end_date": 1765551599,
+                "description": "120個分お得に購入可能！<br />使用するとイベントアイテム（8周年耳飾り）の獲得量<br />が2倍になるブーストクッキーを1200個購入できます。<br />※ブーストクッキーはイベント終了後｢交換P｣に変換され<br />ます。",
+                "product_data": [
+                    {
+                        "data_type": 18,
+                        "data_id": 656,
+                        "data_num": 1200
+                    }
+                ]
+            },
+            {
+                "product_id": 1072,
+                "product_name": "【25個得！】ブーストクッキー505個",
+                "paid_diamond": 20,
+                "diamond": 0,
+                "gold": 0,
+                "item_shop_purchase_type": 0,
+                "max_purchase_num": 0,
+                "start_date": 1764741600,
+                "end_date": 1765551599,
+                "description": "25個分お得に購入可能！<br />使用するとイベントアイテム（8周年耳飾り）の獲得量<br />が2倍になるブーストクッキーを505個購入できます。<br />※ブーストクッキーはイベント終了後｢交換P｣に変換され<br />ます。",
+                "product_data": [
+                    {
+                        "data_type": 18,
+                        "data_id": 656,
+                        "data_num": 505
+                    }
+                ]
+            },
+            {
+                "product_id": 1073,
+                "product_name": "ブーストクッキー120個",
+                "paid_diamond": 5,
+                "diamond": 0,
+                "gold": 0,
+                "item_shop_purchase_type": 0,
+                "max_purchase_num": 0,
+                "start_date": 1764741600,
+                "end_date": 1765551599,
+                "description": "使用するとイベントアイテム（8周年耳飾り）の獲得量<br />が2倍になるブーストクッキーを120個購入できます。<br />※ブーストクッキーはイベント終了後｢交換P｣に変換され<br />ます。",
+                "product_data": [
+                    {
+                        "data_type": 18,
+                        "data_id": 656,
+                        "data_num": 120
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "event_id": 271,
+        "event_item_shop_data": [
+            {
+                "product_id": 1074,
+                "product_name": "【超得！】イベントスペシャルセット",
+                "paid_diamond": 200,
+                "diamond": 0,
+                "gold": 0,
+                "item_shop_purchase_type": 1,
+                "max_purchase_num": 1,
+                "start_date": 1765864800,
+                "end_date": 1766674799,
+                "description": "ブーストクッキーに2つのイベント専用アイテムが付いた、<br />期間中1セットだけ購入することのできる超お得セットで<br />す！<br /><br />【セット内容】<br />●ブーストクッキー5000個<br />（イベントアイテム獲得量2倍）<br />●イベントライト1個<br />（イベント中常時イベントP獲得量｢＋50%｣）<br />●イベントLPドリンク50 10個<br />（LP50回復）<br /><br />※ブーストクッキーとイベントライトはイベント終了後<br />｢交換P｣に変換されます。<br />※イベントLPドリンクはイベント終了後に消滅します。",
+                "product_data": [
+                    {
+                        "data_type": 18,
+                        "data_id": 659,
+                        "data_num": 5000
+                    },
+                    {
+                        "data_type": 18,
+                        "data_id": 660,
+                        "data_num": 1
+                    },
+                    {
+                        "data_type": 18,
+                        "data_id": 661,
+                        "data_num": 10
+                    }
+                ]
+            },
+            {
+                "product_id": 1075,
+                "product_name": "【600個得！】ブーストクッキー3000個",
+                "paid_diamond": 100,
+                "diamond": 0,
+                "gold": 0,
+                "item_shop_purchase_type": 0,
+                "max_purchase_num": 0,
+                "start_date": 1765864800,
+                "end_date": 1766674799,
+                "description": "600個分お得に購入可能！<br />使用するとイベントアイテム（エイスノードーム）の獲得量<br />が2倍になるブーストクッキーを3000個購入できます。<br />※ブーストクッキーはイベント終了後｢交換P｣に変換され<br />ます。",
+                "product_data": [
+                    {
+                        "data_type": 18,
+                        "data_id": 659,
+                        "data_num": 3000
+                    }
+                ]
+            },
+            {
+                "product_id": 1076,
+                "product_name": "【120個得！】ブーストクッキー1200個",
+                "paid_diamond": 45,
+                "diamond": 0,
+                "gold": 0,
+                "item_shop_purchase_type": 0,
+                "max_purchase_num": 0,
+                "start_date": 1765864800,
+                "end_date": 1766674799,
+                "description": "120個分お得に購入可能！<br />使用するとイベントアイテム（エイスノードーム）の獲得量<br />が2倍になるブーストクッキーを1200個購入できます。<br />※ブーストクッキーはイベント終了後｢交換P｣に変換され<br />ます。",
+                "product_data": [
+                    {
+                        "data_type": 18,
+                        "data_id": 659,
+                        "data_num": 1200
+                    }
+                ]
+            },
+            {
+                "product_id": 1077,
+                "product_name": "【25個得！】ブーストクッキー505個",
+                "paid_diamond": 20,
+                "diamond": 0,
+                "gold": 0,
+                "item_shop_purchase_type": 0,
+                "max_purchase_num": 0,
+                "start_date": 1765864800,
+                "end_date": 1766674799,
+                "description": "25個分お得に購入可能！<br />使用するとイベントアイテム（エイスノードーム）の獲得量<br />が2倍になるブーストクッキーを505個購入できます。<br />※ブーストクッキーはイベント終了後｢交換P｣に変換され<br />ます。",
+                "product_data": [
+                    {
+                        "data_type": 18,
+                        "data_id": 659,
+                        "data_num": 505
+                    }
+                ]
+            },
+            {
+                "product_id": 1078,
+                "product_name": "ブーストクッキー120個",
+                "paid_diamond": 5,
+                "diamond": 0,
+                "gold": 0,
+                "item_shop_purchase_type": 0,
+                "max_purchase_num": 0,
+                "start_date": 1765864800,
+                "end_date": 1766674799,
+                "description": "使用するとイベントアイテム（エイスノードーム）の獲得量<br />が2倍になるブーストクッキーを120個購入できます。<br />※ブーストクッキーはイベント終了後｢交換P｣に変換され<br />ます。",
+                "product_data": [
+                    {
+                        "data_type": 18,
+                        "data_id": 659,
+                        "data_num": 120
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "event_id": 272,
+        "event_item_shop_data": [
+            {
+                "product_id": 1079,
+                "product_name": "【超得！】イベントスペシャルセット",
+                "paid_diamond": 200,
+                "diamond": 0,
+                "gold": 0,
+                "item_shop_purchase_type": 1,
+                "max_purchase_num": 1,
+                "start_date": 1767333600,
+                "end_date": 1768143599,
+                "description": "ブーストクッキーに2つのイベント専用アイテムが付いた、<br />期間中1セットだけ購入することのできる超お得セットで<br />す！<br /><br />【セット内容】<br />●ブーストクッキー5000個<br />（イベントアイテム獲得量2倍）<br />●イベントライト1個<br />（イベント中常時イベントP獲得量｢＋50%｣）<br />●イベントLPドリンク50 10個<br />（LP50回復）<br /><br />※ブーストクッキーとイベントライトはイベント終了後<br />｢交換P｣に変換されます。<br />※イベントLPドリンクはイベント終了後に消滅します。",
+                "product_data": [
+                    {
+                        "data_type": 18,
+                        "data_id": 662,
+                        "data_num": 5000
+                    },
+                    {
+                        "data_type": 18,
+                        "data_id": 663,
+                        "data_num": 1
+                    },
+                    {
+                        "data_type": 18,
+                        "data_id": 664,
+                        "data_num": 10
+                    }
+                ]
+            },
+            {
+                "product_id": 1080,
+                "product_name": "【600個得！】ブーストクッキー3000個",
+                "paid_diamond": 100,
+                "diamond": 0,
+                "gold": 0,
+                "item_shop_purchase_type": 0,
+                "max_purchase_num": 0,
+                "start_date": 1767333600,
+                "end_date": 1768143599,
+                "description": "600個分お得に購入可能！<br />使用するとイベントアイテム（馬の金屏風）の獲得量<br />が2倍になるブーストクッキーを3000個購入できます。<br />※ブーストクッキーはイベント終了後｢交換P｣に変換され<br />ます。",
+                "product_data": [
+                    {
+                        "data_type": 18,
+                        "data_id": 662,
+                        "data_num": 3000
+                    }
+                ]
+            },
+            {
+                "product_id": 1081,
+                "product_name": "【120個得！】ブーストクッキー1200個",
+                "paid_diamond": 45,
+                "diamond": 0,
+                "gold": 0,
+                "item_shop_purchase_type": 0,
+                "max_purchase_num": 0,
+                "start_date": 1767333600,
+                "end_date": 1768143599,
+                "description": "120個分お得に購入可能！<br />使用するとイベントアイテム（馬の金屏風）の獲得量<br />が2倍になるブーストクッキーを1200個購入できます。<br />※ブーストクッキーはイベント終了後｢交換P｣に変換され<br />ます。",
+                "product_data": [
+                    {
+                        "data_type": 18,
+                        "data_id": 662,
+                        "data_num": 1200
+                    }
+                ]
+            },
+            {
+                "product_id": 1082,
+                "product_name": "【25個得！】ブーストクッキー505個",
+                "paid_diamond": 20,
+                "diamond": 0,
+                "gold": 0,
+                "item_shop_purchase_type": 0,
+                "max_purchase_num": 0,
+                "start_date": 1767333600,
+                "end_date": 1768143599,
+                "description": "25個分お得に購入可能！<br />使用するとイベントアイテム（馬の金屏風）の獲得量<br />が2倍になるブーストクッキーを505個購入できます。<br />※ブーストクッキーはイベント終了後｢交換P｣に変換され<br />ます。",
+                "product_data": [
+                    {
+                        "data_type": 18,
+                        "data_id": 662,
+                        "data_num": 505
+                    }
+                ]
+            },
+            {
+                "product_id": 1083,
+                "product_name": "ブーストクッキー120個",
+                "paid_diamond": 5,
+                "diamond": 0,
+                "gold": 0,
+                "item_shop_purchase_type": 0,
+                "max_purchase_num": 0,
+                "start_date": 1767333600,
+                "end_date": 1768143599,
+                "description": "使用するとイベントアイテム（馬の金屏風）の獲得量<br />が2倍になるブーストクッキーを120個購入できます。<br />※ブーストクッキーはイベント終了後｢交換P｣に変換され<br />ます。",
+                "product_data": [
+                    {
+                        "data_type": 18,
+                        "data_id": 662,
+                        "data_num": 120
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "event_id": 273,
+        "event_item_shop_data": [
+            {
+                "product_id": 1084,
+                "product_name": "【超得！】イベントスペシャルセット",
+                "paid_diamond": 200,
+                "diamond": 0,
+                "gold": 0,
+                "item_shop_purchase_type": 1,
+                "max_purchase_num": 1,
+                "start_date": 1768370400,
+                "end_date": 1769007599,
+                "description": "ブーストクッキーに2つのイベント専用アイテムが付いた、<br />期間中1セットだけ購入することのできる超お得セットで<br />す！<br /><br />【セット内容】<br />●ブーストクッキー5000個<br />（イベントアイテム獲得量2倍）<br />●イベントライト1個<br />（イベント中常時イベントP獲得量｢＋50%｣）<br />●イベントLPドリンク50 10個<br />（LP50回復）<br /><br />※ブーストクッキーとイベントライトはイベント終了後<br />｢交換P｣に変換されます。<br />※イベントLPドリンクはイベント終了後に消滅します。",
+                "product_data": [
+                    {
+                        "data_type": 18,
+                        "data_id": 665,
+                        "data_num": 5000
+                    },
+                    {
+                        "data_type": 18,
+                        "data_id": 666,
+                        "data_num": 1
+                    },
+                    {
+                        "data_type": 18,
+                        "data_id": 667,
+                        "data_num": 10
+                    }
+                ]
+            },
+            {
+                "product_id": 1085,
+                "product_name": "【600個得！】ブーストクッキー3000個",
+                "paid_diamond": 100,
+                "diamond": 0,
+                "gold": 0,
+                "item_shop_purchase_type": 0,
+                "max_purchase_num": 0,
+                "start_date": 1768370400,
+                "end_date": 1769007599,
+                "description": "600個分お得に購入可能！<br />使用するとイベントアイテム（青春のリボン）の獲得量<br />が2倍になるブーストクッキーを3000個購入できます。<br />※ブーストクッキーはイベント終了後｢交換P｣に変換され<br />ます。",
+                "product_data": [
+                    {
+                        "data_type": 18,
+                        "data_id": 665,
+                        "data_num": 3000
+                    }
+                ]
+            },
+            {
+                "product_id": 1086,
+                "product_name": "【120個得！】ブーストクッキー1200個",
+                "paid_diamond": 45,
+                "diamond": 0,
+                "gold": 0,
+                "item_shop_purchase_type": 0,
+                "max_purchase_num": 0,
+                "start_date": 1768370400,
+                "end_date": 1769007599,
+                "description": "120個分お得に購入可能！<br />使用するとイベントアイテム（青春のリボン）の獲得量<br />が2倍になるブーストクッキーを1200個購入できます。<br />※ブーストクッキーはイベント終了後｢交換P｣に変換され<br />ます。",
+                "product_data": [
+                    {
+                        "data_type": 18,
+                        "data_id": 665,
+                        "data_num": 1200
+                    }
+                ]
+            },
+            {
+                "product_id": 1087,
+                "product_name": "【25個得！】ブーストクッキー505個",
+                "paid_diamond": 20,
+                "diamond": 0,
+                "gold": 0,
+                "item_shop_purchase_type": 0,
+                "max_purchase_num": 0,
+                "start_date": 1768370400,
+                "end_date": 1769007599,
+                "description": "25個分お得に購入可能！<br />使用するとイベントアイテム（青春のリボン）の獲得量<br />が2倍になるブーストクッキーを505個購入できます。<br />※ブーストクッキーはイベント終了後｢交換P｣に変換され<br />ます。",
+                "product_data": [
+                    {
+                        "data_type": 18,
+                        "data_id": 665,
+                        "data_num": 505
+                    }
+                ]
+            },
+            {
+                "product_id": 1088,
+                "product_name": "ブーストクッキー120個",
+                "paid_diamond": 5,
+                "diamond": 0,
+                "gold": 0,
+                "item_shop_purchase_type": 0,
+                "max_purchase_num": 0,
+                "start_date": 1768370400,
+                "end_date": 1769007599,
+                "description": "使用するとイベントアイテム（青春のリボン）の獲得量<br />が2倍になるブーストクッキーを120個購入できます。<br />※ブーストクッキーはイベント終了後｢交換P｣に変換され<br />ます。",
+                "product_data": [
+                    {
+                        "data_type": 18,
+                        "data_id": 665,
+                        "data_num": 120
+                    }
+                ]
+            }
+        ]
     }
 ]
