@@ -1,0 +1,290 @@
+[
+    {
+        "banner_id": 100001,
+        "banner_type": 2,
+        "banner_value": "exchange",
+        "start_date": 1420038000,
+        "end_date": 1924959599,
+        "priority": 99999
+    },
+    {
+        "banner_id": 100002,
+        "banner_type": 2,
+        "banner_value": "trade_gacha@2",
+        "start_date": 1534485600,
+        "end_date": 1537855199,
+        "priority": 2
+    },
+    {
+        "banner_id": 100003,
+        "banner_type": 2,
+        "banner_value": "trade_gacha@3",
+        "start_date": 1534485600,
+        "end_date": 1537855199,
+        "priority": 10003
+    },
+    {
+        "banner_id": 100004,
+        "banner_type": 2,
+        "banner_value": "trade_gacha@4",
+        "start_date": 1537855200,
+        "end_date": 1543730399,
+        "priority": 4
+    },
+    {
+        "banner_id": 100005,
+        "banner_type": 2,
+        "banner_value": "trade_gacha@5",
+        "start_date": 1537855200,
+        "end_date": 1543730399,
+        "priority": 10005
+    },
+    {
+        "banner_id": 100006,
+        "banner_type": 2,
+        "banner_value": "trade_gacha@6",
+        "start_date": 1543730400,
+        "end_date": 1551326399,
+        "priority": 6
+    },
+    {
+        "banner_id": 100007,
+        "banner_type": 2,
+        "banner_value": "trade_gacha@7",
+        "start_date": 1543730400,
+        "end_date": 1551326399,
+        "priority": 10007
+    },
+    {
+        "banner_id": 100008,
+        "banner_type": 2,
+        "banner_value": "trade_gacha@8",
+        "start_date": 1551333600,
+        "end_date": 1552975199,
+        "priority": 8
+    },
+    {
+        "banner_id": 100009,
+        "banner_type": 2,
+        "banner_value": "trade_gacha@9",
+        "start_date": 1551333600,
+        "end_date": 1552975199,
+        "priority": 10009
+    },
+    {
+        "banner_id": 100010,
+        "banner_type": 2,
+        "banner_value": "trade_gacha@10",
+        "start_date": 1552975200,
+        "end_date": 1555646399,
+        "priority": 10
+    },
+    {
+        "banner_id": 100011,
+        "banner_type": 2,
+        "banner_value": "trade_gacha@11",
+        "start_date": 1552975200,
+        "end_date": 1555646399,
+        "priority": 10011
+    },
+    {
+        "banner_id": 100012,
+        "banner_type": 2,
+        "banner_value": "trade_gacha@12",
+        "start_date": 1555653600,
+        "end_date": 1559015999,
+        "priority": 12
+    },
+    {
+        "banner_id": 100013,
+        "banner_type": 2,
+        "banner_value": "trade_gacha@13",
+        "start_date": 1555653600,
+        "end_date": 1559015999,
+        "priority": 10013
+    },
+    {
+        "banner_id": 100014,
+        "banner_type": 2,
+        "banner_value": "trade_gacha@14",
+        "start_date": 1559023200,
+        "end_date": 1561607999,
+        "priority": 14
+    },
+    {
+        "banner_id": 100015,
+        "banner_type": 2,
+        "banner_value": "trade_gacha@15",
+        "start_date": 1559023200,
+        "end_date": 1561607999,
+        "priority": 10015
+    },
+    {
+        "banner_id": 100016,
+        "banner_type": 2,
+        "banner_value": "trade_gacha@16",
+        "start_date": 1561615200,
+        "end_date": 1564639199,
+        "priority": 16
+    },
+    {
+        "banner_id": 100017,
+        "banner_type": 2,
+        "banner_value": "trade_gacha@17",
+        "start_date": 1561615200,
+        "end_date": 1564639199,
+        "priority": 10017
+    },
+    {
+        "banner_id": 100018,
+        "banner_type": 2,
+        "banner_value": "item_exchange",
+        "start_date": 1562652000,
+        "end_date": 1924959599,
+        "priority": 99998
+    },
+    {
+        "banner_id": 100019,
+        "banner_type": 2,
+        "banner_value": "trade_gacha@19",
+        "start_date": 1564639200,
+        "end_date": 1568959199,
+        "priority": 19
+    },
+    {
+        "banner_id": 100020,
+        "banner_type": 2,
+        "banner_value": "trade_gacha@20",
+        "start_date": 1564639200,
+        "end_date": 1568959199,
+        "priority": 10020
+    },
+    {
+        "banner_id": 100021,
+        "banner_type": 2,
+        "banner_value": "trade_gacha@21",
+        "start_date": 1568959200,
+        "end_date": 1572674399,
+        "priority": 21
+    },
+    {
+        "banner_id": 100022,
+        "banner_type": 2,
+        "banner_value": "trade_gacha@22",
+        "start_date": 1568959200,
+        "end_date": 1572674399,
+        "priority": 10022
+    },
+    {
+        "banner_id": 100023,
+        "banner_type": 2,
+        "banner_value": "trade_gacha@23",
+        "start_date": 1572674400,
+        "end_date": 1574315999,
+        "priority": 23
+    },
+    {
+        "banner_id": 100024,
+        "banner_type": 2,
+        "banner_value": "trade_gacha@24",
+        "start_date": 1572674400,
+        "end_date": 1574315999,
+        "priority": 10024
+    },
+    {
+        "banner_id": 100025,
+        "banner_type": 2,
+        "banner_value": "trade_gacha@25",
+        "start_date": 1574316000,
+        "end_date": 1575557999,
+        "priority": 10025
+    },
+    {
+        "banner_id": 100026,
+        "banner_type": 2,
+        "banner_value": "trade_gacha@26",
+        "start_date": 1574316000,
+        "end_date": 1575557999,
+        "priority": 26
+    },
+    {
+        "banner_id": 100027,
+        "banner_type": 2,
+        "banner_value": "trade_gacha@27",
+        "start_date": 1575558000,
+        "end_date": 1575611999,
+        "priority": 10027
+    },
+    {
+        "banner_id": 100028,
+        "banner_type": 2,
+        "banner_value": "trade_gacha@28",
+        "start_date": 1575558000,
+        "end_date": 1575611999,
+        "priority": 28
+    },
+    {
+        "banner_id": 100029,
+        "banner_type": 2,
+        "banner_value": "trade_gacha@29",
+        "start_date": 1575612000,
+        "end_date": 1580795999,
+        "priority": 10029
+    },
+    {
+        "banner_id": 100030,
+        "banner_type": 2,
+        "banner_value": "trade_gacha@30",
+        "start_date": 1575612000,
+        "end_date": 1580795999,
+        "priority": 30
+    },
+    {
+        "banner_id": 100031,
+        "banner_type": 2,
+        "banner_value": "trade_gacha@31",
+        "start_date": 1580796000,
+        "end_date": 1585720799,
+        "priority": 10031
+    },
+    {
+        "banner_id": 100032,
+        "banner_type": 2,
+        "banner_value": "trade_gacha@32",
+        "start_date": 1580796000,
+        "end_date": 1585720799,
+        "priority": 32
+    },
+    {
+        "banner_id": 100033,
+        "banner_type": 2,
+        "banner_value": "trade_gacha@33",
+        "start_date": 1585720800,
+        "end_date": 1590127199,
+        "priority": 10033
+    },
+    {
+        "banner_id": 100034,
+        "banner_type": 2,
+        "banner_value": "trade_gacha@34",
+        "start_date": 1585720800,
+        "end_date": 1590127199,
+        "priority": 34
+    },
+    {
+        "banner_id": 100035,
+        "banner_type": 2,
+        "banner_value": "trade_gacha@35",
+        "start_date": 1590127200,
+        "end_date": 1593403199,
+        "priority": 10035
+    },
+    {
+        "banner_id": 100036,
+        "banner_type": 2,
+        "banner_value": "trade_gacha@36",
+        "start_date": 1590127200,
+        "end_date": 1593403199,
+        "priority": 36
+    }
+]

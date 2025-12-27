@@ -1,0 +1,290 @@
+[
+    {
+        "id": 1,
+        "rarity": 1,
+        "exceed_data": [
+            {
+                "exceed_count": 0,
+                "bonus_hp": 0,
+                "bonus_gp": 0
+            },
+            {
+                "exceed_count": 1,
+                "bonus_hp": 750,
+                "bonus_gp": 400
+            },
+            {
+                "exceed_count": 2,
+                "bonus_hp": 1500,
+                "bonus_gp": 400
+            },
+            {
+                "exceed_count": 3,
+                "bonus_hp": 1500,
+                "bonus_gp": 800
+            },
+            {
+                "exceed_count": 4,
+                "bonus_hp": 2250,
+                "bonus_gp": 800
+            },
+            {
+                "exceed_count": 5,
+                "bonus_hp": 3000,
+                "bonus_gp": 1200
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "rarity": 2,
+        "exceed_data": [
+            {
+                "exceed_count": 0,
+                "bonus_hp": 0,
+                "bonus_gp": 0
+            },
+            {
+                "exceed_count": 1,
+                "bonus_hp": 750,
+                "bonus_gp": 500
+            },
+            {
+                "exceed_count": 2,
+                "bonus_hp": 1500,
+                "bonus_gp": 500
+            },
+            {
+                "exceed_count": 3,
+                "bonus_hp": 1500,
+                "bonus_gp": 1000
+            },
+            {
+                "exceed_count": 4,
+                "bonus_hp": 2250,
+                "bonus_gp": 1500
+            },
+            {
+                "exceed_count": 5,
+                "bonus_hp": 3000,
+                "bonus_gp": 1500
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "rarity": 3,
+        "exceed_data": [
+            {
+                "exceed_count": 0,
+                "bonus_hp": 0,
+                "bonus_gp": 0
+            },
+            {
+                "exceed_count": 1,
+                "bonus_hp": 750,
+                "bonus_gp": 600
+            },
+            {
+                "exceed_count": 2,
+                "bonus_hp": 1500,
+                "bonus_gp": 600
+            },
+            {
+                "exceed_count": 3,
+                "bonus_hp": 1500,
+                "bonus_gp": 1200
+            },
+            {
+                "exceed_count": 4,
+                "bonus_hp": 2250,
+                "bonus_gp": 1200
+            },
+            {
+                "exceed_count": 5,
+                "bonus_hp": 3000,
+                "bonus_gp": 1800
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "rarity": 4,
+        "exceed_data": [
+            {
+                "exceed_count": 0,
+                "bonus_hp": 0,
+                "bonus_gp": 0
+            },
+            {
+                "exceed_count": 1,
+                "bonus_hp": 750,
+                "bonus_gp": 600
+            },
+            {
+                "exceed_count": 2,
+                "bonus_hp": 1500,
+                "bonus_gp": 600
+            },
+            {
+                "exceed_count": 3,
+                "bonus_hp": 1500,
+                "bonus_gp": 1200
+            },
+            {
+                "exceed_count": 4,
+                "bonus_hp": 2250,
+                "bonus_gp": 1200
+            },
+            {
+                "exceed_count": 5,
+                "bonus_hp": 3000,
+                "bonus_gp": 1800
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "rarity": 5,
+        "exceed_data": [
+            {
+                "exceed_count": 0,
+                "bonus_hp": 0,
+                "bonus_gp": 0
+            },
+            {
+                "exceed_count": 1,
+                "bonus_hp": 750,
+                "bonus_gp": 1000
+            },
+            {
+                "exceed_count": 2,
+                "bonus_hp": 1500,
+                "bonus_gp": 1000
+            },
+            {
+                "exceed_count": 3,
+                "bonus_hp": 1500,
+                "bonus_gp": 1500
+            },
+            {
+                "exceed_count": 4,
+                "bonus_hp": 2250,
+                "bonus_gp": 1500
+            },
+            {
+                "exceed_count": 5,
+                "bonus_hp": 3000,
+                "bonus_gp": 2000
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "rarity": 6,
+        "exceed_data": [
+            {
+                "exceed_count": 0,
+                "bonus_hp": 0,
+                "bonus_gp": 0
+            },
+            {
+                "exceed_count": 1,
+                "bonus_hp": 750,
+                "bonus_gp": 1000
+            },
+            {
+                "exceed_count": 2,
+                "bonus_hp": 1500,
+                "bonus_gp": 1000
+            },
+            {
+                "exceed_count": 3,
+                "bonus_hp": 1500,
+                "bonus_gp": 1500
+            },
+            {
+                "exceed_count": 4,
+                "bonus_hp": 2250,
+                "bonus_gp": 1500
+            },
+            {
+                "exceed_count": 5,
+                "bonus_hp": 3000,
+                "bonus_gp": 2000
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "rarity": 7,
+        "exceed_data": [
+            {
+                "exceed_count": 0,
+                "bonus_hp": 0,
+                "bonus_gp": 0
+            },
+            {
+                "exceed_count": 1,
+                "bonus_hp": 750,
+                "bonus_gp": 1400
+            },
+            {
+                "exceed_count": 2,
+                "bonus_hp": 1500,
+                "bonus_gp": 1400
+            },
+            {
+                "exceed_count": 3,
+                "bonus_hp": 1500,
+                "bonus_gp": 1900
+            },
+            {
+                "exceed_count": 4,
+                "bonus_hp": 2250,
+                "bonus_gp": 1900
+            },
+            {
+                "exceed_count": 5,
+                "bonus_hp": 3000,
+                "bonus_gp": 2400
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "rarity": 8,
+        "exceed_data": [
+            {
+                "exceed_count": 0,
+                "bonus_hp": 0,
+                "bonus_gp": 0
+            },
+            {
+                "exceed_count": 1,
+                "bonus_hp": 750,
+                "bonus_gp": 1400
+            },
+            {
+                "exceed_count": 2,
+                "bonus_hp": 1500,
+                "bonus_gp": 1400
+            },
+            {
+                "exceed_count": 3,
+                "bonus_hp": 1500,
+                "bonus_gp": 1900
+            },
+            {
+                "exceed_count": 4,
+                "bonus_hp": 2250,
+                "bonus_gp": 1900
+            },
+            {
+                "exceed_count": 5,
+                "bonus_hp": 3000,
+                "bonus_gp": 2400
+            }
+        ]
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "event_id": 268,
+        "event_data": [
+            {
+                "section": 1,
+                "attribute": 3,
+                "start_date": 1762840800,
+                "end_date": 1762995599
+            },
+            {
+                "section": 2,
+                "attribute": 2,
+                "start_date": 1762995600,
+                "end_date": 1763150399
+            },
+            {
+                "section": 3,
+                "attribute": 1,
+                "start_date": 1763150400,
+                "end_date": 1763305199
+            }
+        ]
+    }
+]
