@@ -118,5 +118,20 @@
         "start_date": 1766728800,
         "end_date": 1767333599,
         "description": ""
+    },
+    {
+        "campaign_id": 272,
+        "campaign_name": "【2026年2月①】消費LP半減キャンペーン",
+        "campaign_type": 1,
+        "campaign_value": 5000,
+        "attribute_none": 1,
+        "attribute_sun": 1,
+        "attribute_star": 1,
+        "attribute_moon": 1,
+        "live_id": 0,
+        "stage_id": 0,
+        "start_date": 1770735600,
+        "end_date": 1771221599,
+        "description": ""
     }
 ]

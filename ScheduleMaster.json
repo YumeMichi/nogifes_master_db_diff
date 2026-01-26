@@ -5276,5 +5276,31 @@
                 "week": "1111111"
             }
         ]
+    },
+    {
+        "schedule_group_id": 413,
+        "schedule_data": [
+            {
+                "schedule_id": 413,
+                "start_date": 1769828400,
+                "end_date": 1924959599,
+                "start_time": "00:00:00",
+                "end_time": "23:59:59",
+                "week": "1111111"
+            }
+        ]
+    },
+    {
+        "schedule_group_id": 414,
+        "schedule_data": [
+            {
+                "schedule_id": 414,
+                "start_date": 1770778800,
+                "end_date": 1924959599,
+                "start_time": "00:00:00",
+                "end_time": "23:59:59",
+                "week": "1111111"
+            }
+        ]
     }
 ]

@@ -13356,6 +13356,20 @@
         ]
     },
     {
+        "unit_movie_id": 987,
+        "unit_movie_name": "Happy Birthday 2026 ホームMOVIE",
+        "unit_movie_name_kana": "はっぴーばーすでーにせんにじゅうろく　ほーむむーびー",
+        "start_date": 1769439600,
+        "unit_data": [
+            {
+                "unit_id": 125890
+            },
+            {
+                "unit_id": 125891
+            }
+        ]
+    },
+    {
         "unit_movie_id": 988,
         "unit_movie_name": "Mystic Reverie ホームMOVIE",
         "unit_movie_name_kana": "みすてぃっくれヴぇりー　ほーむむーびー",
@@ -13478,6 +13492,146 @@
             },
             {
                 "unit_id": 126101
+            }
+        ]
+    },
+    {
+        "unit_movie_id": 997,
+        "unit_movie_name": "38thSGアンダーライブ ダイジェストホームMOVIE",
+        "unit_movie_name_kana": "さんじゅうはちまいめしんぐるあんだーらいぶ　だいじぇすとほーむむーびー",
+        "start_date": 1769148000,
+        "unit_data": [
+            {
+                "unit_id": 126790
+            },
+            {
+                "unit_id": 126791
+            }
+        ]
+    },
+    {
+        "unit_movie_id": 998,
+        "unit_movie_name": "38thSGアンダーライブ ダイジェストホームMOVIE",
+        "unit_movie_name_kana": "さんじゅうはちまいめしんぐるあんだーらいぶ　だいじぇすとほーむむーびー",
+        "start_date": 1769148000,
+        "unit_data": [
+            {
+                "unit_id": 126800
+            },
+            {
+                "unit_id": 126801
+            }
+        ]
+    },
+    {
+        "unit_movie_id": 999,
+        "unit_movie_name": "38thSGアンダーライブ ダイジェストホームMOVIE",
+        "unit_movie_name_kana": "さんじゅうはちまいめしんぐるあんだーらいぶ　だいじぇすとほーむむーびー",
+        "start_date": 1769148000,
+        "unit_data": [
+            {
+                "unit_id": 126810
+            },
+            {
+                "unit_id": 126811
+            }
+        ]
+    },
+    {
+        "unit_movie_id": 1000,
+        "unit_movie_name": "38thSGアンダーライブ ダイジェストホームMOVIE",
+        "unit_movie_name_kana": "さんじゅうはちまいめしんぐるあんだーらいぶ　だいじぇすとほーむむーびー",
+        "start_date": 1769148000,
+        "unit_data": [
+            {
+                "unit_id": 126820
+            },
+            {
+                "unit_id": 126821
+            }
+        ]
+    },
+    {
+        "unit_movie_id": 1001,
+        "unit_movie_name": "38thSGアンダーライブ ダイジェストホームMOVIE",
+        "unit_movie_name_kana": "さんじゅうはちまいめしんぐるあんだーらいぶ　だいじぇすとほーむむーびー",
+        "start_date": 1769148000,
+        "unit_data": [
+            {
+                "unit_id": 126830
+            },
+            {
+                "unit_id": 126831
+            }
+        ]
+    },
+    {
+        "unit_movie_id": 1002,
+        "unit_movie_name": "38thSGアンダーライブ ダイジェストホームMOVIE",
+        "unit_movie_name_kana": "さんじゅうはちまいめしんぐるあんだーらいぶ　だいじぇすとほーむむーびー",
+        "start_date": 1769148000,
+        "unit_data": [
+            {
+                "unit_id": 126840
+            },
+            {
+                "unit_id": 126841
+            }
+        ]
+    },
+    {
+        "unit_movie_id": 1003,
+        "unit_movie_name": "38thSGアンダーライブ ダイジェストホームMOVIE",
+        "unit_movie_name_kana": "さんじゅうはちまいめしんぐるあんだーらいぶ　だいじぇすとほーむむーびー",
+        "start_date": 1769148000,
+        "unit_data": [
+            {
+                "unit_id": 126850
+            },
+            {
+                "unit_id": 126851
+            }
+        ]
+    },
+    {
+        "unit_movie_id": 1004,
+        "unit_movie_name": "38thSGアンダーライブ ダイジェストホームMOVIE",
+        "unit_movie_name_kana": "さんじゅうはちまいめしんぐるあんだーらいぶ　だいじぇすとほーむむーびー",
+        "start_date": 1769148000,
+        "unit_data": [
+            {
+                "unit_id": 126860
+            },
+            {
+                "unit_id": 126861
+            }
+        ]
+    },
+    {
+        "unit_movie_id": 1005,
+        "unit_movie_name": "Happy Birthday 2026 ホームMOVIE",
+        "unit_movie_name_kana": "はっぴーばーすでーにせんにじゅうろく　ほーむむーびー",
+        "start_date": 1769958000,
+        "unit_data": [
+            {
+                "unit_id": 127330
+            },
+            {
+                "unit_id": 127331
+            }
+        ]
+    },
+    {
+        "unit_movie_id": 1006,
+        "unit_movie_name": "Happy Birthday 2026 ホームMOVIE",
+        "unit_movie_name_kana": "はっぴーばーすでーにせんにじゅうろく　ほーむむーびー",
+        "start_date": 1770044400,
+        "unit_data": [
+            {
+                "unit_id": 127350
+            },
+            {
+                "unit_id": 127351
             }
         ]
     }

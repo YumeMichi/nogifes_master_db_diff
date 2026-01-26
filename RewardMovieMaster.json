@@ -48518,7 +48518,7 @@
     },
     {
         "reward_movie_id": 2936,
-        "reward_movie_name": "オフショット撮影にチャレンジ！<br />Photo by Sakura Kawasaki",
+        "reward_movie_name": "オフショット撮影チャレンジ！<br />Photo by Sakura Kawasaki",
         "reward_movie_name_kana": "おふしょっとさつえいちゃれんじ　ふぉと　ばい　さくら　かわさき",
         "movie_type": 1,
         "start_date": 1763618400,
@@ -48614,6 +48614,23 @@
             },
             {
                 "unit_id": 126781,
+                "movie_get_type": 1
+            }
+        ]
+    },
+    {
+        "reward_movie_id": 2942,
+        "reward_movie_name": "38thSG アンダーライブ<br />交感神経優位 SPライブMOVIE",
+        "reward_movie_name_kana": "さんじゅうはちまいめしんぐるあんだーらいぶ　こうかんしんけいゆうい　すぺしゃるらいぶむーびー",
+        "movie_type": 3,
+        "start_date": 1769234400,
+        "unit_data": [
+            {
+                "unit_id": 126950,
+                "movie_get_type": 1
+            },
+            {
+                "unit_id": 126951,
                 "movie_get_type": 1
             }
         ]

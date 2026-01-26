@@ -772,6 +772,20 @@
         "arranger": "TATOO"
     },
     {
+        "music_id": 80040,
+        "music_name": "孤独兄弟",
+        "music_name_kana": "こどくきょうだい",
+        "search_word": [],
+        "music_type": 1,
+        "center_girl_id": 104,
+        "release_date": 2014040204,
+        "music_length": 162,
+        "information": "すごく良い曲だよー",
+        "lyricist": "秋元 康",
+        "composer": "Soulife",
+        "arranger": "Soulife"
+    },
+    {
         "music_id": 80050,
         "music_name": "生まれたままで",
         "music_name_kana": "うまれたままで",
@@ -4120,6 +4134,24 @@
         "lyricist": "秋元康",
         "composer": "温詞",
         "arranger": "TomoLow"
+    },
+    {
+        "music_id": 440030,
+        "music_name": "交感神経優位",
+        "music_name_kana": "こうかんしんけいゆうい",
+        "search_word": [
+            {
+                "word": "あんだー曲"
+            }
+        ],
+        "music_type": 1,
+        "center_girl_id": 104,
+        "release_date": 2025032603,
+        "music_length": 148,
+        "information": "すごく良い曲だよー",
+        "lyricist": "秋元康",
+        "composer": "杉山勝彦",
+        "arranger": "杉山勝彦"
     },
     {
         "music_id": 440040,

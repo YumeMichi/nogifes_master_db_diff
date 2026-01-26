@@ -6016,6 +6016,950 @@
         ]
     },
     {
+        "special_mission_id": 6845,
+        "special_mission_name": "【アンダラ】期間限定ガチャを1回引こう",
+        "disp_order": 6836,
+        "start_date": 1769148000,
+        "end_date": 1769957999,
+        "mission_type": 107,
+        "mission_param": "2@1@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 22,
+                "data_id": 825,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "special_mission_id": 6846,
+        "special_mission_name": "【アンダラ】期間限定ガチャ「38thSGアンダーライブガチャ」の限定カードを3回強化しよう",
+        "disp_order": 6837,
+        "start_date": 1769148000,
+        "end_date": 1769957999,
+        "mission_type": 103,
+        "mission_param": "0@2126@0@0@0@0@3@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 5,
+                "data_id": 13,
+                "data_num": 3
+            }
+        ]
+    },
+    {
+        "special_mission_id": 6847,
+        "special_mission_name": "【アンダラ】「車道側」のLIVEを筒井あやめを編成してクリア",
+        "disp_order": 6838,
+        "start_date": 1769148000,
+        "end_date": 1769957999,
+        "mission_type": 125,
+        "mission_param": "1682@0@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 3,
+                "data_id": 3,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "special_mission_id": 6848,
+        "special_mission_name": "【アンダラ】「落とし物」のLIVEを奥田いろはを編成してクリア",
+        "disp_order": 6839,
+        "start_date": 1769148000,
+        "end_date": 1769957999,
+        "mission_type": 125,
+        "mission_param": "2031@0@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 23,
+                "data_id": 0,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "special_mission_id": 6849,
+        "special_mission_name": "【アンダラ】「それまでの猶予」のLIVEを冨里奈央を編成してクリア",
+        "disp_order": 6840,
+        "start_date": 1769148000,
+        "end_date": 1769957999,
+        "mission_type": 125,
+        "mission_param": "2032@0@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 10,
+                "data_id": 0,
+                "data_num": 100000
+            }
+        ]
+    },
+    {
+        "special_mission_id": 6850,
+        "special_mission_name": "【アンダラ】イベントPを3000集めよう",
+        "disp_order": 6841,
+        "start_date": 1769148000,
+        "end_date": 1769957999,
+        "mission_type": 121,
+        "mission_param": "274@3000@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 20,
+                "data_id": 2,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "special_mission_id": 6851,
+        "special_mission_name": "【アンダラ】ハイスコアを3回更新しよう",
+        "disp_order": 6842,
+        "start_date": 1769148000,
+        "end_date": 1769957999,
+        "mission_type": 117,
+        "mission_param": "3@0@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 20,
+                "data_id": 1,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "special_mission_id": 6852,
+        "special_mission_name": "【アンダラ】ミッションを全てクリア",
+        "disp_order": 6843,
+        "start_date": 1769148000,
+        "end_date": 1769957999,
+        "mission_type": 128,
+        "mission_param": "6845@6851@7@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 13,
+                "data_id": 0,
+                "data_num": 5
+            }
+        ]
+    },
+    {
+        "special_mission_id": 6853,
+        "special_mission_name": "【5期生】5期生のみ編成・「絶望の一秒前」のLIVEを1回クリア",
+        "disp_order": 6844,
+        "start_date": 1769925600,
+        "end_date": 1770955199,
+        "mission_type": 125,
+        "mission_param": "843@0@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 13,
+                "data_id": 0,
+                "data_num": 3
+            }
+        ]
+    },
+    {
+        "special_mission_id": 6854,
+        "special_mission_name": "【5期生】5期生のみ編成・「バンドエイド剥がすような別れ方」のLIVEを1回クリア",
+        "disp_order": 6845,
+        "start_date": 1769925600,
+        "end_date": 1770955199,
+        "mission_type": 125,
+        "mission_param": "1657@0@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 13,
+                "data_id": 0,
+                "data_num": 3
+            }
+        ]
+    },
+    {
+        "special_mission_id": 6855,
+        "special_mission_name": "【5期生】5期生のみ編成・「17分間」のLIVEを1回クリア",
+        "disp_order": 6846,
+        "start_date": 1769925600,
+        "end_date": 1770955199,
+        "mission_type": 125,
+        "mission_param": "1658@0@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 13,
+                "data_id": 0,
+                "data_num": 3
+            }
+        ]
+    },
+    {
+        "special_mission_id": 6856,
+        "special_mission_name": "【5期生】5期生のみ編成・「心にもないこと」のLIVEを1回クリア",
+        "disp_order": 6847,
+        "start_date": 1769925600,
+        "end_date": 1770955199,
+        "mission_type": 125,
+        "mission_param": "1659@0@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 13,
+                "data_id": 0,
+                "data_num": 3
+            }
+        ]
+    },
+    {
+        "special_mission_id": 6857,
+        "special_mission_name": "【5期生】5期生のみ編成・「考えないようにする」のLIVEを1回クリア",
+        "disp_order": 6848,
+        "start_date": 1769925600,
+        "end_date": 1770955199,
+        "mission_type": 125,
+        "mission_param": "2025@0@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 13,
+                "data_id": 0,
+                "data_num": 3
+            }
+        ]
+    },
+    {
+        "special_mission_id": 6858,
+        "special_mission_name": "【5期生】5期生のみ編成・「いつの日にか、あの歌を・・・」のLIVEを1回クリア",
+        "disp_order": 6849,
+        "start_date": 1769925600,
+        "end_date": 1770955199,
+        "mission_type": 125,
+        "mission_param": "2026@0@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 13,
+                "data_id": 0,
+                "data_num": 3
+            }
+        ]
+    },
+    {
+        "special_mission_id": 6859,
+        "special_mission_name": "【5期生】5期生のみ編成・「熱狂の捌け口」のLIVEを1回クリア",
+        "disp_order": 6850,
+        "start_date": 1769925600,
+        "end_date": 1770955199,
+        "mission_type": 125,
+        "mission_param": "2027@0@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 13,
+                "data_id": 0,
+                "data_num": 3
+            }
+        ]
+    },
+    {
+        "special_mission_id": 6860,
+        "special_mission_name": "【5期生】五百城茉央を1枚以上編成・SCORE 300,000以上でLIVEを1回クリア",
+        "disp_order": 6851,
+        "start_date": 1769925600,
+        "end_date": 1770955199,
+        "mission_type": 125,
+        "mission_param": "847@0@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 6,
+                "data_id": 501,
+                "data_num": 10
+            }
+        ]
+    },
+    {
+        "special_mission_id": 6861,
+        "special_mission_name": "【5期生】五百城茉央を1枚以上編成・SCORE 600,000以上でLIVEを1回クリア",
+        "disp_order": 6852,
+        "start_date": 1769925600,
+        "end_date": 1770955199,
+        "mission_type": 125,
+        "mission_param": "848@0@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 6,
+                "data_id": 501,
+                "data_num": 20
+            }
+        ]
+    },
+    {
+        "special_mission_id": 6862,
+        "special_mission_name": "【5期生】五百城茉央を1枚以上編成・SCORE 900,000以上でLIVEを1回クリア",
+        "disp_order": 6853,
+        "start_date": 1769925600,
+        "end_date": 1770955199,
+        "mission_type": 125,
+        "mission_param": "849@0@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 6,
+                "data_id": 501,
+                "data_num": 30
+            }
+        ]
+    },
+    {
+        "special_mission_id": 6863,
+        "special_mission_name": "【5期生】五百城茉央のみ編成・FULL COMBO以上でLIVEを1回クリア",
+        "disp_order": 6854,
+        "start_date": 1769925600,
+        "end_date": 1770955199,
+        "mission_type": 125,
+        "mission_param": "1289@0@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 13,
+                "data_id": 0,
+                "data_num": 2
+            }
+        ]
+    },
+    {
+        "special_mission_id": 6864,
+        "special_mission_name": "【5期生】池田瑛紗を1枚以上編成・SCORE 300,000以上でLIVEを1回クリア",
+        "disp_order": 6855,
+        "start_date": 1769925600,
+        "end_date": 1770955199,
+        "mission_type": 125,
+        "mission_param": "851@0@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 6,
+                "data_id": 502,
+                "data_num": 10
+            }
+        ]
+    },
+    {
+        "special_mission_id": 6865,
+        "special_mission_name": "【5期生】池田瑛紗を1枚以上編成・SCORE 600,000以上でLIVEを1回クリア",
+        "disp_order": 6856,
+        "start_date": 1769925600,
+        "end_date": 1770955199,
+        "mission_type": 125,
+        "mission_param": "852@0@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 6,
+                "data_id": 502,
+                "data_num": 20
+            }
+        ]
+    },
+    {
+        "special_mission_id": 6866,
+        "special_mission_name": "【5期生】池田瑛紗を1枚以上編成・SCORE 900,000以上でLIVEを1回クリア",
+        "disp_order": 6857,
+        "start_date": 1769925600,
+        "end_date": 1770955199,
+        "mission_type": 125,
+        "mission_param": "853@0@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 6,
+                "data_id": 502,
+                "data_num": 30
+            }
+        ]
+    },
+    {
+        "special_mission_id": 6867,
+        "special_mission_name": "【5期生】池田瑛紗のみ編成・FULL COMBO以上でLIVEを1回クリア",
+        "disp_order": 6858,
+        "start_date": 1769925600,
+        "end_date": 1770955199,
+        "mission_type": 125,
+        "mission_param": "1293@0@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 13,
+                "data_id": 0,
+                "data_num": 2
+            }
+        ]
+    },
+    {
+        "special_mission_id": 6868,
+        "special_mission_name": "【5期生】一ノ瀬美空を1枚以上編成・SCORE 300,000以上でLIVEを1回クリア",
+        "disp_order": 6859,
+        "start_date": 1769925600,
+        "end_date": 1770955199,
+        "mission_type": 125,
+        "mission_param": "855@0@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 6,
+                "data_id": 503,
+                "data_num": 10
+            }
+        ]
+    },
+    {
+        "special_mission_id": 6869,
+        "special_mission_name": "【5期生】一ノ瀬美空を1枚以上編成・SCORE 600,000以上でLIVEを1回クリア",
+        "disp_order": 6860,
+        "start_date": 1769925600,
+        "end_date": 1770955199,
+        "mission_type": 125,
+        "mission_param": "856@0@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 6,
+                "data_id": 503,
+                "data_num": 20
+            }
+        ]
+    },
+    {
+        "special_mission_id": 6870,
+        "special_mission_name": "【5期生】一ノ瀬美空を1枚以上編成・SCORE 900,000以上でLIVEを1回クリア",
+        "disp_order": 6861,
+        "start_date": 1769925600,
+        "end_date": 1770955199,
+        "mission_type": 125,
+        "mission_param": "857@0@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 6,
+                "data_id": 503,
+                "data_num": 30
+            }
+        ]
+    },
+    {
+        "special_mission_id": 6871,
+        "special_mission_name": "【5期生】一ノ瀬美空のみ編成・FULL COMBO以上でLIVEを1回クリア",
+        "disp_order": 6862,
+        "start_date": 1769925600,
+        "end_date": 1770955199,
+        "mission_type": 125,
+        "mission_param": "1297@0@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 13,
+                "data_id": 0,
+                "data_num": 2
+            }
+        ]
+    },
+    {
+        "special_mission_id": 6872,
+        "special_mission_name": "【5期生】井上和を1枚以上編成・SCORE 300,000以上でLIVEを1回クリア",
+        "disp_order": 6863,
+        "start_date": 1769925600,
+        "end_date": 1770955199,
+        "mission_type": 125,
+        "mission_param": "859@0@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 6,
+                "data_id": 504,
+                "data_num": 10
+            }
+        ]
+    },
+    {
+        "special_mission_id": 6873,
+        "special_mission_name": "【5期生】井上和を1枚以上編成・SCORE 600,000以上でLIVEを1回クリア",
+        "disp_order": 6864,
+        "start_date": 1769925600,
+        "end_date": 1770955199,
+        "mission_type": 125,
+        "mission_param": "860@0@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 6,
+                "data_id": 504,
+                "data_num": 20
+            }
+        ]
+    },
+    {
+        "special_mission_id": 6874,
+        "special_mission_name": "【5期生】井上和を1枚以上編成・SCORE 900,000以上でLIVEを1回クリア",
+        "disp_order": 6865,
+        "start_date": 1769925600,
+        "end_date": 1770955199,
+        "mission_type": 125,
+        "mission_param": "861@0@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 6,
+                "data_id": 504,
+                "data_num": 30
+            }
+        ]
+    },
+    {
+        "special_mission_id": 6875,
+        "special_mission_name": "【5期生】井上和のみ編成・FULL COMBO以上でLIVEを1回クリア",
+        "disp_order": 6866,
+        "start_date": 1769925600,
+        "end_date": 1770955199,
+        "mission_type": 125,
+        "mission_param": "1301@0@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 13,
+                "data_id": 0,
+                "data_num": 2
+            }
+        ]
+    },
+    {
+        "special_mission_id": 6876,
+        "special_mission_name": "【5期生】岡本姫奈を1枚以上編成・SCORE 300,000以上でLIVEを1回クリア",
+        "disp_order": 6867,
+        "start_date": 1769925600,
+        "end_date": 1770955199,
+        "mission_type": 125,
+        "mission_param": "863@0@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 6,
+                "data_id": 505,
+                "data_num": 10
+            }
+        ]
+    },
+    {
+        "special_mission_id": 6877,
+        "special_mission_name": "【5期生】岡本姫奈を1枚以上編成・SCORE 600,000以上でLIVEを1回クリア",
+        "disp_order": 6868,
+        "start_date": 1769925600,
+        "end_date": 1770955199,
+        "mission_type": 125,
+        "mission_param": "864@0@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 6,
+                "data_id": 505,
+                "data_num": 20
+            }
+        ]
+    },
+    {
+        "special_mission_id": 6878,
+        "special_mission_name": "【5期生】岡本姫奈を1枚以上編成・SCORE 900,000以上でLIVEを1回クリア",
+        "disp_order": 6869,
+        "start_date": 1769925600,
+        "end_date": 1770955199,
+        "mission_type": 125,
+        "mission_param": "865@0@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 6,
+                "data_id": 505,
+                "data_num": 30
+            }
+        ]
+    },
+    {
+        "special_mission_id": 6879,
+        "special_mission_name": "【5期生】岡本姫奈のみ編成・FULL COMBO以上でLIVEを1回クリア",
+        "disp_order": 6870,
+        "start_date": 1769925600,
+        "end_date": 1770955199,
+        "mission_type": 125,
+        "mission_param": "1305@0@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 13,
+                "data_id": 0,
+                "data_num": 2
+            }
+        ]
+    },
+    {
+        "special_mission_id": 6880,
+        "special_mission_name": "【5期生】小川彩を1枚以上編成・SCORE 300,000以上でLIVEを1回クリア",
+        "disp_order": 6871,
+        "start_date": 1769925600,
+        "end_date": 1770955199,
+        "mission_type": 125,
+        "mission_param": "867@0@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 6,
+                "data_id": 506,
+                "data_num": 10
+            }
+        ]
+    },
+    {
+        "special_mission_id": 6881,
+        "special_mission_name": "【5期生】小川彩を1枚以上編成・SCORE 600,000以上でLIVEを1回クリア",
+        "disp_order": 6872,
+        "start_date": 1769925600,
+        "end_date": 1770955199,
+        "mission_type": 125,
+        "mission_param": "868@0@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 6,
+                "data_id": 506,
+                "data_num": 20
+            }
+        ]
+    },
+    {
+        "special_mission_id": 6882,
+        "special_mission_name": "【5期生】小川彩を1枚以上編成・SCORE 900,000以上でLIVEを1回クリア",
+        "disp_order": 6873,
+        "start_date": 1769925600,
+        "end_date": 1770955199,
+        "mission_type": 125,
+        "mission_param": "869@0@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 6,
+                "data_id": 506,
+                "data_num": 30
+            }
+        ]
+    },
+    {
+        "special_mission_id": 6883,
+        "special_mission_name": "【5期生】小川彩のみ編成・FULL COMBO以上でLIVEを1回クリア",
+        "disp_order": 6874,
+        "start_date": 1769925600,
+        "end_date": 1770955199,
+        "mission_type": 125,
+        "mission_param": "1309@0@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 13,
+                "data_id": 0,
+                "data_num": 2
+            }
+        ]
+    },
+    {
+        "special_mission_id": 6884,
+        "special_mission_name": "【5期生】奥田いろはを1枚以上編成・SCORE 300,000以上でLIVEを1回クリア",
+        "disp_order": 6875,
+        "start_date": 1769925600,
+        "end_date": 1770955199,
+        "mission_type": 125,
+        "mission_param": "871@0@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 6,
+                "data_id": 507,
+                "data_num": 10
+            }
+        ]
+    },
+    {
+        "special_mission_id": 6885,
+        "special_mission_name": "【5期生】奥田いろはを1枚以上編成・SCORE 600,000以上でLIVEを1回クリア",
+        "disp_order": 6876,
+        "start_date": 1769925600,
+        "end_date": 1770955199,
+        "mission_type": 125,
+        "mission_param": "872@0@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 6,
+                "data_id": 507,
+                "data_num": 20
+            }
+        ]
+    },
+    {
+        "special_mission_id": 6886,
+        "special_mission_name": "【5期生】奥田いろはを1枚以上編成・SCORE 900,000以上でLIVEを1回クリア",
+        "disp_order": 6877,
+        "start_date": 1769925600,
+        "end_date": 1770955199,
+        "mission_type": 125,
+        "mission_param": "873@0@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 6,
+                "data_id": 507,
+                "data_num": 30
+            }
+        ]
+    },
+    {
+        "special_mission_id": 6887,
+        "special_mission_name": "【5期生】奥田いろはのみ編成・FULL COMBO以上でLIVEを1回クリア",
+        "disp_order": 6878,
+        "start_date": 1769925600,
+        "end_date": 1770955199,
+        "mission_type": 125,
+        "mission_param": "1313@0@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 13,
+                "data_id": 0,
+                "data_num": 2
+            }
+        ]
+    },
+    {
+        "special_mission_id": 6888,
+        "special_mission_name": "【5期生】川﨑桜を1枚以上編成・SCORE 300,000以上でLIVEを1回クリア",
+        "disp_order": 6879,
+        "start_date": 1769925600,
+        "end_date": 1770955199,
+        "mission_type": 125,
+        "mission_param": "875@0@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 6,
+                "data_id": 508,
+                "data_num": 10
+            }
+        ]
+    },
+    {
+        "special_mission_id": 6889,
+        "special_mission_name": "【5期生】川﨑桜を1枚以上編成・SCORE 600,000以上でLIVEを1回クリア",
+        "disp_order": 6880,
+        "start_date": 1769925600,
+        "end_date": 1770955199,
+        "mission_type": 125,
+        "mission_param": "876@0@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 6,
+                "data_id": 508,
+                "data_num": 20
+            }
+        ]
+    },
+    {
+        "special_mission_id": 6890,
+        "special_mission_name": "【5期生】川﨑桜を1枚以上編成・SCORE 900,000以上でLIVEを1回クリア",
+        "disp_order": 6881,
+        "start_date": 1769925600,
+        "end_date": 1770955199,
+        "mission_type": 125,
+        "mission_param": "877@0@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 6,
+                "data_id": 508,
+                "data_num": 30
+            }
+        ]
+    },
+    {
+        "special_mission_id": 6891,
+        "special_mission_name": "【5期生】川﨑桜のみ編成・FULL COMBO以上でLIVEを1回クリア",
+        "disp_order": 6882,
+        "start_date": 1769925600,
+        "end_date": 1770955199,
+        "mission_type": 125,
+        "mission_param": "1317@0@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 13,
+                "data_id": 0,
+                "data_num": 2
+            }
+        ]
+    },
+    {
+        "special_mission_id": 6892,
+        "special_mission_name": "【5期生】菅原咲月を1枚以上編成・SCORE 300,000以上でLIVEを1回クリア",
+        "disp_order": 6883,
+        "start_date": 1769925600,
+        "end_date": 1770955199,
+        "mission_type": 125,
+        "mission_param": "879@0@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 6,
+                "data_id": 509,
+                "data_num": 10
+            }
+        ]
+    },
+    {
+        "special_mission_id": 6893,
+        "special_mission_name": "【5期生】菅原咲月を1枚以上編成・SCORE 600,000以上でLIVEを1回クリア",
+        "disp_order": 6884,
+        "start_date": 1769925600,
+        "end_date": 1770955199,
+        "mission_type": 125,
+        "mission_param": "880@0@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 6,
+                "data_id": 509,
+                "data_num": 20
+            }
+        ]
+    },
+    {
+        "special_mission_id": 6894,
+        "special_mission_name": "【5期生】菅原咲月を1枚以上編成・SCORE 900,000以上でLIVEを1回クリア",
+        "disp_order": 6885,
+        "start_date": 1769925600,
+        "end_date": 1770955199,
+        "mission_type": 125,
+        "mission_param": "881@0@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 6,
+                "data_id": 509,
+                "data_num": 30
+            }
+        ]
+    },
+    {
+        "special_mission_id": 6895,
+        "special_mission_name": "【5期生】菅原咲月のみ編成・FULL COMBO以上でLIVEを1回クリア",
+        "disp_order": 6886,
+        "start_date": 1769925600,
+        "end_date": 1770955199,
+        "mission_type": 125,
+        "mission_param": "1321@0@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 13,
+                "data_id": 0,
+                "data_num": 2
+            }
+        ]
+    },
+    {
+        "special_mission_id": 6896,
+        "special_mission_name": "【5期生】冨里奈央を1枚以上編成・SCORE 300,000以上でLIVEを1回クリア",
+        "disp_order": 6887,
+        "start_date": 1769925600,
+        "end_date": 1770955199,
+        "mission_type": 125,
+        "mission_param": "883@0@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 6,
+                "data_id": 510,
+                "data_num": 10
+            }
+        ]
+    },
+    {
+        "special_mission_id": 6897,
+        "special_mission_name": "【5期生】冨里奈央を1枚以上編成・SCORE 600,000以上でLIVEを1回クリア",
+        "disp_order": 6888,
+        "start_date": 1769925600,
+        "end_date": 1770955199,
+        "mission_type": 125,
+        "mission_param": "884@0@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 6,
+                "data_id": 510,
+                "data_num": 20
+            }
+        ]
+    },
+    {
+        "special_mission_id": 6898,
+        "special_mission_name": "【5期生】冨里奈央を1枚以上編成・SCORE 900,000以上でLIVEを1回クリア",
+        "disp_order": 6889,
+        "start_date": 1769925600,
+        "end_date": 1770955199,
+        "mission_type": 125,
+        "mission_param": "885@0@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 6,
+                "data_id": 510,
+                "data_num": 30
+            }
+        ]
+    },
+    {
+        "special_mission_id": 6899,
+        "special_mission_name": "【5期生】冨里奈央のみ編成・FULL COMBO以上でLIVEを1回クリア",
+        "disp_order": 6890,
+        "start_date": 1769925600,
+        "end_date": 1770955199,
+        "mission_type": 125,
+        "mission_param": "1325@0@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 13,
+                "data_id": 0,
+                "data_num": 2
+            }
+        ]
+    },
+    {
+        "special_mission_id": 6900,
+        "special_mission_name": "【5期生】中西アルノを1枚以上編成・SCORE 300,000以上でLIVEを1回クリア",
+        "disp_order": 6891,
+        "start_date": 1769925600,
+        "end_date": 1770955199,
+        "mission_type": 125,
+        "mission_param": "887@0@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 6,
+                "data_id": 511,
+                "data_num": 10
+            }
+        ]
+    },
+    {
+        "special_mission_id": 6901,
+        "special_mission_name": "【5期生】中西アルノを1枚以上編成・SCORE 600,000以上でLIVEを1回クリア",
+        "disp_order": 6892,
+        "start_date": 1769925600,
+        "end_date": 1770955199,
+        "mission_type": 125,
+        "mission_param": "888@0@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 6,
+                "data_id": 511,
+                "data_num": 20
+            }
+        ]
+    },
+    {
+        "special_mission_id": 6902,
+        "special_mission_name": "【5期生】中西アルノを1枚以上編成・SCORE 900,000以上でLIVEを1回クリア",
+        "disp_order": 6893,
+        "start_date": 1769925600,
+        "end_date": 1770955199,
+        "mission_type": 125,
+        "mission_param": "889@0@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 6,
+                "data_id": 511,
+                "data_num": 30
+            }
+        ]
+    },
+    {
+        "special_mission_id": 6903,
+        "special_mission_name": "【5期生】中西アルノのみ編成・FULL COMBO以上でLIVEを1回クリア",
+        "disp_order": 6894,
+        "start_date": 1769925600,
+        "end_date": 1770955199,
+        "mission_type": 125,
+        "mission_param": "1329@0@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 13,
+                "data_id": 0,
+                "data_num": 2
+            }
+        ]
+    },
+    {
         "special_mission_id": 6904,
         "special_mission_name": "「あの光」のLIVEを20回クリアしよう",
         "disp_order": 6895,
@@ -6487,6 +7431,1014 @@
         "end_date": 1769007599,
         "mission_type": 119,
         "mission_param": "273@240@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 13,
+                "data_id": 0,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "special_mission_id": 6974,
+        "special_mission_name": "「交感神経優位」のLIVEを20回クリアしよう",
+        "disp_order": 6965,
+        "start_date": 1769234400,
+        "end_date": 1769785199,
+        "mission_type": 101,
+        "mission_param": "20002740@0@20@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 13,
+                "data_id": 0,
+                "data_num": 10
+            }
+        ]
+    },
+    {
+        "special_mission_id": 6975,
+        "special_mission_name": "「メモリーフォン」を240個集めよう",
+        "disp_order": 6966,
+        "start_date": 1769234400,
+        "end_date": 1769266799,
+        "mission_type": 119,
+        "mission_param": "274@240@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 13,
+                "data_id": 0,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "special_mission_id": 6976,
+        "special_mission_name": "「メモリーフォン」を240個集めよう",
+        "disp_order": 6967,
+        "start_date": 1769266800,
+        "end_date": 1769353199,
+        "mission_type": 119,
+        "mission_param": "274@240@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 13,
+                "data_id": 0,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "special_mission_id": 6977,
+        "special_mission_name": "「メモリーフォン」を240個集めよう",
+        "disp_order": 6968,
+        "start_date": 1769353200,
+        "end_date": 1769439599,
+        "mission_type": 119,
+        "mission_param": "274@240@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 13,
+                "data_id": 0,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "special_mission_id": 6978,
+        "special_mission_name": "「メモリーフォン」を240個集めよう",
+        "disp_order": 6969,
+        "start_date": 1769439600,
+        "end_date": 1769525999,
+        "mission_type": 119,
+        "mission_param": "274@240@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 13,
+                "data_id": 0,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "special_mission_id": 6979,
+        "special_mission_name": "「メモリーフォン」を240個集めよう",
+        "disp_order": 6970,
+        "start_date": 1769526000,
+        "end_date": 1769612399,
+        "mission_type": 119,
+        "mission_param": "274@240@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 13,
+                "data_id": 0,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "special_mission_id": 6980,
+        "special_mission_name": "「メモリーフォン」を240個集めよう",
+        "disp_order": 6971,
+        "start_date": 1769612400,
+        "end_date": 1769698799,
+        "mission_type": 119,
+        "mission_param": "274@240@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 13,
+                "data_id": 0,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "special_mission_id": 6981,
+        "special_mission_name": "「メモリーフォン」を240個集めよう",
+        "disp_order": 6972,
+        "start_date": 1769698800,
+        "end_date": 1769785199,
+        "mission_type": 119,
+        "mission_param": "274@240@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 13,
+                "data_id": 0,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "special_mission_id": 6982,
+        "special_mission_name": "【6期生】6期生のみ編成・「タイムリミット片想い」のLIVEを1回クリア",
+        "disp_order": 6973,
+        "start_date": 1770271200,
+        "end_date": 1771307999,
+        "mission_type": 125,
+        "mission_param": "2033@0@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 13,
+                "data_id": 0,
+                "data_num": 3
+            }
+        ]
+    },
+    {
+        "special_mission_id": 6983,
+        "special_mission_name": "【6期生】6期生のみ編成・「なぜ　僕たちは走るのか？」のLIVEを1回クリア",
+        "disp_order": 6974,
+        "start_date": 1770271200,
+        "end_date": 1771307999,
+        "mission_type": 125,
+        "mission_param": "2034@0@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 13,
+                "data_id": 0,
+                "data_num": 3
+            }
+        ]
+    },
+    {
+        "special_mission_id": 6984,
+        "special_mission_name": "【6期生】愛宕心響を1枚以上編成・SCORE 300,000以上でLIVEを1回クリア",
+        "disp_order": 6975,
+        "start_date": 1770271200,
+        "end_date": 1771307999,
+        "mission_type": 125,
+        "mission_param": "2035@0@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 6,
+                "data_id": 601,
+                "data_num": 10
+            }
+        ]
+    },
+    {
+        "special_mission_id": 6985,
+        "special_mission_name": "【6期生】愛宕心響を1枚以上編成・SCORE 600,000以上でLIVEを1回クリア",
+        "disp_order": 6976,
+        "start_date": 1770271200,
+        "end_date": 1771307999,
+        "mission_type": 125,
+        "mission_param": "2036@0@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 6,
+                "data_id": 601,
+                "data_num": 20
+            }
+        ]
+    },
+    {
+        "special_mission_id": 6986,
+        "special_mission_name": "【6期生】愛宕心響を1枚以上編成・SCORE 900,000以上でLIVEを1回クリア",
+        "disp_order": 6977,
+        "start_date": 1770271200,
+        "end_date": 1771307999,
+        "mission_type": 125,
+        "mission_param": "2037@0@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 6,
+                "data_id": 601,
+                "data_num": 30
+            }
+        ]
+    },
+    {
+        "special_mission_id": 6987,
+        "special_mission_name": "【6期生】愛宕心響のみ編成・FULL COMBO以上でLIVEを1回クリア",
+        "disp_order": 6978,
+        "start_date": 1770271200,
+        "end_date": 1771307999,
+        "mission_type": 125,
+        "mission_param": "2038@0@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 13,
+                "data_id": 0,
+                "data_num": 2
+            }
+        ]
+    },
+    {
+        "special_mission_id": 6988,
+        "special_mission_name": "【6期生】大越ひなのを1枚以上編成・SCORE 300,000以上でLIVEを1回クリア",
+        "disp_order": 6979,
+        "start_date": 1770271200,
+        "end_date": 1771307999,
+        "mission_type": 125,
+        "mission_param": "2039@0@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 6,
+                "data_id": 602,
+                "data_num": 10
+            }
+        ]
+    },
+    {
+        "special_mission_id": 6989,
+        "special_mission_name": "【6期生】大越ひなのを1枚以上編成・SCORE 600,000以上でLIVEを1回クリア",
+        "disp_order": 6980,
+        "start_date": 1770271200,
+        "end_date": 1771307999,
+        "mission_type": 125,
+        "mission_param": "2040@0@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 6,
+                "data_id": 602,
+                "data_num": 20
+            }
+        ]
+    },
+    {
+        "special_mission_id": 6990,
+        "special_mission_name": "【6期生】大越ひなのを1枚以上編成・SCORE 900,000以上でLIVEを1回クリア",
+        "disp_order": 6981,
+        "start_date": 1770271200,
+        "end_date": 1771307999,
+        "mission_type": 125,
+        "mission_param": "2041@0@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 6,
+                "data_id": 602,
+                "data_num": 30
+            }
+        ]
+    },
+    {
+        "special_mission_id": 6991,
+        "special_mission_name": "【6期生】大越ひなののみ編成・FULL COMBO以上でLIVEを1回クリア",
+        "disp_order": 6982,
+        "start_date": 1770271200,
+        "end_date": 1771307999,
+        "mission_type": 125,
+        "mission_param": "2042@0@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 13,
+                "data_id": 0,
+                "data_num": 2
+            }
+        ]
+    },
+    {
+        "special_mission_id": 6992,
+        "special_mission_name": "【6期生】小津玲奈を1枚以上編成・SCORE 300,000以上でLIVEを1回クリア",
+        "disp_order": 6983,
+        "start_date": 1770271200,
+        "end_date": 1771307999,
+        "mission_type": 125,
+        "mission_param": "2043@0@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 6,
+                "data_id": 603,
+                "data_num": 10
+            }
+        ]
+    },
+    {
+        "special_mission_id": 6993,
+        "special_mission_name": "【6期生】小津玲奈を1枚以上編成・SCORE 600,000以上でLIVEを1回クリア",
+        "disp_order": 6984,
+        "start_date": 1770271200,
+        "end_date": 1771307999,
+        "mission_type": 125,
+        "mission_param": "2044@0@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 6,
+                "data_id": 603,
+                "data_num": 20
+            }
+        ]
+    },
+    {
+        "special_mission_id": 6994,
+        "special_mission_name": "【6期生】小津玲奈を1枚以上編成・SCORE 900,000以上でLIVEを1回クリア",
+        "disp_order": 6985,
+        "start_date": 1770271200,
+        "end_date": 1771307999,
+        "mission_type": 125,
+        "mission_param": "2045@0@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 6,
+                "data_id": 603,
+                "data_num": 30
+            }
+        ]
+    },
+    {
+        "special_mission_id": 6995,
+        "special_mission_name": "【6期生】小津玲奈のみ編成・FULL COMBO以上でLIVEを1回クリア",
+        "disp_order": 6986,
+        "start_date": 1770271200,
+        "end_date": 1771307999,
+        "mission_type": 125,
+        "mission_param": "2046@0@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 13,
+                "data_id": 0,
+                "data_num": 2
+            }
+        ]
+    },
+    {
+        "special_mission_id": 6996,
+        "special_mission_name": "【6期生】海邉朱莉を1枚以上編成・SCORE 300,000以上でLIVEを1回クリア",
+        "disp_order": 6987,
+        "start_date": 1770271200,
+        "end_date": 1771307999,
+        "mission_type": 125,
+        "mission_param": "2047@0@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 6,
+                "data_id": 604,
+                "data_num": 10
+            }
+        ]
+    },
+    {
+        "special_mission_id": 6997,
+        "special_mission_name": "【6期生】海邉朱莉を1枚以上編成・SCORE 600,000以上でLIVEを1回クリア",
+        "disp_order": 6988,
+        "start_date": 1770271200,
+        "end_date": 1771307999,
+        "mission_type": 125,
+        "mission_param": "2048@0@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 6,
+                "data_id": 604,
+                "data_num": 20
+            }
+        ]
+    },
+    {
+        "special_mission_id": 6998,
+        "special_mission_name": "【6期生】海邉朱莉を1枚以上編成・SCORE 900,000以上でLIVEを1回クリア",
+        "disp_order": 6989,
+        "start_date": 1770271200,
+        "end_date": 1771307999,
+        "mission_type": 125,
+        "mission_param": "2049@0@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 6,
+                "data_id": 604,
+                "data_num": 30
+            }
+        ]
+    },
+    {
+        "special_mission_id": 6999,
+        "special_mission_name": "【6期生】海邉朱莉のみ編成・FULL COMBO以上でLIVEを1回クリア",
+        "disp_order": 6990,
+        "start_date": 1770271200,
+        "end_date": 1771307999,
+        "mission_type": 125,
+        "mission_param": "2050@0@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 13,
+                "data_id": 0,
+                "data_num": 2
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7000,
+        "special_mission_name": "【6期生】川端晃菜を1枚以上編成・SCORE 300,000以上でLIVEを1回クリア",
+        "disp_order": 6991,
+        "start_date": 1770271200,
+        "end_date": 1771307999,
+        "mission_type": 125,
+        "mission_param": "2051@0@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 6,
+                "data_id": 605,
+                "data_num": 10
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7001,
+        "special_mission_name": "【6期生】川端晃菜を1枚以上編成・SCORE 600,000以上でLIVEを1回クリア",
+        "disp_order": 6992,
+        "start_date": 1770271200,
+        "end_date": 1771307999,
+        "mission_type": 125,
+        "mission_param": "2052@0@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 6,
+                "data_id": 605,
+                "data_num": 20
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7002,
+        "special_mission_name": "【6期生】川端晃菜を1枚以上編成・SCORE 900,000以上でLIVEを1回クリア",
+        "disp_order": 6993,
+        "start_date": 1770271200,
+        "end_date": 1771307999,
+        "mission_type": 125,
+        "mission_param": "2053@0@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 6,
+                "data_id": 605,
+                "data_num": 30
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7003,
+        "special_mission_name": "【6期生】川端晃菜のみ編成・FULL COMBO以上でLIVEを1回クリア",
+        "disp_order": 6994,
+        "start_date": 1770271200,
+        "end_date": 1771307999,
+        "mission_type": 125,
+        "mission_param": "2054@0@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 13,
+                "data_id": 0,
+                "data_num": 2
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7004,
+        "special_mission_name": "【6期生】鈴木佑捺を1枚以上編成・SCORE 300,000以上でLIVEを1回クリア",
+        "disp_order": 6995,
+        "start_date": 1770271200,
+        "end_date": 1771307999,
+        "mission_type": 125,
+        "mission_param": "2055@0@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 6,
+                "data_id": 606,
+                "data_num": 10
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7005,
+        "special_mission_name": "【6期生】鈴木佑捺を1枚以上編成・SCORE 600,000以上でLIVEを1回クリア",
+        "disp_order": 6996,
+        "start_date": 1770271200,
+        "end_date": 1771307999,
+        "mission_type": 125,
+        "mission_param": "2056@0@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 6,
+                "data_id": 606,
+                "data_num": 20
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7006,
+        "special_mission_name": "【6期生】鈴木佑捺を1枚以上編成・SCORE 900,000以上でLIVEを1回クリア",
+        "disp_order": 6997,
+        "start_date": 1770271200,
+        "end_date": 1771307999,
+        "mission_type": 125,
+        "mission_param": "2057@0@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 6,
+                "data_id": 606,
+                "data_num": 30
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7007,
+        "special_mission_name": "【6期生】鈴木佑捺のみ編成・FULL COMBO以上でLIVEを1回クリア",
+        "disp_order": 6998,
+        "start_date": 1770271200,
+        "end_date": 1771307999,
+        "mission_type": 125,
+        "mission_param": "2058@0@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 13,
+                "data_id": 0,
+                "data_num": 2
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7008,
+        "special_mission_name": "【6期生】瀬戸口心月を1枚以上編成・SCORE 300,000以上でLIVEを1回クリア",
+        "disp_order": 6999,
+        "start_date": 1770271200,
+        "end_date": 1771307999,
+        "mission_type": 125,
+        "mission_param": "2059@0@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 6,
+                "data_id": 607,
+                "data_num": 10
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7009,
+        "special_mission_name": "【6期生】瀬戸口心月を1枚以上編成・SCORE 600,000以上でLIVEを1回クリア",
+        "disp_order": 7000,
+        "start_date": 1770271200,
+        "end_date": 1771307999,
+        "mission_type": 125,
+        "mission_param": "2060@0@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 6,
+                "data_id": 607,
+                "data_num": 20
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7010,
+        "special_mission_name": "【6期生】瀬戸口心月を1枚以上編成・SCORE 900,000以上でLIVEを1回クリア",
+        "disp_order": 7001,
+        "start_date": 1770271200,
+        "end_date": 1771307999,
+        "mission_type": 125,
+        "mission_param": "2061@0@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 6,
+                "data_id": 607,
+                "data_num": 30
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7011,
+        "special_mission_name": "【6期生】瀬戸口心月のみ編成・FULL COMBO以上でLIVEを1回クリア",
+        "disp_order": 7002,
+        "start_date": 1770271200,
+        "end_date": 1771307999,
+        "mission_type": 125,
+        "mission_param": "2062@0@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 13,
+                "data_id": 0,
+                "data_num": 2
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7012,
+        "special_mission_name": "【6期生】長嶋凛桜を1枚以上編成・SCORE 300,000以上でLIVEを1回クリア",
+        "disp_order": 7003,
+        "start_date": 1770271200,
+        "end_date": 1771307999,
+        "mission_type": 125,
+        "mission_param": "2063@0@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 6,
+                "data_id": 608,
+                "data_num": 10
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7013,
+        "special_mission_name": "【6期生】長嶋凛桜を1枚以上編成・SCORE 600,000以上でLIVEを1回クリア",
+        "disp_order": 7004,
+        "start_date": 1770271200,
+        "end_date": 1771307999,
+        "mission_type": 125,
+        "mission_param": "2064@0@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 6,
+                "data_id": 608,
+                "data_num": 20
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7014,
+        "special_mission_name": "【6期生】長嶋凛桜を1枚以上編成・SCORE 900,000以上でLIVEを1回クリア",
+        "disp_order": 7005,
+        "start_date": 1770271200,
+        "end_date": 1771307999,
+        "mission_type": 125,
+        "mission_param": "2065@0@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 6,
+                "data_id": 608,
+                "data_num": 30
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7015,
+        "special_mission_name": "【6期生】長嶋凛桜のみ編成・FULL COMBO以上でLIVEを1回クリア",
+        "disp_order": 7006,
+        "start_date": 1770271200,
+        "end_date": 1771307999,
+        "mission_type": 125,
+        "mission_param": "2066@0@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 13,
+                "data_id": 0,
+                "data_num": 2
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7016,
+        "special_mission_name": "【6期生】増田三莉音を1枚以上編成・SCORE 300,000以上でLIVEを1回クリア",
+        "disp_order": 7007,
+        "start_date": 1770271200,
+        "end_date": 1771307999,
+        "mission_type": 125,
+        "mission_param": "2067@0@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 6,
+                "data_id": 609,
+                "data_num": 10
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7017,
+        "special_mission_name": "【6期生】増田三莉音を1枚以上編成・SCORE 600,000以上でLIVEを1回クリア",
+        "disp_order": 7008,
+        "start_date": 1770271200,
+        "end_date": 1771307999,
+        "mission_type": 125,
+        "mission_param": "2068@0@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 6,
+                "data_id": 609,
+                "data_num": 20
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7018,
+        "special_mission_name": "【6期生】増田三莉音を1枚以上編成・SCORE 900,000以上でLIVEを1回クリア",
+        "disp_order": 7009,
+        "start_date": 1770271200,
+        "end_date": 1771307999,
+        "mission_type": 125,
+        "mission_param": "2069@0@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 6,
+                "data_id": 609,
+                "data_num": 30
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7019,
+        "special_mission_name": "【6期生】増田三莉音のみ編成・FULL COMBO以上でLIVEを1回クリア",
+        "disp_order": 7010,
+        "start_date": 1770271200,
+        "end_date": 1771307999,
+        "mission_type": 125,
+        "mission_param": "2070@0@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 13,
+                "data_id": 0,
+                "data_num": 2
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7020,
+        "special_mission_name": "【6期生】森平麗心を1枚以上編成・SCORE 300,000以上でLIVEを1回クリア",
+        "disp_order": 7011,
+        "start_date": 1770271200,
+        "end_date": 1771307999,
+        "mission_type": 125,
+        "mission_param": "2071@0@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 6,
+                "data_id": 610,
+                "data_num": 10
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7021,
+        "special_mission_name": "【6期生】森平麗心を1枚以上編成・SCORE 600,000以上でLIVEを1回クリア",
+        "disp_order": 7012,
+        "start_date": 1770271200,
+        "end_date": 1771307999,
+        "mission_type": 125,
+        "mission_param": "2072@0@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 6,
+                "data_id": 610,
+                "data_num": 20
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7022,
+        "special_mission_name": "【6期生】森平麗心を1枚以上編成・SCORE 900,000以上でLIVEを1回クリア",
+        "disp_order": 7013,
+        "start_date": 1770271200,
+        "end_date": 1771307999,
+        "mission_type": 125,
+        "mission_param": "2073@0@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 6,
+                "data_id": 610,
+                "data_num": 30
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7023,
+        "special_mission_name": "【6期生】森平麗心のみ編成・FULL COMBO以上でLIVEを1回クリア",
+        "disp_order": 7014,
+        "start_date": 1770271200,
+        "end_date": 1771307999,
+        "mission_type": 125,
+        "mission_param": "2074@0@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 13,
+                "data_id": 0,
+                "data_num": 2
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7024,
+        "special_mission_name": "【6期生】矢田萌華を1枚以上編成・SCORE 300,000以上でLIVEを1回クリア",
+        "disp_order": 7015,
+        "start_date": 1770271200,
+        "end_date": 1771307999,
+        "mission_type": 125,
+        "mission_param": "2075@0@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 6,
+                "data_id": 611,
+                "data_num": 10
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7025,
+        "special_mission_name": "【6期生】矢田萌華を1枚以上編成・SCORE 600,000以上でLIVEを1回クリア",
+        "disp_order": 7016,
+        "start_date": 1770271200,
+        "end_date": 1771307999,
+        "mission_type": 125,
+        "mission_param": "2076@0@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 6,
+                "data_id": 611,
+                "data_num": 20
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7026,
+        "special_mission_name": "【6期生】矢田萌華を1枚以上編成・SCORE 900,000以上でLIVEを1回クリア",
+        "disp_order": 7017,
+        "start_date": 1770271200,
+        "end_date": 1771307999,
+        "mission_type": 125,
+        "mission_param": "2077@0@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 6,
+                "data_id": 611,
+                "data_num": 30
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7027,
+        "special_mission_name": "【6期生】矢田萌華のみ編成・FULL COMBO以上でLIVEを1回クリア",
+        "disp_order": 7018,
+        "start_date": 1770271200,
+        "end_date": 1771307999,
+        "mission_type": 125,
+        "mission_param": "2078@0@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 13,
+                "data_id": 0,
+                "data_num": 2
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7028,
+        "special_mission_name": "「孤独兄弟」のLIVEを20回クリアしよう",
+        "disp_order": 7019,
+        "start_date": 1770098400,
+        "end_date": 1770735599,
+        "mission_type": 101,
+        "mission_param": "20002750@0@20@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 13,
+                "data_id": 0,
+                "data_num": 10
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7029,
+        "special_mission_name": "「孤独ジャケット」を240個集めよう",
+        "disp_order": 7020,
+        "start_date": 1770098400,
+        "end_date": 1770130799,
+        "mission_type": 119,
+        "mission_param": "275@240@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 13,
+                "data_id": 0,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7030,
+        "special_mission_name": "「孤独ジャケット」を240個集めよう",
+        "disp_order": 7021,
+        "start_date": 1770130800,
+        "end_date": 1770217199,
+        "mission_type": 119,
+        "mission_param": "275@240@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 13,
+                "data_id": 0,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7031,
+        "special_mission_name": "「孤独ジャケット」を240個集めよう",
+        "disp_order": 7022,
+        "start_date": 1770217200,
+        "end_date": 1770303599,
+        "mission_type": 119,
+        "mission_param": "275@240@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 13,
+                "data_id": 0,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7032,
+        "special_mission_name": "「孤独ジャケット」を240個集めよう",
+        "disp_order": 7023,
+        "start_date": 1770303600,
+        "end_date": 1770389999,
+        "mission_type": 119,
+        "mission_param": "275@240@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 13,
+                "data_id": 0,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7033,
+        "special_mission_name": "「孤独ジャケット」を240個集めよう",
+        "disp_order": 7024,
+        "start_date": 1770390000,
+        "end_date": 1770476399,
+        "mission_type": 119,
+        "mission_param": "275@240@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 13,
+                "data_id": 0,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7034,
+        "special_mission_name": "「孤独ジャケット」を240個集めよう",
+        "disp_order": 7025,
+        "start_date": 1770476400,
+        "end_date": 1770562799,
+        "mission_type": 119,
+        "mission_param": "275@240@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 13,
+                "data_id": 0,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7035,
+        "special_mission_name": "「孤独ジャケット」を240個集めよう",
+        "disp_order": 7026,
+        "start_date": 1770562800,
+        "end_date": 1770649199,
+        "mission_type": 119,
+        "mission_param": "275@240@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 13,
+                "data_id": 0,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7036,
+        "special_mission_name": "「孤独ジャケット」を240個集めよう",
+        "disp_order": 7027,
+        "start_date": 1770649200,
+        "end_date": 1770735599,
+        "mission_type": 119,
+        "mission_param": "275@240@0@0@0@0@0@0@0@0",
         "reward_data": [
             {
                 "data_type": 13,

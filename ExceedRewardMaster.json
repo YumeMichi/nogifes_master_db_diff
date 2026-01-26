@@ -55193,5 +55193,50 @@
                 ]
             }
         ]
+    },
+    {
+        "exceed_reward_id": 2456,
+        "exceed_count_data": [
+            {
+                "exceed_count": 1,
+                "reward_data": [
+                    {
+                        "data_type": 27,
+                        "data_id": 15469,
+                        "data_num": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "exceed_reward_id": 2457,
+        "exceed_count_data": [
+            {
+                "exceed_count": 1,
+                "reward_data": [
+                    {
+                        "data_type": 27,
+                        "data_id": 15666,
+                        "data_num": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "exceed_reward_id": 2458,
+        "exceed_count_data": [
+            {
+                "exceed_count": 1,
+                "reward_data": [
+                    {
+                        "data_type": 27,
+                        "data_id": 15671,
+                        "data_num": 1
+                    }
+                ]
+            }
+        ]
     }
 ]

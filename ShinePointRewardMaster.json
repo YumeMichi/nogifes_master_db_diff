@@ -4293,5 +4293,864 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 6,
+        "start_date": 1769871600,
+        "end_date": 1772290799,
+        "point_reward_data": [
+            {
+                "reward_id": 1,
+                "reward_name": "ダイヤ×4",
+                "shine_point": 20,
+                "reward_data": [
+                    {
+                        "data_type": 13,
+                        "data_id": 0,
+                        "data_num": 4
+                    }
+                ]
+            },
+            {
+                "reward_id": 2,
+                "reward_name": "銀のハネ×1",
+                "shine_point": 100,
+                "reward_data": [
+                    {
+                        "data_type": 20,
+                        "data_id": 1,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "reward_id": 3,
+                "reward_name": "銀のハネ×1",
+                "shine_point": 200,
+                "reward_data": [
+                    {
+                        "data_type": 20,
+                        "data_id": 1,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "reward_id": 4,
+                "reward_name": "銀のハネ×1",
+                "shine_point": 300,
+                "reward_data": [
+                    {
+                        "data_type": 20,
+                        "data_id": 1,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "reward_id": 5,
+                "reward_name": "銀のハネ×1",
+                "shine_point": 400,
+                "reward_data": [
+                    {
+                        "data_type": 20,
+                        "data_id": 1,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "reward_id": 6,
+                "reward_name": "壊れた高画質鑑賞の鍵×1",
+                "shine_point": 500,
+                "reward_data": [
+                    {
+                        "data_type": 20,
+                        "data_id": 3,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "reward_id": 7,
+                "reward_name": "銀のハネ×1",
+                "shine_point": 600,
+                "reward_data": [
+                    {
+                        "data_type": 20,
+                        "data_id": 1,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "reward_id": 8,
+                "reward_name": "銀のハネ×1",
+                "shine_point": 700,
+                "reward_data": [
+                    {
+                        "data_type": 20,
+                        "data_id": 1,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "reward_id": 9,
+                "reward_name": "銀のハネ×1",
+                "shine_point": 800,
+                "reward_data": [
+                    {
+                        "data_type": 20,
+                        "data_id": 1,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "reward_id": 10,
+                "reward_name": "銀のハネ×1",
+                "shine_point": 900,
+                "reward_data": [
+                    {
+                        "data_type": 20,
+                        "data_id": 1,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "reward_id": 11,
+                "reward_name": "ダイヤ×4",
+                "shine_point": 1000,
+                "reward_data": [
+                    {
+                        "data_type": 13,
+                        "data_id": 0,
+                        "data_num": 4
+                    }
+                ]
+            },
+            {
+                "reward_id": 12,
+                "reward_name": "銀のハネ×1",
+                "shine_point": 1300,
+                "reward_data": [
+                    {
+                        "data_type": 20,
+                        "data_id": 1,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "reward_id": 13,
+                "reward_name": "銀のハネ×1",
+                "shine_point": 1600,
+                "reward_data": [
+                    {
+                        "data_type": 20,
+                        "data_id": 1,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "reward_id": 14,
+                "reward_name": "壊れた高画質鑑賞の鍵×1",
+                "shine_point": 1900,
+                "reward_data": [
+                    {
+                        "data_type": 20,
+                        "data_id": 3,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "reward_id": 15,
+                "reward_name": "銀のハネ×1",
+                "shine_point": 2200,
+                "reward_data": [
+                    {
+                        "data_type": 20,
+                        "data_id": 1,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "reward_id": 16,
+                "reward_name": "銀のハネ×1",
+                "shine_point": 2500,
+                "reward_data": [
+                    {
+                        "data_type": 20,
+                        "data_id": 1,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "reward_id": 17,
+                "reward_name": "ダイヤ×4",
+                "shine_point": 3000,
+                "reward_data": [
+                    {
+                        "data_type": 13,
+                        "data_id": 0,
+                        "data_num": 4
+                    }
+                ]
+            },
+            {
+                "reward_id": 18,
+                "reward_name": "銀のハネ×1",
+                "shine_point": 3500,
+                "reward_data": [
+                    {
+                        "data_type": 20,
+                        "data_id": 1,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "reward_id": 19,
+                "reward_name": "壊れた高画質鑑賞の鍵×1",
+                "shine_point": 4000,
+                "reward_data": [
+                    {
+                        "data_type": 20,
+                        "data_id": 3,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "reward_id": 20,
+                "reward_name": "銀のハネ×1",
+                "shine_point": 4500,
+                "reward_data": [
+                    {
+                        "data_type": 20,
+                        "data_id": 1,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "reward_id": 21,
+                "reward_name": "ダイヤ×4",
+                "shine_point": 5000,
+                "reward_data": [
+                    {
+                        "data_type": 13,
+                        "data_id": 0,
+                        "data_num": 4
+                    }
+                ]
+            },
+            {
+                "reward_id": 22,
+                "reward_name": "銀のハネ×1",
+                "shine_point": 6000,
+                "reward_data": [
+                    {
+                        "data_type": 20,
+                        "data_id": 1,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "reward_id": 23,
+                "reward_name": "銀のハネ×1",
+                "shine_point": 7000,
+                "reward_data": [
+                    {
+                        "data_type": 20,
+                        "data_id": 1,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "reward_id": 24,
+                "reward_name": "壊れた高画質鑑賞の鍵×1",
+                "shine_point": 8000,
+                "reward_data": [
+                    {
+                        "data_type": 20,
+                        "data_id": 3,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "reward_id": 25,
+                "reward_name": "銀のハネ×1",
+                "shine_point": 9000,
+                "reward_data": [
+                    {
+                        "data_type": 20,
+                        "data_id": 1,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "reward_id": 26,
+                "reward_name": "銀のハネ×1",
+                "shine_point": 10000,
+                "reward_data": [
+                    {
+                        "data_type": 20,
+                        "data_id": 1,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "reward_id": 27,
+                "reward_name": "銀のハネ×1",
+                "shine_point": 11000,
+                "reward_data": [
+                    {
+                        "data_type": 20,
+                        "data_id": 1,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "reward_id": 28,
+                "reward_name": "壊れた高画質鑑賞の鍵×1",
+                "shine_point": 12000,
+                "reward_data": [
+                    {
+                        "data_type": 20,
+                        "data_id": 3,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "reward_id": 29,
+                "reward_name": "銀のハネ×1",
+                "shine_point": 13000,
+                "reward_data": [
+                    {
+                        "data_type": 20,
+                        "data_id": 1,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "reward_id": 30,
+                "reward_name": "銀のハネ×1",
+                "shine_point": 14000,
+                "reward_data": [
+                    {
+                        "data_type": 20,
+                        "data_id": 1,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "reward_id": 31,
+                "reward_name": "ダイヤ×4",
+                "shine_point": 15000,
+                "reward_data": [
+                    {
+                        "data_type": 13,
+                        "data_id": 0,
+                        "data_num": 4
+                    }
+                ]
+            },
+            {
+                "reward_id": 32,
+                "reward_name": "壊れた高画質鑑賞の鍵×1",
+                "shine_point": 16000,
+                "reward_data": [
+                    {
+                        "data_type": 20,
+                        "data_id": 3,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "reward_id": 33,
+                "reward_name": "銀のハネ×1",
+                "shine_point": 17000,
+                "reward_data": [
+                    {
+                        "data_type": 20,
+                        "data_id": 1,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "reward_id": 34,
+                "reward_name": "銀のハネ×1",
+                "shine_point": 18000,
+                "reward_data": [
+                    {
+                        "data_type": 20,
+                        "data_id": 1,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "reward_id": 35,
+                "reward_name": "銀のハネ×1",
+                "shine_point": 19000,
+                "reward_data": [
+                    {
+                        "data_type": 20,
+                        "data_id": 1,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "reward_id": 36,
+                "reward_name": "ダイヤ×5",
+                "shine_point": 20000,
+                "reward_data": [
+                    {
+                        "data_type": 13,
+                        "data_id": 0,
+                        "data_num": 5
+                    }
+                ]
+            },
+            {
+                "reward_id": 37,
+                "reward_name": "銀のハネ×1",
+                "shine_point": 21000,
+                "reward_data": [
+                    {
+                        "data_type": 20,
+                        "data_id": 1,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "reward_id": 38,
+                "reward_name": "銀のハネ×1",
+                "shine_point": 22000,
+                "reward_data": [
+                    {
+                        "data_type": 20,
+                        "data_id": 1,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "reward_id": 39,
+                "reward_name": "銀のハネ×2",
+                "shine_point": 23000,
+                "reward_data": [
+                    {
+                        "data_type": 20,
+                        "data_id": 1,
+                        "data_num": 2
+                    }
+                ]
+            },
+            {
+                "reward_id": 40,
+                "reward_name": "壊れた高画質鑑賞の鍵×1",
+                "shine_point": 24000,
+                "reward_data": [
+                    {
+                        "data_type": 20,
+                        "data_id": 3,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "reward_id": 41,
+                "reward_name": "銀のハネ×2",
+                "shine_point": 25000,
+                "reward_data": [
+                    {
+                        "data_type": 20,
+                        "data_id": 1,
+                        "data_num": 2
+                    }
+                ]
+            },
+            {
+                "reward_id": 42,
+                "reward_name": "銀のハネ×2",
+                "shine_point": 26000,
+                "reward_data": [
+                    {
+                        "data_type": 20,
+                        "data_id": 1,
+                        "data_num": 2
+                    }
+                ]
+            },
+            {
+                "reward_id": 43,
+                "reward_name": "銀のハネ×2",
+                "shine_point": 27000,
+                "reward_data": [
+                    {
+                        "data_type": 20,
+                        "data_id": 1,
+                        "data_num": 2
+                    }
+                ]
+            },
+            {
+                "reward_id": 44,
+                "reward_name": "壊れた高画質鑑賞の鍵×1",
+                "shine_point": 28000,
+                "reward_data": [
+                    {
+                        "data_type": 20,
+                        "data_id": 3,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "reward_id": 45,
+                "reward_name": "銀のハネ×2",
+                "shine_point": 29000,
+                "reward_data": [
+                    {
+                        "data_type": 20,
+                        "data_id": 1,
+                        "data_num": 2
+                    }
+                ]
+            },
+            {
+                "reward_id": 46,
+                "reward_name": "ダイヤ×5",
+                "shine_point": 30000,
+                "reward_data": [
+                    {
+                        "data_type": 13,
+                        "data_id": 0,
+                        "data_num": 5
+                    }
+                ]
+            },
+            {
+                "reward_id": 47,
+                "reward_name": "銀のハネ×2",
+                "shine_point": 31000,
+                "reward_data": [
+                    {
+                        "data_type": 20,
+                        "data_id": 1,
+                        "data_num": 2
+                    }
+                ]
+            },
+            {
+                "reward_id": 48,
+                "reward_name": "壊れた高画質鑑賞の鍵×1",
+                "shine_point": 32000,
+                "reward_data": [
+                    {
+                        "data_type": 20,
+                        "data_id": 3,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "reward_id": 49,
+                "reward_name": "銀のハネ×2",
+                "shine_point": 33000,
+                "reward_data": [
+                    {
+                        "data_type": 20,
+                        "data_id": 1,
+                        "data_num": 2
+                    }
+                ]
+            },
+            {
+                "reward_id": 50,
+                "reward_name": "銀のハネ×2",
+                "shine_point": 34000,
+                "reward_data": [
+                    {
+                        "data_type": 20,
+                        "data_id": 1,
+                        "data_num": 2
+                    }
+                ]
+            },
+            {
+                "reward_id": 51,
+                "reward_name": "銀のハネ×2",
+                "shine_point": 35000,
+                "reward_data": [
+                    {
+                        "data_type": 20,
+                        "data_id": 1,
+                        "data_num": 2
+                    }
+                ]
+            },
+            {
+                "reward_id": 52,
+                "reward_name": "壊れた高画質鑑賞の鍵×1",
+                "shine_point": 36000,
+                "reward_data": [
+                    {
+                        "data_type": 20,
+                        "data_id": 3,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "reward_id": 53,
+                "reward_name": "銀のハネ×2",
+                "shine_point": 37000,
+                "reward_data": [
+                    {
+                        "data_type": 20,
+                        "data_id": 1,
+                        "data_num": 2
+                    }
+                ]
+            },
+            {
+                "reward_id": 54,
+                "reward_name": "銀のハネ×2",
+                "shine_point": 38000,
+                "reward_data": [
+                    {
+                        "data_type": 20,
+                        "data_id": 1,
+                        "data_num": 2
+                    }
+                ]
+            },
+            {
+                "reward_id": 55,
+                "reward_name": "銀のハネ×2",
+                "shine_point": 39000,
+                "reward_data": [
+                    {
+                        "data_type": 20,
+                        "data_id": 1,
+                        "data_num": 2
+                    }
+                ]
+            },
+            {
+                "reward_id": 56,
+                "reward_name": "ダイヤ×5",
+                "shine_point": 40000,
+                "reward_data": [
+                    {
+                        "data_type": 13,
+                        "data_id": 0,
+                        "data_num": 5
+                    }
+                ]
+            },
+            {
+                "reward_id": 57,
+                "reward_name": "金のハネ×1",
+                "shine_point": 41000,
+                "reward_data": [
+                    {
+                        "data_type": 20,
+                        "data_id": 2,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "reward_id": 58,
+                "reward_name": "金のハネ×1",
+                "shine_point": 42000,
+                "reward_data": [
+                    {
+                        "data_type": 20,
+                        "data_id": 2,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "reward_id": 59,
+                "reward_name": "金のハネ×1",
+                "shine_point": 43000,
+                "reward_data": [
+                    {
+                        "data_type": 20,
+                        "data_id": 2,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "reward_id": 60,
+                "reward_name": "金のハネ×1",
+                "shine_point": 44000,
+                "reward_data": [
+                    {
+                        "data_type": 20,
+                        "data_id": 2,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "reward_id": 61,
+                "reward_name": "金のハネ×1",
+                "shine_point": 45000,
+                "reward_data": [
+                    {
+                        "data_type": 20,
+                        "data_id": 2,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "reward_id": 62,
+                "reward_name": "金のハネ×1",
+                "shine_point": 46000,
+                "reward_data": [
+                    {
+                        "data_type": 20,
+                        "data_id": 2,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "reward_id": 63,
+                "reward_name": "金のハネ×1",
+                "shine_point": 47000,
+                "reward_data": [
+                    {
+                        "data_type": 20,
+                        "data_id": 2,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "reward_id": 64,
+                "reward_name": "金のハネ×1",
+                "shine_point": 48000,
+                "reward_data": [
+                    {
+                        "data_type": 20,
+                        "data_id": 2,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "reward_id": 65,
+                "reward_name": "金のハネ×1",
+                "shine_point": 49000,
+                "reward_data": [
+                    {
+                        "data_type": 20,
+                        "data_id": 2,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "reward_id": 66,
+                "reward_name": "金のハネ×1",
+                "shine_point": 50000,
+                "reward_data": [
+                    {
+                        "data_type": 20,
+                        "data_id": 2,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "reward_id": 67,
+                "reward_name": "虹のハネ×1",
+                "shine_point": 51000,
+                "reward_data": [
+                    {
+                        "data_type": 20,
+                        "data_id": 4,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "reward_id": 68,
+                "reward_name": "虹のハネ×1",
+                "shine_point": 52000,
+                "reward_data": [
+                    {
+                        "data_type": 20,
+                        "data_id": 4,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "reward_id": 69,
+                "reward_name": "虹のハネ×1",
+                "shine_point": 53000,
+                "reward_data": [
+                    {
+                        "data_type": 20,
+                        "data_id": 4,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "reward_id": 70,
+                "reward_name": "虹のハネ×1",
+                "shine_point": 54000,
+                "reward_data": [
+                    {
+                        "data_type": 20,
+                        "data_id": 4,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "reward_id": 71,
+                "reward_name": "虹のハネ×1",
+                "shine_point": 55000,
+                "reward_data": [
+                    {
+                        "data_type": 20,
+                        "data_id": 4,
+                        "data_num": 1
+                    }
+                ]
+            }
+        ]
     }
 ]

@@ -792,6 +792,24 @@
         "live_location": "さいたまスーパーアリーナ"
     },
     {
+        "live_bg_id": 80041,
+        "live_bg_name": "孤独兄弟",
+        "live_bg_type": 1,
+        "music_id": 80040,
+        "live_name": "12th YEAR BIRTHDAY LIVE",
+        "live_date": "2024年3月7日",
+        "live_location": "さいたまスーパーアリーナ"
+    },
+    {
+        "live_bg_id": 80042,
+        "live_bg_name": "孤独兄弟",
+        "live_bg_type": 2,
+        "music_id": 80040,
+        "live_name": "12th YEAR BIRTHDAY LIVE",
+        "live_date": "2024年3月7日",
+        "live_location": "さいたまスーパーアリーナ"
+    },
+    {
         "live_bg_id": 80051,
         "live_bg_name": "生まれたままで",
         "live_bg_type": 1,
@@ -4264,6 +4282,24 @@
         "live_name": "--",
         "live_date": "--",
         "live_location": "--"
+    },
+    {
+        "live_bg_id": 440031,
+        "live_bg_name": "交感神経優位",
+        "live_bg_type": 1,
+        "music_id": 440030,
+        "live_name": "38thSGアンダーライブ",
+        "live_date": "2025年4月5日",
+        "live_location": "ぴあアリーナMM"
+    },
+    {
+        "live_bg_id": 440032,
+        "live_bg_name": "交感神経優位",
+        "live_bg_type": 2,
+        "music_id": 440030,
+        "live_name": "38thSGアンダーライブ",
+        "live_date": "2025年4月5日",
+        "live_location": "ぴあアリーナMM"
     },
     {
         "live_bg_id": 440041,
