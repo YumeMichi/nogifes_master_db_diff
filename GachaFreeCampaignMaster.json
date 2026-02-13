@@ -2783,5 +2783,47 @@
                 "gacha_id": 2094
             }
         ]
+    },
+    {
+        "gacha_free_campaign_id": 102,
+        "term_type": 2,
+        "num_type": 2,
+        "possible_num": 1,
+        "start_date": 1770994800,
+        "end_date": 1771167599,
+        "gacha_data": [
+            {
+                "gacha_id": 2141
+            },
+            {
+                "gacha_id": 2142
+            }
+        ]
+    },
+    {
+        "gacha_free_campaign_id": 103,
+        "term_type": 2,
+        "num_type": 2,
+        "possible_num": 1,
+        "start_date": 1771740000,
+        "end_date": 1772344799,
+        "gacha_data": [
+            {
+                "gacha_id": 2143
+            }
+        ]
+    },
+    {
+        "gacha_free_campaign_id": 104,
+        "term_type": 2,
+        "num_type": 2,
+        "possible_num": 1,
+        "start_date": 1772344800,
+        "end_date": 1772949599,
+        "gacha_data": [
+            {
+                "gacha_id": 2144
+            }
+        ]
     }
 ]

@@ -4096,5 +4096,23 @@
         "real_goods_name": "<girl_name> 新春メタルチャーム（サイン無し）抽選券",
         "real_goods_type": 2,
         "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 684,
+        "real_goods_name": "<girl_name> 直筆サイン入りもふもふプリントカードホルダー",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 685,
+        "real_goods_name": "<girl_name> 直筆サイン入りもふもふプリントカードホルダー&ランダムプリントカード抽選券",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 686,
+        "real_goods_name": "<girl_name> もふもふプリントカードホルダー（サイン無し）&ランダムプリントカード抽選券",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
     }
 ]

@@ -9150,5 +9150,137 @@
         "rarity": 0,
         "resource_id": 16,
         "description": "対象のガチャを1回引けるチケット。"
+    },
+    {
+        "gacha_ticket_id": 833,
+        "ticket_name": "海邉朱莉バースデーガチャSSR確定チケット",
+        "ticket_type": 2,
+        "num_type": 1,
+        "gacha_type": 0,
+        "gacha_id": 2147,
+        "rarity": 5,
+        "resource_id": 19,
+        "description": "対象のガチャを1回引ける、且つSSRが確定で出現するチケット。"
+    },
+    {
+        "gacha_ticket_id": 834,
+        "ticket_name": "海邉朱莉バースデーガチャ10連チケット",
+        "ticket_type": 1,
+        "num_type": 2,
+        "gacha_type": 0,
+        "gacha_id": 2147,
+        "rarity": 0,
+        "resource_id": 17,
+        "description": "対象のガチャを10回引けるチケット。"
+    },
+    {
+        "gacha_ticket_id": 835,
+        "ticket_name": "井上和バースデーガチャSSR確定チケット",
+        "ticket_type": 2,
+        "num_type": 1,
+        "gacha_type": 0,
+        "gacha_id": 2148,
+        "rarity": 5,
+        "resource_id": 19,
+        "description": "対象のガチャを1回引ける、且つSSRが確定で出現するチケット。"
+    },
+    {
+        "gacha_ticket_id": 836,
+        "ticket_name": "井上和バースデーガチャ10連チケット",
+        "ticket_type": 1,
+        "num_type": 2,
+        "gacha_type": 0,
+        "gacha_id": 2148,
+        "rarity": 0,
+        "resource_id": 17,
+        "description": "対象のガチャを10回引けるチケット。"
+    },
+    {
+        "gacha_ticket_id": 837,
+        "ticket_name": "柴田柚菜バースデーガチャSSR確定チケット",
+        "ticket_type": 2,
+        "num_type": 1,
+        "gacha_type": 0,
+        "gacha_id": 2149,
+        "rarity": 5,
+        "resource_id": 19,
+        "description": "対象のガチャを1回引ける、且つSSRが確定で出現するチケット。"
+    },
+    {
+        "gacha_ticket_id": 838,
+        "ticket_name": "柴田柚菜バースデーガチャ10連チケット",
+        "ticket_type": 1,
+        "num_type": 2,
+        "gacha_type": 0,
+        "gacha_id": 2149,
+        "rarity": 0,
+        "resource_id": 17,
+        "description": "対象のガチャを10回引けるチケット。"
+    },
+    {
+        "gacha_ticket_id": 839,
+        "ticket_name": "14th YEAR BIRTHDAYガチャ[第1弾]10連チケット",
+        "ticket_type": 1,
+        "num_type": 2,
+        "gacha_type": 0,
+        "gacha_id": 2143,
+        "rarity": 0,
+        "resource_id": 17,
+        "description": "対象のガチャを10回引けるチケット。"
+    },
+    {
+        "gacha_ticket_id": 840,
+        "ticket_name": "14th YEAR BIRTHDAYガチャ[第2弾]10連チケット",
+        "ticket_type": 1,
+        "num_type": 2,
+        "gacha_type": 0,
+        "gacha_id": 2144,
+        "rarity": 0,
+        "resource_id": 17,
+        "description": "対象のガチャを10回引けるチケット。"
+    },
+    {
+        "gacha_ticket_id": 841,
+        "ticket_name": "もふっと日和 [ぽんぽこ]ガチャ1回チケット",
+        "ticket_type": 1,
+        "num_type": 1,
+        "gacha_type": 0,
+        "gacha_id": 2141,
+        "rarity": 0,
+        "resource_id": 16,
+        "description": "対象のガチャを1回引けるチケット。"
+    },
+    {
+        "gacha_ticket_id": 842,
+        "ticket_name": "もふっと日和 [こんこん]ガチャ1回チケット",
+        "ticket_type": 1,
+        "num_type": 1,
+        "gacha_type": 0,
+        "gacha_id": 2142,
+        "rarity": 0,
+        "resource_id": 16,
+        "description": "対象のガチャを1回引けるチケット。"
+    },
+    {
+        "gacha_ticket_id": 843,
+        "ticket_name": "14周年記念 ホームMOVIE選抜ガチャ1回チケット",
+        "ticket_type": 1,
+        "num_type": 1,
+        "gacha_type": 0,
+        "gacha_id": 2143,
+        "rarity": 0,
+        "resource_id": 16,
+        "description": "対象のガチャを1回引けるチケット。"
+    },
+    {
+        "gacha_ticket_id": 844,
+        "ticket_name": "14周年記念 チャレンジMOVIE選抜ガチャ1回チケット",
+        "ticket_type": 1,
+        "num_type": 1,
+        "gacha_type": 0,
+        "gacha_id": 2144,
+        "rarity": 0,
+        "resource_id": 16,
+        "description": "対象のガチャを1回引けるチケット。"
     }
 ]

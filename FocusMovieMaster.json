@@ -8753,8 +8753,8 @@
         "live_date_unixtime": 1565708400,
         "live_location": "京セラドーム大阪",
         "start_date": 1606748400,
-        "high_quality": 0,
-        "high_quality_start_date": 1924959599
+        "high_quality": 1,
+        "high_quality_start_date": 1770962400
     },
     {
         "focus_movie_id": 443,
@@ -11153,8 +11153,8 @@
         "live_date_unixtime": 1574780400,
         "live_location": "国立代々木競技場",
         "start_date": 1627657200,
-        "high_quality": 0,
-        "high_quality_start_date": 1924959599
+        "high_quality": 1,
+        "high_quality_start_date": 1770962400
     },
     {
         "focus_movie_id": 563,
@@ -11373,8 +11373,8 @@
         "live_date_unixtime": 1574780400,
         "live_location": "国立代々木競技場",
         "start_date": 1629352800,
-        "high_quality": 0,
-        "high_quality_start_date": 1924959599
+        "high_quality": 1,
+        "high_quality_start_date": 1770962400
     },
     {
         "focus_movie_id": 574,
@@ -15813,8 +15813,8 @@
         "live_date_unixtime": 1574694000,
         "live_location": "国立代々木競技場",
         "start_date": 1663308000,
-        "high_quality": 0,
-        "high_quality_start_date": 1924959599
+        "high_quality": 1,
+        "high_quality_start_date": 1770962400
     },
     {
         "focus_movie_id": 796,
@@ -18493,8 +18493,8 @@
         "live_date_unixtime": 1574694000,
         "live_location": "国立代々木競技場",
         "start_date": 1682056800,
-        "high_quality": 0,
-        "high_quality_start_date": 1924959599
+        "high_quality": 1,
+        "high_quality_start_date": 1770962400
     },
     {
         "focus_movie_id": 930,
@@ -20033,8 +20033,8 @@
         "live_date_unixtime": 1689174000,
         "live_location": "大阪城ホール",
         "start_date": 1698732000,
-        "high_quality": 0,
-        "high_quality_start_date": 1924959599
+        "high_quality": 1,
+        "high_quality_start_date": 1770962400
     },
     {
         "focus_movie_id": 1007,
@@ -20893,8 +20893,8 @@
         "live_date_unixtime": 1689087600,
         "live_location": "大阪城ホール",
         "start_date": 1708495200,
-        "high_quality": 0,
-        "high_quality_start_date": 1924959599
+        "high_quality": 1,
+        "high_quality_start_date": 1770962400
     },
     {
         "focus_movie_id": 1050,
@@ -20913,8 +20913,8 @@
         "live_date_unixtime": 1689087600,
         "live_location": "大阪城ホール",
         "start_date": 1709218800,
-        "high_quality": 0,
-        "high_quality_start_date": 1924959599
+        "high_quality": 1,
+        "high_quality_start_date": 1770962400
     },
     {
         "focus_movie_id": 1051,
@@ -22773,8 +22773,8 @@
         "live_date_unixtime": 1691938800,
         "live_location": "ｾｷｽｲﾊｲﾑｽｰﾊﾟｰｱﾘｰﾅ",
         "start_date": 1736834400,
-        "high_quality": 0,
-        "high_quality_start_date": 1924959599
+        "high_quality": 1,
+        "high_quality_start_date": 1770962400
     },
     {
         "focus_movie_id": 1144,
@@ -24775,5 +24775,25 @@
         "start_date": 1770444000,
         "high_quality": 1,
         "high_quality_start_date": 1770444000
+    },
+    {
+        "focus_movie_id": 1244,
+        "focus_movie_name": "ぶんぶくちゃがま",
+        "unit_data": [
+            {
+                "unit_id": 128130
+            },
+            {
+                "unit_id": 128131
+            }
+        ],
+        "music_id": 410050,
+        "live_name": "真夏の全国ツアー2024",
+        "live_date": "2024年8月24日",
+        "live_date_unixtime": 1724425200,
+        "live_location": "バンテリンドーム ナゴヤ",
+        "start_date": 1771221600,
+        "high_quality": 0,
+        "high_quality_start_date": 1924959599
     }
 ]

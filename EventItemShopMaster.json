@@ -24230,5 +24230,115 @@
                 ]
             }
         ]
+    },
+    {
+        "event_id": 276,
+        "event_item_shop_data": [
+            {
+                "product_id": 1099,
+                "product_name": "【超得！】イベントスペシャルセット",
+                "paid_diamond": 200,
+                "diamond": 0,
+                "gold": 0,
+                "item_shop_purchase_type": 1,
+                "max_purchase_num": 1,
+                "start_date": 1771221600,
+                "end_date": 1772031599,
+                "description": "ブーストクッキーに2つのイベント専用アイテムが付いた、<br />期間中1セットだけ購入することのできる超お得セットで<br />す！<br /><br />【セット内容】<br />●ブーストクッキー5000個<br />（イベントアイテム獲得量2倍）<br />●イベントライト1個<br />（イベント中常時イベントP獲得量｢＋50%｣）<br />●イベントLPドリンク50 10個<br />（LP50回復）<br /><br />※ブーストクッキーとイベントライトはイベント終了後<br />｢交換P｣に変換されます。<br />※イベントLPドリンクはイベント終了後に消滅します。",
+                "product_data": [
+                    {
+                        "data_type": 18,
+                        "data_id": 674,
+                        "data_num": 5000
+                    },
+                    {
+                        "data_type": 18,
+                        "data_id": 675,
+                        "data_num": 1
+                    },
+                    {
+                        "data_type": 18,
+                        "data_id": 676,
+                        "data_num": 10
+                    }
+                ]
+            },
+            {
+                "product_id": 1100,
+                "product_name": "【600個得！】ブーストクッキー3000個",
+                "paid_diamond": 100,
+                "diamond": 0,
+                "gold": 0,
+                "item_shop_purchase_type": 0,
+                "max_purchase_num": 0,
+                "start_date": 1771221600,
+                "end_date": 1772031599,
+                "description": "600個分お得に購入可能！<br />使用するとイベントアイテム（狸のカチューシャ）の獲得量<br />が2倍になるブーストクッキーを3000個購入できます。<br />※ブーストクッキーはイベント終了後｢交換P｣に変換され<br />ます。",
+                "product_data": [
+                    {
+                        "data_type": 18,
+                        "data_id": 674,
+                        "data_num": 3000
+                    }
+                ]
+            },
+            {
+                "product_id": 1101,
+                "product_name": "【120個得！】ブーストクッキー1200個",
+                "paid_diamond": 45,
+                "diamond": 0,
+                "gold": 0,
+                "item_shop_purchase_type": 0,
+                "max_purchase_num": 0,
+                "start_date": 1771221600,
+                "end_date": 1772031599,
+                "description": "120個分お得に購入可能！<br />使用するとイベントアイテム（狸のカチューシャ）の獲得量<br />が2倍になるブーストクッキーを1200個購入できます。<br />※ブーストクッキーはイベント終了後｢交換P｣に変換され<br />ます。",
+                "product_data": [
+                    {
+                        "data_type": 18,
+                        "data_id": 674,
+                        "data_num": 1200
+                    }
+                ]
+            },
+            {
+                "product_id": 1102,
+                "product_name": "【25個得！】ブーストクッキー505個",
+                "paid_diamond": 20,
+                "diamond": 0,
+                "gold": 0,
+                "item_shop_purchase_type": 0,
+                "max_purchase_num": 0,
+                "start_date": 1771221600,
+                "end_date": 1772031599,
+                "description": "25個分お得に購入可能！<br />使用するとイベントアイテム（狸のカチューシャ）の獲得量<br />が2倍になるブーストクッキーを505個購入できます。<br />※ブーストクッキーはイベント終了後｢交換P｣に変換され<br />ます。",
+                "product_data": [
+                    {
+                        "data_type": 18,
+                        "data_id": 674,
+                        "data_num": 505
+                    }
+                ]
+            },
+            {
+                "product_id": 1103,
+                "product_name": "ブーストクッキー120個",
+                "paid_diamond": 5,
+                "diamond": 0,
+                "gold": 0,
+                "item_shop_purchase_type": 0,
+                "max_purchase_num": 0,
+                "start_date": 1771221600,
+                "end_date": 1772031599,
+                "description": "使用するとイベントアイテム（狸のカチューシャ）の獲得量<br />が2倍になるブーストクッキーを120個購入できます。<br />※ブーストクッキーはイベント終了後｢交換P｣に変換され<br />ます。",
+                "product_data": [
+                    {
+                        "data_type": 18,
+                        "data_id": 674,
+                        "data_num": 120
+                    }
+                ]
+            }
+        ]
     }
 ]

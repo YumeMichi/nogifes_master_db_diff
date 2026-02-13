@@ -4104,6 +4104,24 @@
         "live_location": "バンテリンドーム ナゴヤ"
     },
     {
+        "live_bg_id": 410051,
+        "live_bg_name": "ぶんぶくちゃがま",
+        "live_bg_type": 1,
+        "music_id": 410050,
+        "live_name": "真夏の全国ツアー2024",
+        "live_date": "2024年8月24日",
+        "live_location": "バンテリンドーム ナゴヤ"
+    },
+    {
+        "live_bg_id": 410052,
+        "live_bg_name": "ぶんぶくちゃがま",
+        "live_bg_type": 2,
+        "music_id": 410050,
+        "live_name": "真夏の全国ツアー2024",
+        "live_date": "2024年8月24日",
+        "live_location": "バンテリンドーム ナゴヤ"
+    },
+    {
         "live_bg_id": 410071,
         "live_bg_name": "夏桜",
         "live_bg_type": 1,

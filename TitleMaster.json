@@ -6542,5 +6542,13 @@
         "disp_order": 10357000,
         "term_text": "イベントチャレンジを全てクリア",
         "title_replace": 0
+    },
+    {
+        "title_id": 853,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10358000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
     }
 ]

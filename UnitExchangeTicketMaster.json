@@ -214,5 +214,13 @@
         "rarity": 5,
         "expire": 1767020399,
         "resource_id": 2
+    },
+    {
+        "ticket_id": 28,
+        "ticket_name": "SSR推しカード確定チケット",
+        "description": "対象カードから好きなカードを１枚引き換えられるチケット。",
+        "rarity": 5,
+        "expire": 1773673199,
+        "resource_id": 1
     }
 ]

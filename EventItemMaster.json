@@ -14131,5 +14131,68 @@
                 "proc_param": "50"
             }
         ]
+    },
+    {
+        "event_item_id": 674,
+        "event_id": 276,
+        "item_name": "ブーストクッキー",
+        "item_category": 1,
+        "item_type": 5,
+        "disp_order": 1,
+        "max_possession": 999999,
+        "exchange_data_type": 15,
+        "exchange_data_id": 0,
+        "exchange_rate": 500,
+        "description": "イベントアイテム（狸のカチューシャ）の獲得量が2倍。<br />※イベント終了後｢交換P｣に変換されます。",
+        "resource_id": 1,
+        "proc_data": [
+            {
+                "proc_type": 701,
+                "proc_time": 1,
+                "proc_param": "20000@0"
+            }
+        ]
+    },
+    {
+        "event_item_id": 675,
+        "event_id": 276,
+        "item_name": "イベントライト",
+        "item_category": 2,
+        "item_type": 5,
+        "disp_order": 2,
+        "max_possession": 99,
+        "exchange_data_type": 15,
+        "exchange_data_id": 0,
+        "exchange_rate": 500000,
+        "description": "所持しているとイベントP獲得量が常時｢＋50%｣。<br />※イベント終了後｢交換P｣に変換されます。",
+        "resource_id": 2,
+        "proc_data": [
+            {
+                "proc_type": 702,
+                "proc_time": 99999,
+                "proc_param": "0@5000"
+            }
+        ]
+    },
+    {
+        "event_item_id": 676,
+        "event_id": 276,
+        "item_name": "イベントLPドリンク50",
+        "item_category": 1,
+        "item_type": 2,
+        "disp_order": 3,
+        "max_possession": 999999,
+        "exchange_data_type": 0,
+        "exchange_data_id": 0,
+        "exchange_rate": 0,
+        "description": "LPを50回復する。イベント期間中のみ使用可。<br />※イベント終了後は消滅します。",
+        "resource_id": 3,
+        "proc_data": [
+            {
+                "proc_type": 401,
+                "proc_time": 1,
+                "proc_param": "50"
+            }
+        ]
     }
 ]
