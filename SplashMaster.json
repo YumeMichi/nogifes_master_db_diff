@@ -322,5 +322,32 @@
         "end_date": 1772290799,
         "bg_frame_flag": 0,
         "resource_id": 36
+    },
+    {
+        "splash_id": 37,
+        "splash_type": 2,
+        "disp_order": 37,
+        "start_date": 1772258400,
+        "end_date": 1773154799,
+        "bg_frame_flag": 0,
+        "resource_id": 37
+    },
+    {
+        "splash_id": 38,
+        "splash_type": 2,
+        "disp_order": 38,
+        "start_date": 1772344800,
+        "end_date": 1772895599,
+        "bg_frame_flag": 0,
+        "resource_id": 38
+    },
+    {
+        "splash_id": 39,
+        "splash_type": 2,
+        "disp_order": 39,
+        "start_date": 1772344800,
+        "end_date": 1772895599,
+        "bg_frame_flag": 0,
+        "resource_id": 39
     }
 ]

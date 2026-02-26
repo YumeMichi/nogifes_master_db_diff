@@ -5904,6 +5904,24 @@
         "live_location": "さいたまスーパーアリーナ"
     },
     {
+        "live_bg_id": 90000841,
+        "live_bg_name": "僕がいる場所 -12th YEAR BIRTHDAY LIVE ver-",
+        "live_bg_type": 1,
+        "music_id": 90000840,
+        "live_name": "12th YEAR BIRTHDAY LIVE",
+        "live_date": "2024年3月8日",
+        "live_location": "さいたまスーパーアリーナ"
+    },
+    {
+        "live_bg_id": 90000842,
+        "live_bg_name": "僕がいる場所 -12th YEAR BIRTHDAY LIVE ver-",
+        "live_bg_type": 2,
+        "music_id": 90000840,
+        "live_name": "12th YEAR BIRTHDAY LIVE",
+        "live_date": "2024年3月8日",
+        "live_location": "さいたまスーパーアリーナ"
+    },
+    {
         "live_bg_id": 90010011,
         "live_bg_name": "メドレー1st＜Type-A＞",
         "live_bg_type": 1,

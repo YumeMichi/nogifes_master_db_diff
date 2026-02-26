@@ -9282,5 +9282,27 @@
         "rarity": 0,
         "resource_id": 16,
         "description": "対象のガチャを1回引けるチケット。"
+    },
+    {
+        "gacha_ticket_id": 845,
+        "ticket_name": "CALM GRACE[A]1回チケット",
+        "ticket_type": 1,
+        "num_type": 1,
+        "gacha_type": 0,
+        "gacha_id": 2154,
+        "rarity": 0,
+        "resource_id": 16,
+        "description": "対象のガチャを1回引けるチケット。"
+    },
+    {
+        "gacha_ticket_id": 846,
+        "ticket_name": "CALM GRACE[B]1回チケット",
+        "ticket_type": 1,
+        "num_type": 1,
+        "gacha_type": 0,
+        "gacha_id": 2155,
+        "rarity": 0,
+        "resource_id": 16,
+        "description": "対象のガチャを1回引けるチケット。"
     }
 ]

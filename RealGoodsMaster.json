@@ -4114,5 +4114,23 @@
         "real_goods_name": "<girl_name> もふもふプリントカードホルダー（サイン無し）&ランダムプリントカード抽選券",
         "real_goods_type": 2,
         "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 687,
+        "real_goods_name": "<girl_name> 直筆サイン入りオリジナル乃木フェスTシャツ",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 688,
+        "real_goods_name": "<girl_name> 直筆サイン入りオリジナル乃木フェスTシャツ抽選券",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 689,
+        "real_goods_name": "<girl_name> オリジナル乃木フェスTシャツ（サイン無し）抽選券",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
     }
 ]
