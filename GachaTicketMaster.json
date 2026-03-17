@@ -9304,5 +9304,49 @@
         "rarity": 0,
         "resource_id": 16,
         "description": "対象のガチャを1回引けるチケット。"
+    },
+    {
+        "gacha_ticket_id": 847,
+        "ticket_name": "39thSGアンダーライブガチャ1回チケット",
+        "ticket_type": 1,
+        "num_type": 1,
+        "gacha_type": 0,
+        "gacha_id": 2156,
+        "rarity": 0,
+        "resource_id": 16,
+        "description": "対象のガチャを1回引けるチケット。"
+    },
+    {
+        "gacha_ticket_id": 848,
+        "ticket_name": "LIVE ENCORE riria×runa1回チケット",
+        "ticket_type": 1,
+        "num_type": 1,
+        "gacha_type": 0,
+        "gacha_id": 2157,
+        "rarity": 0,
+        "resource_id": 16,
+        "description": "対象のガチャを1回引けるチケット。"
+    },
+    {
+        "gacha_ticket_id": 849,
+        "ticket_name": "中西アルノバースデーガチャSSR確定チケット",
+        "ticket_type": 2,
+        "num_type": 1,
+        "gacha_type": 0,
+        "gacha_id": 2158,
+        "rarity": 5,
+        "resource_id": 19,
+        "description": "対象のガチャを1回引ける、且つSSRが確定で出現するチケット。"
+    },
+    {
+        "gacha_ticket_id": 850,
+        "ticket_name": "中西アルノバースデーガチャ10連チケット",
+        "ticket_type": 1,
+        "num_type": 2,
+        "gacha_type": 0,
+        "gacha_id": 2158,
+        "rarity": 0,
+        "resource_id": 17,
+        "description": "対象のガチャを10回引けるチケット。"
     }
 ]

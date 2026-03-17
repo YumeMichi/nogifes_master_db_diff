@@ -4374,6 +4374,24 @@
         "live_location": "大阪城ホール"
     },
     {
+        "live_bg_id": 450051,
+        "live_bg_name": "不道徳な夏",
+        "live_bg_type": 1,
+        "music_id": 450050,
+        "live_name": "39thSGアンダーライブ",
+        "live_date": "2025年10月7日",
+        "live_location": "横浜BUNTAI"
+    },
+    {
+        "live_bg_id": 450052,
+        "live_bg_name": "不道徳な夏",
+        "live_bg_type": 2,
+        "music_id": 450050,
+        "live_name": "39thSGアンダーライブ",
+        "live_date": "2025年10月7日",
+        "live_location": "横浜BUNTAI"
+    },
+    {
         "live_bg_id": 10000011,
         "live_bg_name": "ワタボコリ",
         "live_bg_type": 1,
@@ -5920,6 +5938,24 @@
         "live_name": "12th YEAR BIRTHDAY LIVE",
         "live_date": "2024年3月8日",
         "live_location": "さいたまスーパーアリーナ"
+    },
+    {
+        "live_bg_id": 90000851,
+        "live_bg_name": "さざ波は戻らない -39thSGアンダーライブ ver-",
+        "live_bg_type": 1,
+        "music_id": 90000850,
+        "live_name": "39thSGアンダーライブ",
+        "live_date": "2025年10月7日",
+        "live_location": "横浜BUNTAI"
+    },
+    {
+        "live_bg_id": 90000852,
+        "live_bg_name": "さざ波は戻らない -39thSGアンダーライブ ver-",
+        "live_bg_type": 2,
+        "music_id": 90000850,
+        "live_name": "39thSGアンダーライブ",
+        "live_date": "2025年10月7日",
+        "live_location": "横浜BUNTAI"
     },
     {
         "live_bg_id": 90010011,

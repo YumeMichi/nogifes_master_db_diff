@@ -4230,6 +4230,24 @@
         "arranger": "賀佐泰洋"
     },
     {
+        "music_id": 450050,
+        "music_name": "不道徳な夏",
+        "music_name_kana": "ふどうとくななつ",
+        "search_word": [
+            {
+                "word": "あんだー曲"
+            }
+        ],
+        "music_type": 1,
+        "center_girl_id": 104,
+        "release_date": 2025073005,
+        "music_length": 123,
+        "information": "すごく良い曲だよー",
+        "lyricist": "秋元 康",
+        "composer": "川口 進，MiNE，Atsushi Shimada",
+        "arranger": "佐々木裕"
+    },
+    {
         "music_id": 10000010,
         "music_name": "ワタボコリ",
         "music_name_kana": "わたぼこり",
@@ -5869,5 +5887,19 @@
         "lyricist": "秋元 康",
         "composer": "杉山 勝彦",
         "arranger": "杉山 勝彦，有木 竜郎"
+    },
+    {
+        "music_id": 90000850,
+        "music_name": "さざ波は戻らない -39thSGアンダーライブ ver-",
+        "music_name_kana": "さざなみはもどらないさーてぃーないんすしんぐるあんだーらいぶばーじょん",
+        "search_word": [],
+        "music_type": 1,
+        "center_girl_id": 104,
+        "release_date": 2099032500,
+        "music_length": 163,
+        "information": "すごく良い曲だよー",
+        "lyricist": "秋元 康",
+        "composer": "伊藤 心太郎",
+        "arranger": "APAZZI"
     }
 ]

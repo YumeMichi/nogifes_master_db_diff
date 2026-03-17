@@ -55808,5 +55808,20 @@
                 ]
             }
         ]
+    },
+    {
+        "exceed_reward_id": 2497,
+        "exceed_count_data": [
+            {
+                "exceed_count": 1,
+                "reward_data": [
+                    {
+                        "data_type": 27,
+                        "data_id": 15846,
+                        "data_num": 1
+                    }
+                ]
+            }
+        ]
     }
 ]

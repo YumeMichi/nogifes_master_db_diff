@@ -6079,5 +6079,1629 @@
                 "girl_id2": 0
             }
         ]
+    },
+    {
+        "trade_gacha_id": 123,
+        "trade_gacha_name": "SSRトレード 第23期",
+        "rarity": 5,
+        "trade_num": 4,
+        "priority": 1,
+        "start_date": 1773986400,
+        "end_date": 1782799199,
+        "description": "トレードガチャ第10弾（佐々木琴子削除）",
+        "trade_gacha_item_data": [
+            {
+                "unit_id": 1690,
+                "girl_id1": 301,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 1700,
+                "girl_id1": 302,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 1710,
+                "girl_id1": 303,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 1790,
+                "girl_id1": 311,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 9400,
+                "girl_id1": 301,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 9410,
+                "girl_id1": 302,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 9420,
+                "girl_id1": 303,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 9500,
+                "girl_id1": 311,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 18400,
+                "girl_id1": 301,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 18410,
+                "girl_id1": 302,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 18420,
+                "girl_id1": 303,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 18490,
+                "girl_id1": 311,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 26090,
+                "girl_id1": 301,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 26100,
+                "girl_id1": 302,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 26110,
+                "girl_id1": 303,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 26190,
+                "girl_id1": 311,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 21500,
+                "girl_id1": 401,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 21510,
+                "girl_id1": 402,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 21530,
+                "girl_id1": 404,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 21550,
+                "girl_id1": 406,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 21570,
+                "girl_id1": 408,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 21580,
+                "girl_id1": 409,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 32900,
+                "girl_id1": 301,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 32910,
+                "girl_id1": 302,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 32920,
+                "girl_id1": 303,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 33000,
+                "girl_id1": 311,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 33020,
+                "girl_id1": 401,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 33030,
+                "girl_id1": 402,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 33050,
+                "girl_id1": 404,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 33070,
+                "girl_id1": 406,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 33090,
+                "girl_id1": 408,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 33100,
+                "girl_id1": 409,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 25490,
+                "girl_id1": 303,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 28350,
+                "girl_id1": 408,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 31870,
+                "girl_id1": 402,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 34700,
+                "girl_id1": 401,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 31890,
+                "girl_id1": 409,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 38230,
+                "girl_id1": 303,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 39140,
+                "girl_id1": 412,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 39150,
+                "girl_id1": 413,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 39160,
+                "girl_id1": 414,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 39180,
+                "girl_id1": 416,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 63610,
+                "girl_id1": 301,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 63620,
+                "girl_id1": 302,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 63630,
+                "girl_id1": 303,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 63700,
+                "girl_id1": 311,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 63720,
+                "girl_id1": 401,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 63730,
+                "girl_id1": 402,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 63750,
+                "girl_id1": 404,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 63770,
+                "girl_id1": 406,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 63790,
+                "girl_id1": 408,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 63800,
+                "girl_id1": 409,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 63830,
+                "girl_id1": 412,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 63840,
+                "girl_id1": 413,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 63850,
+                "girl_id1": 414,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 63870,
+                "girl_id1": 416,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 40770,
+                "girl_id1": 302,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 43320,
+                "girl_id1": 404,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 49070,
+                "girl_id1": 401,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 50110,
+                "girl_id1": 401,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 50180,
+                "girl_id1": 402,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 45780,
+                "girl_id1": 301,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 45790,
+                "girl_id1": 302,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 45800,
+                "girl_id1": 303,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 45880,
+                "girl_id1": 311,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 45900,
+                "girl_id1": 401,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 45910,
+                "girl_id1": 402,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 45930,
+                "girl_id1": 404,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 45950,
+                "girl_id1": 406,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 45970,
+                "girl_id1": 408,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 45980,
+                "girl_id1": 409,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 72590,
+                "girl_id1": 301,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 72600,
+                "girl_id1": 302,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 72610,
+                "girl_id1": 303,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 72680,
+                "girl_id1": 311,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 72700,
+                "girl_id1": 401,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 72710,
+                "girl_id1": 402,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 72730,
+                "girl_id1": 404,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 72750,
+                "girl_id1": 406,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 72770,
+                "girl_id1": 408,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 72780,
+                "girl_id1": 409,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 72800,
+                "girl_id1": 412,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 72810,
+                "girl_id1": 413,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 72820,
+                "girl_id1": 414,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 72840,
+                "girl_id1": 416,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 72850,
+                "girl_id1": 501,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 72860,
+                "girl_id1": 502,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 72870,
+                "girl_id1": 503,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 72880,
+                "girl_id1": 504,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 72890,
+                "girl_id1": 505,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 72900,
+                "girl_id1": 506,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 72910,
+                "girl_id1": 507,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 72920,
+                "girl_id1": 508,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 72930,
+                "girl_id1": 509,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 72940,
+                "girl_id1": 510,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 72950,
+                "girl_id1": 511,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 66280,
+                "girl_id1": 501,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 66290,
+                "girl_id1": 502,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 66300,
+                "girl_id1": 503,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 66310,
+                "girl_id1": 504,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 66320,
+                "girl_id1": 505,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 66330,
+                "girl_id1": 506,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 66340,
+                "girl_id1": 507,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 66350,
+                "girl_id1": 508,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 66360,
+                "girl_id1": 509,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 66370,
+                "girl_id1": 510,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 66380,
+                "girl_id1": 511,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 70260,
+                "girl_id1": 501,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 70270,
+                "girl_id1": 502,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 70280,
+                "girl_id1": 503,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 70290,
+                "girl_id1": 504,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 70300,
+                "girl_id1": 505,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 70310,
+                "girl_id1": 506,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 70320,
+                "girl_id1": 507,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 70330,
+                "girl_id1": 508,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 70340,
+                "girl_id1": 509,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 70350,
+                "girl_id1": 510,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 70360,
+                "girl_id1": 511,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 59090,
+                "girl_id1": 402,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 61030,
+                "girl_id1": 408,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 64580,
+                "girl_id1": 301,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 66650,
+                "girl_id1": 406,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 68470,
+                "girl_id1": 303,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 70100,
+                "girl_id1": 409,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 81010,
+                "girl_id1": 301,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 81020,
+                "girl_id1": 302,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 81030,
+                "girl_id1": 303,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 81100,
+                "girl_id1": 311,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 81120,
+                "girl_id1": 401,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 81130,
+                "girl_id1": 402,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 81140,
+                "girl_id1": 404,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 81160,
+                "girl_id1": 406,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 81180,
+                "girl_id1": 408,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 81190,
+                "girl_id1": 409,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 81220,
+                "girl_id1": 412,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 81230,
+                "girl_id1": 413,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 81240,
+                "girl_id1": 414,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 81260,
+                "girl_id1": 416,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 81270,
+                "girl_id1": 501,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 81280,
+                "girl_id1": 502,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 81290,
+                "girl_id1": 503,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 81300,
+                "girl_id1": 504,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 81310,
+                "girl_id1": 505,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 81320,
+                "girl_id1": 506,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 81330,
+                "girl_id1": 507,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 81340,
+                "girl_id1": 508,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 81350,
+                "girl_id1": 509,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 81360,
+                "girl_id1": 510,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 81370,
+                "girl_id1": 511,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 90570,
+                "girl_id1": 301,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 90580,
+                "girl_id1": 302,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 90590,
+                "girl_id1": 303,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 90670,
+                "girl_id1": 401,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 90680,
+                "girl_id1": 402,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 90690,
+                "girl_id1": 404,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 90700,
+                "girl_id1": 406,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 90720,
+                "girl_id1": 408,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 90730,
+                "girl_id1": 409,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 90750,
+                "girl_id1": 412,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 90760,
+                "girl_id1": 413,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 90780,
+                "girl_id1": 416,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 90790,
+                "girl_id1": 501,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 90800,
+                "girl_id1": 502,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 90810,
+                "girl_id1": 503,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 90820,
+                "girl_id1": 504,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 90830,
+                "girl_id1": 506,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 90840,
+                "girl_id1": 507,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 90850,
+                "girl_id1": 508,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 90860,
+                "girl_id1": 509,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 90870,
+                "girl_id1": 510,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 68480,
+                "girl_id1": 311,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 76730,
+                "girl_id1": 402,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 99460,
+                "girl_id1": 301,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 99470,
+                "girl_id1": 302,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 99480,
+                "girl_id1": 303,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 99550,
+                "girl_id1": 311,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 99570,
+                "girl_id1": 401,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 99580,
+                "girl_id1": 402,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 99590,
+                "girl_id1": 406,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 99610,
+                "girl_id1": 408,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 99620,
+                "girl_id1": 409,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 99640,
+                "girl_id1": 412,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 99650,
+                "girl_id1": 413,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 99660,
+                "girl_id1": 414,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 99680,
+                "girl_id1": 416,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 99690,
+                "girl_id1": 501,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 99700,
+                "girl_id1": 502,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 99710,
+                "girl_id1": 503,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 99720,
+                "girl_id1": 504,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 99730,
+                "girl_id1": 505,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 99740,
+                "girl_id1": 506,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 99750,
+                "girl_id1": 507,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 99760,
+                "girl_id1": 508,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 99770,
+                "girl_id1": 509,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 99780,
+                "girl_id1": 510,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 99790,
+                "girl_id1": 511,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 106850,
+                "girl_id1": 301,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 106860,
+                "girl_id1": 302,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 106870,
+                "girl_id1": 303,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 106920,
+                "girl_id1": 311,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 106940,
+                "girl_id1": 401,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 106950,
+                "girl_id1": 402,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 106960,
+                "girl_id1": 404,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 106970,
+                "girl_id1": 406,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 106980,
+                "girl_id1": 408,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 106990,
+                "girl_id1": 409,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 107010,
+                "girl_id1": 412,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 107020,
+                "girl_id1": 413,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 107030,
+                "girl_id1": 414,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 107050,
+                "girl_id1": 416,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 107060,
+                "girl_id1": 501,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 107070,
+                "girl_id1": 502,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 107080,
+                "girl_id1": 503,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 107090,
+                "girl_id1": 504,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 107100,
+                "girl_id1": 505,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 107110,
+                "girl_id1": 506,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 107120,
+                "girl_id1": 507,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 107130,
+                "girl_id1": 508,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 107140,
+                "girl_id1": 509,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 107150,
+                "girl_id1": 510,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 107160,
+                "girl_id1": 511,
+                "girl_id2": 0
+            }
+        ]
+    },
+    {
+        "trade_gacha_id": 124,
+        "trade_gacha_name": "SRトレード 第23期",
+        "rarity": 3,
+        "trade_num": 8,
+        "priority": 1,
+        "start_date": 1773986400,
+        "end_date": 1782799199,
+        "description": "トレードガチャ第10弾（佐々木琴子削除）",
+        "trade_gacha_item_data": [
+            {
+                "unit_id": 1240,
+                "girl_id1": 301,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 1250,
+                "girl_id1": 302,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 1260,
+                "girl_id1": 303,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 1340,
+                "girl_id1": 311,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 8990,
+                "girl_id1": 301,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 9000,
+                "girl_id1": 302,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 9010,
+                "girl_id1": 303,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 9090,
+                "girl_id1": 311,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 11150,
+                "girl_id1": 302,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 11180,
+                "girl_id1": 311,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 13950,
+                "girl_id1": 301,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 15060,
+                "girl_id1": 303,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 18040,
+                "girl_id1": 301,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 18050,
+                "girl_id1": 302,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 18060,
+                "girl_id1": 303,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 18130,
+                "girl_id1": 311,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 25760,
+                "girl_id1": 301,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 25770,
+                "girl_id1": 302,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 25780,
+                "girl_id1": 303,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 25860,
+                "girl_id1": 311,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 21390,
+                "girl_id1": 401,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 21400,
+                "girl_id1": 402,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 21420,
+                "girl_id1": 404,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 21440,
+                "girl_id1": 406,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 21460,
+                "girl_id1": 408,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 21470,
+                "girl_id1": 409,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 18980,
+                "girl_id1": 301,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 32470,
+                "girl_id1": 301,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 32480,
+                "girl_id1": 302,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 32490,
+                "girl_id1": 303,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 32570,
+                "girl_id1": 311,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 32590,
+                "girl_id1": 401,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 32600,
+                "girl_id1": 402,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 32620,
+                "girl_id1": 404,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 32640,
+                "girl_id1": 406,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 32660,
+                "girl_id1": 408,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 32670,
+                "girl_id1": 409,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 23150,
+                "girl_id1": 302,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 24120,
+                "girl_id1": 303,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 28320,
+                "girl_id1": 311,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 34710,
+                "girl_id1": 402,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 35800,
+                "girl_id1": 409,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 28340,
+                "girl_id1": 404,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 31880,
+                "girl_id1": 406,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 35790,
+                "girl_id1": 408,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 38240,
+                "girl_id1": 401,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 42220,
+                "girl_id1": 301,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 39090,
+                "girl_id1": 412,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 39100,
+                "girl_id1": 413,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 39110,
+                "girl_id1": 414,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 39130,
+                "girl_id1": 416,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 49150,
+                "girl_id1": 412,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 49160,
+                "girl_id1": 413,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 49170,
+                "girl_id1": 414,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 49190,
+                "girl_id1": 416,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 42230,
+                "girl_id1": 302,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 43300,
+                "girl_id1": 303,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 50170,
+                "girl_id1": 301,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 55500,
+                "girl_id1": 401,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 56640,
+                "girl_id1": 402,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 58040,
+                "girl_id1": 409,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 45390,
+                "girl_id1": 301,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 45400,
+                "girl_id1": 302,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 45410,
+                "girl_id1": 303,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 45490,
+                "girl_id1": 311,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 45510,
+                "girl_id1": 401,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 45520,
+                "girl_id1": 402,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 45540,
+                "girl_id1": 404,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 45560,
+                "girl_id1": 406,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 45580,
+                "girl_id1": 408,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 45590,
+                "girl_id1": 409,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 66390,
+                "girl_id1": 501,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 66400,
+                "girl_id1": 502,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 66410,
+                "girl_id1": 503,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 66420,
+                "girl_id1": 504,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 66430,
+                "girl_id1": 505,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 66440,
+                "girl_id1": 506,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 66450,
+                "girl_id1": 507,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 66460,
+                "girl_id1": 508,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 66470,
+                "girl_id1": 509,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 66480,
+                "girl_id1": 510,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 66490,
+                "girl_id1": 511,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 70370,
+                "girl_id1": 501,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 70380,
+                "girl_id1": 502,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 70390,
+                "girl_id1": 503,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 70400,
+                "girl_id1": 504,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 70410,
+                "girl_id1": 505,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 70420,
+                "girl_id1": 506,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 70430,
+                "girl_id1": 507,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 70440,
+                "girl_id1": 508,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 70450,
+                "girl_id1": 509,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 70460,
+                "girl_id1": 510,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 70470,
+                "girl_id1": 511,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 59100,
+                "girl_id1": 408,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 61040,
+                "girl_id1": 413,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 68500,
+                "girl_id1": 404,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 59120,
+                "girl_id1": 301,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 68510,
+                "girl_id1": 414,
+                "girl_id2": 0
+            },
+            {
+                "unit_id": 72340,
+                "girl_id1": 412,
+                "girl_id2": 0
+            }
+        ]
     }
 ]
