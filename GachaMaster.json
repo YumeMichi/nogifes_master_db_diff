@@ -2008,7 +2008,7 @@
         "paid_amount": 6,
         "paid_amount_10": 0,
         "gacha_multiple_type": 2,
-        "priority": 2131,
+        "priority": 2135,
         "use_priority": 0,
         "paid_restriction": 2,
         "restriction_value": 1,
@@ -2063,7 +2063,7 @@
         "paid_amount": 6,
         "paid_amount_10": 0,
         "gacha_multiple_type": 2,
-        "priority": 2132,
+        "priority": 2136,
         "use_priority": 0,
         "paid_restriction": 2,
         "restriction_value": 1,
@@ -2448,7 +2448,7 @@
         "paid_amount": 0,
         "paid_amount_10": 200,
         "gacha_multiple_type": 4,
-        "priority": 1787,
+        "priority": 1789,
         "use_priority": 0,
         "paid_restriction": 0,
         "restriction_value": 0,
@@ -5682,7 +5682,7 @@
         "paid_amount": 6,
         "paid_amount_10": 0,
         "gacha_multiple_type": 2,
-        "priority": 1834,
+        "priority": 1836,
         "use_priority": 0,
         "paid_restriction": 2,
         "restriction_value": 1,
@@ -5734,7 +5734,7 @@
         "paid_amount": 6,
         "paid_amount_10": 0,
         "gacha_multiple_type": 2,
-        "priority": 2133,
+        "priority": 2137,
         "use_priority": 0,
         "paid_restriction": 2,
         "restriction_value": 1,
@@ -5789,7 +5789,7 @@
         "paid_amount": 6,
         "paid_amount_10": 0,
         "gacha_multiple_type": 2,
-        "priority": 2134,
+        "priority": 2138,
         "use_priority": 0,
         "paid_restriction": 2,
         "restriction_value": 1,
@@ -5844,7 +5844,7 @@
         "paid_amount": 6,
         "paid_amount_10": 0,
         "gacha_multiple_type": 2,
-        "priority": 2135,
+        "priority": 2139,
         "use_priority": 0,
         "paid_restriction": 2,
         "restriction_value": 1,
@@ -5893,7 +5893,7 @@
         "paid_amount": 6,
         "paid_amount_10": 0,
         "gacha_multiple_type": 2,
-        "priority": 2136,
+        "priority": 2140,
         "use_priority": 0,
         "paid_restriction": 2,
         "restriction_value": 1,
@@ -6439,7 +6439,7 @@
         "paid_amount": 6,
         "paid_amount_10": 0,
         "gacha_multiple_type": 2,
-        "priority": 1835,
+        "priority": 1837,
         "use_priority": 0,
         "paid_restriction": 2,
         "restriction_value": 1,
@@ -9607,7 +9607,7 @@
         "paid_amount": 0,
         "paid_amount_10": 200,
         "gacha_multiple_type": 4,
-        "priority": 1788,
+        "priority": 1790,
         "use_priority": 0,
         "paid_restriction": 0,
         "restriction_value": 0,
@@ -10025,7 +10025,7 @@
         "paid_amount": 0,
         "paid_amount_10": 200,
         "gacha_multiple_type": 4,
-        "priority": 1789,
+        "priority": 1791,
         "use_priority": 0,
         "paid_restriction": 0,
         "restriction_value": 0,
@@ -11132,7 +11132,7 @@
         "paid_amount": 6,
         "paid_amount_10": 0,
         "gacha_multiple_type": 2,
-        "priority": 2137,
+        "priority": 2141,
         "use_priority": 0,
         "paid_restriction": 2,
         "restriction_value": 1,
@@ -11184,7 +11184,7 @@
         "paid_amount": 6,
         "paid_amount_10": 0,
         "gacha_multiple_type": 2,
-        "priority": 2138,
+        "priority": 2142,
         "use_priority": 0,
         "paid_restriction": 2,
         "restriction_value": 1,
@@ -11239,7 +11239,7 @@
         "paid_amount": 6,
         "paid_amount_10": 0,
         "gacha_multiple_type": 2,
-        "priority": 2139,
+        "priority": 2143,
         "use_priority": 0,
         "paid_restriction": 2,
         "restriction_value": 1,
@@ -13537,7 +13537,7 @@
         "paid_amount": 6,
         "paid_amount_10": 0,
         "gacha_multiple_type": 2,
-        "priority": 2140,
+        "priority": 2144,
         "use_priority": 0,
         "paid_restriction": 2,
         "restriction_value": 1,
@@ -13589,7 +13589,7 @@
         "paid_amount": 6,
         "paid_amount_10": 0,
         "gacha_multiple_type": 2,
-        "priority": 2141,
+        "priority": 2145,
         "use_priority": 0,
         "paid_restriction": 2,
         "restriction_value": 1,
@@ -13644,7 +13644,7 @@
         "paid_amount": 6,
         "paid_amount_10": 0,
         "gacha_multiple_type": 2,
-        "priority": 2142,
+        "priority": 2146,
         "use_priority": 0,
         "paid_restriction": 2,
         "restriction_value": 1,
@@ -13699,7 +13699,7 @@
         "paid_amount": 0,
         "paid_amount_10": 200,
         "gacha_multiple_type": 4,
-        "priority": 1742,
+        "priority": 1744,
         "use_priority": 0,
         "paid_restriction": 0,
         "restriction_value": 0,
@@ -14564,7 +14564,7 @@
         "paid_amount": 0,
         "paid_amount_10": 200,
         "gacha_multiple_type": 4,
-        "priority": 1743,
+        "priority": 1745,
         "use_priority": 0,
         "paid_restriction": 0,
         "restriction_value": 0,
@@ -15790,7 +15790,7 @@
         "paid_amount": 6,
         "paid_amount_10": 0,
         "gacha_multiple_type": 2,
-        "priority": 2143,
+        "priority": 2147,
         "use_priority": 0,
         "paid_restriction": 2,
         "restriction_value": 1,
@@ -15866,6 +15866,508 @@
         "display_data": [],
         "ticket_exchange_unit_data": [],
         "pickup_data": [],
+        "mission_unit_data": [],
+        "select_gacha_unit_data": [],
+        "unit_level_data": []
+    },
+    {
+        "gacha_id": 2160,
+        "gacha_name": "[新]SSRフェス2026 第1弾",
+        "gacha_type": 1,
+        "amount": 20,
+        "paid_amount": 6,
+        "paid_amount_10": 0,
+        "gacha_multiple_type": 2,
+        "priority": 1838,
+        "use_priority": 0,
+        "paid_restriction": 2,
+        "restriction_value": 1,
+        "paid_restriction_10": 0,
+        "restriction_value_10": 0,
+        "restriction_10_group_id": 0,
+        "start_date": 1774850400,
+        "end_date": 1775109599,
+        "term_display": 1,
+        "gacha_bonus_id": 0,
+        "loop_flag": 0,
+        "movie_resource_id": 2160,
+        "logo_flag": 1,
+        "catchphrase_flag": 0,
+        "bg_line_flag": 0,
+        "bg_frame_flag": 0,
+        "description": "",
+        "display_data": [],
+        "ticket_exchange_unit_data": [],
+        "pickup_data": [
+            {
+                "unit_id": 126020
+            },
+            {
+                "unit_id": 92290
+            },
+            {
+                "unit_id": 97700
+            },
+            {
+                "unit_id": 126030
+            },
+            {
+                "unit_id": 126040
+            },
+            {
+                "unit_id": 126050
+            },
+            {
+                "unit_id": 126080
+            },
+            {
+                "unit_id": 126090
+            },
+            {
+                "unit_id": 126100
+            }
+        ],
+        "mission_unit_data": [],
+        "select_gacha_unit_data": [],
+        "unit_level_data": []
+    },
+    {
+        "gacha_id": 2161,
+        "gacha_name": "[新]SSRフェス2026 第2弾",
+        "gacha_type": 1,
+        "amount": 20,
+        "paid_amount": 6,
+        "paid_amount_10": 0,
+        "gacha_multiple_type": 2,
+        "priority": 1839,
+        "use_priority": 0,
+        "paid_restriction": 2,
+        "restriction_value": 1,
+        "paid_restriction_10": 0,
+        "restriction_value_10": 0,
+        "restriction_10_group_id": 0,
+        "start_date": 1774850400,
+        "end_date": 1775109599,
+        "term_display": 1,
+        "gacha_bonus_id": 0,
+        "loop_flag": 0,
+        "movie_resource_id": 2161,
+        "logo_flag": 1,
+        "catchphrase_flag": 0,
+        "bg_line_flag": 0,
+        "bg_frame_flag": 0,
+        "description": "",
+        "display_data": [],
+        "ticket_exchange_unit_data": [],
+        "pickup_data": [
+            {
+                "unit_id": 129250
+            },
+            {
+                "unit_id": 97700
+            },
+            {
+                "unit_id": 100560
+            },
+            {
+                "unit_id": 129260
+            },
+            {
+                "unit_id": 129270
+            },
+            {
+                "unit_id": 129280
+            },
+            {
+                "unit_id": 129290
+            },
+            {
+                "unit_id": 129300
+            },
+            {
+                "unit_id": 129310
+            },
+            {
+                "unit_id": 129320
+            }
+        ],
+        "mission_unit_data": [],
+        "select_gacha_unit_data": [],
+        "unit_level_data": []
+    },
+    {
+        "gacha_id": 2162,
+        "gacha_name": "新参者二〇二五 LIVEガチャ",
+        "gacha_type": 2,
+        "amount": 20,
+        "paid_amount": 6,
+        "paid_amount_10": 0,
+        "gacha_multiple_type": 2,
+        "priority": 1644,
+        "use_priority": 0,
+        "paid_restriction": 2,
+        "restriction_value": 1,
+        "paid_restriction_10": 0,
+        "restriction_value_10": 0,
+        "restriction_10_group_id": 0,
+        "start_date": 1775023200,
+        "end_date": 1776232799,
+        "term_display": 1,
+        "gacha_bonus_id": 0,
+        "loop_flag": 0,
+        "movie_resource_id": 2162,
+        "logo_flag": 1,
+        "catchphrase_flag": 0,
+        "bg_line_flag": 0,
+        "bg_frame_flag": 0,
+        "description": "",
+        "display_data": [],
+        "ticket_exchange_unit_data": [],
+        "pickup_data": [
+            {
+                "unit_id": 129440
+            },
+            {
+                "unit_id": 129450
+            },
+            {
+                "unit_id": 129460
+            },
+            {
+                "unit_id": 129470
+            },
+            {
+                "unit_id": 129480
+            },
+            {
+                "unit_id": 129490
+            },
+            {
+                "unit_id": 129500
+            },
+            {
+                "unit_id": 129510
+            },
+            {
+                "unit_id": 129520
+            },
+            {
+                "unit_id": 129530
+            },
+            {
+                "unit_id": 129540
+            },
+            {
+                "unit_id": 129550
+            },
+            {
+                "unit_id": 129560
+            },
+            {
+                "unit_id": 129570
+            },
+            {
+                "unit_id": 129580
+            },
+            {
+                "unit_id": 129590
+            },
+            {
+                "unit_id": 129600
+            },
+            {
+                "unit_id": 129610
+            },
+            {
+                "unit_id": 129620
+            },
+            {
+                "unit_id": 129630
+            }
+        ],
+        "mission_unit_data": [],
+        "select_gacha_unit_data": [],
+        "unit_level_data": []
+    },
+    {
+        "gacha_id": 2163,
+        "gacha_name": "40thSGアンダーライブガチャ",
+        "gacha_type": 2,
+        "amount": 20,
+        "paid_amount": 6,
+        "paid_amount_10": 0,
+        "gacha_multiple_type": 2,
+        "priority": 1645,
+        "use_priority": 0,
+        "paid_restriction": 2,
+        "restriction_value": 1,
+        "paid_restriction_10": 0,
+        "restriction_value_10": 0,
+        "restriction_10_group_id": 0,
+        "start_date": 1776060000,
+        "end_date": 1777269599,
+        "term_display": 1,
+        "gacha_bonus_id": 0,
+        "loop_flag": 0,
+        "movie_resource_id": 2163,
+        "logo_flag": 1,
+        "catchphrase_flag": 0,
+        "bg_line_flag": 0,
+        "bg_frame_flag": 0,
+        "description": "",
+        "display_data": [],
+        "ticket_exchange_unit_data": [],
+        "pickup_data": [
+            {
+                "unit_id": 129770
+            },
+            {
+                "unit_id": 129780
+            },
+            {
+                "unit_id": 129790
+            },
+            {
+                "unit_id": 129800
+            },
+            {
+                "unit_id": 129810
+            },
+            {
+                "unit_id": 129820
+            },
+            {
+                "unit_id": 129830
+            },
+            {
+                "unit_id": 129840
+            },
+            {
+                "unit_id": 129850
+            },
+            {
+                "unit_id": 129860
+            },
+            {
+                "unit_id": 129870
+            },
+            {
+                "unit_id": 129880
+            },
+            {
+                "unit_id": 129890
+            },
+            {
+                "unit_id": 129900
+            },
+            {
+                "unit_id": 129910
+            },
+            {
+                "unit_id": 129920
+            },
+            {
+                "unit_id": 129930
+            },
+            {
+                "unit_id": 129940
+            },
+            {
+                "unit_id": 129950
+            },
+            {
+                "unit_id": 129960
+            },
+            {
+                "unit_id": 129970
+            },
+            {
+                "unit_id": 129980
+            },
+            {
+                "unit_id": 129990
+            },
+            {
+                "unit_id": 130000
+            }
+        ],
+        "mission_unit_data": [
+            {
+                "unit_id": 129770
+            },
+            {
+                "unit_id": 129780
+            },
+            {
+                "unit_id": 129790
+            },
+            {
+                "unit_id": 129800
+            },
+            {
+                "unit_id": 129810
+            },
+            {
+                "unit_id": 129820
+            },
+            {
+                "unit_id": 129830
+            },
+            {
+                "unit_id": 129840
+            },
+            {
+                "unit_id": 129850
+            },
+            {
+                "unit_id": 129860
+            },
+            {
+                "unit_id": 129870
+            },
+            {
+                "unit_id": 129880
+            },
+            {
+                "unit_id": 129890
+            },
+            {
+                "unit_id": 129900
+            },
+            {
+                "unit_id": 129910
+            },
+            {
+                "unit_id": 129920
+            },
+            {
+                "unit_id": 129930
+            },
+            {
+                "unit_id": 129940
+            },
+            {
+                "unit_id": 129950
+            },
+            {
+                "unit_id": 129960
+            },
+            {
+                "unit_id": 129970
+            },
+            {
+                "unit_id": 129980
+            },
+            {
+                "unit_id": 129990
+            },
+            {
+                "unit_id": 130000
+            }
+        ],
+        "select_gacha_unit_data": [],
+        "unit_level_data": []
+    },
+    {
+        "gacha_id": 2164,
+        "gacha_name": "川﨑桜 BIRTHDAYガチャ",
+        "gacha_type": 6,
+        "amount": 20,
+        "paid_amount": 6,
+        "paid_amount_10": 0,
+        "gacha_multiple_type": 2,
+        "priority": 2149,
+        "use_priority": 0,
+        "paid_restriction": 2,
+        "restriction_value": 1,
+        "paid_restriction_10": 0,
+        "restriction_value_10": 0,
+        "restriction_10_group_id": 0,
+        "start_date": 1776351600,
+        "end_date": 1776610799,
+        "term_display": 1,
+        "gacha_bonus_id": 2164,
+        "loop_flag": 0,
+        "movie_resource_id": 2164,
+        "logo_flag": 1,
+        "catchphrase_flag": 0,
+        "bg_line_flag": 0,
+        "bg_frame_flag": 0,
+        "description": "",
+        "display_data": [],
+        "ticket_exchange_unit_data": [],
+        "pickup_data": [
+            {
+                "unit_id": 65030
+            },
+            {
+                "unit_id": 129640
+            },
+            {
+                "unit_id": 80210
+            },
+            {
+                "unit_id": 64920
+            },
+            {
+                "unit_id": 129650
+            },
+            {
+                "unit_id": 104980
+            },
+            {
+                "unit_id": 64810
+            }
+        ],
+        "mission_unit_data": [],
+        "select_gacha_unit_data": [],
+        "unit_level_data": []
+    },
+    {
+        "gacha_id": 2165,
+        "gacha_name": "小津玲奈 BIRTHDAYガチャ",
+        "gacha_type": 6,
+        "amount": 20,
+        "paid_amount": 6,
+        "paid_amount_10": 0,
+        "gacha_multiple_type": 2,
+        "priority": 2148,
+        "use_priority": 0,
+        "paid_restriction": 2,
+        "restriction_value": 1,
+        "paid_restriction_10": 0,
+        "restriction_value_10": 0,
+        "restriction_10_group_id": 0,
+        "start_date": 1776351600,
+        "end_date": 1776610799,
+        "term_display": 1,
+        "gacha_bonus_id": 2165,
+        "loop_flag": 0,
+        "movie_resource_id": 2165,
+        "logo_flag": 1,
+        "catchphrase_flag": 0,
+        "bg_line_flag": 0,
+        "bg_frame_flag": 0,
+        "description": "",
+        "display_data": [],
+        "ticket_exchange_unit_data": [],
+        "pickup_data": [
+            {
+                "unit_id": 116150
+            },
+            {
+                "unit_id": 129660
+            },
+            {
+                "unit_id": 116260
+            },
+            {
+                "unit_id": 129670
+            },
+            {
+                "unit_id": 116370
+            }
+        ],
         "mission_unit_data": [],
         "select_gacha_unit_data": [],
         "unit_level_data": []

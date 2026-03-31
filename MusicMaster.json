@@ -4248,6 +4248,42 @@
         "arranger": "佐々木裕"
     },
     {
+        "music_id": 460020,
+        "music_name": "市営ダンスホール",
+        "music_name_kana": "しえいだんすほーる",
+        "search_word": [
+            {
+                "word": "6期生曲"
+            }
+        ],
+        "music_type": 1,
+        "center_girl_id": 104,
+        "release_date": 2025112602,
+        "music_length": 160,
+        "information": "すごく良い曲だよー",
+        "lyricist": "秋元 康",
+        "composer": "浦島 健太，新Q",
+        "arranger": "新Q"
+    },
+    {
+        "music_id": 460030,
+        "music_name": "純粋とは何か？",
+        "music_name_kana": "じゅんすいとはなにか？",
+        "search_word": [
+            {
+                "word": "あんだー曲"
+            }
+        ],
+        "music_type": 1,
+        "center_girl_id": 104,
+        "release_date": 2025112603,
+        "music_length": 179,
+        "information": "すごく良い曲だよー",
+        "lyricist": "秋元 康",
+        "composer": "杉山 勝彦，河田 一真",
+        "arranger": "河田一真"
+    },
+    {
         "music_id": 10000010,
         "music_name": "ワタボコリ",
         "music_name_kana": "わたぼこり",

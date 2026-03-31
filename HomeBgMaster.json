@@ -118,5 +118,13 @@
         "default_flag": 0,
         "start_date": 1651158000,
         "description": "【ホーム】街2"
+    },
+    {
+        "home_bg_id": 16,
+        "home_bg_name": "撮影スタジオ1",
+        "resource_id": 16,
+        "default_flag": 0,
+        "start_date": 1776870000,
+        "description": "【ホーム】撮影スタジオ1"
     }
 ]

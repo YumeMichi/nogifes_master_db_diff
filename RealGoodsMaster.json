@@ -4132,5 +4132,17 @@
         "real_goods_name": "<girl_name> オリジナル乃木フェスTシャツ（サイン無し）抽選券",
         "real_goods_type": 2,
         "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 690,
+        "real_goods_name": "<girl_name> 推しメントートバッグ（サイン無し）",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 691,
+        "real_goods_name": "<girl_name> 推しメントートバッグ（サイン無し）抽選券",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
     }
 ]

@@ -548,5 +548,40 @@
                 "girl_id": 611
             }
         ]
+    },
+    {
+        "event_id": 280,
+        "girl_data": [
+            {
+                "girl_id": 601
+            },
+            {
+                "girl_id": 602
+            },
+            {
+                "girl_id": 604
+            },
+            {
+                "girl_id": 605
+            },
+            {
+                "girl_id": 606
+            },
+            {
+                "girl_id": 607
+            },
+            {
+                "girl_id": 608
+            },
+            {
+                "girl_id": 609
+            },
+            {
+                "girl_id": 610
+            },
+            {
+                "girl_id": 611
+            }
+        ]
     }
 ]

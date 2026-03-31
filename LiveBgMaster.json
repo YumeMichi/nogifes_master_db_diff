@@ -4392,6 +4392,42 @@
         "live_location": "横浜BUNTAI"
     },
     {
+        "live_bg_id": 460021,
+        "live_bg_name": "市営ダンスホール",
+        "live_bg_type": 1,
+        "music_id": 460020,
+        "live_name": "新参者 二〇二五 LIVE at THEATER MILANO-Za",
+        "live_date": "2025年11月30日",
+        "live_location": "THEATER MILANO-Za"
+    },
+    {
+        "live_bg_id": 460022,
+        "live_bg_name": "市営ダンスホール",
+        "live_bg_type": 2,
+        "music_id": 460020,
+        "live_name": "新参者 二〇二五 LIVE at THEATER MILANO-Za",
+        "live_date": "2025年11月30日",
+        "live_location": "THEATER MILANO-Za"
+    },
+    {
+        "live_bg_id": 460031,
+        "live_bg_name": "純粋とは何か？",
+        "live_bg_type": 1,
+        "music_id": 460030,
+        "live_name": "40thSGアンダーライブ",
+        "live_date": "2025年12月21日",
+        "live_location": "日本武道館"
+    },
+    {
+        "live_bg_id": 460032,
+        "live_bg_name": "純粋とは何か？",
+        "live_bg_type": 2,
+        "music_id": 460030,
+        "live_name": "40thSGアンダーライブ",
+        "live_date": "2025年12月21日",
+        "live_location": "日本武道館"
+    },
+    {
         "live_bg_id": 10000011,
         "live_bg_name": "ワタボコリ",
         "live_bg_type": 1,

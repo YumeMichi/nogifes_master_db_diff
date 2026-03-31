@@ -48702,5 +48702,73 @@
                 "movie_get_type": 1
             }
         ]
+    },
+    {
+        "reward_movie_id": 2947,
+        "reward_movie_name": "新参者 二〇二五 LIVE at THEATER MILANO-Za<br />市営ダンスホール SPライブMOVIE",
+        "reward_movie_name_kana": "しんざんものにせんにじゅうごらいぶ　あっとしあたーみらのざ　しえいだんすほーる　すぺしゃるらいぶむーびー",
+        "movie_type": 3,
+        "start_date": 1775196000,
+        "unit_data": [
+            {
+                "unit_id": 129330,
+                "movie_get_type": 1
+            },
+            {
+                "unit_id": 129331,
+                "movie_get_type": 1
+            }
+        ]
+    },
+    {
+        "reward_movie_id": 2948,
+        "reward_movie_name": "新参者 二〇二五 LIVE at THEATER MILANO-Za<br />設定温度 SPライブMOVIE",
+        "reward_movie_name_kana": "しんざんものにせんにじゅうごらいぶ　あっとしあたーみらのざ　せっていおんど　すぺしゃるらいぶむーびー",
+        "movie_type": 3,
+        "start_date": 1776006000,
+        "unit_data": [
+            {
+                "unit_id": 129340,
+                "movie_get_type": 1
+            },
+            {
+                "unit_id": 129341,
+                "movie_get_type": 1
+            }
+        ]
+    },
+    {
+        "reward_movie_id": 2949,
+        "reward_movie_name": "40thSG アンダーライブ<br />純粋とは何か？ SPライブMOVIE",
+        "reward_movie_name_kana": "よんじゅうまいめしんぐるあんだーらいぶ　じゅんすいとはなにか？　すぺしゃるらいぶむーびー",
+        "movie_type": 3,
+        "start_date": 1776146400,
+        "unit_data": [
+            {
+                "unit_id": 129680,
+                "movie_get_type": 1
+            },
+            {
+                "unit_id": 129681,
+                "movie_get_type": 1
+            }
+        ]
+    },
+    {
+        "reward_movie_id": 2950,
+        "reward_movie_name": "40thSG アンダーライブ<br />日常 SPライブMOVIE",
+        "reward_movie_name_kana": "よんじゅうまいめしんぐるあんだーらいぶ　にちじょう　すぺしゃるらいぶむーびー",
+        "movie_type": 3,
+        "start_date": 1776146400,
+        "unit_data": [
+            {
+                "unit_id": 129700,
+                "movie_get_type": 1
+            },
+            {
+                "unit_id": 129701,
+                "movie_get_type": 1
+            }
+        ]
     }
 ]

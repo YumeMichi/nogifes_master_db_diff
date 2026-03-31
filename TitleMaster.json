@@ -6590,5 +6590,29 @@
         "disp_order": 10363000,
         "term_text": "イベントチャレンジを全てクリア",
         "title_replace": 0
+    },
+    {
+        "title_id": 859,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10364000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 860,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10365000,
+        "term_text": "イベントPランキングで入賞",
+        "title_replace": 1
+    },
+    {
+        "title_id": 861,
+        "category": 2,
+        "sub_category": 0,
+        "disp_order": 10366000,
+        "term_text": "イベントチャレンジを全てクリア",
+        "title_replace": 0
     }
 ]

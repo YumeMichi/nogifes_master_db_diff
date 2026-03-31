@@ -1,357 +1,9 @@
 [
     {
-        "name": "event_selectable_girl",
-        "file": "event_selectable_girl_mst.dat",
-        "version": 176,
-        "hash": "0946f9c87867231b24e8c6c3bf25882152cac557595be6dc178efe0903634d89"
-    },
-    {
-        "name": "live_shop",
-        "file": "live_shop_mst.dat",
-        "version": 22,
-        "hash": "5e7b8be65363f9d6802e0e789fee97cdfcd25dff1276d86bc52329d2a842251d"
-    },
-    {
-        "name": "rank_reward",
-        "file": "rank_reward_mst.dat",
-        "version": 18,
-        "hash": "2b4ca9e1abe4cb98e58cd64864f5d5010a2e03197a3c83db830a0d2317bb2285"
-    },
-    {
-        "name": "home_banner",
-        "file": "home_banner_mst.dat",
-        "version": 460,
-        "hash": "8d3dbb02f67ba98f7388ffa996a045f2ac018fd0dba0e42bb733bfa3493392f0"
-    },
-    {
-        "name": "event_mission",
-        "file": "event_mission_mst.dat",
-        "version": 109,
-        "hash": "54002b6f44155dfbe28f3cbad213c91281fb0af4656d4adef8d9486c12508479"
-    },
-    {
-        "name": "lineage_level",
-        "file": "lineage_level_mst.dat",
-        "version": 6,
-        "hash": "4832e6da1cae12083c5c13311abb449b799217accb0f9151e884f5cddb6042b1"
-    },
-    {
-        "name": "player_level",
-        "file": "player_level_mst.dat",
-        "version": 21,
-        "hash": "432af38c196eb40cff503f149d7be08e2c4399698650e1be8bee80535aaafe86"
-    },
-    {
-        "name": "exceed_material",
-        "file": "exceed_material_mst.dat",
-        "version": 24,
-        "hash": "68ddf1c0f437c0269b388065ed03774e96df799fdc96f6e6608a2e27a7d7b55e"
-    },
-    {
-        "name": "dispatch",
-        "file": "dispatch_mst.dat",
-        "version": 10,
-        "hash": "83a61ae8d2f26f04ce7391d49c8e6a7334208932edf44787b180b30a22376937"
-    },
-    {
-        "name": "schedule",
-        "file": "schedule_mst.dat",
-        "version": 270,
-        "hash": "acd37bb1b789da3522fe8edb460b7130ae0376039e10b0ade3535ef678cf1b27"
-    },
-    {
         "name": "define",
         "file": "define_mst.dat",
         "version": 56,
         "hash": "334777c42ea24ab8a7d0e413c07d02a30ee3551a334eb7c21fc7d24b1ed144e9"
-    },
-    {
-        "name": "unit_exchange_ticket",
-        "file": "unit_exchange_ticket_mst.dat",
-        "version": 49,
-        "hash": "fa920c3a78952d2efc31dbd58f9ee465abb9b9b4559cf58f253ad284a658e416"
-    },
-    {
-        "name": "highscore_ranking_trophy",
-        "file": "highscore_ranking_trophy_mst.dat",
-        "version": 170,
-        "hash": "1ede9b4d1788f2f9c179b74fde9f96b3cc8a2c1f17e454791afcd32f55905416"
-    },
-    {
-        "name": "reward_movie",
-        "file": "reward_movie_mst.dat",
-        "version": 257,
-        "hash": "03e93bb77dd7aca8a49a45c506687ca2687c8b697eae6c5bdb1149212f86c236"
-    },
-    {
-        "name": "event_item",
-        "file": "event_item_mst.dat",
-        "version": 179,
-        "hash": "ded4d9a31b9a5e62ec08ac8caa1b06e56d92e66917defb0b50893fd81f2ec959"
-    },
-    {
-        "name": "unit_exceed_parameter",
-        "file": "unit_exceed_parameter_mst.dat",
-        "version": 11,
-        "hash": "9754876c779cc5f85bd6a929aadf6230f1b96dfb82967604e1d857747237b8a9"
-    },
-    {
-        "name": "gacha_free_campaign",
-        "file": "gacha_free_campaign_mst.dat",
-        "version": 126,
-        "hash": "36817b5e1640995631d61eb6f04cb9f0de51c6dbbfa6f2f6049cddba7b6ce547"
-    },
-    {
-        "name": "gift_box_gacha",
-        "file": "gift_box_gacha_mst.dat",
-        "version": 12,
-        "hash": "ba674928679964a4a6ce21bba106d947beb7b81a711d6ed7eaddb6ddd9b0d1ec"
-    },
-    {
-        "name": "notes_rate",
-        "file": "notes_rate_mst.dat",
-        "version": 10,
-        "hash": "8ffaa91294ae780a0412bc097079c1de3e1b06691a69171dd78069f2451b862b"
-    },
-    {
-        "name": "piece",
-        "file": "piece_mst.dat",
-        "version": 10,
-        "hash": "f3d7b86cf0c95db637ae7c8ed082b2071b8a7200c52e1c24ded3241f4c75574d"
-    },
-    {
-        "name": "skill_notes_judge",
-        "file": "skill_notes_judge_mst.dat",
-        "version": 6,
-        "hash": "08ad523af681e58e0c196bd8016d38123d7cdc98bc7bbc2ddcf2f793e1cd67be"
-    },
-    {
-        "name": "item_shop",
-        "file": "item_shop_mst.dat",
-        "version": 129,
-        "hash": "824ebd8ac8897f1d3d1756eb31794bac6e5b21abe7b74673ed8a5adf21acb366"
-    },
-    {
-        "name": "gacha",
-        "file": "gacha_mst.dat",
-        "version": 771,
-        "hash": "fd37c5f7cca9b3921e2e69c34032359105c85a57c09341db1d79b645163fdb91"
-    },
-    {
-        "name": "select_gacha_banner",
-        "file": "select_gacha_banner_mst.dat",
-        "version": 34,
-        "hash": "0549537dee4651374b3e867d6fe0f676fea4455695874654dac70b71d7724bcf"
-    },
-    {
-        "name": "general_mission",
-        "file": "general_mission_mst.dat",
-        "version": 42,
-        "hash": "1b296323e5e4f8ca5d5b7a9a240b64348c8fcf826e0f657ed88baa622a432df2"
-    },
-    {
-        "name": "shine_point_ranking_reward",
-        "file": "shine_point_ranking_reward_mst.dat",
-        "version": 115,
-        "hash": "07c49e3c303089ff65ce0f3fb1bc45261b51fb4f6eccd1c1fdaa7e00534ee181"
-    },
-    {
-        "name": "mix_material",
-        "file": "mix_material_mst.dat",
-        "version": 16,
-        "hash": "b817bd44ce934e02aca35ca72ed1e4361abeaa0e0b6290088fc9e7179e4f2d14"
-    },
-    {
-        "name": "beginner_mission",
-        "file": "beginner_mission_mst.dat",
-        "version": 4,
-        "hash": "c1c30abc1874e0d4a9f8608e3eeed4fd7f11c8da57bd6b236a17a23a9388a718"
-    },
-    {
-        "name": "event_banner",
-        "file": "event_banner_mst.dat",
-        "version": 237,
-        "hash": "103b006505b5d72649d7f01f864f3c9744709986a8bcd7f8479adb2b03a6c856"
-    },
-    {
-        "name": "live_campaign",
-        "file": "live_campaign_mst.dat",
-        "version": 119,
-        "hash": "aa7f5ec31e356b682b785db49764e7e69ffa95f151fd07597661b67f5bda064a"
-    },
-    {
-        "name": "unit_rarity",
-        "file": "unit_rarity_mst.dat",
-        "version": 6,
-        "hash": "334801361695a08c4937ea0b989389026631a7a5dd336e5ae215d3570607d37d"
-    },
-    {
-        "name": "login_bonus",
-        "file": "login_bonus_mst.dat",
-        "version": 2,
-        "hash": "dc3386991767d741b147b2b4ce99f131647b2eafe07345275bf9d6a4312853c1"
-    },
-    {
-        "name": "popup",
-        "file": "popup_mst.dat",
-        "version": 72,
-        "hash": "b3d8b824d650acfb044efb030554b10c0256e4aa5d1c50284660977f167612b4"
-    },
-    {
-        "name": "dispatch_event_location",
-        "file": "dispatch_event_location_mst.dat",
-        "version": 5,
-        "hash": "6a2a0730639957767e3f9c1b8dbe857d6a2fbe2c1fb7a53f7cd7c9d7606506ac"
-    },
-    {
-        "name": "title",
-        "file": "title_mst.dat",
-        "version": 205,
-        "hash": "206a37388521dca9887e8a29eccbc6e1ace4692ecc55d21fca249ffe2a93b6e6"
-    },
-    {
-        "name": "item_exchange",
-        "file": "item_exchange_mst.dat",
-        "version": 19,
-        "hash": "e45b253a3b39fd25d1e107396010d957961ff2956bc34c07b8cd395e11bfbf96"
-    },
-    {
-        "name": "focus_movie",
-        "file": "focus_movie_mst.dat",
-        "version": 315,
-        "hash": "357b03d7c50233ca15e7e065a62ba2b8b7c35912f099d5b7d95a770bf1081dfb"
-    },
-    {
-        "name": "girl",
-        "file": "girl_mst.dat",
-        "version": 78,
-        "hash": "b01c3e983d6ce3339194e9a66113d8a621509d8839a8fc511f53c2d6f60d37a7"
-    },
-    {
-        "name": "exchange_banner",
-        "file": "exchange_banner_mst.dat",
-        "version": 30,
-        "hash": "830eb0784c8400e4e1aaea2d3d67bf9f77310860e0ea8c24a88759a0210eb68a"
-    },
-    {
-        "name": "exchange",
-        "file": "exchange_mst.dat",
-        "version": 24,
-        "hash": "23f43cde45595cdf8172772da664fc7a445a2357a8a67101996e0cf22705a861"
-    },
-    {
-        "name": "evo_material",
-        "file": "evo_material_mst.dat",
-        "version": 16,
-        "hash": "90449de5496e36b9248f0504c3789d1f29a925f20fd0a78e95eb55d741f4acf7"
-    },
-    {
-        "name": "grow_item",
-        "file": "grow_item_mst.dat",
-        "version": 5,
-        "hash": "dcd9c1acd0b5ff2624a7a82fa5a25698bc0fc3a724104ba007b096acb596cf76"
-    },
-    {
-        "name": "item",
-        "file": "item_mst.dat",
-        "version": 22,
-        "hash": "25b05680dbf644a3c7584d431bcb54eaaa40500089ce722dc618125152865dac"
-    },
-    {
-        "name": "live_bg",
-        "file": "live_bg_mst.dat",
-        "version": 253,
-        "hash": "d50d41e917b2e04e0476c4210f48fad9f489b6b11462a47e6bbdce169d69aacb"
-    },
-    {
-        "name": "resource",
-        "file": "resource_mst.dat",
-        "version": 1072,
-        "hash": "1cb68fa277ac62126c5dc935024a926f82a787c81892dbaf7fa73eec6fdf36d6"
-    },
-    {
-        "name": "scenario",
-        "file": "scenario_mst.dat",
-        "version": 171,
-        "hash": "c6ddd776cf7ea4fb4bb29b02a09ded3361c7495c25219905bab1fe7c9d349fe4"
-    },
-    {
-        "name": "active_skill",
-        "file": "active_skill_mst.dat",
-        "version": 54,
-        "hash": "a7ba1f6866d1058312292b4a332b2660de9d8b2c526442addf7b4c6b050708da"
-    },
-    {
-        "name": "gacha_ticket",
-        "file": "gacha_ticket_mst.dat",
-        "version": 180,
-        "hash": "3e888bf486bf2fa9b3b0bc4b46c59de4af411c0753124b20f8f07c1a6091b47a"
-    },
-    {
-        "name": "home_costume",
-        "file": "home_costume_mst.dat",
-        "version": 57,
-        "hash": "2c1a937ca960d452c496328866c8d67173fdf34a8eaa5f648f9e61477d65144f"
-    },
-    {
-        "name": "home_photo",
-        "file": "home_photo_mst.dat",
-        "version": 221,
-        "hash": "ecfa6043141a64770cf51958d235b8d0a1e5684dd051193f62b8071d7a0b6563"
-    },
-    {
-        "name": "highscore_ranking",
-        "file": "highscore_ranking_mst.dat",
-        "version": 200,
-        "hash": "ea307b2c6d03e83efd3f890fe7f31cb72ce7e1fb4434203ac3df72032dcc47ac"
-    },
-    {
-        "name": "special_mission",
-        "file": "special_mission_mst.dat",
-        "version": 411,
-        "hash": "7e5de88e7a782b54d0d5452d2fe95c44ab25453d41aa29acb2cba2248a170387"
-    },
-    {
-        "name": "event_item_shop",
-        "file": "event_item_shop_mst.dat",
-        "version": 194,
-        "hash": "b618c563b473ce0fc55e8d780589931cdf7df54a1a9fb3fadbf06558c0b695c4"
-    },
-    {
-        "name": "unit",
-        "file": "unit_mst.dat",
-        "version": 539,
-        "hash": "dc2acad8397e3eab665e3487b79c9d1c865d891b844bbc2153be695119746423"
-    },
-    {
-        "name": "event_section",
-        "file": "event_section_mst.dat",
-        "version": 58,
-        "hash": "88b5f2ea3554f6df48b83cd80ff92ebab13372bb51567e16533b21f1d2eabebc"
-    },
-    {
-        "name": "trade_gacha",
-        "file": "trade_gacha_mst.dat",
-        "version": 110,
-        "hash": "6ce1332f62536af791cdd81fee58e1a466297936a3a89607ed05c74589d8f784"
-    },
-    {
-        "name": "campaign",
-        "file": "campaign_mst.dat",
-        "version": 130,
-        "hash": "57a046aa3bbc505a95ae99acdcd95ce848d9ac12671529b9189e3e752abb7b82"
-    },
-    {
-        "name": "center_effect",
-        "file": "center_effect_mst.dat",
-        "version": 50,
-        "hash": "2f4fea45b5de26d42f8216e4957ae8b6962734cf7c907b9c7777d56d6d9ec26b"
-    },
-    {
-        "name": "event_gacha",
-        "file": "event_gacha_mst.dat",
-        "version": 21,
-        "hash": "15bab6f71f9d3d72fa5db82c4689633d9c5d6b36566a635b467349371a150208"
     },
     {
         "name": "entry_event",
@@ -360,22 +12,274 @@
         "hash": "e88020bd85333f1e31f9ae726992961af625fc6d2cc30452c3579dfa89e8189d"
     },
     {
+        "name": "grow_item",
+        "file": "grow_item_mst.dat",
+        "version": 5,
+        "hash": "dcd9c1acd0b5ff2624a7a82fa5a25698bc0fc3a724104ba007b096acb596cf76"
+    },
+    {
+        "name": "event_section",
+        "file": "event_section_mst.dat",
+        "version": 58,
+        "hash": "88b5f2ea3554f6df48b83cd80ff92ebab13372bb51567e16533b21f1d2eabebc"
+    },
+    {
+        "name": "gacha_ticket",
+        "file": "gacha_ticket_mst.dat",
+        "version": 182,
+        "hash": "5baef4af9ae0aa85e7dec19a930aae0b40f5a01b46b43afce5986aab6c0b9655"
+    },
+    {
+        "name": "beginner_mission",
+        "file": "beginner_mission_mst.dat",
+        "version": 4,
+        "hash": "c1c30abc1874e0d4a9f8608e3eeed4fd7f11c8da57bd6b236a17a23a9388a718"
+    },
+    {
+        "name": "unit_rarity",
+        "file": "unit_rarity_mst.dat",
+        "version": 6,
+        "hash": "334801361695a08c4937ea0b989389026631a7a5dd336e5ae215d3570607d37d"
+    },
+    {
+        "name": "dispatch_event_location",
+        "file": "dispatch_event_location_mst.dat",
+        "version": 5,
+        "hash": "6a2a0730639957767e3f9c1b8dbe857d6a2fbe2c1fb7a53f7cd7c9d7606506ac"
+    },
+    {
+        "name": "active_skill",
+        "file": "active_skill_mst.dat",
+        "version": 54,
+        "hash": "a7ba1f6866d1058312292b4a332b2660de9d8b2c526442addf7b4c6b050708da"
+    },
+    {
+        "name": "event_exchange",
+        "file": "event_exchange_mst.dat",
+        "version": 60,
+        "hash": "48fa760f8b16178b221ddb57336cdb9c70574ae763a40f3c1f33d45096b5bffe"
+    },
+    {
+        "name": "item_shop",
+        "file": "item_shop_mst.dat",
+        "version": 131,
+        "hash": "7664ae62f218e1ea91c807cdab5542ce1d9c22543eed82009823993be364c88a"
+    },
+    {
+        "name": "center_effect",
+        "file": "center_effect_mst.dat",
+        "version": 50,
+        "hash": "2f4fea45b5de26d42f8216e4957ae8b6962734cf7c907b9c7777d56d6d9ec26b"
+    },
+    {
+        "name": "login_bonus",
+        "file": "login_bonus_mst.dat",
+        "version": 2,
+        "hash": "dc3386991767d741b147b2b4ce99f131647b2eafe07345275bf9d6a4312853c1"
+    },
+    {
+        "name": "music",
+        "file": "music_mst.dat",
+        "version": 278,
+        "hash": "61ed08b27294a9eab35d78750537740854450d2644c0b73af6c4861881bcd2a4"
+    },
+    {
+        "name": "event_dec_lp",
+        "file": "event_dec_lp_mst.dat",
+        "version": 17,
+        "hash": "7ba4316c683fb20e74d1dfaa37d613d62cb4c66f7e25a6b236694bfa6585795b"
+    },
+    {
+        "name": "player_level",
+        "file": "player_level_mst.dat",
+        "version": 21,
+        "hash": "432af38c196eb40cff503f149d7be08e2c4399698650e1be8bee80535aaafe86"
+    },
+    {
+        "name": "exchange_banner",
+        "file": "exchange_banner_mst.dat",
+        "version": 30,
+        "hash": "830eb0784c8400e4e1aaea2d3d67bf9f77310860e0ea8c24a88759a0210eb68a"
+    },
+    {
+        "name": "event_selectable_girl",
+        "file": "event_selectable_girl_mst.dat",
+        "version": 177,
+        "hash": "3c1c9c6a9c8d14761370cf108c58f071eee9b9caa98df638e9e9e0ca38f837da"
+    },
+    {
+        "name": "general_mission",
+        "file": "general_mission_mst.dat",
+        "version": 42,
+        "hash": "1b296323e5e4f8ca5d5b7a9a240b64348c8fcf826e0f657ed88baa622a432df2"
+    },
+    {
+        "name": "dispatch",
+        "file": "dispatch_mst.dat",
+        "version": 10,
+        "hash": "83a61ae8d2f26f04ce7391d49c8e6a7334208932edf44787b180b30a22376937"
+    },
+    {
+        "name": "highscore_ranking",
+        "file": "highscore_ranking_mst.dat",
+        "version": 201,
+        "hash": "dd82db6b46d0eee409d3fb33893969072c3833a0a9c9d36bfa8c7e2c8e89cc1b"
+    },
+    {
+        "name": "event_item_shop",
+        "file": "event_item_shop_mst.dat",
+        "version": 195,
+        "hash": "ae18fc97c2cedd2b2557a5a9507ac9c676f8d53b71d609f2b94c3f00f9e8862b"
+    },
+    {
+        "name": "event_banner",
+        "file": "event_banner_mst.dat",
+        "version": 238,
+        "hash": "9a918abc6dd9d77713d827bd8eac11d3989293231d9b401eb2bedbd12dcb16a3"
+    },
+    {
+        "name": "event",
+        "file": "event_mst.dat",
+        "version": 553,
+        "hash": "5d373e48ea0edcb16d12f33d41e853f25ffdabb3d36621ee2559abe15a781658"
+    },
+    {
+        "name": "reward_movie",
+        "file": "reward_movie_mst.dat",
+        "version": 258,
+        "hash": "3b38bebbb8dea03ef967596934d7cb3d446ce43b9cc428fbeac0aeb8ab7dbcef"
+    },
+    {
+        "name": "home_photo",
+        "file": "home_photo_mst.dat",
+        "version": 226,
+        "hash": "12cc75032a6b955cdefa3d98ae2a3e745cbb2a784339c1822fdbed659e2195e7"
+    },
+    {
+        "name": "skill_notes_judge",
+        "file": "skill_notes_judge_mst.dat",
+        "version": 6,
+        "hash": "08ad523af681e58e0c196bd8016d38123d7cdc98bc7bbc2ddcf2f793e1cd67be"
+    },
+    {
+        "name": "entry_event_exchange",
+        "file": "entry_event_exchange_mst.dat",
+        "version": 6,
+        "hash": "69e681dd55dd43d34492fde000e753eea315081521371b87d238efc7a41f2ec4"
+    },
+    {
+        "name": "campaign",
+        "file": "campaign_mst.dat",
+        "version": 130,
+        "hash": "57a046aa3bbc505a95ae99acdcd95ce848d9ac12671529b9189e3e752abb7b82"
+    },
+    {
+        "name": "shine_point_reward",
+        "file": "shine_point_reward_mst.dat",
+        "version": 109,
+        "hash": "b6ec753f00fc7562f3c083676636eea993afc3fb5bac35cc721eea5716e0a0f9"
+    },
+    {
         "name": "unit_exchange",
         "file": "unit_exchange_mst.dat",
         "version": 102,
         "hash": "3babb66f749937ddab89aca092e785d2376fdeaca49646c0b76e7f6aa57f0b09"
     },
     {
-        "name": "exceed_reward",
-        "file": "exceed_reward_mst.dat",
-        "version": 107,
-        "hash": "2853d91dbed1378ad4259d04c9f046eabd2511e97ee641c20d0d70fd06fe6051"
+        "name": "home_costume",
+        "file": "home_costume_mst.dat",
+        "version": 57,
+        "hash": "2c1a937ca960d452c496328866c8d67173fdf34a8eaa5f648f9e61477d65144f"
     },
     {
-        "name": "unit_evo_material",
-        "file": "unit_evo_material_mst.dat",
+        "name": "dispatch_stage_update",
+        "file": "dispatch_stage_update_mst.dat",
+        "version": 3,
+        "hash": "038a0a4bea9f896dee2a38460f1cfb90b7edc50b0f2439b19895314b335e0eef"
+    },
+    {
+        "name": "event_mission",
+        "file": "event_mission_mst.dat",
+        "version": 110,
+        "hash": "70268328d2cf2f848d23be62835c0636f7ada78429d877e60a8d928f4630cb79"
+    },
+    {
+        "name": "exceed_material",
+        "file": "exceed_material_mst.dat",
+        "version": 24,
+        "hash": "68ddf1c0f437c0269b388065ed03774e96df799fdc96f6e6608a2e27a7d7b55e"
+    },
+    {
+        "name": "synergy",
+        "file": "synergy_mst.dat",
+        "version": 31,
+        "hash": "e19142ffc7950e73c8a483d74476eeb089a5ccb766d474437a6a4f6bfa8be86e"
+    },
+    {
+        "name": "splash",
+        "file": "splash_mst.dat",
+        "version": 24,
+        "hash": "95870105a00acbfbe1fff3229705e68e02a3a5ed20ef964674836af3b86e3caa"
+    },
+    {
+        "name": "trade_gacha",
+        "file": "trade_gacha_mst.dat",
+        "version": 110,
+        "hash": "6ce1332f62536af791cdd81fee58e1a466297936a3a89607ed05c74589d8f784"
+    },
+    {
+        "name": "title",
+        "file": "title_mst.dat",
+        "version": 206,
+        "hash": "a6813cac901be9434a2d9472cb6ea5253c97a6b044a6ebd7a6db03ae0537cda9"
+    },
+    {
+        "name": "mission_live_clear_terms",
+        "file": "mission_live_clear_terms_mst.dat",
+        "version": 166,
+        "hash": "ee9044a4dcab96a3d8303915dfd5a6f645908c6dcc9f4ad5b44353717d572c67"
+    },
+    {
+        "name": "shine_point_ranking_reward",
+        "file": "shine_point_ranking_reward_mst.dat",
+        "version": 115,
+        "hash": "07c49e3c303089ff65ce0f3fb1bc45261b51fb4f6eccd1c1fdaa7e00534ee181"
+    },
+    {
+        "name": "lineage_level",
+        "file": "lineage_level_mst.dat",
         "version": 6,
-        "hash": "01361c7cd58b08ef45f19edb067c880885dc2b474b5d8130656f44bb757c4a8a"
+        "hash": "4832e6da1cae12083c5c13311abb449b799217accb0f9151e884f5cddb6042b1"
+    },
+    {
+        "name": "live_shop",
+        "file": "live_shop_mst.dat",
+        "version": 22,
+        "hash": "5e7b8be65363f9d6802e0e789fee97cdfcd25dff1276d86bc52329d2a842251d"
+    },
+    {
+        "name": "focus_movie",
+        "file": "focus_movie_mst.dat",
+        "version": 316,
+        "hash": "544c66fccbf36e4057fb3119a24e93a8f14f1b14a09cf8e510859f219eacd814"
+    },
+    {
+        "name": "live_bg",
+        "file": "live_bg_mst.dat",
+        "version": 254,
+        "hash": "257f5a8ec72de2e303f59d1b69454bbfe749e2efae5e65314a0f70865f4e06c7"
+    },
+    {
+        "name": "girl_reward",
+        "file": "girl_reward_mst.dat",
+        "version": 4,
+        "hash": "630edf8b1b60e3e443309018716cd913efe88195a9249ae30270f7e58d0473ca"
+    },
+    {
+        "name": "path",
+        "file": "path_mst.dat",
+        "version": 35,
+        "hash": "3f3dc3ef6512540152a4bb4aba114b3e7f90ff191f769927eb0532a444b842ec"
     },
     {
         "name": "invite_campaign",
@@ -384,16 +288,166 @@
         "hash": "577229ff0eeee174ec020d4d71e249fcc51c72382fcf4a8ee687db32e9c8e74c"
     },
     {
-        "name": "daily_mission",
-        "file": "daily_mission_mst.dat",
-        "version": 20,
-        "hash": "734e7661a1e07310e68cd44ff04e991f0c93d9be00f7f71cecbaf3556c2ea40a"
+        "name": "girl",
+        "file": "girl_mst.dat",
+        "version": 78,
+        "hash": "b01c3e983d6ce3339194e9a66113d8a621509d8839a8fc511f53c2d6f60d37a7"
+    },
+    {
+        "name": "schedule",
+        "file": "schedule_mst.dat",
+        "version": 271,
+        "hash": "7fd6994df7f31b218d0747280dc303bf1dd2c4c73c3fb1c06efde47d8b740e3f"
+    },
+    {
+        "name": "evo_material",
+        "file": "evo_material_mst.dat",
+        "version": 16,
+        "hash": "90449de5496e36b9248f0504c3789d1f29a925f20fd0a78e95eb55d741f4acf7"
     },
     {
         "name": "other_movie",
         "file": "other_movie_mst.dat",
-        "version": 155,
-        "hash": "57b08b8e6cbf521cbf5775f0f2d80ec9a82058ed3268c78a85a72d3344319211"
+        "version": 156,
+        "hash": "f469d75b68e1cddfa5d532cb13f2afb5f7df198f95d6cbdf9f237f5c097199b2"
+    },
+    {
+        "name": "popup",
+        "file": "popup_mst.dat",
+        "version": 72,
+        "hash": "b3d8b824d650acfb044efb030554b10c0256e4aa5d1c50284660977f167612b4"
+    },
+    {
+        "name": "event_item",
+        "file": "event_item_mst.dat",
+        "version": 180,
+        "hash": "abcdd784caff78b875330132996a921a2bc53195993d2d3d98c7b1365707246c"
+    },
+    {
+        "name": "gacha",
+        "file": "gacha_mst.dat",
+        "version": 775,
+        "hash": "f6cfa92b628b630edbda3603590d114d7ffdbf2543d735731a591399d77cebb4"
+    },
+    {
+        "name": "unit_level",
+        "file": "unit_level_mst.dat",
+        "version": 18,
+        "hash": "ede2a97c931c43335f72963da57ced0225d61d241bc467603a78b37237484ba2"
+    },
+    {
+        "name": "exceed_reward",
+        "file": "exceed_reward_mst.dat",
+        "version": 108,
+        "hash": "36ab885718fd1dab8969944ff19a9c2e560f6a3909c7a0f1e4a9fd35432b2d5a"
+    },
+    {
+        "name": "home_banner",
+        "file": "home_banner_mst.dat",
+        "version": 462,
+        "hash": "980c61d87944a79d4d9713521bd68a57ff60e8c00e87e11203ef7b1a45f8b5fe"
+    },
+    {
+        "name": "home_bg",
+        "file": "home_bg_mst.dat",
+        "version": 60,
+        "hash": "f3bbfa58d0ba92b6d54621a56a4c0cb1a9b180053716047c00c0a9b76577b1b7"
+    },
+    {
+        "name": "real_goods",
+        "file": "real_goods_mst.dat",
+        "version": 151,
+        "hash": "f9bdd81572cd69310de90b83724d247ae5d447259914d6565dc80a09d8626a83"
+    },
+    {
+        "name": "gacha_free_campaign",
+        "file": "gacha_free_campaign_mst.dat",
+        "version": 126,
+        "hash": "36817b5e1640995631d61eb6f04cb9f0de51c6dbbfa6f2f6049cddba7b6ce547"
+    },
+    {
+        "name": "scenario",
+        "file": "scenario_mst.dat",
+        "version": 172,
+        "hash": "709ce485166f67f89f9e59f15d5f52f9a721550a01978e77c569d5f652c43127"
+    },
+    {
+        "name": "unit_exceed_parameter",
+        "file": "unit_exceed_parameter_mst.dat",
+        "version": 11,
+        "hash": "9754876c779cc5f85bd6a929aadf6230f1b96dfb82967604e1d857747237b8a9"
+    },
+    {
+        "name": "item",
+        "file": "item_mst.dat",
+        "version": 22,
+        "hash": "25b05680dbf644a3c7584d431bcb54eaaa40500089ce722dc618125152865dac"
+    },
+    {
+        "name": "special_mission",
+        "file": "special_mission_mst.dat",
+        "version": 417,
+        "hash": "e08eff4e828d6891ed07cebb7ea579c34b1527e145b1ff23e37010af0f642651"
+    },
+    {
+        "name": "unit_exchange_ticket",
+        "file": "unit_exchange_ticket_mst.dat",
+        "version": 49,
+        "hash": "fa920c3a78952d2efc31dbd58f9ee465abb9b9b4559cf58f253ad284a658e416"
+    },
+    {
+        "name": "gacha_bonus",
+        "file": "gacha_bonus_mst.dat",
+        "version": 247,
+        "hash": "90819972ecb769c9cb5743f6c4ded755e6f483c360a0e20a782eeef2233a42ce"
+    },
+    {
+        "name": "unit_evo_material",
+        "file": "unit_evo_material_mst.dat",
+        "version": 6,
+        "hash": "01361c7cd58b08ef45f19edb067c880885dc2b474b5d8130656f44bb757c4a8a"
+    },
+    {
+        "name": "exchange",
+        "file": "exchange_mst.dat",
+        "version": 24,
+        "hash": "23f43cde45595cdf8172772da664fc7a445a2357a8a67101996e0cf22705a861"
+    },
+    {
+        "name": "select_gacha_banner",
+        "file": "select_gacha_banner_mst.dat",
+        "version": 34,
+        "hash": "0549537dee4651374b3e867d6fe0f676fea4455695874654dac70b71d7724bcf"
+    },
+    {
+        "name": "encore_appear",
+        "file": "encore_appear_mst.dat",
+        "version": 5,
+        "hash": "1195fe3db25101669a4c7f46d610424e22ce4525656f848d7d29a88223199207"
+    },
+    {
+        "name": "weekly_mission",
+        "file": "weekly_mission_mst.dat",
+        "version": 15,
+        "hash": "6c4454d60da60343babe75528ca88d39b664de9fd294cc77eb367d78e854340f"
+    },
+    {
+        "name": "mix_material",
+        "file": "mix_material_mst.dat",
+        "version": 16,
+        "hash": "b817bd44ce934e02aca35ca72ed1e4361abeaa0e0b6290088fc9e7179e4f2d14"
+    },
+    {
+        "name": "item_exchange",
+        "file": "item_exchange_mst.dat",
+        "version": 19,
+        "hash": "e45b253a3b39fd25d1e107396010d957961ff2956bc34c07b8cd395e11bfbf96"
+    },
+    {
+        "name": "rank_reward",
+        "file": "rank_reward_mst.dat",
+        "version": 18,
+        "hash": "2b4ca9e1abe4cb98e58cd64864f5d5010a2e03197a3c83db830a0d2317bb2285"
     },
     {
         "name": "dearness_level",
@@ -404,26 +458,8 @@
     {
         "name": "live",
         "file": "live_mst.dat",
-        "version": 715,
-        "hash": "7a0c26f6d7676bf9893b9d20dba76eace7a48d999511f4b6520543ede9437f4b"
-    },
-    {
-        "name": "gacha_bonus",
-        "file": "gacha_bonus_mst.dat",
-        "version": 246,
-        "hash": "987083b158a65640ca1ebf60d1912237916b85bd63f6ac86da6064bde0c31a43"
-    },
-    {
-        "name": "girl_reward",
-        "file": "girl_reward_mst.dat",
-        "version": 4,
-        "hash": "630edf8b1b60e3e443309018716cd913efe88195a9249ae30270f7e58d0473ca"
-    },
-    {
-        "name": "real_goods",
-        "file": "real_goods_mst.dat",
-        "version": 150,
-        "hash": "6c472f8ec8c69e9714486a1eccf03d81487fb8b084dcd90b06feef78a8885a4c"
+        "version": 719,
+        "hash": "44e8f23d1298c450a19168c82789cf0fb34afc095d1fa4801a3aaa2c757adb3a"
     },
     {
         "name": "home_costume_rental",
@@ -432,105 +468,69 @@
         "hash": "045de7db24ef37749f4d322854790ba68d74bfabc5106f175f879af2c6b5520a"
     },
     {
-        "name": "weekly_mission",
-        "file": "weekly_mission_mst.dat",
-        "version": 15,
-        "hash": "6c4454d60da60343babe75528ca88d39b664de9fd294cc77eb367d78e854340f"
+        "name": "gift_box_gacha",
+        "file": "gift_box_gacha_mst.dat",
+        "version": 12,
+        "hash": "ba674928679964a4a6ce21bba106d947beb7b81a711d6ed7eaddb6ddd9b0d1ec"
     },
     {
-        "name": "event_dec_lp",
-        "file": "event_dec_lp_mst.dat",
-        "version": 17,
-        "hash": "7ba4316c683fb20e74d1dfaa37d613d62cb4c66f7e25a6b236694bfa6585795b"
+        "name": "unit",
+        "file": "unit_mst.dat",
+        "version": 542,
+        "hash": "ef2443fcb72366361aa3cbdf3e53f952657552d76e34d77e0a59c05c17128634"
     },
     {
-        "name": "dispatch_stage_update",
-        "file": "dispatch_stage_update_mst.dat",
-        "version": 3,
-        "hash": "038a0a4bea9f896dee2a38460f1cfb90b7edc50b0f2439b19895314b335e0eef"
+        "name": "daily_mission",
+        "file": "daily_mission_mst.dat",
+        "version": 20,
+        "hash": "734e7661a1e07310e68cd44ff04e991f0c93d9be00f7f71cecbaf3556c2ea40a"
     },
     {
-        "name": "splash",
-        "file": "splash_mst.dat",
-        "version": 23,
-        "hash": "62f5b02e7691d5bb81edfff2f466df14fb18a29bd65acddefe715bc18630facc"
-    },
-    {
-        "name": "encore_appear",
-        "file": "encore_appear_mst.dat",
-        "version": 5,
-        "hash": "1195fe3db25101669a4c7f46d610424e22ce4525656f848d7d29a88223199207"
-    },
-    {
-        "name": "path",
-        "file": "path_mst.dat",
-        "version": 35,
-        "hash": "3f3dc3ef6512540152a4bb4aba114b3e7f90ff191f769927eb0532a444b842ec"
-    },
-    {
-        "name": "entry_event_exchange",
-        "file": "entry_event_exchange_mst.dat",
-        "version": 6,
-        "hash": "69e681dd55dd43d34492fde000e753eea315081521371b87d238efc7a41f2ec4"
-    },
-    {
-        "name": "music",
-        "file": "music_mst.dat",
-        "version": 277,
-        "hash": "eb4ed8125c835bed1fb326aac787f7ba660afd54d64043df6ae1c7012d784aa2"
-    },
-    {
-        "name": "mission_live_clear_terms",
-        "file": "mission_live_clear_terms_mst.dat",
-        "version": 161,
-        "hash": "ad8e2f77e7fdb0cd063d6a08aa9842c469cdfc2b0a451b875ad5f001bf00c175"
-    },
-    {
-        "name": "shine_point_reward",
-        "file": "shine_point_reward_mst.dat",
-        "version": 109,
-        "hash": "b6ec753f00fc7562f3c083676636eea993afc3fb5bac35cc721eea5716e0a0f9"
+        "name": "live_campaign",
+        "file": "live_campaign_mst.dat",
+        "version": 119,
+        "hash": "aa7f5ec31e356b682b785db49764e7e69ffa95f151fd07597661b67f5bda064a"
     },
     {
         "name": "unit_movie",
         "file": "unit_movie_mst.dat",
-        "version": 94,
-        "hash": "3d4608ade957d456adb1bc58f64424e201b482bc1fe6dde134080d92e4fbed97"
+        "version": 95,
+        "hash": "af4707012f82bc61eab7b558772e00b881a97c0427cef696d92822e5d3ffb16b"
     },
     {
-        "name": "event_exchange",
-        "file": "event_exchange_mst.dat",
-        "version": 60,
-        "hash": "48fa760f8b16178b221ddb57336cdb9c70574ae763a40f3c1f33d45096b5bffe"
+        "name": "resource",
+        "file": "resource_mst.dat",
+        "version": 1082,
+        "hash": "b1bb11f0ff893ddddaba8abf11897f776fdabd513b0672cd39da32e01fe7f162"
     },
     {
-        "name": "event",
-        "file": "event_mst.dat",
-        "version": 549,
-        "hash": "8daa0fc5a588a39d854394289ff9c14aa2e581cfce40bd166cb3e879f4a3ad33"
-    },
-    {
-        "name": "home_bg",
-        "file": "home_bg_mst.dat",
-        "version": 59,
-        "hash": "9f1fd2592bb5788b79f9b10b4dc350bbe8ece1a567ebbcd2572ee57ef46fd3e1"
+        "name": "highscore_ranking_trophy",
+        "file": "highscore_ranking_trophy_mst.dat",
+        "version": 171,
+        "hash": "e7ab4f7c3770900f863feabb00f87748fb9f967b3d5409bcf289377c64159843"
     },
     {
         "name": "gacha_mile_exchange",
         "file": "gacha_mile_exchange_mst.dat",
-        "version": 91,
-        "hash": "fbd46f343154b39bbfeb98ec8c896585ba327b99c2b2d9d38b5252d8bbe0bf8b"
+        "version": 92,
+        "hash": "8bd71e5200421a321ed7f53c79e06eef391fd3b4967c4c1ab8b886c1024e8262"
     },
     {
-        "name": "unit_level",
-        "file": "unit_level_mst.dat",
-        "version": 18,
-        "hash": "ede2a97c931c43335f72963da57ced0225d61d241bc467603a78b37237484ba2"
+        "name": "event_gacha",
+        "file": "event_gacha_mst.dat",
+        "version": 21,
+        "hash": "15bab6f71f9d3d72fa5db82c4689633d9c5d6b36566a635b467349371a150208"
     },
     {
-        "name": "synergy",
-        "file": "synergy_mst.dat",
-        "version": 31,
-        "hash": "e19142ffc7950e73c8a483d74476eeb089a5ccb766d474437a6a4f6bfa8be86e"
+        "name": "piece",
+        "file": "piece_mst.dat",
+        "version": 10,
+        "hash": "f3d7b86cf0c95db637ae7c8ed082b2071b8a7200c52e1c24ded3241f4c75574d"
+    },
+    {
+        "name": "notes_rate",
+        "file": "notes_rate_mst.dat",
+        "version": 10,
+        "hash": "8ffaa91294ae780a0412bc097079c1de3e1b06691a69171dd78069f2451b862b"
     }
 ]

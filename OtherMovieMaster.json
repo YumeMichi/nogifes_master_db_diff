@@ -2823,5 +2823,24 @@
         "start_date": 1774245600,
         "end_date": 1924959599,
         "high_quality": 1
+    },
+    {
+        "other_movie_id": 140,
+        "other_movie_name": "歩道橋_40thSGアンダーライブ",
+        "unit_data": [
+            {
+                "unit_id": 129690
+            },
+            {
+                "unit_id": 129691
+            }
+        ],
+        "music_id": 430010,
+        "live_name": "40thSGアンダーライブ",
+        "live_date": "2025年12月21日",
+        "live_location": "日本武道館",
+        "start_date": 1776870000,
+        "end_date": 1924959599,
+        "high_quality": 0
     }
 ]

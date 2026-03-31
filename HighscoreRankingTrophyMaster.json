@@ -6778,5 +6778,65 @@
         "target_event_id": 280,
         "type": 1,
         "special_bonus_rate": 1000
+    },
+    {
+        "trophy_id": 1131,
+        "target_event_id": 281,
+        "type": 5,
+        "special_bonus_rate": 10000
+    },
+    {
+        "trophy_id": 1132,
+        "target_event_id": 281,
+        "type": 4,
+        "special_bonus_rate": 7000
+    },
+    {
+        "trophy_id": 1133,
+        "target_event_id": 281,
+        "type": 3,
+        "special_bonus_rate": 4000
+    },
+    {
+        "trophy_id": 1134,
+        "target_event_id": 281,
+        "type": 2,
+        "special_bonus_rate": 2000
+    },
+    {
+        "trophy_id": 1135,
+        "target_event_id": 281,
+        "type": 1,
+        "special_bonus_rate": 1000
+    },
+    {
+        "trophy_id": 1136,
+        "target_event_id": 282,
+        "type": 5,
+        "special_bonus_rate": 10000
+    },
+    {
+        "trophy_id": 1137,
+        "target_event_id": 282,
+        "type": 4,
+        "special_bonus_rate": 7000
+    },
+    {
+        "trophy_id": 1138,
+        "target_event_id": 282,
+        "type": 3,
+        "special_bonus_rate": 4000
+    },
+    {
+        "trophy_id": 1139,
+        "target_event_id": 282,
+        "type": 2,
+        "special_bonus_rate": 2000
+    },
+    {
+        "trophy_id": 1140,
+        "target_event_id": 282,
+        "type": 1,
+        "special_bonus_rate": 1000
     }
 ]
