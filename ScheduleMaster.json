@@ -5380,5 +5380,70 @@
                 "week": "1111111"
             }
         ]
+    },
+    {
+        "schedule_group_id": 421,
+        "schedule_data": [
+            {
+                "schedule_id": 421,
+                "start_date": 1777950000,
+                "end_date": 1924959599,
+                "start_time": "00:00:00",
+                "end_time": "23:59:59",
+                "week": "1111111"
+            }
+        ]
+    },
+    {
+        "schedule_group_id": 422,
+        "schedule_data": [
+            {
+                "schedule_id": 422,
+                "start_date": 1778986800,
+                "end_date": 1924959599,
+                "start_time": "00:00:00",
+                "end_time": "23:59:59",
+                "week": "1111111"
+            }
+        ]
+    },
+    {
+        "schedule_group_id": 423,
+        "schedule_data": [
+            {
+                "schedule_id": 426,
+                "start_date": 1778306400,
+                "end_date": 1778943599,
+                "start_time": "00:00:00",
+                "end_time": "23:59:59",
+                "week": "1111111"
+            }
+        ]
+    },
+    {
+        "schedule_group_id": 424,
+        "schedule_data": [
+            {
+                "schedule_id": 427,
+                "start_date": 1778306400,
+                "end_date": 1778943599,
+                "start_time": "00:00:00",
+                "end_time": "23:59:59",
+                "week": "1111111"
+            }
+        ]
+    },
+    {
+        "schedule_group_id": 425,
+        "schedule_data": [
+            {
+                "schedule_id": 428,
+                "start_date": 1778306400,
+                "end_date": 1778943599,
+                "start_time": "00:00:00",
+                "end_time": "23:59:59",
+                "week": "1111111"
+            }
+        ]
     }
 ]

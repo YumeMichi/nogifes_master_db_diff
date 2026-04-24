@@ -4100,6 +4100,20 @@
         "arranger": "石原剛志，杉山勝彦，麻尾悠太"
     },
     {
+        "music_id": 430030,
+        "music_name": "世界一のダイヤモンド",
+        "music_name_kana": "せかいいちのだいやもんど",
+        "search_word": [],
+        "music_type": 1,
+        "center_girl_id": 104,
+        "release_date": 2024121103,
+        "music_length": 173,
+        "information": "すごく良い曲だよー",
+        "lyricist": "秋元 康",
+        "composer": "山田 智和",
+        "arranger": "住谷 翔平"
+    },
+    {
         "music_id": 430070,
         "music_name": "それまでの猶予",
         "music_name_kana": "それまでのゆうよ",
@@ -4246,6 +4260,24 @@
         "lyricist": "秋元 康",
         "composer": "川口 進，MiNE，Atsushi Shimada",
         "arranger": "佐々木裕"
+    },
+    {
+        "music_id": 450070,
+        "music_name": "君と猫",
+        "music_name_kana": "きみとねこ",
+        "search_word": [
+            {
+                "word": "にゃーゆにっと"
+            }
+        ],
+        "music_type": 1,
+        "center_girl_id": 104,
+        "release_date": 2025073007,
+        "music_length": 185,
+        "information": "すごく良い曲だよー",
+        "lyricist": "秋元 康",
+        "composer": "youth case",
+        "arranger": "花村 智志"
     },
     {
         "music_id": 460020,

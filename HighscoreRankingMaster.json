@@ -2091,63 +2091,7 @@
                 "live_id": 20002700
             }
         ],
-        "ranking_reward_data": [
-            {
-                "rank_from": 1,
-                "rank_to": 10,
-                "reward_data": [
-                    {
-                        "data_type": 19,
-                        "data_id": 1081,
-                        "data_num": 1
-                    }
-                ]
-            },
-            {
-                "rank_from": 11,
-                "rank_to": 100,
-                "reward_data": [
-                    {
-                        "data_type": 19,
-                        "data_id": 1082,
-                        "data_num": 1
-                    }
-                ]
-            },
-            {
-                "rank_from": 101,
-                "rank_to": 500,
-                "reward_data": [
-                    {
-                        "data_type": 19,
-                        "data_id": 1083,
-                        "data_num": 1
-                    }
-                ]
-            },
-            {
-                "rank_from": 501,
-                "rank_to": 2000,
-                "reward_data": [
-                    {
-                        "data_type": 19,
-                        "data_id": 1084,
-                        "data_num": 1
-                    }
-                ]
-            },
-            {
-                "rank_from": 2001,
-                "rank_to": 5000,
-                "reward_data": [
-                    {
-                        "data_type": 19,
-                        "data_id": 1085,
-                        "data_num": 1
-                    }
-                ]
-            }
-        ]
+        "ranking_reward_data": []
     },
     {
         "event_id": 271,
@@ -2156,63 +2100,7 @@
                 "live_id": 20002710
             }
         ],
-        "ranking_reward_data": [
-            {
-                "rank_from": 1,
-                "rank_to": 10,
-                "reward_data": [
-                    {
-                        "data_type": 19,
-                        "data_id": 1086,
-                        "data_num": 1
-                    }
-                ]
-            },
-            {
-                "rank_from": 11,
-                "rank_to": 100,
-                "reward_data": [
-                    {
-                        "data_type": 19,
-                        "data_id": 1087,
-                        "data_num": 1
-                    }
-                ]
-            },
-            {
-                "rank_from": 101,
-                "rank_to": 500,
-                "reward_data": [
-                    {
-                        "data_type": 19,
-                        "data_id": 1088,
-                        "data_num": 1
-                    }
-                ]
-            },
-            {
-                "rank_from": 501,
-                "rank_to": 2000,
-                "reward_data": [
-                    {
-                        "data_type": 19,
-                        "data_id": 1089,
-                        "data_num": 1
-                    }
-                ]
-            },
-            {
-                "rank_from": 2001,
-                "rank_to": 5000,
-                "reward_data": [
-                    {
-                        "data_type": 19,
-                        "data_id": 1090,
-                        "data_num": 1
-                    }
-                ]
-            }
-        ]
+        "ranking_reward_data": []
     },
     {
         "event_id": 272,
@@ -2221,63 +2109,7 @@
                 "live_id": 20002720
             }
         ],
-        "ranking_reward_data": [
-            {
-                "rank_from": 1,
-                "rank_to": 10,
-                "reward_data": [
-                    {
-                        "data_type": 19,
-                        "data_id": 1091,
-                        "data_num": 1
-                    }
-                ]
-            },
-            {
-                "rank_from": 11,
-                "rank_to": 100,
-                "reward_data": [
-                    {
-                        "data_type": 19,
-                        "data_id": 1092,
-                        "data_num": 1
-                    }
-                ]
-            },
-            {
-                "rank_from": 101,
-                "rank_to": 500,
-                "reward_data": [
-                    {
-                        "data_type": 19,
-                        "data_id": 1093,
-                        "data_num": 1
-                    }
-                ]
-            },
-            {
-                "rank_from": 501,
-                "rank_to": 2000,
-                "reward_data": [
-                    {
-                        "data_type": 19,
-                        "data_id": 1094,
-                        "data_num": 1
-                    }
-                ]
-            },
-            {
-                "rank_from": 2001,
-                "rank_to": 5000,
-                "reward_data": [
-                    {
-                        "data_type": 19,
-                        "data_id": 1095,
-                        "data_num": 1
-                    }
-                ]
-            }
-        ]
+        "ranking_reward_data": []
     },
     {
         "event_id": 273,
@@ -2286,63 +2118,7 @@
                 "live_id": 20002730
             }
         ],
-        "ranking_reward_data": [
-            {
-                "rank_from": 1,
-                "rank_to": 10,
-                "reward_data": [
-                    {
-                        "data_type": 19,
-                        "data_id": 1096,
-                        "data_num": 1
-                    }
-                ]
-            },
-            {
-                "rank_from": 11,
-                "rank_to": 100,
-                "reward_data": [
-                    {
-                        "data_type": 19,
-                        "data_id": 1097,
-                        "data_num": 1
-                    }
-                ]
-            },
-            {
-                "rank_from": 101,
-                "rank_to": 500,
-                "reward_data": [
-                    {
-                        "data_type": 19,
-                        "data_id": 1098,
-                        "data_num": 1
-                    }
-                ]
-            },
-            {
-                "rank_from": 501,
-                "rank_to": 2000,
-                "reward_data": [
-                    {
-                        "data_type": 19,
-                        "data_id": 1099,
-                        "data_num": 1
-                    }
-                ]
-            },
-            {
-                "rank_from": 2001,
-                "rank_to": 5000,
-                "reward_data": [
-                    {
-                        "data_type": 19,
-                        "data_id": 1100,
-                        "data_num": 1
-                    }
-                ]
-            }
-        ]
+        "ranking_reward_data": []
     },
     {
         "event_id": 274,
@@ -2351,63 +2127,7 @@
                 "live_id": 20002740
             }
         ],
-        "ranking_reward_data": [
-            {
-                "rank_from": 1,
-                "rank_to": 10,
-                "reward_data": [
-                    {
-                        "data_type": 19,
-                        "data_id": 1101,
-                        "data_num": 1
-                    }
-                ]
-            },
-            {
-                "rank_from": 11,
-                "rank_to": 100,
-                "reward_data": [
-                    {
-                        "data_type": 19,
-                        "data_id": 1102,
-                        "data_num": 1
-                    }
-                ]
-            },
-            {
-                "rank_from": 101,
-                "rank_to": 500,
-                "reward_data": [
-                    {
-                        "data_type": 19,
-                        "data_id": 1103,
-                        "data_num": 1
-                    }
-                ]
-            },
-            {
-                "rank_from": 501,
-                "rank_to": 2000,
-                "reward_data": [
-                    {
-                        "data_type": 19,
-                        "data_id": 1104,
-                        "data_num": 1
-                    }
-                ]
-            },
-            {
-                "rank_from": 2001,
-                "rank_to": 5000,
-                "reward_data": [
-                    {
-                        "data_type": 19,
-                        "data_id": 1105,
-                        "data_num": 1
-                    }
-                ]
-            }
-        ]
+        "ranking_reward_data": []
     },
     {
         "event_id": 275,
@@ -2416,63 +2136,7 @@
                 "live_id": 20002750
             }
         ],
-        "ranking_reward_data": [
-            {
-                "rank_from": 1,
-                "rank_to": 10,
-                "reward_data": [
-                    {
-                        "data_type": 19,
-                        "data_id": 1106,
-                        "data_num": 1
-                    }
-                ]
-            },
-            {
-                "rank_from": 11,
-                "rank_to": 100,
-                "reward_data": [
-                    {
-                        "data_type": 19,
-                        "data_id": 1107,
-                        "data_num": 1
-                    }
-                ]
-            },
-            {
-                "rank_from": 101,
-                "rank_to": 500,
-                "reward_data": [
-                    {
-                        "data_type": 19,
-                        "data_id": 1108,
-                        "data_num": 1
-                    }
-                ]
-            },
-            {
-                "rank_from": 501,
-                "rank_to": 2000,
-                "reward_data": [
-                    {
-                        "data_type": 19,
-                        "data_id": 1109,
-                        "data_num": 1
-                    }
-                ]
-            },
-            {
-                "rank_from": 2001,
-                "rank_to": 5000,
-                "reward_data": [
-                    {
-                        "data_type": 19,
-                        "data_id": 1110,
-                        "data_num": 1
-                    }
-                ]
-            }
-        ]
+        "ranking_reward_data": []
     },
     {
         "event_id": 276,
@@ -2858,6 +2522,142 @@
                     {
                         "data_type": 19,
                         "data_id": 1140,
+                        "data_num": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "event_id": 282,
+        "target_live_data": [
+            {
+                "live_id": 20002820
+            }
+        ],
+        "ranking_reward_data": [
+            {
+                "rank_from": 1,
+                "rank_to": 10,
+                "reward_data": [
+                    {
+                        "data_type": 19,
+                        "data_id": 1141,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "rank_from": 11,
+                "rank_to": 100,
+                "reward_data": [
+                    {
+                        "data_type": 19,
+                        "data_id": 1142,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "rank_from": 101,
+                "rank_to": 500,
+                "reward_data": [
+                    {
+                        "data_type": 19,
+                        "data_id": 1143,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "rank_from": 501,
+                "rank_to": 2000,
+                "reward_data": [
+                    {
+                        "data_type": 19,
+                        "data_id": 1144,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "rank_from": 2001,
+                "rank_to": 5000,
+                "reward_data": [
+                    {
+                        "data_type": 19,
+                        "data_id": 1145,
+                        "data_num": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "event_id": 283,
+        "target_live_data": [
+            {
+                "live_id": 20002832
+            },
+            {
+                "live_id": 20002831
+            },
+            {
+                "live_id": 20002830
+            }
+        ],
+        "ranking_reward_data": [
+            {
+                "rank_from": 1,
+                "rank_to": 10,
+                "reward_data": [
+                    {
+                        "data_type": 19,
+                        "data_id": 1146,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "rank_from": 11,
+                "rank_to": 100,
+                "reward_data": [
+                    {
+                        "data_type": 19,
+                        "data_id": 1147,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "rank_from": 101,
+                "rank_to": 500,
+                "reward_data": [
+                    {
+                        "data_type": 19,
+                        "data_id": 1148,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "rank_from": 501,
+                "rank_to": 2000,
+                "reward_data": [
+                    {
+                        "data_type": 19,
+                        "data_id": 1149,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "rank_from": 2001,
+                "rank_to": 5000,
+                "reward_data": [
+                    {
+                        "data_type": 19,
+                        "data_id": 1150,
                         "data_num": 1
                     }
                 ]

@@ -16,284 +16,12 @@
         "priority": 1000
     },
     {
-        "banner_id": 102040,
-        "banner_type": 2,
-        "banner_value": "gacha@1@2040",
-        "start_date": 1757829600,
-        "end_date": 1766728799,
-        "priority": 999
-    },
-    {
-        "banner_id": 102094,
-        "banner_type": 2,
-        "banner_value": "gacha@2@2094",
-        "start_date": 1764514800,
-        "end_date": 1766242799,
-        "priority": 67
-    },
-    {
-        "banner_id": 102097,
-        "banner_type": 2,
-        "banner_value": "shop@4",
-        "start_date": 1763359200,
-        "end_date": 1767193199,
-        "priority": 1001
-    },
-    {
-        "banner_id": 102098,
-        "banner_type": 2,
-        "banner_value": "trade_gacha@117",
-        "start_date": 1763359200,
-        "end_date": 1766721599,
-        "priority": 77
-    },
-    {
-        "banner_id": 102099,
-        "banner_type": 2,
-        "banner_value": "trade_gacha@118",
-        "start_date": 1763359200,
-        "end_date": 1766721599,
-        "priority": 78
-    },
-    {
-        "banner_id": 102100,
-        "banner_type": 2,
-        "banner_value": "unit_exchange@27",
-        "start_date": 1763359200,
-        "end_date": 1767020399,
-        "priority": 76
-    },
-    {
-        "banner_id": 102101,
-        "banner_type": 2,
-        "banner_value": "gacha@2@2101",
-        "start_date": 1764568800,
-        "end_date": 1765771199,
-        "priority": 64
-    },
-    {
-        "banner_id": 102104,
-        "banner_type": 2,
-        "banner_value": "gacha@2@2104",
-        "start_date": 1765432800,
-        "end_date": 1765864799,
-        "priority": 63
-    },
-    {
-        "banner_id": 102105,
-        "banner_type": 2,
-        "banner_value": "gacha@2@2105",
-        "start_date": 1766469600,
-        "end_date": 1766901599,
-        "priority": 58
-    },
-    {
-        "banner_id": 102106,
-        "banner_type": 2,
-        "banner_value": "gacha@6@2106",
-        "start_date": 1767366000,
-        "end_date": 1767625199,
-        "priority": 53
-    },
-    {
-        "banner_id": 102107,
-        "banner_type": 2,
-        "banner_value": "gacha@6@2107",
-        "start_date": 1767625200,
-        "end_date": 1767884399,
-        "priority": 52
-    },
-    {
-        "banner_id": 102108,
-        "banner_type": 2,
-        "banner_value": "gacha@2@2108",
-        "start_date": 1765778400,
-        "end_date": 1766721599,
-        "priority": 62
-    },
-    {
-        "banner_id": 102111,
-        "banner_type": 2,
-        "banner_value": "gacha@7@2111",
-        "start_date": 1765951200,
-        "end_date": 1766721599,
-        "priority": 59
-    },
-    {
-        "banner_id": 102112,
-        "banner_type": 2,
-        "banner_value": "gacha@2@2112",
-        "start_date": 1765951200,
-        "end_date": 1766721599,
-        "priority": 60
-    },
-    {
-        "banner_id": 102115,
-        "banner_type": 2,
-        "banner_value": "gacha@1@2115",
-        "start_date": 1766728800,
-        "end_date": 1766987999,
-        "priority": 61
-    },
-    {
-        "banner_id": 102116,
-        "banner_type": 2,
-        "banner_value": "gacha@6@2116",
-        "start_date": 1765897200,
-        "end_date": 1766156399,
-        "priority": 62
-    },
-    {
-        "banner_id": 102117,
-        "banner_type": 2,
-        "banner_value": "gacha@6@2117",
-        "start_date": 1768143600,
-        "end_date": 1768402799,
-        "priority": 51
-    },
-    {
-        "banner_id": 102118,
-        "banner_type": 2,
-        "banner_value": "gacha@6@2118",
-        "start_date": 1768316400,
-        "end_date": 1768575599,
-        "priority": 49
-    },
-    {
-        "banner_id": 102119,
-        "banner_type": 2,
-        "banner_value": "gacha@6@2119",
-        "start_date": 1768748400,
-        "end_date": 1769007599,
-        "priority": 48
-    },
-    {
-        "banner_id": 102121,
-        "banner_type": 2,
-        "banner_value": "gacha@1@2121",
-        "start_date": 1766728800,
-        "end_date": 1769147999,
-        "priority": 999
-    },
-    {
-        "banner_id": 102122,
-        "banner_type": 2,
-        "banner_value": "gacha@1@2122",
-        "start_date": 1767074400,
-        "end_date": 1767333599,
-        "priority": 55
-    },
-    {
-        "banner_id": 102123,
-        "banner_type": 2,
-        "banner_value": "gacha@2@2123",
-        "start_date": 1767247200,
-        "end_date": 1768543199,
-        "priority": 54
-    },
-    {
-        "banner_id": 102125,
-        "banner_type": 2,
-        "banner_value": "gacha@2@2125",
-        "start_date": 1768284000,
-        "end_date": 1769140799,
-        "priority": 50
-    },
-    {
-        "banner_id": 102126,
-        "banner_type": 2,
-        "banner_value": "gacha@2@2126",
-        "start_date": 1769148000,
-        "end_date": 1769925599,
-        "priority": 40
-    },
-    {
-        "banner_id": 102127,
-        "banner_type": 2,
-        "banner_value": "gacha@2@2127",
-        "start_date": 1769148000,
-        "end_date": 1769925599,
-        "priority": 41
-    },
-    {
-        "banner_id": 102130,
-        "banner_type": 2,
-        "banner_value": "gacha@2@2130",
-        "start_date": 1769148000,
-        "end_date": 1769925599,
-        "priority": 44
-    },
-    {
-        "banner_id": 102133,
-        "banner_type": 2,
-        "banner_value": "gacha@7@2133",
-        "start_date": 1769148000,
-        "end_date": 1769525999,
-        "priority": 39
-    },
-    {
-        "banner_id": 102134,
-        "banner_type": 2,
-        "banner_value": "gacha@7@2134",
-        "start_date": 1769526000,
-        "end_date": 1769925599,
-        "priority": 37
-    },
-    {
-        "banner_id": 102135,
-        "banner_type": 2,
-        "banner_value": "gacha@1@2135",
-        "start_date": 1769148000,
-        "end_date": 1770962399,
-        "priority": 999
-    },
-    {
-        "banner_id": 102136,
-        "banner_type": 2,
-        "banner_value": "gacha@2@2136",
-        "start_date": 1769925600,
-        "end_date": 1770955199,
-        "priority": 36
-    },
-    {
-        "banner_id": 102137,
-        "banner_type": 2,
-        "banner_value": "gacha@1@2137",
-        "start_date": 1770444000,
-        "end_date": 1770955199,
-        "priority": 33
-    },
-    {
-        "banner_id": 102138,
-        "banner_type": 2,
-        "banner_value": "gacha@6@2138",
-        "start_date": 1769439600,
-        "end_date": 1769698799,
-        "priority": 38
-    },
-    {
-        "banner_id": 102139,
-        "banner_type": 2,
-        "banner_value": "gacha@6@2139",
-        "start_date": 1769958000,
-        "end_date": 1770217199,
-        "priority": 35
-    },
-    {
-        "banner_id": 102140,
-        "banner_type": 2,
-        "banner_value": "gacha@6@2140",
-        "start_date": 1770044400,
-        "end_date": 1770303599,
-        "priority": 34
-    },
-    {
         "banner_id": 102141,
         "banner_type": 2,
         "banner_value": "gacha@2@2141",
         "start_date": 1770962400,
         "end_date": 1772431199,
-        "priority": 30
+        "priority": 49
     },
     {
         "banner_id": 102143,
@@ -301,7 +29,7 @@
         "banner_value": "gacha@2@2143",
         "start_date": 1771740000,
         "end_date": 1772344799,
-        "priority": 26
+        "priority": 45
     },
     {
         "banner_id": 102144,
@@ -309,7 +37,7 @@
         "banner_value": "gacha@2@2144",
         "start_date": 1772344800,
         "end_date": 1772949599,
-        "priority": 23
+        "priority": 42
     },
     {
         "banner_id": 102145,
@@ -325,7 +53,7 @@
         "banner_value": "gacha@6@2147",
         "start_date": 1770994800,
         "end_date": 1771253999,
-        "priority": 29
+        "priority": 48
     },
     {
         "banner_id": 102148,
@@ -333,7 +61,7 @@
         "banner_value": "gacha@6@2148",
         "start_date": 1771254000,
         "end_date": 1771513199,
-        "priority": 28
+        "priority": 47
     },
     {
         "banner_id": 102149,
@@ -341,7 +69,7 @@
         "banner_value": "gacha@6@2149",
         "start_date": 1772463600,
         "end_date": 1772722799,
-        "priority": 21
+        "priority": 40
     },
     {
         "banner_id": 102150,
@@ -349,7 +77,7 @@
         "banner_value": "gacha@10@2150",
         "start_date": 1771740000,
         "end_date": 1772344799,
-        "priority": 25
+        "priority": 44
     },
     {
         "banner_id": 102151,
@@ -357,7 +85,7 @@
         "banner_value": "gacha@10@2151",
         "start_date": 1772344800,
         "end_date": 1772949599,
-        "priority": 22
+        "priority": 41
     },
     {
         "banner_id": 102153,
@@ -365,7 +93,7 @@
         "banner_value": "unit_exchange@28",
         "start_date": 1771740000,
         "end_date": 1773673199,
-        "priority": 27
+        "priority": 46
     },
     {
         "banner_id": 102154,
@@ -373,7 +101,7 @@
         "banner_value": "gacha@2@2154",
         "start_date": 1772258400,
         "end_date": 1773467999,
-        "priority": 24
+        "priority": 43
     },
     {
         "banner_id": 102156,
@@ -381,7 +109,7 @@
         "banner_value": "gacha@2@2156",
         "start_date": 1773295200,
         "end_date": 1774072799,
-        "priority": 20
+        "priority": 39
     },
     {
         "banner_id": 102157,
@@ -389,7 +117,7 @@
         "banner_value": "gacha@2@2157",
         "start_date": 1774072800,
         "end_date": 1775023199,
-        "priority": 18
+        "priority": 37
     },
     {
         "banner_id": 102158,
@@ -397,7 +125,7 @@
         "banner_value": "gacha@6@2158",
         "start_date": 1773673200,
         "end_date": 1773932399,
-        "priority": 19
+        "priority": 38
     },
     {
         "banner_id": 102160,
@@ -405,7 +133,7 @@
         "banner_value": "gacha@1@2160",
         "start_date": 1774850400,
         "end_date": 1775109599,
-        "priority": 17
+        "priority": 35
     },
     {
         "banner_id": 102161,
@@ -413,7 +141,7 @@
         "banner_value": "gacha@1@2161",
         "start_date": 1774850400,
         "end_date": 1775109599,
-        "priority": 16
+        "priority": 36
     },
     {
         "banner_id": 102162,
@@ -421,7 +149,7 @@
         "banner_value": "gacha@2@2162",
         "start_date": 1775023200,
         "end_date": 1776232799,
-        "priority": 15
+        "priority": 34
     },
     {
         "banner_id": 102163,
@@ -429,7 +157,7 @@
         "banner_value": "gacha@2@2163",
         "start_date": 1776060000,
         "end_date": 1777269599,
-        "priority": 14
+        "priority": 33
     },
     {
         "banner_id": 102164,
@@ -437,7 +165,7 @@
         "banner_value": "gacha@6@2164",
         "start_date": 1776351600,
         "end_date": 1776610799,
-        "priority": 12
+        "priority": 31
     },
     {
         "banner_id": 102165,
@@ -445,6 +173,158 @@
         "banner_value": "gacha@6@2165",
         "start_date": 1776351600,
         "end_date": 1776610799,
+        "priority": 32
+    },
+    {
+        "banner_id": 102166,
+        "banner_type": 2,
+        "banner_value": "gacha@2@2166",
+        "start_date": 1776924000,
+        "end_date": 1778738399,
+        "priority": 30
+    },
+    {
+        "banner_id": 102171,
+        "banner_type": 2,
+        "banner_value": "gacha@2@2171",
+        "start_date": 1778166000,
+        "end_date": 1778252399,
+        "priority": 29
+    },
+    {
+        "banner_id": 102172,
+        "banner_type": 2,
+        "banner_value": "gacha@2@2172",
+        "start_date": 1778252400,
+        "end_date": 1778338799,
+        "priority": 27
+    },
+    {
+        "banner_id": 102173,
+        "banner_type": 2,
+        "banner_value": "gacha@2@2173",
+        "start_date": 1778338800,
+        "end_date": 1778425199,
+        "priority": 25
+    },
+    {
+        "banner_id": 102174,
+        "banner_type": 2,
+        "banner_value": "gacha@2@2174",
+        "start_date": 1778425200,
+        "end_date": 1778511599,
+        "priority": 24
+    },
+    {
+        "banner_id": 102175,
+        "banner_type": 2,
+        "banner_value": "gacha@2@2175",
+        "start_date": 1778511600,
+        "end_date": 1778597999,
+        "priority": 22
+    },
+    {
+        "banner_id": 102176,
+        "banner_type": 2,
+        "banner_value": "gacha@2@2176",
+        "start_date": 1778598000,
+        "end_date": 1778684399,
+        "priority": 21
+    },
+    {
+        "banner_id": 102177,
+        "banner_type": 2,
+        "banner_value": "gacha@2@2177",
+        "start_date": 1778684400,
+        "end_date": 1778770799,
+        "priority": 20
+    },
+    {
+        "banner_id": 102178,
+        "banner_type": 2,
+        "banner_value": "gacha@2@2178",
+        "start_date": 1778770800,
+        "end_date": 1778857199,
+        "priority": 19
+    },
+    {
+        "banner_id": 102179,
+        "banner_type": 2,
+        "banner_value": "gacha@2@2179",
+        "start_date": 1778857200,
+        "end_date": 1778943599,
+        "priority": 18
+    },
+    {
+        "banner_id": 102180,
+        "banner_type": 2,
+        "banner_value": "gacha@2@2180",
+        "start_date": 1778943600,
+        "end_date": 1779029999,
+        "priority": 17
+    },
+    {
+        "banner_id": 102181,
+        "banner_type": 2,
+        "banner_value": "gacha@2@2181",
+        "start_date": 1779030000,
+        "end_date": 1779116399,
+        "priority": 15
+    },
+    {
+        "banner_id": 102182,
+        "banner_type": 2,
+        "banner_value": "gacha@2@2182",
+        "start_date": 1778220000,
+        "end_date": 1779076799,
+        "priority": 28
+    },
+    {
+        "banner_id": 102183,
+        "banner_type": 2,
+        "banner_value": "gacha@6@2183",
+        "start_date": 1778511600,
+        "end_date": 1778770799,
+        "priority": 23
+    },
+    {
+        "banner_id": 102184,
+        "banner_type": 2,
+        "banner_value": "gacha@6@2184",
+        "start_date": 1779030000,
+        "end_date": 1779289199,
+        "priority": 16
+    },
+    {
+        "banner_id": 102185,
+        "banner_type": 2,
+        "banner_value": "gacha@6@2185",
+        "start_date": 1779548400,
+        "end_date": 1779807599,
+        "priority": 14
+    },
+    {
+        "banner_id": 102186,
+        "banner_type": 2,
+        "banner_value": "gacha@6@2186",
+        "start_date": 1779634800,
+        "end_date": 1779893999,
         "priority": 13
+    },
+    {
+        "banner_id": 102187,
+        "banner_type": 2,
+        "banner_value": "gacha@2@2187",
+        "start_date": 1779775200,
+        "end_date": 1780286399,
+        "priority": 12
+    },
+    {
+        "banner_id": 102188,
+        "banner_type": 2,
+        "banner_value": "unit_exchange@29",
+        "start_date": 1778306400,
+        "end_date": 1779076799,
+        "priority": 26
     }
 ]

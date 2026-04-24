@@ -4144,5 +4144,23 @@
         "real_goods_name": "<girl_name> 推しメントートバッグ（サイン無し）抽選券",
         "real_goods_type": 2,
         "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 692,
+        "real_goods_name": "<girl_name> 直筆サイン入りマジカルフォトスタンド",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 693,
+        "real_goods_name": "<girl_name> 直筆サイン入りマジカルフォトスタンド抽選券",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 694,
+        "real_goods_name": "<girl_name> マジカルフォトスタンド（サイン無し）抽選券",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
     }
 ]

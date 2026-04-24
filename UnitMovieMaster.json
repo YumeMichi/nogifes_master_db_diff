@@ -14208,5 +14208,103 @@
                 "unit_id": 129881
             }
         ]
+    },
+    {
+        "unit_movie_id": 1048,
+        "unit_movie_name": "魔法少女こうりんっ！ ホームMOVIE",
+        "unit_movie_name_kana": "まほうしょうじょこうりんっ　ほーむむーびー",
+        "start_date": 1776924000,
+        "unit_data": [
+            {
+                "unit_id": 130010
+            },
+            {
+                "unit_id": 130011
+            }
+        ]
+    },
+    {
+        "unit_movie_id": 1049,
+        "unit_movie_name": "魔法少女こうりんっ！ ホームMOVIE",
+        "unit_movie_name_kana": "まほうしょうじょこうりんっ　ほーむむーびー",
+        "start_date": 1776924000,
+        "unit_data": [
+            {
+                "unit_id": 130020
+            },
+            {
+                "unit_id": 130021
+            }
+        ]
+    },
+    {
+        "unit_movie_id": 1050,
+        "unit_movie_name": "魔法少女こうりんっ！ ホームMOVIE",
+        "unit_movie_name_kana": "まほうしょうじょこうりんっ　ほーむむーびー",
+        "start_date": 1776924000,
+        "unit_data": [
+            {
+                "unit_id": 130030
+            },
+            {
+                "unit_id": 130031
+            }
+        ]
+    },
+    {
+        "unit_movie_id": 1051,
+        "unit_movie_name": "Happy Birthday 2026 ホームMOVIE",
+        "unit_movie_name_kana": "はっぴーばーすでーにせんにじゅうろく　ほーむむーびー",
+        "start_date": 1778511600,
+        "unit_data": [
+            {
+                "unit_id": 130780
+            },
+            {
+                "unit_id": 130781
+            }
+        ]
+    },
+    {
+        "unit_movie_id": 1052,
+        "unit_movie_name": "Happy Birthday 2026 ホームMOVIE",
+        "unit_movie_name_kana": "はっぴーばーすでーにせんにじゅうろく　ほーむむーびー",
+        "start_date": 1779030000,
+        "unit_data": [
+            {
+                "unit_id": 130800
+            },
+            {
+                "unit_id": 130801
+            }
+        ]
+    },
+    {
+        "unit_movie_id": 1053,
+        "unit_movie_name": "Happy Birthday 2026 ホームMOVIE",
+        "unit_movie_name_kana": "はっぴーばーすでーにせんにじゅうろく　ほーむむーびー",
+        "start_date": 1779548400,
+        "unit_data": [
+            {
+                "unit_id": 130820
+            },
+            {
+                "unit_id": 130821
+            }
+        ]
+    },
+    {
+        "unit_movie_id": 1054,
+        "unit_movie_name": "Happy Birthday 2026 ホームMOVIE",
+        "unit_movie_name_kana": "はっぴーばーすでーにせんにじゅうろく　ほーむむーびー",
+        "start_date": 1779634800,
+        "unit_data": [
+            {
+                "unit_id": 130840
+            },
+            {
+                "unit_id": 130841
+            }
+        ]
     }
 ]

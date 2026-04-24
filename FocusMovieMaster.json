@@ -17193,8 +17193,8 @@
         "live_date_unixtime": 1659106800,
         "live_location": "マリンメッセ福岡",
         "start_date": 1675090800,
-        "high_quality": 0,
-        "high_quality_start_date": 1924959599
+        "high_quality": 1,
+        "high_quality_start_date": 1776924000
     },
     {
         "focus_movie_id": 865,
@@ -17213,8 +17213,8 @@
         "live_date_unixtime": 1659106800,
         "live_location": "マリンメッセ福岡",
         "start_date": 1674367200,
-        "high_quality": 0,
-        "high_quality_start_date": 1924959599
+        "high_quality": 1,
+        "high_quality_start_date": 1776924000
     },
     {
         "focus_movie_id": 866,
@@ -17233,8 +17233,8 @@
         "live_date_unixtime": 1659106800,
         "live_location": "マリンメッセ福岡",
         "start_date": 1675090800,
-        "high_quality": 0,
-        "high_quality_start_date": 1924959599
+        "high_quality": 1,
+        "high_quality_start_date": 1776924000
     },
     {
         "focus_movie_id": 867,
@@ -17253,8 +17253,8 @@
         "live_date_unixtime": 1659106800,
         "live_location": "マリンメッセ福岡",
         "start_date": 1675090800,
-        "high_quality": 0,
-        "high_quality_start_date": 1924959599
+        "high_quality": 1,
+        "high_quality_start_date": 1776924000
     },
     {
         "focus_movie_id": 868,
@@ -21153,8 +21153,8 @@
         "live_date_unixtime": 1659193200,
         "live_location": "マリンメッセ福岡",
         "start_date": 1712901600,
-        "high_quality": 0,
-        "high_quality_start_date": 1924959599
+        "high_quality": 1,
+        "high_quality_start_date": 1776924000
     },
     {
         "focus_movie_id": 1063,
@@ -24915,5 +24915,105 @@
         "start_date": 1774882800,
         "high_quality": 1,
         "high_quality_start_date": 1774882800
+    },
+    {
+        "focus_movie_id": 1251,
+        "focus_movie_name": "世界一のダイヤモンド",
+        "unit_data": [
+            {
+                "unit_id": 130680
+            },
+            {
+                "unit_id": 130681
+            }
+        ],
+        "music_id": 430030,
+        "live_name": "真夏の全国ツアー2025",
+        "live_date": "2025年7月17日",
+        "live_date_unixtime": 1752678000,
+        "live_location": "大阪城ホール",
+        "start_date": 1777096800,
+        "high_quality": 0,
+        "high_quality_start_date": 1924959599
+    },
+    {
+        "focus_movie_id": 1252,
+        "focus_movie_name": "世界一のダイヤモンド",
+        "unit_data": [
+            {
+                "unit_id": 130710
+            },
+            {
+                "unit_id": 130711
+            }
+        ],
+        "music_id": 430030,
+        "live_name": "真夏の全国ツアー2025",
+        "live_date": "2025年7月17日",
+        "live_date_unixtime": 1752678000,
+        "live_location": "大阪城ホール",
+        "start_date": 1777993200,
+        "high_quality": 0,
+        "high_quality_start_date": 1924959599
+    },
+    {
+        "focus_movie_id": 1253,
+        "focus_movie_name": "自惚れビーチ",
+        "unit_data": [
+            {
+                "unit_id": 130860
+            },
+            {
+                "unit_id": 130861
+            }
+        ],
+        "music_id": 230020,
+        "live_name": "真夏の全国ツアー2024",
+        "live_date": "2024年8月24日",
+        "live_date_unixtime": 1724425200,
+        "live_location": "バンテリンドーム ナゴヤ",
+        "start_date": 1779030000,
+        "high_quality": 1,
+        "high_quality_start_date": 1779030000
+    },
+    {
+        "focus_movie_id": 1254,
+        "focus_movie_name": "人は夢を二度見る",
+        "unit_data": [
+            {
+                "unit_id": 130870
+            },
+            {
+                "unit_id": 130871
+            }
+        ],
+        "music_id": 380010,
+        "live_name": "真夏の全国ツアー2023",
+        "live_date": "2023年8月14日",
+        "live_date_unixtime": 1691938800,
+        "live_location": "ｾｷｽｲﾊｲﾑｽｰﾊﾟｰｱﾘｰﾅ",
+        "start_date": 1779030000,
+        "high_quality": 1,
+        "high_quality_start_date": 1779030000
+    },
+    {
+        "focus_movie_id": 1255,
+        "focus_movie_name": "なぜ　僕たちは走るのか？",
+        "unit_data": [
+            {
+                "unit_id": 130880
+            },
+            {
+                "unit_id": 130881
+            }
+        ],
+        "music_id": 450030,
+        "live_name": "真夏の全国ツアー2025",
+        "live_date": "2025年7月16日",
+        "live_date_unixtime": 1752591600,
+        "live_location": "大阪城ホール",
+        "start_date": 1779030000,
+        "high_quality": 0,
+        "high_quality_start_date": 1924959599
     }
 ]

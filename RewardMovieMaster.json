@@ -48770,5 +48770,22 @@
                 "movie_get_type": 1
             }
         ]
+    },
+    {
+        "reward_movie_id": 2953,
+        "reward_movie_name": "オフショット撮影チャレンジ！<br />Photo by Ayame Tsutsui",
+        "reward_movie_name_kana": "おふしょっとさつえいちゃれんじ　ふぉと　ばい　あやめ　つつい",
+        "movie_type": 1,
+        "start_date": 1777096800,
+        "unit_data": [
+            {
+                "unit_id": 132090,
+                "movie_get_type": 1
+            },
+            {
+                "unit_id": 132091,
+                "movie_get_type": 1
+            }
+        ]
     }
 ]

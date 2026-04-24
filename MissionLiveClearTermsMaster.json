@@ -33189,5 +33189,145 @@
                 "param": "0@0@501@1@0"
             }
         ]
+    },
+    {
+        "terms_id": 2221,
+        "terms_data": [
+            {
+                "terms_type": 103,
+                "param": "0@2@0@30@0"
+            }
+        ]
+    },
+    {
+        "terms_id": 2222,
+        "terms_data": [
+            {
+                "terms_type": 103,
+                "param": "0@2@0@20@0"
+            }
+        ]
+    },
+    {
+        "terms_id": 2223,
+        "terms_data": [
+            {
+                "terms_type": 103,
+                "param": "0@2@0@10@0"
+            }
+        ]
+    },
+    {
+        "terms_id": 2224,
+        "terms_data": [
+            {
+                "terms_type": 103,
+                "param": "0@2@0@5@0"
+            }
+        ]
+    },
+    {
+        "terms_id": 2225,
+        "terms_data": [
+            {
+                "terms_type": 103,
+                "param": "0@2@0@1@0"
+            }
+        ]
+    },
+    {
+        "terms_id": 2226,
+        "terms_data": [
+            {
+                "terms_type": 104,
+                "param": "10000@0@0@0@0"
+            },
+            {
+                "terms_type": 109,
+                "param": "17@0@0@0@0"
+            }
+        ]
+    },
+    {
+        "terms_id": 2227,
+        "terms_data": [
+            {
+                "terms_type": 103,
+                "param": "0@4@0@15@0"
+            }
+        ]
+    },
+    {
+        "terms_id": 2228,
+        "terms_data": [
+            {
+                "terms_type": 104,
+                "param": "12000@0@0@0@0"
+            },
+            {
+                "terms_type": 109,
+                "param": "19@0@0@0@0"
+            }
+        ]
+    },
+    {
+        "terms_id": 2229,
+        "terms_data": [
+            {
+                "terms_type": 103,
+                "param": "0@4@0@8@0"
+            },
+            {
+                "terms_type": 109,
+                "param": "19@0@0@0@0"
+            },
+            {
+                "terms_type": 113,
+                "param": "113@0@0@0@0"
+            }
+        ]
+    },
+    {
+        "terms_id": 2230,
+        "terms_data": [
+            {
+                "terms_type": 104,
+                "param": "12000@0@0@0@0"
+            },
+            {
+                "terms_type": 109,
+                "param": "21@0@0@0@0"
+            }
+        ]
+    },
+    {
+        "terms_id": 2231,
+        "terms_data": [
+            {
+                "terms_type": 103,
+                "param": "0@4@0@8@0"
+            },
+            {
+                "terms_type": 109,
+                "param": "21@0@0@0@0"
+            },
+            {
+                "terms_type": 113,
+                "param": "113@0@0@0@0"
+            }
+        ]
+    },
+    {
+        "terms_id": 2232,
+        "terms_data": [
+            {
+                "terms_type": 105,
+                "param": "500@0@0@0@0"
+            },
+            {
+                "terms_type": 109,
+                "param": "21@0@0@0@0"
+            }
+        ]
     }
 ]

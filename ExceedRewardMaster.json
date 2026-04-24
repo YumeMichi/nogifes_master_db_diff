@@ -56133,5 +56133,170 @@
                 ]
             }
         ]
+    },
+    {
+        "exceed_reward_id": 2508,
+        "exceed_count_data": [
+            {
+                "exceed_count": 1,
+                "reward_data": [
+                    {
+                        "data_type": 27,
+                        "data_id": 16186,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "exceed_count": 2,
+                "reward_data": [
+                    {
+                        "data_type": 27,
+                        "data_id": 16187,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "exceed_count": 3,
+                "reward_data": [
+                    {
+                        "data_type": 27,
+                        "data_id": 16188,
+                        "data_num": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "exceed_reward_id": 2509,
+        "exceed_count_data": [
+            {
+                "exceed_count": 1,
+                "reward_data": [
+                    {
+                        "data_type": 27,
+                        "data_id": 16191,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "exceed_count": 2,
+                "reward_data": [
+                    {
+                        "data_type": 27,
+                        "data_id": 16192,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "exceed_count": 3,
+                "reward_data": [
+                    {
+                        "data_type": 27,
+                        "data_id": 16193,
+                        "data_num": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "exceed_reward_id": 2510,
+        "exceed_count_data": [
+            {
+                "exceed_count": 1,
+                "reward_data": [
+                    {
+                        "data_type": 27,
+                        "data_id": 16196,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "exceed_count": 2,
+                "reward_data": [
+                    {
+                        "data_type": 27,
+                        "data_id": 16197,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "exceed_count": 3,
+                "reward_data": [
+                    {
+                        "data_type": 27,
+                        "data_id": 16198,
+                        "data_num": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "exceed_reward_id": 2511,
+        "exceed_count_data": [
+            {
+                "exceed_count": 1,
+                "reward_data": [
+                    {
+                        "data_type": 27,
+                        "data_id": 16349,
+                        "data_num": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "exceed_reward_id": 2512,
+        "exceed_count_data": [
+            {
+                "exceed_count": 1,
+                "reward_data": [
+                    {
+                        "data_type": 27,
+                        "data_id": 16354,
+                        "data_num": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "exceed_reward_id": 2513,
+        "exceed_count_data": [
+            {
+                "exceed_count": 1,
+                "reward_data": [
+                    {
+                        "data_type": 27,
+                        "data_id": 16359,
+                        "data_num": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "exceed_reward_id": 2514,
+        "exceed_count_data": [
+            {
+                "exceed_count": 1,
+                "reward_data": [
+                    {
+                        "data_type": 27,
+                        "data_id": 16364,
+                        "data_num": 1
+                    }
+                ]
+            }
+        ]
     }
 ]

@@ -1,17 +1,5 @@
 [
     {
-        "campaign_id": 102,
-        "campaign_name": "【8周年】強化大成功率アップキャンペーン",
-        "campaign_type": 2,
-        "campaign_value": 50000,
-        "live_id": 0,
-        "stage_id": 0,
-        "start_date": 1763359200,
-        "end_date": 1767193199,
-        "resource_id": 0,
-        "description": ""
-    },
-    {
         "campaign_id": 103,
         "campaign_name": "【デビュー14周年】強化大成功率アップキャンペーン",
         "campaign_type": 2,
@@ -20,6 +8,30 @@
         "stage_id": 0,
         "start_date": 1771740000,
         "end_date": 1773287999,
+        "resource_id": 0,
+        "description": ""
+    },
+    {
+        "campaign_id": 104,
+        "campaign_name": "【GW2026】強化大成功率アップキャンペーン",
+        "campaign_type": 2,
+        "campaign_value": 40000,
+        "live_id": 0,
+        "stage_id": 0,
+        "start_date": 1776924000,
+        "end_date": 1778079599,
+        "resource_id": 0,
+        "description": ""
+    },
+    {
+        "campaign_id": 105,
+        "campaign_name": "【8.5周年】強化大成功率アップキャンペーン",
+        "campaign_type": 2,
+        "campaign_value": 40000,
+        "live_id": 0,
+        "stage_id": 0,
+        "start_date": 1779084000,
+        "end_date": 1782831599,
         "resource_id": 0,
         "description": ""
     }
