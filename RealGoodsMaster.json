@@ -4162,5 +4162,29 @@
         "real_goods_name": "<girl_name> マジカルフォトスタンド（サイン無し）抽選券",
         "real_goods_type": 2,
         "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 695,
+        "real_goods_name": "<girl_name> 直筆サイン入り花嫁チェキ&8.5周年ウエディングフォトフォリオ",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 696,
+        "real_goods_name": "<girl_name> 直筆サイン入り花嫁チェキ抽選券",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 697,
+        "real_goods_name": "<girl_name> 直筆サイン入り8.5周年ウエディングフォトフォリオ抽選券",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 698,
+        "real_goods_name": "<girl_name> 8.5周年ウエディングフォトフォリオ（サイン無し）抽選券",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
     }
 ]

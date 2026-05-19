@@ -1133,5 +1133,203 @@
                 "max_exchange_num": 0
             }
         ]
+    },
+    {
+        "exchange_id": 30,
+        "exchange_name": "8.5周年記念SSR推しカード確定チケット",
+        "disp_order": 722,
+        "start_date": 1779084000,
+        "end_date": 1782831599,
+        "new_start_date": 1779084000,
+        "new_end_date": 1782831599,
+        "sr_ticket_id": 0,
+        "ssr_ticket_id": 30,
+        "ur_ticket_id": 0,
+        "shop_flag": 1,
+        "max_exchange_num": 9,
+        "movie_resource_id": 0,
+        "logo_flag": 0,
+        "catchphrase_flag": 0,
+        "bg_line_flag": 0,
+        "bg_frame_flag": 0,
+        "description": "0",
+        "display_data": [],
+        "exchange_item_data": [
+            {
+                "item_id": 29999,
+                "unit_id": 131740,
+                "max_exchange_num": 0
+            },
+            {
+                "item_id": 30000,
+                "unit_id": 131750,
+                "max_exchange_num": 0
+            },
+            {
+                "item_id": 30001,
+                "unit_id": 131760,
+                "max_exchange_num": 0
+            },
+            {
+                "item_id": 30002,
+                "unit_id": 131770,
+                "max_exchange_num": 0
+            },
+            {
+                "item_id": 30003,
+                "unit_id": 131780,
+                "max_exchange_num": 0
+            },
+            {
+                "item_id": 30004,
+                "unit_id": 131790,
+                "max_exchange_num": 0
+            },
+            {
+                "item_id": 30005,
+                "unit_id": 131800,
+                "max_exchange_num": 0
+            },
+            {
+                "item_id": 30006,
+                "unit_id": 131810,
+                "max_exchange_num": 0
+            },
+            {
+                "item_id": 30007,
+                "unit_id": 131820,
+                "max_exchange_num": 0
+            },
+            {
+                "item_id": 30008,
+                "unit_id": 131830,
+                "max_exchange_num": 0
+            },
+            {
+                "item_id": 30009,
+                "unit_id": 131840,
+                "max_exchange_num": 0
+            },
+            {
+                "item_id": 30010,
+                "unit_id": 131850,
+                "max_exchange_num": 0
+            },
+            {
+                "item_id": 30011,
+                "unit_id": 131860,
+                "max_exchange_num": 0
+            },
+            {
+                "item_id": 30012,
+                "unit_id": 131870,
+                "max_exchange_num": 0
+            },
+            {
+                "item_id": 30013,
+                "unit_id": 131880,
+                "max_exchange_num": 0
+            },
+            {
+                "item_id": 30014,
+                "unit_id": 131890,
+                "max_exchange_num": 0
+            },
+            {
+                "item_id": 30015,
+                "unit_id": 131900,
+                "max_exchange_num": 0
+            },
+            {
+                "item_id": 30016,
+                "unit_id": 131910,
+                "max_exchange_num": 0
+            },
+            {
+                "item_id": 30017,
+                "unit_id": 131920,
+                "max_exchange_num": 0
+            },
+            {
+                "item_id": 30018,
+                "unit_id": 131930,
+                "max_exchange_num": 0
+            },
+            {
+                "item_id": 30019,
+                "unit_id": 131940,
+                "max_exchange_num": 0
+            },
+            {
+                "item_id": 30020,
+                "unit_id": 131950,
+                "max_exchange_num": 0
+            },
+            {
+                "item_id": 30021,
+                "unit_id": 131960,
+                "max_exchange_num": 0
+            },
+            {
+                "item_id": 30022,
+                "unit_id": 131970,
+                "max_exchange_num": 0
+            },
+            {
+                "item_id": 30023,
+                "unit_id": 131980,
+                "max_exchange_num": 0
+            },
+            {
+                "item_id": 30024,
+                "unit_id": 131990,
+                "max_exchange_num": 0
+            },
+            {
+                "item_id": 30025,
+                "unit_id": 132000,
+                "max_exchange_num": 0
+            },
+            {
+                "item_id": 30026,
+                "unit_id": 132010,
+                "max_exchange_num": 0
+            },
+            {
+                "item_id": 30027,
+                "unit_id": 132020,
+                "max_exchange_num": 0
+            },
+            {
+                "item_id": 30028,
+                "unit_id": 132030,
+                "max_exchange_num": 0
+            },
+            {
+                "item_id": 30029,
+                "unit_id": 132040,
+                "max_exchange_num": 0
+            },
+            {
+                "item_id": 30030,
+                "unit_id": 132050,
+                "max_exchange_num": 0
+            },
+            {
+                "item_id": 30031,
+                "unit_id": 132060,
+                "max_exchange_num": 0
+            },
+            {
+                "item_id": 30032,
+                "unit_id": 132070,
+                "max_exchange_num": 0
+            },
+            {
+                "item_id": 30033,
+                "unit_id": 132080,
+                "max_exchange_num": 0
+            }
+        ]
     }
 ]

@@ -394,5 +394,41 @@
         "end_date": 1777993199,
         "bg_frame_flag": 0,
         "resource_id": 44
+    },
+    {
+        "splash_id": 45,
+        "splash_type": 1,
+        "disp_order": 45,
+        "start_date": 1779084000,
+        "end_date": 1780239599,
+        "bg_frame_flag": 1,
+        "resource_id": 45
+    },
+    {
+        "splash_id": 46,
+        "splash_type": 2,
+        "disp_order": 46,
+        "start_date": 1779084000,
+        "end_date": 1782658799,
+        "bg_frame_flag": 0,
+        "resource_id": 46
+    },
+    {
+        "splash_id": 47,
+        "splash_type": 2,
+        "disp_order": 47,
+        "start_date": 1779084000,
+        "end_date": 1782658799,
+        "bg_frame_flag": 0,
+        "resource_id": 47
+    },
+    {
+        "splash_id": 48,
+        "splash_type": 1,
+        "disp_order": 48,
+        "start_date": 1779343200,
+        "end_date": 1779355799,
+        "bg_frame_flag": 1,
+        "resource_id": 48
     }
 ]

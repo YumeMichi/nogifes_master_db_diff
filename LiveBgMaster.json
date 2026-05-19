@@ -4464,6 +4464,24 @@
         "live_location": "日本武道館"
     },
     {
+        "live_bg_id": 470011,
+        "live_bg_name": "My respect",
+        "live_bg_type": 1,
+        "music_id": 470010,
+        "live_name": "5th ALBUM MEMORIAL LIVE 『My respect』",
+        "live_date": "2026年2月23日",
+        "live_location": "有明アリーナ"
+    },
+    {
+        "live_bg_id": 470012,
+        "live_bg_name": "My respect",
+        "live_bg_type": 2,
+        "music_id": 470010,
+        "live_name": "5th ALBUM MEMORIAL LIVE 『My respect』",
+        "live_date": "2026年2月23日",
+        "live_location": "有明アリーナ"
+    },
+    {
         "live_bg_id": 10000011,
         "live_bg_name": "ワタボコリ",
         "live_bg_type": 1,
