@@ -6928,5 +6928,35 @@
         "target_event_id": 285,
         "type": 1,
         "special_bonus_rate": 1000
+    },
+    {
+        "trophy_id": 1156,
+        "target_event_id": 286,
+        "type": 5,
+        "special_bonus_rate": 10000
+    },
+    {
+        "trophy_id": 1157,
+        "target_event_id": 286,
+        "type": 4,
+        "special_bonus_rate": 7000
+    },
+    {
+        "trophy_id": 1158,
+        "target_event_id": 286,
+        "type": 3,
+        "special_bonus_rate": 4000
+    },
+    {
+        "trophy_id": 1159,
+        "target_event_id": 286,
+        "type": 2,
+        "special_bonus_rate": 2000
+    },
+    {
+        "trophy_id": 1160,
+        "target_event_id": 286,
+        "type": 1,
+        "special_bonus_rate": 1000
     }
 ]

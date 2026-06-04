@@ -48838,5 +48838,22 @@
                 "movie_get_type": 1
             }
         ]
+    },
+    {
+        "reward_movie_id": 2955,
+        "reward_movie_name": "オフショット撮影チャレンジ！<br />Photo by Hina Okamoto",
+        "reward_movie_name_kana": "おふしょっとさつえいちゃれんじ　ふぉと　ばい　ひな　おかもと",
+        "movie_type": 1,
+        "start_date": 1780552800,
+        "unit_data": [
+            {
+                "unit_id": 132220,
+                "movie_get_type": 1
+            },
+            {
+                "unit_id": 132221,
+                "movie_get_type": 1
+            }
+        ]
     }
 ]

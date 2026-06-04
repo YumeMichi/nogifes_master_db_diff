@@ -6830,5 +6830,341 @@
                 "data_num": 1
             }
         ]
+    },
+    {
+        "special_mission_id": 7424,
+        "special_mission_name": "「ありがちな恋愛 -真夏の全国ツアー2025 ver-」のLIVEを20回クリアしよう",
+        "disp_order": 7415,
+        "start_date": 1780552800,
+        "end_date": 1781362799,
+        "mission_type": 101,
+        "mission_param": "20002850@0@20@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 13,
+                "data_id": 0,
+                "data_num": 10
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7425,
+        "special_mission_name": "「8.5周年デコ」を240個集めよう",
+        "disp_order": 7416,
+        "start_date": 1780552800,
+        "end_date": 1780585199,
+        "mission_type": 119,
+        "mission_param": "285@240@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 13,
+                "data_id": 0,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7426,
+        "special_mission_name": "「ありがちな恋愛 -真夏の全国ツアー2025 ver-」のLIVEを1回クリアしよう",
+        "disp_order": 7417,
+        "start_date": 1780552800,
+        "end_date": 1780585199,
+        "mission_type": 101,
+        "mission_param": "20002850@0@1@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 18,
+                "data_id": 702,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7427,
+        "special_mission_name": "「8.5周年デコ」を240個集めよう",
+        "disp_order": 7418,
+        "start_date": 1780585200,
+        "end_date": 1780671599,
+        "mission_type": 119,
+        "mission_param": "285@240@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 13,
+                "data_id": 0,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7428,
+        "special_mission_name": "「ありがちな恋愛 -真夏の全国ツアー2025 ver-」のLIVEを1回クリアしよう",
+        "disp_order": 7419,
+        "start_date": 1780585200,
+        "end_date": 1780671599,
+        "mission_type": 101,
+        "mission_param": "20002850@0@1@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 18,
+                "data_id": 702,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7429,
+        "special_mission_name": "「8.5周年デコ」を240個集めよう",
+        "disp_order": 7420,
+        "start_date": 1780671600,
+        "end_date": 1780757999,
+        "mission_type": 119,
+        "mission_param": "285@240@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 13,
+                "data_id": 0,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7430,
+        "special_mission_name": "「ありがちな恋愛 -真夏の全国ツアー2025 ver-」のLIVEを1回クリアしよう",
+        "disp_order": 7421,
+        "start_date": 1780671600,
+        "end_date": 1780757999,
+        "mission_type": 101,
+        "mission_param": "20002850@0@1@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 18,
+                "data_id": 702,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7431,
+        "special_mission_name": "「8.5周年デコ」を240個集めよう",
+        "disp_order": 7422,
+        "start_date": 1780758000,
+        "end_date": 1780844399,
+        "mission_type": 119,
+        "mission_param": "285@240@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 13,
+                "data_id": 0,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7432,
+        "special_mission_name": "「ありがちな恋愛 -真夏の全国ツアー2025 ver-」のLIVEを1回クリアしよう",
+        "disp_order": 7423,
+        "start_date": 1780758000,
+        "end_date": 1780844399,
+        "mission_type": 101,
+        "mission_param": "20002850@0@1@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 18,
+                "data_id": 702,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7433,
+        "special_mission_name": "「8.5周年デコ」を240個集めよう",
+        "disp_order": 7424,
+        "start_date": 1780844400,
+        "end_date": 1780930799,
+        "mission_type": 119,
+        "mission_param": "285@240@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 13,
+                "data_id": 0,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7434,
+        "special_mission_name": "「ありがちな恋愛 -真夏の全国ツアー2025 ver-」のLIVEを1回クリアしよう",
+        "disp_order": 7425,
+        "start_date": 1780844400,
+        "end_date": 1780930799,
+        "mission_type": 101,
+        "mission_param": "20002850@0@1@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 18,
+                "data_id": 702,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7435,
+        "special_mission_name": "「8.5周年デコ」を240個集めよう",
+        "disp_order": 7426,
+        "start_date": 1780930800,
+        "end_date": 1781017199,
+        "mission_type": 119,
+        "mission_param": "285@240@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 13,
+                "data_id": 0,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7436,
+        "special_mission_name": "「ありがちな恋愛 -真夏の全国ツアー2025 ver-」のLIVEを1回クリアしよう",
+        "disp_order": 7427,
+        "start_date": 1780930800,
+        "end_date": 1781017199,
+        "mission_type": 101,
+        "mission_param": "20002850@0@1@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 18,
+                "data_id": 702,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7437,
+        "special_mission_name": "「8.5周年デコ」を240個集めよう",
+        "disp_order": 7428,
+        "start_date": 1781017200,
+        "end_date": 1781103599,
+        "mission_type": 119,
+        "mission_param": "285@240@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 13,
+                "data_id": 0,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7438,
+        "special_mission_name": "「ありがちな恋愛 -真夏の全国ツアー2025 ver-」のLIVEを1回クリアしよう",
+        "disp_order": 7429,
+        "start_date": 1781017200,
+        "end_date": 1781103599,
+        "mission_type": 101,
+        "mission_param": "20002850@0@1@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 18,
+                "data_id": 702,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7439,
+        "special_mission_name": "「8.5周年デコ」を240個集めよう",
+        "disp_order": 7430,
+        "start_date": 1781103600,
+        "end_date": 1781189999,
+        "mission_type": 119,
+        "mission_param": "285@240@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 13,
+                "data_id": 0,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7440,
+        "special_mission_name": "「ありがちな恋愛 -真夏の全国ツアー2025 ver-」のLIVEを1回クリアしよう",
+        "disp_order": 7431,
+        "start_date": 1781103600,
+        "end_date": 1781189999,
+        "mission_type": 101,
+        "mission_param": "20002850@0@1@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 18,
+                "data_id": 702,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7441,
+        "special_mission_name": "「8.5周年デコ」を240個集めよう",
+        "disp_order": 7432,
+        "start_date": 1781190000,
+        "end_date": 1781276399,
+        "mission_type": 119,
+        "mission_param": "285@240@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 13,
+                "data_id": 0,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7442,
+        "special_mission_name": "「ありがちな恋愛 -真夏の全国ツアー2025 ver-」のLIVEを1回クリアしよう",
+        "disp_order": 7433,
+        "start_date": 1781190000,
+        "end_date": 1781276399,
+        "mission_type": 101,
+        "mission_param": "20002850@0@1@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 18,
+                "data_id": 702,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7443,
+        "special_mission_name": "「8.5周年デコ」を240個集めよう",
+        "disp_order": 7434,
+        "start_date": 1781276400,
+        "end_date": 1781362799,
+        "mission_type": 119,
+        "mission_param": "285@240@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 13,
+                "data_id": 0,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7444,
+        "special_mission_name": "「ありがちな恋愛 -真夏の全国ツアー2025 ver-」のLIVEを1回クリアしよう",
+        "disp_order": 7435,
+        "start_date": 1781276400,
+        "end_date": 1781362799,
+        "mission_type": 101,
+        "mission_param": "20002850@0@1@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 18,
+                "data_id": 702,
+                "data_num": 1
+            }
+        ]
     }
 ]

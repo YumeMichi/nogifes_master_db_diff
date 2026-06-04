@@ -1112,7 +1112,7 @@
         "live_location": "横浜アリーナ",
         "start_date": 1588086000,
         "end_date": 1924959599,
-        "high_quality": 0
+        "high_quality": 1
     },
     {
         "other_movie_id": 49,
@@ -2861,5 +2861,43 @@
         "start_date": 1779343200,
         "end_date": 1924959599,
         "high_quality": 0
+    },
+    {
+        "other_movie_id": 142,
+        "other_movie_name": "ガールズルール_真夏の全国ツアー2025",
+        "unit_data": [
+            {
+                "unit_id": 132140
+            },
+            {
+                "unit_id": 132141
+            }
+        ],
+        "music_id": 60010,
+        "live_name": "真夏の全国ツアー2025",
+        "live_date": "2025年7月16日",
+        "live_location": "大阪城ホール",
+        "start_date": 1780552800,
+        "end_date": 1924959599,
+        "high_quality": 1
+    },
+    {
+        "other_movie_id": 143,
+        "other_movie_name": "裸足でSummer_真夏の全国ツアー2025",
+        "unit_data": [
+            {
+                "unit_id": 132150
+            },
+            {
+                "unit_id": 132151
+            }
+        ],
+        "music_id": 170010,
+        "live_name": "真夏の全国ツアー2025",
+        "live_date": "2025年7月17日",
+        "live_location": "大阪城ホール",
+        "start_date": 1781449200,
+        "end_date": 1924959599,
+        "high_quality": 1
     }
 ]

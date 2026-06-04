@@ -3151,6 +3151,71 @@
         ]
     },
     {
+        "gacha_free_campaign_id": 129,
+        "term_type": 2,
+        "num_type": 2,
+        "possible_num": 1,
+        "start_date": 1781276400,
+        "end_date": 1781449199,
+        "gacha_data": [
+            {
+                "gacha_id": 2205
+            }
+        ]
+    },
+    {
+        "gacha_free_campaign_id": 130,
+        "term_type": 2,
+        "num_type": 2,
+        "possible_num": 1,
+        "start_date": 1782226800,
+        "end_date": 1782399599,
+        "gacha_data": [
+            {
+                "gacha_id": 2206
+            }
+        ]
+    },
+    {
+        "gacha_free_campaign_id": 131,
+        "term_type": 2,
+        "num_type": 2,
+        "possible_num": 1,
+        "start_date": 1783090800,
+        "end_date": 1783263599,
+        "gacha_data": [
+            {
+                "gacha_id": 2207
+            }
+        ]
+    },
+    {
+        "gacha_free_campaign_id": 132,
+        "term_type": 2,
+        "num_type": 2,
+        "possible_num": 1,
+        "start_date": 1783695600,
+        "end_date": 1783868399,
+        "gacha_data": [
+            {
+                "gacha_id": 2208
+            }
+        ]
+    },
+    {
+        "gacha_free_campaign_id": 133,
+        "term_type": 2,
+        "num_type": 2,
+        "possible_num": 1,
+        "start_date": 1784041200,
+        "end_date": 1784213999,
+        "gacha_data": [
+            {
+                "gacha_id": 2209
+            }
+        ]
+    },
+    {
         "gacha_free_campaign_id": 137,
         "term_type": 1,
         "num_type": 2,

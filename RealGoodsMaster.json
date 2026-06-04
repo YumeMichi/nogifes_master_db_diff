@@ -4186,5 +4186,23 @@
         "real_goods_name": "<girl_name> 8.5周年ウエディングフォトフォリオ（サイン無し）抽選券",
         "real_goods_type": 2,
         "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 699,
+        "real_goods_name": "<girl_name> 直筆サイン入りチェキ&8.5周年推しメンコーチジャケット",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 700,
+        "real_goods_name": "<girl_name> 直筆サイン入り8.5周年推しメンコーチジャケット抽選券",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 701,
+        "real_goods_name": "<girl_name> 8.5周年推しメンコーチジャケット（サイン無し）抽選券",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
     }
 ]

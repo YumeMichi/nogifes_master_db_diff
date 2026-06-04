@@ -6048,6 +6048,24 @@
         "live_location": "横浜BUNTAI"
     },
     {
+        "live_bg_id": 90000861,
+        "live_bg_name": "ありがちな恋愛 -真夏の全国ツアー2025 ver-",
+        "live_bg_type": 1,
+        "music_id": 90000860,
+        "live_name": "真夏の全国ツアー2025",
+        "live_date": "2025年7月17日",
+        "live_location": "大阪城ホール"
+    },
+    {
+        "live_bg_id": 90000862,
+        "live_bg_name": "ありがちな恋愛 -真夏の全国ツアー2025 ver-",
+        "live_bg_type": 2,
+        "music_id": 90000860,
+        "live_name": "真夏の全国ツアー2025",
+        "live_date": "2025年7月17日",
+        "live_location": "大阪城ホール"
+    },
+    {
         "live_bg_id": 90010011,
         "live_bg_name": "メドレー1st＜Type-A＞",
         "live_bg_type": 1,
