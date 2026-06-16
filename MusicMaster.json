@@ -4203,6 +4203,30 @@
         "arranger": "麻尾悠太"
     },
     {
+        "music_id": 450010,
+        "music_name": "Same numbers",
+        "music_name_kana": "せいむなんばーず",
+        "search_word": [
+            {
+                "word": "せいむなんばーず"
+            },
+            {
+                "word": "samenumbers"
+            },
+            {
+                "word": "表題曲"
+            }
+        ],
+        "music_type": 1,
+        "center_girl_id": 104,
+        "release_date": 2025073001,
+        "music_length": 224,
+        "information": "すごく良い曲だよー",
+        "lyricist": "秋元 康",
+        "composer": "川浦 正大",
+        "arranger": "樫原 伸彦"
+    },
+    {
         "music_id": 450020,
         "music_name": "真夏日よ",
         "music_name_kana": "まなつびよ",

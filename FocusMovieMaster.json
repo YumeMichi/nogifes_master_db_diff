@@ -6313,8 +6313,8 @@
         "live_date_unixtime": 1558796400,
         "live_location": "横浜アリーナ",
         "start_date": 1575439200,
-        "high_quality": 0,
-        "high_quality_start_date": 1924959599
+        "high_quality": 1,
+        "high_quality_start_date": 1781589600
     },
     {
         "focus_movie_id": 321,
@@ -6353,8 +6353,8 @@
         "live_date_unixtime": 1558796400,
         "live_location": "横浜アリーナ",
         "start_date": 1576249200,
-        "high_quality": 0,
-        "high_quality_start_date": 1924959599
+        "high_quality": 1,
+        "high_quality_start_date": 1781589600
     },
     {
         "focus_movie_id": 323,
@@ -13233,8 +13233,8 @@
         "live_date_unixtime": 1635346800,
         "live_location": "立川ステージガーデン",
         "start_date": 1642831200,
-        "high_quality": 0,
-        "high_quality_start_date": 1924959599
+        "high_quality": 1,
+        "high_quality_start_date": 1781589600
     },
     {
         "focus_movie_id": 667,
@@ -15453,8 +15453,8 @@
         "live_date_unixtime": 1635346800,
         "live_location": "立川ステージガーデン",
         "start_date": 1660111200,
-        "high_quality": 0,
-        "high_quality_start_date": 1924959599
+        "high_quality": 1,
+        "high_quality_start_date": 1781589600
     },
     {
         "focus_movie_id": 778,
@@ -25093,6 +25093,206 @@
         "live_date_unixtime": 1759762800,
         "live_location": "横浜BUNTAI",
         "start_date": 1779516000,
+        "high_quality": 0,
+        "high_quality_start_date": 1924959599
+    },
+    {
+        "focus_movie_id": 1260,
+        "focus_movie_name": "チャンスは平等",
+        "unit_data": [
+            {
+                "unit_id": 132930
+            },
+            {
+                "unit_id": 132931
+            }
+        ],
+        "music_id": 410010,
+        "live_name": "5th ALBUM MEMORIAL LIVE 『My respect』",
+        "live_date": "2026年2月22日",
+        "live_date_unixtime": 1771686000,
+        "live_location": "有明アリーナ",
+        "start_date": 1781848800,
+        "high_quality": 0,
+        "high_quality_start_date": 1924959599
+    },
+    {
+        "focus_movie_id": 1261,
+        "focus_movie_name": "トキトキメキメキ",
+        "unit_data": [
+            {
+                "unit_id": 132940
+            },
+            {
+                "unit_id": 132941
+            }
+        ],
+        "music_id": 240060,
+        "live_name": "真夏の全国ツアー2024",
+        "live_date": "2024年8月25日",
+        "live_date_unixtime": 1724511600,
+        "live_location": "バンテリンドーム ナゴヤ",
+        "start_date": 1781848800,
+        "high_quality": 1,
+        "high_quality_start_date": 1781848800
+    },
+    {
+        "focus_movie_id": 1262,
+        "focus_movie_name": "真夏日よ",
+        "unit_data": [
+            {
+                "unit_id": 132950
+            },
+            {
+                "unit_id": 132951
+            }
+        ],
+        "music_id": 450020,
+        "live_name": "真夏の全国ツアー2025",
+        "live_date": "2025年7月17日",
+        "live_date_unixtime": 1752678000,
+        "live_location": "大阪城ホール",
+        "start_date": 1781848800,
+        "high_quality": 0,
+        "high_quality_start_date": 1924959599
+    },
+    {
+        "focus_movie_id": 1263,
+        "focus_movie_name": "三番目の風",
+        "unit_data": [
+            {
+                "unit_id": 132960
+            },
+            {
+                "unit_id": 132961
+            }
+        ],
+        "music_id": 190060,
+        "live_name": "真夏の全国ツアー2024",
+        "live_date": "2024年8月24日",
+        "live_date_unixtime": 1724425200,
+        "live_location": "バンテリンドーム ナゴヤ",
+        "start_date": 1781848800,
+        "high_quality": 1,
+        "high_quality_start_date": 1781848800
+    },
+    {
+        "focus_movie_id": 1264,
+        "focus_movie_name": "Monopoly",
+        "unit_data": [
+            {
+                "unit_id": 132970
+            },
+            {
+                "unit_id": 132971
+            }
+        ],
+        "music_id": 400010,
+        "live_name": "真夏の全国ツアー2024",
+        "live_date": "2024年8月25日",
+        "live_date_unixtime": 1724511600,
+        "live_location": "バンテリンドーム ナゴヤ",
+        "start_date": 1781848800,
+        "high_quality": 1,
+        "high_quality_start_date": 1781848800
+    },
+    {
+        "focus_movie_id": 1265,
+        "focus_movie_name": "ガールズルール",
+        "unit_data": [
+            {
+                "unit_id": 132980
+            },
+            {
+                "unit_id": 132981
+            }
+        ],
+        "music_id": 60010,
+        "live_name": "真夏の全国ツアー2025",
+        "live_date": "2025年7月16日",
+        "live_date_unixtime": 1752591600,
+        "live_location": "大阪城ホール",
+        "start_date": 1781848800,
+        "high_quality": 1,
+        "high_quality_start_date": 1781848800
+    },
+    {
+        "focus_movie_id": 1266,
+        "focus_movie_name": "ショパンの嘘つき",
+        "unit_data": [
+            {
+                "unit_id": 132990
+            },
+            {
+                "unit_id": 132991
+            }
+        ],
+        "music_id": 260060,
+        "live_name": "真夏の全国ツアー2025",
+        "live_date": "2025年7月17日",
+        "live_date_unixtime": 1752678000,
+        "live_location": "大阪城ホール",
+        "start_date": 1781848800,
+        "high_quality": 0,
+        "high_quality_start_date": 1924959599
+    },
+    {
+        "focus_movie_id": 1267,
+        "focus_movie_name": "Same numbers",
+        "unit_data": [
+            {
+                "unit_id": 133000
+            },
+            {
+                "unit_id": 133001
+            }
+        ],
+        "music_id": 450010,
+        "live_name": "真夏の全国ツアー2025",
+        "live_date": "2025年7月16日",
+        "live_date_unixtime": 1752591600,
+        "live_location": "大阪城ホール",
+        "start_date": 1782658800,
+        "high_quality": 0,
+        "high_quality_start_date": 1924959599
+    },
+    {
+        "focus_movie_id": 1268,
+        "focus_movie_name": "Same numbers",
+        "unit_data": [
+            {
+                "unit_id": 133010
+            },
+            {
+                "unit_id": 133011
+            }
+        ],
+        "music_id": 450010,
+        "live_name": "真夏の全国ツアー2025",
+        "live_date": "2025年7月16日",
+        "live_date_unixtime": 1752591600,
+        "live_location": "大阪城ホール",
+        "start_date": 1781762400,
+        "high_quality": 0,
+        "high_quality_start_date": 1924959599
+    },
+    {
+        "focus_movie_id": 1269,
+        "focus_movie_name": "Same numbers",
+        "unit_data": [
+            {
+                "unit_id": 133020
+            },
+            {
+                "unit_id": 133021
+            }
+        ],
+        "music_id": 450010,
+        "live_name": "真夏の全国ツアー2025",
+        "live_date": "2025年7月16日",
+        "live_date_unixtime": 1752591600,
+        "live_location": "大阪城ホール",
+        "start_date": 1782658800,
         "high_quality": 0,
         "high_quality_start_date": 1924959599
     }

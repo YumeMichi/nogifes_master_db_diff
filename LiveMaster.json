@@ -12805,6 +12805,9 @@
             },
             {
                 "focus_movie_id": 1094
+            },
+            {
+                "focus_movie_id": 1265
             }
         ],
         "other_movie_data": [
@@ -46255,6 +46258,9 @@
             },
             {
                 "focus_movie_id": 1122
+            },
+            {
+                "focus_movie_id": 1263
             }
         ],
         "other_movie_data": [
@@ -58419,6 +58425,9 @@
             },
             {
                 "focus_movie_id": 1204
+            },
+            {
+                "focus_movie_id": 1261
             }
         ],
         "other_movie_data": [
@@ -63300,7 +63309,11 @@
                 ]
             }
         ],
-        "focus_movie_data": [],
+        "focus_movie_data": [
+            {
+                "focus_movie_id": 1266
+            }
+        ],
         "other_movie_data": []
     },
     {
@@ -66080,7 +66093,7 @@
         "high_bg_id": 280031,
         "static_bg_id": 280032,
         "preview_id": 280030,
-        "high_quality": 0,
+        "high_quality": 1,
         "stage_data": [
             {
                 "stage_id": 1,
@@ -90689,6 +90702,9 @@
             },
             {
                 "focus_movie_id": 1207
+            },
+            {
+                "focus_movie_id": 1264
             }
         ],
         "other_movie_data": []
@@ -91840,7 +91856,11 @@
                 ]
             }
         ],
-        "focus_movie_data": [],
+        "focus_movie_data": [
+            {
+                "focus_movie_id": 1260
+            }
+        ],
         "other_movie_data": [
             {
                 "other_movie_id": 125
@@ -98049,6 +98069,398 @@
         "other_movie_data": []
     },
     {
+        "live_id": 450010,
+        "live_name": "Same numbers",
+        "live_name_kana": "せいむなんばーず",
+        "disp_order": 30286,
+        "music_id": 450010,
+        "attribute": 2,
+        "lineage": 6,
+        "live_category": 1,
+        "schedule_group_id": 431,
+        "unconditional": 1,
+        "unlock_type": 0,
+        "jacket_id": 274,
+        "high_bg_id": 450011,
+        "static_bg_id": 450012,
+        "preview_id": 450010,
+        "high_quality": 0,
+        "stage_data": [
+            {
+                "stage_id": 1,
+                "difficulty": 1,
+                "level": 2,
+                "dec_lp": 15,
+                "player_exp": 35,
+                "gold": 300,
+                "medal": 10,
+                "score_rank": [
+                    {
+                        "rank_id": 1,
+                        "rank_name": "SCORE_RANK_C",
+                        "rank_value": 64000
+                    },
+                    {
+                        "rank_id": 2,
+                        "rank_name": "SCORE_RANK_B",
+                        "rank_value": 129000
+                    },
+                    {
+                        "rank_id": 3,
+                        "rank_name": "SCORE_RANK_A",
+                        "rank_value": 259000
+                    },
+                    {
+                        "rank_id": 4,
+                        "rank_name": "SCORE_RANK_S",
+                        "rank_value": 389000
+                    },
+                    {
+                        "rank_id": 5,
+                        "rank_name": "SCORE_RANK_SS",
+                        "rank_value": 551000
+                    }
+                ],
+                "combo_rank": [
+                    {
+                        "rank_id": 1,
+                        "rank_name": "COMBO_RANK_C",
+                        "rank_value": 53
+                    },
+                    {
+                        "rank_id": 2,
+                        "rank_name": "COMBO_RANK_B",
+                        "rank_value": 105
+                    },
+                    {
+                        "rank_id": 3,
+                        "rank_name": "COMBO_RANK_A",
+                        "rank_value": 157
+                    },
+                    {
+                        "rank_id": 4,
+                        "rank_name": "COMBO_RANK_S",
+                        "rank_value": 209
+                    },
+                    {
+                        "rank_id": 5,
+                        "rank_name": "COMBO_RANK_SS",
+                        "rank_value": 209
+                    }
+                ],
+                "clear_rank": [
+                    {
+                        "rank_id": 1,
+                        "rank_name": "CLEAR_RANK_C",
+                        "rank_value": 1
+                    },
+                    {
+                        "rank_id": 2,
+                        "rank_name": "CLEAR_RANK_B",
+                        "rank_value": 5
+                    },
+                    {
+                        "rank_id": 3,
+                        "rank_name": "CLEAR_RANK_A",
+                        "rank_value": 10
+                    },
+                    {
+                        "rank_id": 4,
+                        "rank_name": "CLEAR_RANK_S",
+                        "rank_value": 20
+                    },
+                    {
+                        "rank_id": 5,
+                        "rank_name": "CLEAR_RANK_SS",
+                        "rank_value": 50
+                    }
+                ]
+            },
+            {
+                "stage_id": 2,
+                "difficulty": 2,
+                "level": 7,
+                "dec_lp": 20,
+                "player_exp": 47,
+                "gold": 400,
+                "medal": 13,
+                "score_rank": [
+                    {
+                        "rank_id": 1,
+                        "rank_name": "SCORE_RANK_C",
+                        "rank_value": 88000
+                    },
+                    {
+                        "rank_id": 2,
+                        "rank_name": "SCORE_RANK_B",
+                        "rank_value": 176000
+                    },
+                    {
+                        "rank_id": 3,
+                        "rank_name": "SCORE_RANK_A",
+                        "rank_value": 352000
+                    },
+                    {
+                        "rank_id": 4,
+                        "rank_name": "SCORE_RANK_S",
+                        "rank_value": 528000
+                    },
+                    {
+                        "rank_id": 5,
+                        "rank_name": "SCORE_RANK_SS",
+                        "rank_value": 748000
+                    }
+                ],
+                "combo_rank": [
+                    {
+                        "rank_id": 1,
+                        "rank_name": "COMBO_RANK_C",
+                        "rank_value": 80
+                    },
+                    {
+                        "rank_id": 2,
+                        "rank_name": "COMBO_RANK_B",
+                        "rank_value": 159
+                    },
+                    {
+                        "rank_id": 3,
+                        "rank_name": "COMBO_RANK_A",
+                        "rank_value": 239
+                    },
+                    {
+                        "rank_id": 4,
+                        "rank_name": "COMBO_RANK_S",
+                        "rank_value": 318
+                    },
+                    {
+                        "rank_id": 5,
+                        "rank_name": "COMBO_RANK_SS",
+                        "rank_value": 318
+                    }
+                ],
+                "clear_rank": [
+                    {
+                        "rank_id": 1,
+                        "rank_name": "CLEAR_RANK_C",
+                        "rank_value": 1
+                    },
+                    {
+                        "rank_id": 2,
+                        "rank_name": "CLEAR_RANK_B",
+                        "rank_value": 10
+                    },
+                    {
+                        "rank_id": 3,
+                        "rank_name": "CLEAR_RANK_A",
+                        "rank_value": 20
+                    },
+                    {
+                        "rank_id": 4,
+                        "rank_name": "CLEAR_RANK_S",
+                        "rank_value": 30
+                    },
+                    {
+                        "rank_id": 5,
+                        "rank_name": "CLEAR_RANK_SS",
+                        "rank_value": 100
+                    }
+                ]
+            },
+            {
+                "stage_id": 3,
+                "difficulty": 3,
+                "level": 12,
+                "dec_lp": 24,
+                "player_exp": 56,
+                "gold": 480,
+                "medal": 16,
+                "score_rank": [
+                    {
+                        "rank_id": 1,
+                        "rank_name": "SCORE_RANK_C",
+                        "rank_value": 125000
+                    },
+                    {
+                        "rank_id": 2,
+                        "rank_name": "SCORE_RANK_B",
+                        "rank_value": 251000
+                    },
+                    {
+                        "rank_id": 3,
+                        "rank_name": "SCORE_RANK_A",
+                        "rank_value": 502000
+                    },
+                    {
+                        "rank_id": 4,
+                        "rank_name": "SCORE_RANK_S",
+                        "rank_value": 754000
+                    },
+                    {
+                        "rank_id": 5,
+                        "rank_name": "SCORE_RANK_SS",
+                        "rank_value": 1068000
+                    }
+                ],
+                "combo_rank": [
+                    {
+                        "rank_id": 1,
+                        "rank_name": "COMBO_RANK_C",
+                        "rank_value": 154
+                    },
+                    {
+                        "rank_id": 2,
+                        "rank_name": "COMBO_RANK_B",
+                        "rank_value": 308
+                    },
+                    {
+                        "rank_id": 3,
+                        "rank_name": "COMBO_RANK_A",
+                        "rank_value": 462
+                    },
+                    {
+                        "rank_id": 4,
+                        "rank_name": "COMBO_RANK_S",
+                        "rank_value": 616
+                    },
+                    {
+                        "rank_id": 5,
+                        "rank_name": "COMBO_RANK_SS",
+                        "rank_value": 616
+                    }
+                ],
+                "clear_rank": [
+                    {
+                        "rank_id": 1,
+                        "rank_name": "CLEAR_RANK_C",
+                        "rank_value": 1
+                    },
+                    {
+                        "rank_id": 2,
+                        "rank_name": "CLEAR_RANK_B",
+                        "rank_value": 20
+                    },
+                    {
+                        "rank_id": 3,
+                        "rank_name": "CLEAR_RANK_A",
+                        "rank_value": 40
+                    },
+                    {
+                        "rank_id": 4,
+                        "rank_name": "CLEAR_RANK_S",
+                        "rank_value": 60
+                    },
+                    {
+                        "rank_id": 5,
+                        "rank_name": "CLEAR_RANK_SS",
+                        "rank_value": 200
+                    }
+                ]
+            },
+            {
+                "stage_id": 4,
+                "difficulty": 4,
+                "level": 18,
+                "dec_lp": 28,
+                "player_exp": 66,
+                "gold": 560,
+                "medal": 18,
+                "score_rank": [
+                    {
+                        "rank_id": 1,
+                        "rank_name": "SCORE_RANK_C",
+                        "rank_value": 174000
+                    },
+                    {
+                        "rank_id": 2,
+                        "rank_name": "SCORE_RANK_B",
+                        "rank_value": 348000
+                    },
+                    {
+                        "rank_id": 3,
+                        "rank_name": "SCORE_RANK_A",
+                        "rank_value": 697000
+                    },
+                    {
+                        "rank_id": 4,
+                        "rank_name": "SCORE_RANK_S",
+                        "rank_value": 1046000
+                    },
+                    {
+                        "rank_id": 5,
+                        "rank_name": "SCORE_RANK_SS",
+                        "rank_value": 1483000
+                    }
+                ],
+                "combo_rank": [
+                    {
+                        "rank_id": 1,
+                        "rank_name": "COMBO_RANK_C",
+                        "rank_value": 252
+                    },
+                    {
+                        "rank_id": 2,
+                        "rank_name": "COMBO_RANK_B",
+                        "rank_value": 504
+                    },
+                    {
+                        "rank_id": 3,
+                        "rank_name": "COMBO_RANK_A",
+                        "rank_value": 756
+                    },
+                    {
+                        "rank_id": 4,
+                        "rank_name": "COMBO_RANK_S",
+                        "rank_value": 1008
+                    },
+                    {
+                        "rank_id": 5,
+                        "rank_name": "COMBO_RANK_SS",
+                        "rank_value": 1008
+                    }
+                ],
+                "clear_rank": [
+                    {
+                        "rank_id": 1,
+                        "rank_name": "CLEAR_RANK_C",
+                        "rank_value": 1
+                    },
+                    {
+                        "rank_id": 2,
+                        "rank_name": "CLEAR_RANK_B",
+                        "rank_value": 30
+                    },
+                    {
+                        "rank_id": 3,
+                        "rank_name": "CLEAR_RANK_A",
+                        "rank_value": 60
+                    },
+                    {
+                        "rank_id": 4,
+                        "rank_name": "CLEAR_RANK_S",
+                        "rank_value": 100
+                    },
+                    {
+                        "rank_id": 5,
+                        "rank_name": "CLEAR_RANK_SS",
+                        "rank_value": 300
+                    }
+                ]
+            }
+        ],
+        "focus_movie_data": [
+            {
+                "focus_movie_id": 1267
+            },
+            {
+                "focus_movie_id": 1268
+            },
+            {
+                "focus_movie_id": 1269
+            }
+        ],
+        "other_movie_data": []
+    },
+    {
         "live_id": 450020,
         "live_name": "真夏日よ",
         "live_name_kana": "まなつびよ",
@@ -98433,6 +98845,9 @@
             },
             {
                 "focus_movie_id": 1205
+            },
+            {
+                "focus_movie_id": 1262
             }
         ],
         "other_movie_data": []
@@ -137980,7 +138395,7 @@
         "high_bg_id": 280031,
         "static_bg_id": 280032,
         "preview_id": 280030,
-        "high_quality": 0,
+        "high_quality": 1,
         "stage_data": [
             {
                 "stage_id": 1,
@@ -234172,6 +234587,388 @@
                         "rank_id": 5,
                         "rank_name": "COMBO_RANK_SS",
                         "rank_value": 888
+                    }
+                ],
+                "clear_rank": [
+                    {
+                        "rank_id": 1,
+                        "rank_name": "CLEAR_RANK_C",
+                        "rank_value": 1
+                    },
+                    {
+                        "rank_id": 2,
+                        "rank_name": "CLEAR_RANK_B",
+                        "rank_value": 30
+                    },
+                    {
+                        "rank_id": 3,
+                        "rank_name": "CLEAR_RANK_A",
+                        "rank_value": 60
+                    },
+                    {
+                        "rank_id": 4,
+                        "rank_name": "CLEAR_RANK_S",
+                        "rank_value": 100
+                    },
+                    {
+                        "rank_id": 5,
+                        "rank_name": "CLEAR_RANK_SS",
+                        "rank_value": 300
+                    }
+                ]
+            }
+        ],
+        "focus_movie_data": [],
+        "other_movie_data": []
+    },
+    {
+        "live_id": 20002860,
+        "live_name": "Same numbers",
+        "live_name_kana": "せいむなんばーず",
+        "disp_order": 30286,
+        "music_id": 450010,
+        "attribute": 2,
+        "lineage": 6,
+        "live_category": 2,
+        "schedule_group_id": 1,
+        "unconditional": 1,
+        "unlock_type": 0,
+        "jacket_id": 274,
+        "high_bg_id": 450011,
+        "static_bg_id": 450012,
+        "preview_id": 450010,
+        "high_quality": 0,
+        "stage_data": [
+            {
+                "stage_id": 1,
+                "difficulty": 1,
+                "level": 2,
+                "dec_lp": 15,
+                "player_exp": 35,
+                "gold": 300,
+                "medal": 10,
+                "score_rank": [
+                    {
+                        "rank_id": 1,
+                        "rank_name": "SCORE_RANK_C",
+                        "rank_value": 64000
+                    },
+                    {
+                        "rank_id": 2,
+                        "rank_name": "SCORE_RANK_B",
+                        "rank_value": 129000
+                    },
+                    {
+                        "rank_id": 3,
+                        "rank_name": "SCORE_RANK_A",
+                        "rank_value": 259000
+                    },
+                    {
+                        "rank_id": 4,
+                        "rank_name": "SCORE_RANK_S",
+                        "rank_value": 389000
+                    },
+                    {
+                        "rank_id": 5,
+                        "rank_name": "SCORE_RANK_SS",
+                        "rank_value": 551000
+                    }
+                ],
+                "combo_rank": [
+                    {
+                        "rank_id": 1,
+                        "rank_name": "COMBO_RANK_C",
+                        "rank_value": 53
+                    },
+                    {
+                        "rank_id": 2,
+                        "rank_name": "COMBO_RANK_B",
+                        "rank_value": 105
+                    },
+                    {
+                        "rank_id": 3,
+                        "rank_name": "COMBO_RANK_A",
+                        "rank_value": 157
+                    },
+                    {
+                        "rank_id": 4,
+                        "rank_name": "COMBO_RANK_S",
+                        "rank_value": 209
+                    },
+                    {
+                        "rank_id": 5,
+                        "rank_name": "COMBO_RANK_SS",
+                        "rank_value": 209
+                    }
+                ],
+                "clear_rank": [
+                    {
+                        "rank_id": 1,
+                        "rank_name": "CLEAR_RANK_C",
+                        "rank_value": 1
+                    },
+                    {
+                        "rank_id": 2,
+                        "rank_name": "CLEAR_RANK_B",
+                        "rank_value": 5
+                    },
+                    {
+                        "rank_id": 3,
+                        "rank_name": "CLEAR_RANK_A",
+                        "rank_value": 10
+                    },
+                    {
+                        "rank_id": 4,
+                        "rank_name": "CLEAR_RANK_S",
+                        "rank_value": 20
+                    },
+                    {
+                        "rank_id": 5,
+                        "rank_name": "CLEAR_RANK_SS",
+                        "rank_value": 50
+                    }
+                ]
+            },
+            {
+                "stage_id": 2,
+                "difficulty": 2,
+                "level": 7,
+                "dec_lp": 20,
+                "player_exp": 47,
+                "gold": 400,
+                "medal": 13,
+                "score_rank": [
+                    {
+                        "rank_id": 1,
+                        "rank_name": "SCORE_RANK_C",
+                        "rank_value": 88000
+                    },
+                    {
+                        "rank_id": 2,
+                        "rank_name": "SCORE_RANK_B",
+                        "rank_value": 176000
+                    },
+                    {
+                        "rank_id": 3,
+                        "rank_name": "SCORE_RANK_A",
+                        "rank_value": 352000
+                    },
+                    {
+                        "rank_id": 4,
+                        "rank_name": "SCORE_RANK_S",
+                        "rank_value": 528000
+                    },
+                    {
+                        "rank_id": 5,
+                        "rank_name": "SCORE_RANK_SS",
+                        "rank_value": 748000
+                    }
+                ],
+                "combo_rank": [
+                    {
+                        "rank_id": 1,
+                        "rank_name": "COMBO_RANK_C",
+                        "rank_value": 80
+                    },
+                    {
+                        "rank_id": 2,
+                        "rank_name": "COMBO_RANK_B",
+                        "rank_value": 159
+                    },
+                    {
+                        "rank_id": 3,
+                        "rank_name": "COMBO_RANK_A",
+                        "rank_value": 239
+                    },
+                    {
+                        "rank_id": 4,
+                        "rank_name": "COMBO_RANK_S",
+                        "rank_value": 318
+                    },
+                    {
+                        "rank_id": 5,
+                        "rank_name": "COMBO_RANK_SS",
+                        "rank_value": 318
+                    }
+                ],
+                "clear_rank": [
+                    {
+                        "rank_id": 1,
+                        "rank_name": "CLEAR_RANK_C",
+                        "rank_value": 1
+                    },
+                    {
+                        "rank_id": 2,
+                        "rank_name": "CLEAR_RANK_B",
+                        "rank_value": 10
+                    },
+                    {
+                        "rank_id": 3,
+                        "rank_name": "CLEAR_RANK_A",
+                        "rank_value": 20
+                    },
+                    {
+                        "rank_id": 4,
+                        "rank_name": "CLEAR_RANK_S",
+                        "rank_value": 30
+                    },
+                    {
+                        "rank_id": 5,
+                        "rank_name": "CLEAR_RANK_SS",
+                        "rank_value": 100
+                    }
+                ]
+            },
+            {
+                "stage_id": 3,
+                "difficulty": 3,
+                "level": 12,
+                "dec_lp": 24,
+                "player_exp": 56,
+                "gold": 480,
+                "medal": 16,
+                "score_rank": [
+                    {
+                        "rank_id": 1,
+                        "rank_name": "SCORE_RANK_C",
+                        "rank_value": 125000
+                    },
+                    {
+                        "rank_id": 2,
+                        "rank_name": "SCORE_RANK_B",
+                        "rank_value": 251000
+                    },
+                    {
+                        "rank_id": 3,
+                        "rank_name": "SCORE_RANK_A",
+                        "rank_value": 502000
+                    },
+                    {
+                        "rank_id": 4,
+                        "rank_name": "SCORE_RANK_S",
+                        "rank_value": 754000
+                    },
+                    {
+                        "rank_id": 5,
+                        "rank_name": "SCORE_RANK_SS",
+                        "rank_value": 1068000
+                    }
+                ],
+                "combo_rank": [
+                    {
+                        "rank_id": 1,
+                        "rank_name": "COMBO_RANK_C",
+                        "rank_value": 154
+                    },
+                    {
+                        "rank_id": 2,
+                        "rank_name": "COMBO_RANK_B",
+                        "rank_value": 308
+                    },
+                    {
+                        "rank_id": 3,
+                        "rank_name": "COMBO_RANK_A",
+                        "rank_value": 462
+                    },
+                    {
+                        "rank_id": 4,
+                        "rank_name": "COMBO_RANK_S",
+                        "rank_value": 616
+                    },
+                    {
+                        "rank_id": 5,
+                        "rank_name": "COMBO_RANK_SS",
+                        "rank_value": 616
+                    }
+                ],
+                "clear_rank": [
+                    {
+                        "rank_id": 1,
+                        "rank_name": "CLEAR_RANK_C",
+                        "rank_value": 1
+                    },
+                    {
+                        "rank_id": 2,
+                        "rank_name": "CLEAR_RANK_B",
+                        "rank_value": 20
+                    },
+                    {
+                        "rank_id": 3,
+                        "rank_name": "CLEAR_RANK_A",
+                        "rank_value": 40
+                    },
+                    {
+                        "rank_id": 4,
+                        "rank_name": "CLEAR_RANK_S",
+                        "rank_value": 60
+                    },
+                    {
+                        "rank_id": 5,
+                        "rank_name": "CLEAR_RANK_SS",
+                        "rank_value": 200
+                    }
+                ]
+            },
+            {
+                "stage_id": 4,
+                "difficulty": 4,
+                "level": 18,
+                "dec_lp": 28,
+                "player_exp": 66,
+                "gold": 560,
+                "medal": 18,
+                "score_rank": [
+                    {
+                        "rank_id": 1,
+                        "rank_name": "SCORE_RANK_C",
+                        "rank_value": 174000
+                    },
+                    {
+                        "rank_id": 2,
+                        "rank_name": "SCORE_RANK_B",
+                        "rank_value": 348000
+                    },
+                    {
+                        "rank_id": 3,
+                        "rank_name": "SCORE_RANK_A",
+                        "rank_value": 697000
+                    },
+                    {
+                        "rank_id": 4,
+                        "rank_name": "SCORE_RANK_S",
+                        "rank_value": 1046000
+                    },
+                    {
+                        "rank_id": 5,
+                        "rank_name": "SCORE_RANK_SS",
+                        "rank_value": 1483000
+                    }
+                ],
+                "combo_rank": [
+                    {
+                        "rank_id": 1,
+                        "rank_name": "COMBO_RANK_C",
+                        "rank_value": 252
+                    },
+                    {
+                        "rank_id": 2,
+                        "rank_name": "COMBO_RANK_B",
+                        "rank_value": 504
+                    },
+                    {
+                        "rank_id": 3,
+                        "rank_name": "COMBO_RANK_A",
+                        "rank_value": 756
+                    },
+                    {
+                        "rank_id": 4,
+                        "rank_name": "COMBO_RANK_S",
+                        "rank_value": 1008
+                    },
+                    {
+                        "rank_id": 5,
+                        "rank_name": "COMBO_RANK_SS",
+                        "rank_value": 1008
                     }
                 ],
                 "clear_rank": [

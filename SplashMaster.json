@@ -439,5 +439,14 @@
         "end_date": 1781535599,
         "bg_frame_flag": 1,
         "resource_id": 49
+    },
+    {
+        "splash_id": 50,
+        "splash_type": 1,
+        "disp_order": 50,
+        "start_date": 1781589600,
+        "end_date": 1782658799,
+        "bg_frame_flag": 1,
+        "resource_id": 50
     }
 ]

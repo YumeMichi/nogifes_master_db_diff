@@ -4204,5 +4204,23 @@
         "real_goods_name": "<girl_name> 8.5周年推しメンコーチジャケット（サイン無し）抽選券",
         "real_goods_type": 2,
         "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 702,
+        "real_goods_name": "<girl_name> 宛名入り8.5周年∞フォトスタンド",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 703,
+        "real_goods_name": "<girl_name> 直筆サイン入り8.5周年∞フォトスタンド抽選券",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 704,
+        "real_goods_name": "<girl_name> 8.5周年∞フォトスタンド（サイン無し）抽選券",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
     }
 ]

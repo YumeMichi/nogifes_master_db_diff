@@ -48855,5 +48855,39 @@
                 "movie_get_type": 1
             }
         ]
+    },
+    {
+        "reward_movie_id": 2956,
+        "reward_movie_name": "真夏の全国ツアー2025 神宮公演<br />Same numbers SPライブMOVIE",
+        "reward_movie_name_kana": "まなつのぜんこくつあーにせんにじゅうご　じんぐうこうえん　せいむなんばーず　すぺしゃるらいぶむーびー",
+        "movie_type": 3,
+        "start_date": 1781762400,
+        "unit_data": [
+            {
+                "unit_id": 133070,
+                "movie_get_type": 1
+            },
+            {
+                "unit_id": 133071,
+                "movie_get_type": 1
+            }
+        ]
+    },
+    {
+        "reward_movie_id": 2957,
+        "reward_movie_name": "オフショット撮影チャレンジ！<br />Photo by Runa Hayashi",
+        "reward_movie_name_kana": "おふしょっとさつえいちゃれんじ　ふぉと　ばい　るな　はやし",
+        "movie_type": 1,
+        "start_date": 1781762400,
+        "unit_data": [
+            {
+                "unit_id": 133080,
+                "movie_get_type": 1
+            },
+            {
+                "unit_id": 133081,
+                "movie_get_type": 1
+            }
+        ]
     }
 ]
