@@ -33329,5 +33329,206 @@
                 "param": "21@0@0@0@0"
             }
         ]
+    },
+    {
+        "terms_id": 2233,
+        "terms_data": [
+            {
+                "terms_type": 108,
+                "param": "460030@0@0@0@0"
+            },
+            {
+                "terms_type": 112,
+                "param": "0@0@501@1@0"
+            }
+        ]
+    },
+    {
+        "terms_id": 2234,
+        "terms_data": [
+            {
+                "terms_type": 101,
+                "param": "300000@0@0@0@0"
+            },
+            {
+                "terms_type": 108,
+                "param": "20002870@0@0@0@0"
+            }
+        ]
+    },
+    {
+        "terms_id": 2235,
+        "terms_data": [
+            {
+                "terms_type": 101,
+                "param": "800000@0@0@0@0"
+            },
+            {
+                "terms_type": 108,
+                "param": "20002870@0@0@0@0"
+            },
+            {
+                "terms_type": 116,
+                "param": "6@1@0@0@0"
+            }
+        ]
+    },
+    {
+        "terms_id": 2236,
+        "terms_data": [
+            {
+                "terms_type": 106,
+                "param": "1@0@0@0@0"
+            },
+            {
+                "terms_type": 108,
+                "param": "20002870@0@0@0@0"
+            }
+        ]
+    },
+    {
+        "terms_id": 2237,
+        "terms_data": [
+            {
+                "terms_type": 101,
+                "param": "1000000@0@0@0@0"
+            },
+            {
+                "terms_type": 108,
+                "param": "20002870@0@0@0@0"
+            },
+            {
+                "terms_type": 116,
+                "param": "5@1@0@0@0"
+            }
+        ]
+    },
+    {
+        "terms_id": 2238,
+        "terms_data": [
+            {
+                "terms_type": 101,
+                "param": "1150000@0@0@0@0"
+            },
+            {
+                "terms_type": 108,
+                "param": "20002870@0@0@0@0"
+            },
+            {
+                "terms_type": 116,
+                "param": "4@1@0@0@0"
+            }
+        ]
+    },
+    {
+        "terms_id": 2239,
+        "terms_data": [
+            {
+                "terms_type": 101,
+                "param": "1250000@0@0@0@0"
+            },
+            {
+                "terms_type": 108,
+                "param": "20002870@0@0@0@0"
+            },
+            {
+                "terms_type": 116,
+                "param": "3@1@0@0@0"
+            }
+        ]
+    },
+    {
+        "terms_id": 2240,
+        "terms_data": [
+            {
+                "terms_type": 101,
+                "param": "300000@0@0@0@0"
+            },
+            {
+                "terms_type": 108,
+                "param": "20002880@0@0@0@0"
+            }
+        ]
+    },
+    {
+        "terms_id": 2241,
+        "terms_data": [
+            {
+                "terms_type": 101,
+                "param": "800000@0@0@0@0"
+            },
+            {
+                "terms_type": 108,
+                "param": "20002880@0@0@0@0"
+            },
+            {
+                "terms_type": 116,
+                "param": "3@1@0@0@0"
+            }
+        ]
+    },
+    {
+        "terms_id": 2242,
+        "terms_data": [
+            {
+                "terms_type": 106,
+                "param": "1@0@0@0@0"
+            },
+            {
+                "terms_type": 108,
+                "param": "20002880@0@0@0@0"
+            }
+        ]
+    },
+    {
+        "terms_id": 2243,
+        "terms_data": [
+            {
+                "terms_type": 101,
+                "param": "1000000@0@0@0@0"
+            },
+            {
+                "terms_type": 108,
+                "param": "20002880@0@0@0@0"
+            },
+            {
+                "terms_type": 116,
+                "param": "4@1@0@0@0"
+            }
+        ]
+    },
+    {
+        "terms_id": 2244,
+        "terms_data": [
+            {
+                "terms_type": 101,
+                "param": "1150000@0@0@0@0"
+            },
+            {
+                "terms_type": 108,
+                "param": "20002880@0@0@0@0"
+            },
+            {
+                "terms_type": 116,
+                "param": "5@1@0@0@0"
+            }
+        ]
+    },
+    {
+        "terms_id": 2245,
+        "terms_data": [
+            {
+                "terms_type": 101,
+                "param": "1250000@0@0@0@0"
+            },
+            {
+                "terms_type": 108,
+                "param": "20002880@0@0@0@0"
+            },
+            {
+                "terms_type": 116,
+                "param": "6@1@0@0@0"
+            }
+        ]
     }
 ]

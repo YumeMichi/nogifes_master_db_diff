@@ -3716,6 +3716,20 @@
         "arranger": "APAZZI"
     },
     {
+        "music_id": 380020,
+        "music_name": "僕たちのサヨナラ",
+        "music_name_kana": "ぼくたちのさよなら",
+        "search_word": [],
+        "music_type": 1,
+        "center_girl_id": 104,
+        "release_date": 2023032902,
+        "music_length": 172,
+        "information": "すごく良い曲だよー",
+        "lyricist": "秋元 康",
+        "composer": "かわい えいじ",
+        "arranger": "かわいえいじ"
+    },
+    {
         "music_id": 380030,
         "music_name": "心にもないこと",
         "music_name_kana": "こころにもないこと",
@@ -6021,5 +6035,23 @@
         "lyricist": "秋元 康",
         "composer": "杉山 勝彦",
         "arranger": "野中“まさ”雄一"
+    },
+    {
+        "music_id": 90000870,
+        "music_name": "おひとりさま天国 -5th ALBUM MEMORIAL LIVE ver-",
+        "music_name_kana": "おひとりさまてんごくふぃふすあるばむめもりあるらいぶばーじょん",
+        "search_word": [
+            {
+                "word": "とりてん"
+            }
+        ],
+        "music_type": 1,
+        "center_girl_id": 104,
+        "release_date": 2099032700,
+        "music_length": 183,
+        "information": "すごく良い曲だよー",
+        "lyricist": "秋元 康",
+        "composer": "Akira Sunset，丸谷 マナブ，ha-j，遠藤 ナオキ",
+        "arranger": "APAZZI"
     }
 ]

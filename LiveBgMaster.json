@@ -3852,6 +3852,24 @@
         "live_location": "大阪城ホール"
     },
     {
+        "live_bg_id": 380021,
+        "live_bg_name": "僕たちのサヨナラ",
+        "live_bg_type": 1,
+        "music_id": 380020,
+        "live_name": "Coupling Collection 2022-2025",
+        "live_date": "2026年2月20日",
+        "live_location": "有明アリーナ"
+    },
+    {
+        "live_bg_id": 380022,
+        "live_bg_name": "僕たちのサヨナラ",
+        "live_bg_type": 2,
+        "music_id": 380020,
+        "live_name": "Coupling Collection 2022-2025",
+        "live_date": "2026年2月20日",
+        "live_location": "有明アリーナ"
+    },
+    {
         "live_bg_id": 380031,
         "live_bg_name": "心にもないこと",
         "live_bg_type": 1,
@@ -6082,6 +6100,24 @@
         "live_name": "真夏の全国ツアー2025",
         "live_date": "2025年7月17日",
         "live_location": "大阪城ホール"
+    },
+    {
+        "live_bg_id": 90000871,
+        "live_bg_name": "おひとりさま天国 -5th ALBUM MEMORIAL LIVE ver-",
+        "live_bg_type": 1,
+        "music_id": 90000870,
+        "live_name": "5th ALBUM MEMORIAL LIVE 『My respect』",
+        "live_date": "2026年2月23日",
+        "live_location": "有明アリーナ"
+    },
+    {
+        "live_bg_id": 90000872,
+        "live_bg_name": "おひとりさま天国 -5th ALBUM MEMORIAL LIVE ver-",
+        "live_bg_type": 2,
+        "music_id": 90000870,
+        "live_name": "5th ALBUM MEMORIAL LIVE 『My respect』",
+        "live_date": "2026年2月23日",
+        "live_location": "有明アリーナ"
     },
     {
         "live_bg_id": 90010011,

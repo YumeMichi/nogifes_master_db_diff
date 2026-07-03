@@ -448,5 +448,50 @@
         "end_date": 1782658799,
         "bg_frame_flag": 1,
         "resource_id": 50
+    },
+    {
+        "splash_id": 51,
+        "splash_type": 2,
+        "disp_order": 51,
+        "start_date": 1783090800,
+        "end_date": 1783263599,
+        "bg_frame_flag": 0,
+        "resource_id": 51
+    },
+    {
+        "splash_id": 52,
+        "splash_type": 2,
+        "disp_order": 52,
+        "start_date": 1783695600,
+        "end_date": 1783868399,
+        "bg_frame_flag": 0,
+        "resource_id": 52
+    },
+    {
+        "splash_id": 53,
+        "splash_type": 2,
+        "disp_order": 53,
+        "start_date": 1784041200,
+        "end_date": 1784213999,
+        "bg_frame_flag": 0,
+        "resource_id": 53
+    },
+    {
+        "splash_id": 54,
+        "splash_type": 2,
+        "disp_order": 54,
+        "start_date": 1784905200,
+        "end_date": 1785077999,
+        "bg_frame_flag": 0,
+        "resource_id": 54
+    },
+    {
+        "splash_id": 55,
+        "splash_type": 2,
+        "disp_order": 55,
+        "start_date": 1786114800,
+        "end_date": 1786287599,
+        "bg_frame_flag": 0,
+        "resource_id": 55
     }
 ]

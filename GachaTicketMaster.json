@@ -10184,5 +10184,71 @@
         "rarity": 7,
         "resource_id": 26,
         "description": "対象ガチャからUR以下の対象カードを引き換えることができるチケット。"
+    },
+    {
+        "gacha_ticket_id": 927,
+        "ticket_name": "Coupling Collection 2022-2025ガチャ1回チケット",
+        "ticket_type": 1,
+        "num_type": 1,
+        "gacha_type": 0,
+        "gacha_id": 2221,
+        "rarity": 0,
+        "resource_id": 16,
+        "description": "対象のガチャを1回引けるチケット。"
+    },
+    {
+        "gacha_ticket_id": 928,
+        "ticket_name": "Coupling Collection 2022-2025ガチャ10連チケット",
+        "ticket_type": 1,
+        "num_type": 2,
+        "gacha_type": 0,
+        "gacha_id": 2221,
+        "rarity": 0,
+        "resource_id": 17,
+        "description": "対象のガチャを10回引けるチケット。"
+    },
+    {
+        "gacha_ticket_id": 929,
+        "ticket_name": "5th ALBUM MEMORIAL LIVEガチャ1回チケット",
+        "ticket_type": 1,
+        "num_type": 1,
+        "gacha_type": 0,
+        "gacha_id": 2225,
+        "rarity": 0,
+        "resource_id": 16,
+        "description": "対象のガチャを1回引けるチケット。"
+    },
+    {
+        "gacha_ticket_id": 930,
+        "ticket_name": "5th ALBUM MEMORIAL LIVEガチャ10連チケット",
+        "ticket_type": 1,
+        "num_type": 2,
+        "gacha_type": 0,
+        "gacha_id": 2225,
+        "rarity": 0,
+        "resource_id": 17,
+        "description": "対象のガチャを10回引けるチケット。"
+    },
+    {
+        "gacha_ticket_id": 931,
+        "ticket_name": "瀬戸口心月バースデーガチャ10連チケット",
+        "ticket_type": 1,
+        "num_type": 2,
+        "gacha_type": 0,
+        "gacha_id": 2226,
+        "rarity": 0,
+        "resource_id": 17,
+        "description": "対象のガチャを10回引けるチケット。"
+    },
+    {
+        "gacha_ticket_id": 932,
+        "ticket_name": "瀬戸口心月バースデーガチャSSR確定チケット",
+        "ticket_type": 2,
+        "num_type": 1,
+        "gacha_type": 0,
+        "gacha_id": 2226,
+        "rarity": 5,
+        "resource_id": 19,
+        "description": "対象のガチャを1回引ける、且つSSRが確定で出現するチケット。"
     }
 ]
