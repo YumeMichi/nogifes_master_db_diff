@@ -10250,5 +10250,159 @@
         "rarity": 5,
         "resource_id": 19,
         "description": "対象のガチャを1回引ける、且つSSRが確定で出現するチケット。"
+    },
+    {
+        "gacha_ticket_id": 933,
+        "ticket_name": "夏恋ドロップス [A]1回チケット",
+        "ticket_type": 1,
+        "num_type": 1,
+        "gacha_type": 0,
+        "gacha_id": 2227,
+        "rarity": 0,
+        "resource_id": 16,
+        "description": "対象のガチャを1回引けるチケット。"
+    },
+    {
+        "gacha_ticket_id": 934,
+        "ticket_name": "夏恋ドロップス [B]1回チケット",
+        "ticket_type": 1,
+        "num_type": 1,
+        "gacha_type": 0,
+        "gacha_id": 2228,
+        "rarity": 0,
+        "resource_id": 16,
+        "description": "対象のガチャを1回引けるチケット。"
+    },
+    {
+        "gacha_ticket_id": 935,
+        "ticket_name": "夏恋ドロップス [C]1回チケット",
+        "ticket_type": 1,
+        "num_type": 1,
+        "gacha_type": 0,
+        "gacha_id": 2229,
+        "rarity": 0,
+        "resource_id": 16,
+        "description": "対象のガチャを1回引けるチケット。"
+    },
+    {
+        "gacha_ticket_id": 936,
+        "ticket_name": "LIVE ENCORE miku×sakura1回チケット",
+        "ticket_type": 1,
+        "num_type": 1,
+        "gacha_type": 0,
+        "gacha_id": 2230,
+        "rarity": 0,
+        "resource_id": 16,
+        "description": "対象のガチャを1回引けるチケット。"
+    },
+    {
+        "gacha_ticket_id": 937,
+        "ticket_name": "41stSGアンダーライブガチャ[A]1回チケット",
+        "ticket_type": 1,
+        "num_type": 1,
+        "gacha_type": 0,
+        "gacha_id": 2231,
+        "rarity": 0,
+        "resource_id": 16,
+        "description": "対象のガチャを1回引けるチケット。"
+    },
+    {
+        "gacha_ticket_id": 938,
+        "ticket_name": "41stSGアンダーライブガチャ[B]1回チケット",
+        "ticket_type": 1,
+        "num_type": 1,
+        "gacha_type": 0,
+        "gacha_id": 2232,
+        "rarity": 0,
+        "resource_id": 16,
+        "description": "対象のガチャを1回引けるチケット。"
+    },
+    {
+        "gacha_ticket_id": 939,
+        "ticket_name": "五百城茉央バースデーガチャSSR確定チケット",
+        "ticket_type": 2,
+        "num_type": 1,
+        "gacha_type": 0,
+        "gacha_id": 2239,
+        "rarity": 5,
+        "resource_id": 19,
+        "description": "対象のガチャを1回引ける、且つSSRが確定で出現するチケット。"
+    },
+    {
+        "gacha_ticket_id": 940,
+        "ticket_name": "五百城茉央バースデーガチャ10連チケット",
+        "ticket_type": 1,
+        "num_type": 2,
+        "gacha_type": 0,
+        "gacha_id": 2239,
+        "rarity": 0,
+        "resource_id": 17,
+        "description": "対象のガチャを10回引けるチケット。"
+    },
+    {
+        "gacha_ticket_id": 941,
+        "ticket_name": "賀喜遥香バースデーガチャSSR確定チケット",
+        "ticket_type": 2,
+        "num_type": 1,
+        "gacha_type": 0,
+        "gacha_id": 2240,
+        "rarity": 5,
+        "resource_id": 19,
+        "description": "対象のガチャを1回引ける、且つSSRが確定で出現するチケット。"
+    },
+    {
+        "gacha_ticket_id": 942,
+        "ticket_name": "賀喜遥香バースデーガチャ10連チケット",
+        "ticket_type": 1,
+        "num_type": 2,
+        "gacha_type": 0,
+        "gacha_id": 2240,
+        "rarity": 0,
+        "resource_id": 17,
+        "description": "対象のガチャを10回引けるチケット。"
+    },
+    {
+        "gacha_ticket_id": 943,
+        "ticket_name": "奥田いろはバースデーガチャSSR確定チケット",
+        "ticket_type": 2,
+        "num_type": 1,
+        "gacha_type": 0,
+        "gacha_id": 2241,
+        "rarity": 5,
+        "resource_id": 19,
+        "description": "対象のガチャを1回引ける、且つSSRが確定で出現するチケット。"
+    },
+    {
+        "gacha_ticket_id": 944,
+        "ticket_name": "奥田いろはバースデーガチャ10連チケット",
+        "ticket_type": 1,
+        "num_type": 2,
+        "gacha_type": 0,
+        "gacha_id": 2241,
+        "rarity": 0,
+        "resource_id": 17,
+        "description": "対象のガチャを10回引けるチケット。"
+    },
+    {
+        "gacha_ticket_id": 945,
+        "ticket_name": "賀喜遥香 BIRTHDAYガチャSSR引換チケット",
+        "ticket_type": 4,
+        "num_type": 1,
+        "gacha_type": 0,
+        "gacha_id": 2240,
+        "rarity": 5,
+        "resource_id": 23,
+        "description": "対象ガチャからSSR以下の対象カードを引き換えることができるチケット"
+    },
+    {
+        "gacha_ticket_id": 946,
+        "ticket_name": "奥田いろは BIRTHDAYガチャSSR引換チケット",
+        "ticket_type": 4,
+        "num_type": 1,
+        "gacha_type": 0,
+        "gacha_id": 2241,
+        "rarity": 5,
+        "resource_id": 23,
+        "description": "対象ガチャからSSR以下の対象カードを引き換えることができるチケット"
     }
 ]

@@ -5510,5 +5510,44 @@
                 "week": "1111111"
             }
         ]
+    },
+    {
+        "schedule_group_id": 434,
+        "schedule_data": [
+            {
+                "schedule_id": 434,
+                "start_date": 1785466800,
+                "end_date": 1924959599,
+                "start_time": "00:00:00",
+                "end_time": "23:59:59",
+                "week": "1111111"
+            }
+        ]
+    },
+    {
+        "schedule_group_id": 435,
+        "schedule_data": [
+            {
+                "schedule_id": 435,
+                "start_date": 1786244400,
+                "end_date": 1924959599,
+                "start_time": "00:00:00",
+                "end_time": "23:59:59",
+                "week": "1111111"
+            }
+        ]
+    },
+    {
+        "schedule_group_id": 436,
+        "schedule_data": [
+            {
+                "schedule_id": 436,
+                "start_date": 1787108400,
+                "end_date": 1924959599,
+                "start_time": "00:00:00",
+                "end_time": "23:59:59",
+                "week": "1111111"
+            }
+        ]
     }
 ]

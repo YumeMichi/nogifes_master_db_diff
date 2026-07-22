@@ -7048,5 +7048,95 @@
         "target_event_id": 289,
         "type": 1,
         "special_bonus_rate": 1000
+    },
+    {
+        "trophy_id": 1176,
+        "target_event_id": 290,
+        "type": 5,
+        "special_bonus_rate": 10000
+    },
+    {
+        "trophy_id": 1177,
+        "target_event_id": 290,
+        "type": 4,
+        "special_bonus_rate": 7000
+    },
+    {
+        "trophy_id": 1178,
+        "target_event_id": 290,
+        "type": 3,
+        "special_bonus_rate": 4000
+    },
+    {
+        "trophy_id": 1179,
+        "target_event_id": 290,
+        "type": 2,
+        "special_bonus_rate": 2000
+    },
+    {
+        "trophy_id": 1180,
+        "target_event_id": 290,
+        "type": 1,
+        "special_bonus_rate": 1000
+    },
+    {
+        "trophy_id": 1181,
+        "target_event_id": 291,
+        "type": 5,
+        "special_bonus_rate": 10000
+    },
+    {
+        "trophy_id": 1182,
+        "target_event_id": 291,
+        "type": 4,
+        "special_bonus_rate": 7000
+    },
+    {
+        "trophy_id": 1183,
+        "target_event_id": 291,
+        "type": 3,
+        "special_bonus_rate": 4000
+    },
+    {
+        "trophy_id": 1184,
+        "target_event_id": 291,
+        "type": 2,
+        "special_bonus_rate": 2000
+    },
+    {
+        "trophy_id": 1185,
+        "target_event_id": 291,
+        "type": 1,
+        "special_bonus_rate": 1000
+    },
+    {
+        "trophy_id": 1186,
+        "target_event_id": 292,
+        "type": 5,
+        "special_bonus_rate": 10000
+    },
+    {
+        "trophy_id": 1187,
+        "target_event_id": 292,
+        "type": 4,
+        "special_bonus_rate": 7000
+    },
+    {
+        "trophy_id": 1188,
+        "target_event_id": 292,
+        "type": 3,
+        "special_bonus_rate": 4000
+    },
+    {
+        "trophy_id": 1189,
+        "target_event_id": 292,
+        "type": 2,
+        "special_bonus_rate": 2000
+    },
+    {
+        "trophy_id": 1190,
+        "target_event_id": 292,
+        "type": 1,
+        "special_bonus_rate": 1000
     }
 ]

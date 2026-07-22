@@ -4354,6 +4354,27 @@
         "arranger": "河田一真"
     },
     {
+        "music_id": 460040,
+        "music_name": "新宿バックオフ",
+        "music_name_kana": "しんじゅくばっくおふ",
+        "search_word": [
+            {
+                "word": "すいていしまい"
+            },
+            {
+                "word": "さくみく"
+            }
+        ],
+        "music_type": 1,
+        "center_girl_id": 104,
+        "release_date": 2025112604,
+        "music_length": 157,
+        "information": "すごく良い曲だよー",
+        "lyricist": "秋元 康",
+        "composer": "HIKARI，玉谷 友輝",
+        "arranger": "APAZZI"
+    },
+    {
         "music_id": 470010,
         "music_name": "My respect",
         "music_name_kana": "まいりすぺくと",
@@ -4366,6 +4387,24 @@
         "lyricist": "秋元 康",
         "composer": "Uto，河田 一真，尾上 榛",
         "arranger": "河田 一真，尾上 榛"
+    },
+    {
+        "music_id": 480020,
+        "music_name": "愛って羨ましい",
+        "music_name_kana": "あいってうらやましい",
+        "search_word": [
+            {
+                "word": "あんだー曲"
+            }
+        ],
+        "music_type": 1,
+        "center_girl_id": 104,
+        "release_date": 2026040802,
+        "music_length": 131,
+        "information": "すごく良い曲だよー",
+        "lyricist": "秋元 康",
+        "composer": "菅井 達司，石崎 光",
+        "arranger": "石崎 光"
     },
     {
         "music_id": 10000010,
@@ -6053,5 +6092,19 @@
         "lyricist": "秋元 康",
         "composer": "Akira Sunset，丸谷 マナブ，ha-j，遠藤 ナオキ",
         "arranger": "APAZZI"
+    },
+    {
+        "music_id": 90000880,
+        "music_name": "好きになってみた -真夏の全国ツアー2025 ver-",
+        "music_name_kana": "すきになってみたまなつのぜんこくつあーにせんにじゅうごばーじょん",
+        "search_word": [],
+        "music_type": 1,
+        "center_girl_id": 104,
+        "release_date": 2099032800,
+        "music_length": 111,
+        "information": "すごく良い曲だよー",
+        "lyricist": "秋元 康",
+        "composer": "youth case",
+        "arranger": "youth case，石塚知生"
     }
 ]

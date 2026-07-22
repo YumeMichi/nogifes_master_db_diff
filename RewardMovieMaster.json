@@ -48957,5 +48957,39 @@
                 "movie_get_type": 1
             }
         ]
+    },
+    {
+        "reward_movie_id": 2962,
+        "reward_movie_name": "真夏の全国ツアー2025 大阪公演<br />好きになってみた SPライブMOVIE",
+        "reward_movie_name_kana": "まなつのぜんこくつあーにせんにじゅうご　おおさかこうえん　すきになってみた　すぺしゃるらいぶむーびー",
+        "movie_type": 3,
+        "start_date": 1784786400,
+        "unit_data": [
+            {
+                "unit_id": 134710,
+                "movie_get_type": 1
+            },
+            {
+                "unit_id": 134711,
+                "movie_get_type": 1
+            }
+        ]
+    },
+    {
+        "reward_movie_id": 2963,
+        "reward_movie_name": "41stSG アンダーライブ<br />愛って羨ましい SPライブMOVIE",
+        "reward_movie_name_kana": "よんじゅういちまいめしんぐるあんだーらいぶ　あいってうらやましい　すぺしゃるらいぶむーびー",
+        "movie_type": 3,
+        "start_date": 1787151600,
+        "unit_data": [
+            {
+                "unit_id": 136000,
+                "movie_get_type": 1
+            },
+            {
+                "unit_id": 136001,
+                "movie_get_type": 1
+            }
+        ]
     }
 ]

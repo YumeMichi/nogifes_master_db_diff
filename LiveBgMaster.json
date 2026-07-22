@@ -4500,6 +4500,24 @@
         "live_location": "日本武道館"
     },
     {
+        "live_bg_id": 460041,
+        "live_bg_name": "新宿バックオフ",
+        "live_bg_type": 1,
+        "music_id": 460040,
+        "live_name": "Coupling Collection 2022-2025",
+        "live_date": "2026年2月21日",
+        "live_location": "有明アリーナ"
+    },
+    {
+        "live_bg_id": 460042,
+        "live_bg_name": "新宿バックオフ",
+        "live_bg_type": 2,
+        "music_id": 460040,
+        "live_name": "Coupling Collection 2022-2025",
+        "live_date": "2026年2月21日",
+        "live_location": "有明アリーナ"
+    },
+    {
         "live_bg_id": 470011,
         "live_bg_name": "My respect",
         "live_bg_type": 1,
@@ -4516,6 +4534,24 @@
         "live_name": "5th ALBUM MEMORIAL LIVE 『My respect』",
         "live_date": "2026年2月23日",
         "live_location": "有明アリーナ"
+    },
+    {
+        "live_bg_id": 480021,
+        "live_bg_name": "愛って羨ましい",
+        "live_bg_type": 1,
+        "music_id": 480020,
+        "live_name": "41thSGアンダーライブ",
+        "live_date": "2026年3月19日",
+        "live_location": "ぴあアリーナMM"
+    },
+    {
+        "live_bg_id": 480022,
+        "live_bg_name": "愛って羨ましい",
+        "live_bg_type": 2,
+        "music_id": 480020,
+        "live_name": "41thSGアンダーライブ",
+        "live_date": "2026年3月19日",
+        "live_location": "ぴあアリーナMM"
     },
     {
         "live_bg_id": 10000011,
@@ -6118,6 +6154,24 @@
         "live_name": "5th ALBUM MEMORIAL LIVE 『My respect』",
         "live_date": "2026年2月23日",
         "live_location": "有明アリーナ"
+    },
+    {
+        "live_bg_id": 90000881,
+        "live_bg_name": "好きになってみた -真夏の全国ツアー2025 ver-",
+        "live_bg_type": 1,
+        "music_id": 90000880,
+        "live_name": "真夏の全国ツアー2025",
+        "live_date": "2025年7月17日",
+        "live_location": "大阪城ホール"
+    },
+    {
+        "live_bg_id": 90000882,
+        "live_bg_name": "好きになってみた -真夏の全国ツアー2025 ver-",
+        "live_bg_type": 2,
+        "music_id": 90000880,
+        "live_name": "真夏の全国ツアー2025",
+        "live_date": "2025年7月17日",
+        "live_location": "大阪城ホール"
     },
     {
         "live_bg_id": 90010011,

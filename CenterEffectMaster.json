@@ -110311,5 +110311,623 @@
         "step_work_value2": 0,
         "step_gp2": 0,
         "description": "星属性のみ編成時GPを21％、さらに6期生1人につきGPアップを+1％（最大+6％）"
+    },
+    {
+        "center_effect_id": 1072,
+        "target_attribute_data": [
+            {
+                "attribute": 0,
+                "enable": 1
+            },
+            {
+                "attribute": 1,
+                "enable": 0
+            },
+            {
+                "attribute": 2,
+                "enable": 0
+            },
+            {
+                "attribute": 3,
+                "enable": 0
+            }
+        ],
+        "target_lineage_data": [
+            {
+                "lineage": 1,
+                "enable": 0
+            },
+            {
+                "lineage": 2,
+                "enable": 0
+            },
+            {
+                "lineage": 3,
+                "enable": 0
+            },
+            {
+                "lineage": 4,
+                "enable": 0
+            },
+            {
+                "lineage": 5,
+                "enable": 0
+            }
+        ],
+        "target_class_data": 0,
+        "work_terms": 0,
+        "work_value": 0,
+        "hp": 0,
+        "gp": 0,
+        "gold": 4500,
+        "medal": 4500,
+        "exp": 4500,
+        "step_work_terms": 0,
+        "step_work_value": 0,
+        "step_gp": 0,
+        "target_attribute_data2": [
+            {
+                "attribute": 0,
+                "enable": 0
+            },
+            {
+                "attribute": 1,
+                "enable": 0
+            },
+            {
+                "attribute": 2,
+                "enable": 0
+            },
+            {
+                "attribute": 3,
+                "enable": 0
+            }
+        ],
+        "target_lineage_data2": [
+            {
+                "lineage": 1,
+                "enable": 0
+            },
+            {
+                "lineage": 2,
+                "enable": 0
+            },
+            {
+                "lineage": 3,
+                "enable": 0
+            },
+            {
+                "lineage": 4,
+                "enable": 0
+            },
+            {
+                "lineage": 5,
+                "enable": 0
+            }
+        ],
+        "target_class_data2": 0,
+        "work_terms2": 0,
+        "work_value2": 0,
+        "hp2": 0,
+        "gp2": 0,
+        "step_work_terms2": 0,
+        "step_work_value2": 0,
+        "step_gp2": 0,
+        "description": "LIVEクリア時、XP・ノギー・メダルの獲得量45％アップ。"
+    },
+    {
+        "center_effect_id": 1073,
+        "target_attribute_data": [
+            {
+                "attribute": 0,
+                "enable": 1
+            },
+            {
+                "attribute": 1,
+                "enable": 0
+            },
+            {
+                "attribute": 2,
+                "enable": 0
+            },
+            {
+                "attribute": 3,
+                "enable": 0
+            }
+        ],
+        "target_lineage_data": [
+            {
+                "lineage": 1,
+                "enable": 0
+            },
+            {
+                "lineage": 2,
+                "enable": 0
+            },
+            {
+                "lineage": 3,
+                "enable": 0
+            },
+            {
+                "lineage": 4,
+                "enable": 0
+            },
+            {
+                "lineage": 5,
+                "enable": 0
+            }
+        ],
+        "target_class_data": 0,
+        "work_terms": 0,
+        "work_value": 0,
+        "hp": 0,
+        "gp": 0,
+        "gold": 5000,
+        "medal": 5000,
+        "exp": 5000,
+        "step_work_terms": 0,
+        "step_work_value": 0,
+        "step_gp": 0,
+        "target_attribute_data2": [
+            {
+                "attribute": 0,
+                "enable": 0
+            },
+            {
+                "attribute": 1,
+                "enable": 0
+            },
+            {
+                "attribute": 2,
+                "enable": 0
+            },
+            {
+                "attribute": 3,
+                "enable": 0
+            }
+        ],
+        "target_lineage_data2": [
+            {
+                "lineage": 1,
+                "enable": 0
+            },
+            {
+                "lineage": 2,
+                "enable": 0
+            },
+            {
+                "lineage": 3,
+                "enable": 0
+            },
+            {
+                "lineage": 4,
+                "enable": 0
+            },
+            {
+                "lineage": 5,
+                "enable": 0
+            }
+        ],
+        "target_class_data2": 0,
+        "work_terms2": 0,
+        "work_value2": 0,
+        "hp2": 0,
+        "gp2": 0,
+        "step_work_terms2": 0,
+        "step_work_value2": 0,
+        "step_gp2": 0,
+        "description": "LIVEクリア時、XP・ノギー・メダルの獲得量50％アップ。"
+    },
+    {
+        "center_effect_id": 1074,
+        "target_attribute_data": [
+            {
+                "attribute": 0,
+                "enable": 1
+            },
+            {
+                "attribute": 1,
+                "enable": 0
+            },
+            {
+                "attribute": 2,
+                "enable": 0
+            },
+            {
+                "attribute": 3,
+                "enable": 0
+            }
+        ],
+        "target_lineage_data": [
+            {
+                "lineage": 1,
+                "enable": 0
+            },
+            {
+                "lineage": 2,
+                "enable": 0
+            },
+            {
+                "lineage": 3,
+                "enable": 0
+            },
+            {
+                "lineage": 4,
+                "enable": 0
+            },
+            {
+                "lineage": 5,
+                "enable": 0
+            }
+        ],
+        "target_class_data": 0,
+        "work_terms": 0,
+        "work_value": 0,
+        "hp": 0,
+        "gp": 0,
+        "gold": 6500,
+        "medal": 6500,
+        "exp": 6500,
+        "step_work_terms": 0,
+        "step_work_value": 0,
+        "step_gp": 0,
+        "target_attribute_data2": [
+            {
+                "attribute": 0,
+                "enable": 0
+            },
+            {
+                "attribute": 1,
+                "enable": 0
+            },
+            {
+                "attribute": 2,
+                "enable": 0
+            },
+            {
+                "attribute": 3,
+                "enable": 0
+            }
+        ],
+        "target_lineage_data2": [
+            {
+                "lineage": 1,
+                "enable": 0
+            },
+            {
+                "lineage": 2,
+                "enable": 0
+            },
+            {
+                "lineage": 3,
+                "enable": 0
+            },
+            {
+                "lineage": 4,
+                "enable": 0
+            },
+            {
+                "lineage": 5,
+                "enable": 0
+            }
+        ],
+        "target_class_data2": 0,
+        "work_terms2": 0,
+        "work_value2": 0,
+        "hp2": 0,
+        "gp2": 0,
+        "step_work_terms2": 0,
+        "step_work_value2": 0,
+        "step_gp2": 0,
+        "description": "LIVEクリア時、XP・ノギー・メダルの獲得量65％アップ。"
+    },
+    {
+        "center_effect_id": 1075,
+        "target_attribute_data": [
+            {
+                "attribute": 0,
+                "enable": 1
+            },
+            {
+                "attribute": 1,
+                "enable": 0
+            },
+            {
+                "attribute": 2,
+                "enable": 0
+            },
+            {
+                "attribute": 3,
+                "enable": 0
+            }
+        ],
+        "target_lineage_data": [
+            {
+                "lineage": 1,
+                "enable": 0
+            },
+            {
+                "lineage": 2,
+                "enable": 0
+            },
+            {
+                "lineage": 3,
+                "enable": 0
+            },
+            {
+                "lineage": 4,
+                "enable": 0
+            },
+            {
+                "lineage": 5,
+                "enable": 0
+            }
+        ],
+        "target_class_data": 0,
+        "work_terms": 0,
+        "work_value": 0,
+        "hp": 0,
+        "gp": 0,
+        "gold": 7000,
+        "medal": 7000,
+        "exp": 7000,
+        "step_work_terms": 0,
+        "step_work_value": 0,
+        "step_gp": 0,
+        "target_attribute_data2": [
+            {
+                "attribute": 0,
+                "enable": 0
+            },
+            {
+                "attribute": 1,
+                "enable": 0
+            },
+            {
+                "attribute": 2,
+                "enable": 0
+            },
+            {
+                "attribute": 3,
+                "enable": 0
+            }
+        ],
+        "target_lineage_data2": [
+            {
+                "lineage": 1,
+                "enable": 0
+            },
+            {
+                "lineage": 2,
+                "enable": 0
+            },
+            {
+                "lineage": 3,
+                "enable": 0
+            },
+            {
+                "lineage": 4,
+                "enable": 0
+            },
+            {
+                "lineage": 5,
+                "enable": 0
+            }
+        ],
+        "target_class_data2": 0,
+        "work_terms2": 0,
+        "work_value2": 0,
+        "hp2": 0,
+        "gp2": 0,
+        "step_work_terms2": 0,
+        "step_work_value2": 0,
+        "step_gp2": 0,
+        "description": "LIVEクリア時、XP・ノギー・メダルの獲得量70％アップ。"
+    },
+    {
+        "center_effect_id": 1076,
+        "target_attribute_data": [
+            {
+                "attribute": 0,
+                "enable": 1
+            },
+            {
+                "attribute": 1,
+                "enable": 0
+            },
+            {
+                "attribute": 2,
+                "enable": 0
+            },
+            {
+                "attribute": 3,
+                "enable": 0
+            }
+        ],
+        "target_lineage_data": [
+            {
+                "lineage": 1,
+                "enable": 0
+            },
+            {
+                "lineage": 2,
+                "enable": 0
+            },
+            {
+                "lineage": 3,
+                "enable": 0
+            },
+            {
+                "lineage": 4,
+                "enable": 0
+            },
+            {
+                "lineage": 5,
+                "enable": 0
+            }
+        ],
+        "target_class_data": 0,
+        "work_terms": 0,
+        "work_value": 0,
+        "hp": 0,
+        "gp": 0,
+        "gold": 6500,
+        "medal": 6500,
+        "exp": 6500,
+        "step_work_terms": 0,
+        "step_work_value": 0,
+        "step_gp": 0,
+        "target_attribute_data2": [
+            {
+                "attribute": 0,
+                "enable": 0
+            },
+            {
+                "attribute": 1,
+                "enable": 0
+            },
+            {
+                "attribute": 2,
+                "enable": 0
+            },
+            {
+                "attribute": 3,
+                "enable": 0
+            }
+        ],
+        "target_lineage_data2": [
+            {
+                "lineage": 1,
+                "enable": 0
+            },
+            {
+                "lineage": 2,
+                "enable": 0
+            },
+            {
+                "lineage": 3,
+                "enable": 0
+            },
+            {
+                "lineage": 4,
+                "enable": 0
+            },
+            {
+                "lineage": 5,
+                "enable": 0
+            }
+        ],
+        "target_class_data2": 0,
+        "work_terms2": 0,
+        "work_value2": 0,
+        "hp2": 0,
+        "gp2": 0,
+        "step_work_terms2": 0,
+        "step_work_value2": 0,
+        "step_gp2": 0,
+        "description": "LIVEクリア時、XP・ノギー・メダルの獲得量65％アップ。"
+    },
+    {
+        "center_effect_id": 1077,
+        "target_attribute_data": [
+            {
+                "attribute": 0,
+                "enable": 1
+            },
+            {
+                "attribute": 1,
+                "enable": 0
+            },
+            {
+                "attribute": 2,
+                "enable": 0
+            },
+            {
+                "attribute": 3,
+                "enable": 0
+            }
+        ],
+        "target_lineage_data": [
+            {
+                "lineage": 1,
+                "enable": 0
+            },
+            {
+                "lineage": 2,
+                "enable": 0
+            },
+            {
+                "lineage": 3,
+                "enable": 0
+            },
+            {
+                "lineage": 4,
+                "enable": 0
+            },
+            {
+                "lineage": 5,
+                "enable": 0
+            }
+        ],
+        "target_class_data": 0,
+        "work_terms": 0,
+        "work_value": 0,
+        "hp": 0,
+        "gp": 0,
+        "gold": 7000,
+        "medal": 7000,
+        "exp": 7000,
+        "step_work_terms": 0,
+        "step_work_value": 0,
+        "step_gp": 0,
+        "target_attribute_data2": [
+            {
+                "attribute": 0,
+                "enable": 0
+            },
+            {
+                "attribute": 1,
+                "enable": 0
+            },
+            {
+                "attribute": 2,
+                "enable": 0
+            },
+            {
+                "attribute": 3,
+                "enable": 0
+            }
+        ],
+        "target_lineage_data2": [
+            {
+                "lineage": 1,
+                "enable": 0
+            },
+            {
+                "lineage": 2,
+                "enable": 0
+            },
+            {
+                "lineage": 3,
+                "enable": 0
+            },
+            {
+                "lineage": 4,
+                "enable": 0
+            },
+            {
+                "lineage": 5,
+                "enable": 0
+            }
+        ],
+        "target_class_data2": 0,
+        "work_terms2": 0,
+        "work_value2": 0,
+        "hp2": 0,
+        "gp2": 0,
+        "step_work_terms2": 0,
+        "step_work_value2": 0,
+        "step_gp2": 0,
+        "description": "LIVEクリア時、XP・ノギー・メダルの獲得量70％アップ。"
     }
 ]

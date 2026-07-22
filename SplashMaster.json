@@ -493,5 +493,32 @@
         "end_date": 1786287599,
         "bg_frame_flag": 0,
         "resource_id": 55
+    },
+    {
+        "splash_id": 56,
+        "splash_type": 1,
+        "disp_order": 56,
+        "start_date": 1784700000,
+        "end_date": 1785470399,
+        "bg_frame_flag": 1,
+        "resource_id": 56
+    },
+    {
+        "splash_id": 57,
+        "splash_type": 1,
+        "disp_order": 57,
+        "start_date": 1786114800,
+        "end_date": 1786201199,
+        "bg_frame_flag": 1,
+        "resource_id": 57
+    },
+    {
+        "splash_id": 58,
+        "splash_type": 1,
+        "disp_order": 58,
+        "start_date": 1787151600,
+        "end_date": 1787237999,
+        "bg_frame_flag": 1,
+        "resource_id": 58
     }
 ]

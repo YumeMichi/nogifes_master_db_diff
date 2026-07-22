@@ -58613,5 +58613,125 @@
                 ]
             }
         ]
+    },
+    {
+        "exceed_reward_id": 2656,
+        "exceed_count_data": [
+            {
+                "exceed_count": 1,
+                "reward_data": [
+                    {
+                        "data_type": 27,
+                        "data_id": 17169,
+                        "data_num": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "exceed_reward_id": 2657,
+        "exceed_count_data": [
+            {
+                "exceed_count": 1,
+                "reward_data": [
+                    {
+                        "data_type": 27,
+                        "data_id": 17186,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "exceed_count": 2,
+                "reward_data": [
+                    {
+                        "data_type": 27,
+                        "data_id": 17187,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "exceed_count": 3,
+                "reward_data": [
+                    {
+                        "data_type": 27,
+                        "data_id": 17188,
+                        "data_num": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "exceed_reward_id": 2658,
+        "exceed_count_data": [
+            {
+                "exceed_count": 1,
+                "reward_data": [
+                    {
+                        "data_type": 27,
+                        "data_id": 17191,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "exceed_count": 2,
+                "reward_data": [
+                    {
+                        "data_type": 27,
+                        "data_id": 17192,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "exceed_count": 3,
+                "reward_data": [
+                    {
+                        "data_type": 27,
+                        "data_id": 17193,
+                        "data_num": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "exceed_reward_id": 2659,
+        "exceed_count_data": [
+            {
+                "exceed_count": 1,
+                "reward_data": [
+                    {
+                        "data_type": 27,
+                        "data_id": 17196,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "exceed_count": 2,
+                "reward_data": [
+                    {
+                        "data_type": 27,
+                        "data_id": 17197,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "exceed_count": 3,
+                "reward_data": [
+                    {
+                        "data_type": 27,
+                        "data_id": 17198,
+                        "data_num": 1
+                    }
+                ]
+            }
+        ]
     }
 ]

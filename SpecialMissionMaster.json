@@ -4336,6 +4336,150 @@
         ]
     },
     {
+        "special_mission_id": 7517,
+        "special_mission_name": "【アンダラ】期間限定ガチャを1回引こう",
+        "disp_order": 7508,
+        "start_date": 1786341600,
+        "end_date": 1787065199,
+        "mission_type": 107,
+        "mission_param": "2@1@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 22,
+                "data_id": 937,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7518,
+        "special_mission_name": "【アンダラ】「落とし物」のLIVEを奥田いろはを編成してクリア",
+        "disp_order": 7509,
+        "start_date": 1786341600,
+        "end_date": 1787065199,
+        "mission_type": 125,
+        "mission_param": "2031@0@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 22,
+                "data_id": 938,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7519,
+        "special_mission_name": "【アンダラ】「それまでの猶予」のLIVEを冨里奈央を編成してクリア",
+        "disp_order": 7510,
+        "start_date": 1786341600,
+        "end_date": 1787065199,
+        "mission_type": 125,
+        "mission_param": "2032@0@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 3,
+                "data_id": 3,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7520,
+        "special_mission_name": "【アンダラ】「交感神経優位」のLIVEを柴田柚菜を編成してクリア",
+        "disp_order": 7511,
+        "start_date": 1786341600,
+        "end_date": 1787065199,
+        "mission_type": 125,
+        "mission_param": "2204@0@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 23,
+                "data_id": 0,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7521,
+        "special_mission_name": "【アンダラ】「不道徳な夏」のLIVEを金川紗耶を編成してクリア",
+        "disp_order": 7512,
+        "start_date": 1786341600,
+        "end_date": 1787065199,
+        "mission_type": 125,
+        "mission_param": "2205@0@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 5,
+                "data_id": 13,
+                "data_num": 3
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7522,
+        "special_mission_name": "【アンダラ】「純粋とは何か？」のLIVEを五百城茉央を編成してクリア",
+        "disp_order": 7513,
+        "start_date": 1786341600,
+        "end_date": 1787065199,
+        "mission_type": 125,
+        "mission_param": "2233@0@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 29,
+                "data_id": 0,
+                "data_num": 20
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7523,
+        "special_mission_name": "【アンダラ】イベントPを3000集めよう",
+        "disp_order": 7514,
+        "start_date": 1786341600,
+        "end_date": 1787065199,
+        "mission_type": 121,
+        "mission_param": "291@3000@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 20,
+                "data_id": 1,
+                "data_num": 5
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7524,
+        "special_mission_name": "【アンダラ】期間限定ガチャ「41stSGアンダーライブガチャ」の限定カードを3回強化しよう",
+        "disp_order": 7515,
+        "start_date": 1786341600,
+        "end_date": 1787065199,
+        "mission_type": 103,
+        "mission_param": "0@2232@2231@0@0@0@3@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 20,
+                "data_id": 2,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7525,
+        "special_mission_name": "【アンダラ】ミッションを全てクリア",
+        "disp_order": 7516,
+        "start_date": 1786341600,
+        "end_date": 1787065199,
+        "mission_type": 128,
+        "mission_param": "7517@7524@8@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 13,
+                "data_id": 0,
+                "data_num": 5
+            }
+        ]
+    },
+    {
         "special_mission_id": 7526,
         "special_mission_name": "「おひとりさま天国 -5th ALBUM MEMORIAL LIVE ver-」のLIVEを20回クリアしよう",
         "disp_order": 7517,
@@ -4471,6 +4615,422 @@
         "end_date": 1784559599,
         "mission_type": 119,
         "mission_param": "288@240@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 13,
+                "data_id": 0,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7549,
+        "special_mission_name": "「好きになってみた -真夏の全国ツアー2025 ver-」のLIVEを20回クリアしよう",
+        "disp_order": 7540,
+        "start_date": 1784786400,
+        "end_date": 1785423599,
+        "mission_type": 101,
+        "mission_param": "20002890@0@20@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 13,
+                "data_id": 0,
+                "data_num": 10
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7550,
+        "special_mission_name": "「思い出のラムネ瓶」を240個集めよう",
+        "disp_order": 7541,
+        "start_date": 1784786400,
+        "end_date": 1784818799,
+        "mission_type": 119,
+        "mission_param": "289@240@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 13,
+                "data_id": 0,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7551,
+        "special_mission_name": "「思い出のラムネ瓶」を240個集めよう",
+        "disp_order": 7542,
+        "start_date": 1784818800,
+        "end_date": 1784905199,
+        "mission_type": 119,
+        "mission_param": "289@240@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 13,
+                "data_id": 0,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7552,
+        "special_mission_name": "「思い出のラムネ瓶」を240個集めよう",
+        "disp_order": 7543,
+        "start_date": 1784905200,
+        "end_date": 1784991599,
+        "mission_type": 119,
+        "mission_param": "289@240@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 13,
+                "data_id": 0,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7553,
+        "special_mission_name": "「思い出のラムネ瓶」を240個集めよう",
+        "disp_order": 7544,
+        "start_date": 1784991600,
+        "end_date": 1785077999,
+        "mission_type": 119,
+        "mission_param": "289@240@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 13,
+                "data_id": 0,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7554,
+        "special_mission_name": "「思い出のラムネ瓶」を240個集めよう",
+        "disp_order": 7545,
+        "start_date": 1785078000,
+        "end_date": 1785164399,
+        "mission_type": 119,
+        "mission_param": "289@240@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 13,
+                "data_id": 0,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7555,
+        "special_mission_name": "「思い出のラムネ瓶」を240個集めよう",
+        "disp_order": 7546,
+        "start_date": 1785164400,
+        "end_date": 1785250799,
+        "mission_type": 119,
+        "mission_param": "289@240@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 13,
+                "data_id": 0,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7556,
+        "special_mission_name": "「思い出のラムネ瓶」を240個集めよう",
+        "disp_order": 7547,
+        "start_date": 1785250800,
+        "end_date": 1785337199,
+        "mission_type": 119,
+        "mission_param": "289@240@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 13,
+                "data_id": 0,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7557,
+        "special_mission_name": "「思い出のラムネ瓶」を240個集めよう",
+        "disp_order": 7548,
+        "start_date": 1785337200,
+        "end_date": 1785423599,
+        "mission_type": 119,
+        "mission_param": "289@240@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 13,
+                "data_id": 0,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7573,
+        "special_mission_name": "「新宿バックオフ」のLIVEを20回クリアしよう",
+        "disp_order": 7564,
+        "start_date": 1785650400,
+        "end_date": 1786201199,
+        "mission_type": 101,
+        "mission_param": "20002900@0@20@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 13,
+                "data_id": 0,
+                "data_num": 10
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7574,
+        "special_mission_name": "「新宿行きの切符」を240個集めよう",
+        "disp_order": 7565,
+        "start_date": 1785650400,
+        "end_date": 1785682799,
+        "mission_type": 119,
+        "mission_param": "290@240@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 13,
+                "data_id": 0,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7575,
+        "special_mission_name": "「新宿行きの切符」を240個集めよう",
+        "disp_order": 7566,
+        "start_date": 1785682800,
+        "end_date": 1785769199,
+        "mission_type": 119,
+        "mission_param": "290@240@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 13,
+                "data_id": 0,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7576,
+        "special_mission_name": "「新宿行きの切符」を240個集めよう",
+        "disp_order": 7567,
+        "start_date": 1785769200,
+        "end_date": 1785855599,
+        "mission_type": 119,
+        "mission_param": "290@240@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 13,
+                "data_id": 0,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7577,
+        "special_mission_name": "「新宿行きの切符」を240個集めよう",
+        "disp_order": 7568,
+        "start_date": 1785855600,
+        "end_date": 1785941999,
+        "mission_type": 119,
+        "mission_param": "290@240@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 13,
+                "data_id": 0,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7578,
+        "special_mission_name": "「新宿行きの切符」を240個集めよう",
+        "disp_order": 7569,
+        "start_date": 1785942000,
+        "end_date": 1786028399,
+        "mission_type": 119,
+        "mission_param": "290@240@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 13,
+                "data_id": 0,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7579,
+        "special_mission_name": "「新宿行きの切符」を240個集めよう",
+        "disp_order": 7570,
+        "start_date": 1786028400,
+        "end_date": 1786114799,
+        "mission_type": 119,
+        "mission_param": "290@240@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 13,
+                "data_id": 0,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7580,
+        "special_mission_name": "「新宿行きの切符」を240個集めよう",
+        "disp_order": 7571,
+        "start_date": 1786114800,
+        "end_date": 1786201199,
+        "mission_type": 119,
+        "mission_param": "290@240@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 13,
+                "data_id": 0,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7581,
+        "special_mission_name": "「愛って羨ましい」のLIVEを20回クリアしよう",
+        "disp_order": 7572,
+        "start_date": 1786428000,
+        "end_date": 1787065199,
+        "mission_type": 101,
+        "mission_param": "20002910@0@20@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 13,
+                "data_id": 0,
+                "data_num": 10
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7582,
+        "special_mission_name": "「トウシューズ」を240個集めよう",
+        "disp_order": 7573,
+        "start_date": 1786428000,
+        "end_date": 1786460399,
+        "mission_type": 119,
+        "mission_param": "291@240@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 13,
+                "data_id": 0,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7583,
+        "special_mission_name": "「トウシューズ」を240個集めよう",
+        "disp_order": 7574,
+        "start_date": 1786460400,
+        "end_date": 1786546799,
+        "mission_type": 119,
+        "mission_param": "291@240@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 13,
+                "data_id": 0,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7584,
+        "special_mission_name": "「トウシューズ」を240個集めよう",
+        "disp_order": 7575,
+        "start_date": 1786546800,
+        "end_date": 1786633199,
+        "mission_type": 119,
+        "mission_param": "291@240@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 13,
+                "data_id": 0,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7585,
+        "special_mission_name": "「トウシューズ」を240個集めよう",
+        "disp_order": 7576,
+        "start_date": 1786633200,
+        "end_date": 1786719599,
+        "mission_type": 119,
+        "mission_param": "291@240@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 13,
+                "data_id": 0,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7586,
+        "special_mission_name": "「トウシューズ」を240個集めよう",
+        "disp_order": 7577,
+        "start_date": 1786719600,
+        "end_date": 1786805999,
+        "mission_type": 119,
+        "mission_param": "291@240@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 13,
+                "data_id": 0,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7587,
+        "special_mission_name": "「トウシューズ」を240個集めよう",
+        "disp_order": 7578,
+        "start_date": 1786806000,
+        "end_date": 1786892399,
+        "mission_type": 119,
+        "mission_param": "291@240@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 13,
+                "data_id": 0,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7588,
+        "special_mission_name": "「トウシューズ」を240個集めよう",
+        "disp_order": 7579,
+        "start_date": 1786892400,
+        "end_date": 1786978799,
+        "mission_type": 119,
+        "mission_param": "291@240@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 13,
+                "data_id": 0,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7589,
+        "special_mission_name": "「トウシューズ」を240個集めよう",
+        "disp_order": 7580,
+        "start_date": 1786978800,
+        "end_date": 1787065199,
+        "mission_type": 119,
+        "mission_param": "291@240@0@0@0@0@0@0@0@0",
         "reward_data": [
             {
                 "data_type": 13,
