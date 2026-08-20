@@ -48991,5 +48991,39 @@
                 "movie_get_type": 1
             }
         ]
+    },
+    {
+        "reward_movie_id": 2964,
+        "reward_movie_name": "Coupling Collection 2022-2025<br />君と猫 SPライブMOVIE",
+        "reward_movie_name_kana": "かっぷりんぐこれくしょん　にせんにじゅうににせんにじゅうご　きみとねこ　すぺしゃるらいぶむーびー",
+        "movie_type": 3,
+        "start_date": 1787378400,
+        "unit_data": [
+            {
+                "unit_id": 136110,
+                "movie_get_type": 1
+            },
+            {
+                "unit_id": 136111,
+                "movie_get_type": 1
+            }
+        ]
+    },
+    {
+        "reward_movie_id": 2965,
+        "reward_movie_name": "5th ALBUM MEMORIAL LIVE Day2<br />全力ラップタイム SPライブMOVIE",
+        "reward_movie_name_kana": "ふぃふすあるばむめもりあるらいぶ　でいつー　ぜんりょくらっぷたいむ　すぺしゃるらいぶむーびー",
+        "movie_type": 3,
+        "start_date": 1788501600,
+        "unit_data": [
+            {
+                "unit_id": 137170,
+                "movie_get_type": 1
+            },
+            {
+                "unit_id": 137171,
+                "movie_get_type": 1
+            }
+        ]
     }
 ]

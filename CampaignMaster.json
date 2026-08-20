@@ -22,5 +22,17 @@
         "end_date": 1782831599,
         "resource_id": 0,
         "description": ""
+    },
+    {
+        "campaign_id": 106,
+        "campaign_name": "【リアイベ開催】強化大成功率アップキャンペーン",
+        "campaign_type": 2,
+        "campaign_value": 40000,
+        "live_id": 0,
+        "stage_id": 0,
+        "start_date": 1788242400,
+        "end_date": 1793113199,
+        "resource_id": 0,
+        "description": ""
     }
 ]

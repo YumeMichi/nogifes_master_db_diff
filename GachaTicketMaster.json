@@ -10404,5 +10404,192 @@
         "rarity": 5,
         "resource_id": 23,
         "description": "対象ガチャからSSR以下の対象カードを引き換えることができるチケット"
+    },
+    {
+        "gacha_ticket_id": 947,
+        "ticket_name": "にゃ！にゃ！にゃんだふる！[A]1回チケット",
+        "ticket_type": 1,
+        "num_type": 1,
+        "gacha_type": 0,
+        "gacha_id": 2245,
+        "rarity": 0,
+        "resource_id": 16,
+        "description": "対象のガチャを1回引けるチケット。"
+    },
+    {
+        "gacha_ticket_id": 948,
+        "ticket_name": "にゃ！にゃ！にゃんだふる！[B]1回チケット",
+        "ticket_type": 1,
+        "num_type": 1,
+        "gacha_type": 0,
+        "gacha_id": 2246,
+        "rarity": 0,
+        "resource_id": 16,
+        "description": "対象のガチャを1回引けるチケット。"
+    },
+    {
+        "gacha_ticket_id": 949,
+        "ticket_name": "にゃ！にゃ！にゃんだふる！[C]1回チケット",
+        "ticket_type": 1,
+        "num_type": 1,
+        "gacha_type": 0,
+        "gacha_id": 2247,
+        "rarity": 0,
+        "resource_id": 16,
+        "description": "対象のガチャを1回引けるチケット。"
+    },
+    {
+        "gacha_ticket_id": 950,
+        "ticket_name": "プロローグ -REWEAR THE STORY-[A]1回チケット",
+        "ticket_type": 1,
+        "num_type": 1,
+        "gacha_type": 0,
+        "gacha_id": 2248,
+        "rarity": 0,
+        "resource_id": 16,
+        "description": "対象のガチャを1回引けるチケット。"
+    },
+    {
+        "gacha_ticket_id": 951,
+        "ticket_name": "プロローグ -REWEAR THE STORY-[B]1回チケット",
+        "ticket_type": 1,
+        "num_type": 1,
+        "gacha_type": 0,
+        "gacha_id": 2249,
+        "rarity": 0,
+        "resource_id": 16,
+        "description": "対象のガチャを1回引けるチケット。"
+    },
+    {
+        "gacha_ticket_id": 952,
+        "ticket_name": "吉田綾乃クリスティーありがとうガチャ[A]SR引換チケット",
+        "ticket_type": 4,
+        "num_type": 1,
+        "gacha_type": 0,
+        "gacha_id": 2250,
+        "rarity": 3,
+        "resource_id": 22,
+        "description": "対象ガチャからSRの対象カードを引き換えることができるチケット。"
+    },
+    {
+        "gacha_ticket_id": 953,
+        "ticket_name": "吉田綾乃クリスティーありがとうガチャ[A]SSR確定チケット",
+        "ticket_type": 2,
+        "num_type": 1,
+        "gacha_type": 0,
+        "gacha_id": 2250,
+        "rarity": 5,
+        "resource_id": 19,
+        "description": "対象のガチャを1回引ける、且つSSRカードが確定で出現するチケット。"
+    },
+    {
+        "gacha_ticket_id": 954,
+        "ticket_name": "吉田綾乃クリスティーありがとうガチャ[A]UR引換チケット",
+        "ticket_type": 7,
+        "num_type": 1,
+        "gacha_type": 0,
+        "gacha_id": 2250,
+        "rarity": 7,
+        "resource_id": 26,
+        "description": "対象ガチャからUR以下の対象カードを引き換えることができるチケット。"
+    },
+    {
+        "gacha_ticket_id": 955,
+        "ticket_name": "吉田綾乃クリスティーありがとうガチャ[B]SR引換チケット",
+        "ticket_type": 4,
+        "num_type": 1,
+        "gacha_type": 0,
+        "gacha_id": 2251,
+        "rarity": 3,
+        "resource_id": 22,
+        "description": "対象ガチャからSRの対象カードを引き換えることができるチケット。"
+    },
+    {
+        "gacha_ticket_id": 956,
+        "ticket_name": "吉田綾乃クリスティーありがとうガチャ[B]SSR確定チケット",
+        "ticket_type": 2,
+        "num_type": 1,
+        "gacha_type": 0,
+        "gacha_id": 2251,
+        "rarity": 5,
+        "resource_id": 19,
+        "description": "対象のガチャを1回引ける、且つSSRカードが確定で出現するチケット。"
+    },
+    {
+        "gacha_ticket_id": 957,
+        "ticket_name": "吉田綾乃クリスティーありがとうガチャ[B]UR引換チケット",
+        "ticket_type": 7,
+        "num_type": 1,
+        "gacha_type": 0,
+        "gacha_id": 2251,
+        "rarity": 7,
+        "resource_id": 26,
+        "description": "対象ガチャからUR以下の対象カードを引き換えることができるチケット。"
+    },
+    {
+        "gacha_ticket_id": 958,
+        "ticket_name": "吉田綾乃クリスティーありがとうガチャ[C]SR引換チケット",
+        "ticket_type": 4,
+        "num_type": 1,
+        "gacha_type": 0,
+        "gacha_id": 2252,
+        "rarity": 3,
+        "resource_id": 22,
+        "description": "対象ガチャからSRの対象カードを引き換えることができるチケット。"
+    },
+    {
+        "gacha_ticket_id": 959,
+        "ticket_name": "吉田綾乃クリスティーありがとうガチャ[C]SSR確定チケット",
+        "ticket_type": 2,
+        "num_type": 1,
+        "gacha_type": 0,
+        "gacha_id": 2252,
+        "rarity": 5,
+        "resource_id": 19,
+        "description": "対象のガチャを1回引ける、且つSSRカードが確定で出現するチケット。"
+    },
+    {
+        "gacha_ticket_id": 960,
+        "ticket_name": "吉田綾乃クリスティーありがとうガチャ[C]UR引換チケット",
+        "ticket_type": 7,
+        "num_type": 1,
+        "gacha_type": 0,
+        "gacha_id": 2252,
+        "rarity": 7,
+        "resource_id": 26,
+        "description": "対象ガチャからUR以下の対象カードを引き換えることができるチケット。"
+    },
+    {
+        "gacha_ticket_id": 961,
+        "ticket_name": "吉田綾乃クリスティー BIRTHDAYガチャSSR引換チケット",
+        "ticket_type": 4,
+        "num_type": 1,
+        "gacha_type": 0,
+        "gacha_id": 2254,
+        "rarity": 5,
+        "resource_id": 23,
+        "description": "対象ガチャからSSR以下の対象カードを引き換えることができるチケット"
+    },
+    {
+        "gacha_ticket_id": 962,
+        "ticket_name": "吉田綾乃クリスティーバースデーガチャSSR確定チケット",
+        "ticket_type": 2,
+        "num_type": 1,
+        "gacha_type": 0,
+        "gacha_id": 2254,
+        "rarity": 5,
+        "resource_id": 19,
+        "description": "対象のガチャを1回引ける、且つSSRが確定で出現するチケット。"
+    },
+    {
+        "gacha_ticket_id": 963,
+        "ticket_name": "吉田綾乃クリスティーバースデーガチャ10連チケット",
+        "ticket_type": 1,
+        "num_type": 2,
+        "gacha_type": 0,
+        "gacha_id": 2254,
+        "rarity": 0,
+        "resource_id": 17,
+        "description": "対象のガチャを10回引けるチケット。"
     }
 ]

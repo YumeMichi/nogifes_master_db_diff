@@ -2371,5 +2371,401 @@
                 "data_num": 1
             }
         ]
+    },
+    {
+        "gacha_bonus_id": 2250,
+        "bonus_data": [
+            {
+                "bonus_name": "吉田綾乃クリスティーありがとうガチャ[A]SR引換チケット",
+                "bonus_count": 1,
+                "first_flag": 1,
+                "data_type": 22,
+                "data_id": 952,
+                "data_num": 1
+            },
+            {
+                "bonus_name": "吉田綾乃クリスティーありがとうガチャ[A]SR引換チケット",
+                "bonus_count": 3,
+                "first_flag": 0,
+                "data_type": 22,
+                "data_id": 952,
+                "data_num": 1
+            },
+            {
+                "bonus_name": "吉田綾乃クリスティーありがとうガチャ[A]SR引換チケット",
+                "bonus_count": 6,
+                "first_flag": 0,
+                "data_type": 22,
+                "data_id": 952,
+                "data_num": 1
+            },
+            {
+                "bonus_name": "吉田綾乃クリスティーありがとうガチャ[A]SR引換チケット",
+                "bonus_count": 9,
+                "first_flag": 0,
+                "data_type": 22,
+                "data_id": 952,
+                "data_num": 1
+            },
+            {
+                "bonus_name": "吉田綾乃クリスティーありがとうガチャ[A]SSR確定チケット",
+                "bonus_count": 10,
+                "first_flag": 0,
+                "data_type": 22,
+                "data_id": 953,
+                "data_num": 1
+            },
+            {
+                "bonus_name": "吉田綾乃クリスティーありがとうガチャ[A]SR引換チケット",
+                "bonus_count": 12,
+                "first_flag": 0,
+                "data_type": 22,
+                "data_id": 952,
+                "data_num": 1
+            },
+            {
+                "bonus_name": "吉田綾乃クリスティーありがとうガチャ[A]SSR確定チケット",
+                "bonus_count": 15,
+                "first_flag": 0,
+                "data_type": 22,
+                "data_id": 953,
+                "data_num": 1
+            },
+            {
+                "bonus_name": "吉田綾乃クリスティーありがとうガチャ[A]SR引換チケット",
+                "bonus_count": 18,
+                "first_flag": 0,
+                "data_type": 22,
+                "data_id": 952,
+                "data_num": 1
+            },
+            {
+                "bonus_name": "吉田綾乃クリスティーありがとうガチャ[A]UR引換チケット",
+                "bonus_count": 20,
+                "first_flag": 0,
+                "data_type": 22,
+                "data_id": 954,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "gacha_bonus_id": 2251,
+        "bonus_data": [
+            {
+                "bonus_name": "吉田綾乃クリスティーありがとうガチャ[B]SR引換チケット",
+                "bonus_count": 1,
+                "first_flag": 1,
+                "data_type": 22,
+                "data_id": 955,
+                "data_num": 1
+            },
+            {
+                "bonus_name": "吉田綾乃クリスティーありがとうガチャ[B]SR引換チケット",
+                "bonus_count": 3,
+                "first_flag": 0,
+                "data_type": 22,
+                "data_id": 955,
+                "data_num": 1
+            },
+            {
+                "bonus_name": "吉田綾乃クリスティーありがとうガチャ[B]SR引換チケット",
+                "bonus_count": 6,
+                "first_flag": 0,
+                "data_type": 22,
+                "data_id": 955,
+                "data_num": 1
+            },
+            {
+                "bonus_name": "吉田綾乃クリスティーありがとうガチャ[B]SR引換チケット",
+                "bonus_count": 9,
+                "first_flag": 0,
+                "data_type": 22,
+                "data_id": 955,
+                "data_num": 1
+            },
+            {
+                "bonus_name": "吉田綾乃クリスティーありがとうガチャ[B]SSR確定チケット",
+                "bonus_count": 10,
+                "first_flag": 0,
+                "data_type": 22,
+                "data_id": 956,
+                "data_num": 1
+            },
+            {
+                "bonus_name": "吉田綾乃クリスティーありがとうガチャ[B]SR引換チケット",
+                "bonus_count": 12,
+                "first_flag": 0,
+                "data_type": 22,
+                "data_id": 955,
+                "data_num": 1
+            },
+            {
+                "bonus_name": "吉田綾乃クリスティーありがとうガチャ[B]SSR確定チケット",
+                "bonus_count": 15,
+                "first_flag": 0,
+                "data_type": 22,
+                "data_id": 956,
+                "data_num": 1
+            },
+            {
+                "bonus_name": "吉田綾乃クリスティーありがとうガチャ[B]SR引換チケット",
+                "bonus_count": 18,
+                "first_flag": 0,
+                "data_type": 22,
+                "data_id": 955,
+                "data_num": 1
+            },
+            {
+                "bonus_name": "吉田綾乃クリスティーありがとうガチャ[B]UR引換チケット",
+                "bonus_count": 20,
+                "first_flag": 0,
+                "data_type": 22,
+                "data_id": 957,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "gacha_bonus_id": 2252,
+        "bonus_data": [
+            {
+                "bonus_name": "吉田綾乃クリスティーありがとうガチャ[C]SR引換チケット",
+                "bonus_count": 1,
+                "first_flag": 1,
+                "data_type": 22,
+                "data_id": 958,
+                "data_num": 1
+            },
+            {
+                "bonus_name": "吉田綾乃クリスティーありがとうガチャ[C]SR引換チケット",
+                "bonus_count": 3,
+                "first_flag": 0,
+                "data_type": 22,
+                "data_id": 958,
+                "data_num": 1
+            },
+            {
+                "bonus_name": "吉田綾乃クリスティーありがとうガチャ[C]SR引換チケット",
+                "bonus_count": 6,
+                "first_flag": 0,
+                "data_type": 22,
+                "data_id": 958,
+                "data_num": 1
+            },
+            {
+                "bonus_name": "吉田綾乃クリスティーありがとうガチャ[C]SR引換チケット",
+                "bonus_count": 9,
+                "first_flag": 0,
+                "data_type": 22,
+                "data_id": 958,
+                "data_num": 1
+            },
+            {
+                "bonus_name": "吉田綾乃クリスティーありがとうガチャ[C]SSR確定チケット",
+                "bonus_count": 10,
+                "first_flag": 0,
+                "data_type": 22,
+                "data_id": 959,
+                "data_num": 1
+            },
+            {
+                "bonus_name": "吉田綾乃クリスティーありがとうガチャ[C]SR引換チケット",
+                "bonus_count": 12,
+                "first_flag": 0,
+                "data_type": 22,
+                "data_id": 958,
+                "data_num": 1
+            },
+            {
+                "bonus_name": "吉田綾乃クリスティーありがとうガチャ[C]SSR確定チケット",
+                "bonus_count": 15,
+                "first_flag": 0,
+                "data_type": 22,
+                "data_id": 959,
+                "data_num": 1
+            },
+            {
+                "bonus_name": "吉田綾乃クリスティーありがとうガチャ[C]SR引換チケット",
+                "bonus_count": 18,
+                "first_flag": 0,
+                "data_type": 22,
+                "data_id": 958,
+                "data_num": 1
+            },
+            {
+                "bonus_name": "吉田綾乃クリスティーありがとうガチャ[C]UR引換チケット",
+                "bonus_count": 20,
+                "first_flag": 0,
+                "data_type": 22,
+                "data_id": 960,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "gacha_bonus_id": 2254,
+        "bonus_data": [
+            {
+                "bonus_name": "吉田綾乃クリスティーのツバサ",
+                "bonus_count": 1,
+                "first_flag": 1,
+                "data_type": 6,
+                "data_id": 311,
+                "data_num": 20
+            },
+            {
+                "bonus_name": "吉田綾乃クリスティーのツバサ",
+                "bonus_count": 2,
+                "first_flag": 1,
+                "data_type": 6,
+                "data_id": 311,
+                "data_num": 20
+            },
+            {
+                "bonus_name": "吉田綾乃クリスティーのツバサ",
+                "bonus_count": 3,
+                "first_flag": 1,
+                "data_type": 6,
+                "data_id": 311,
+                "data_num": 20
+            },
+            {
+                "bonus_name": "吉田綾乃クリスティーのツバサ",
+                "bonus_count": 4,
+                "first_flag": 1,
+                "data_type": 6,
+                "data_id": 311,
+                "data_num": 20
+            },
+            {
+                "bonus_name": "吉田綾乃クリスティーのツバサ",
+                "bonus_count": 5,
+                "first_flag": 1,
+                "data_type": 6,
+                "data_id": 311,
+                "data_num": 20
+            },
+            {
+                "bonus_name": "吉田綾乃クリスティーのツバサ",
+                "bonus_count": 6,
+                "first_flag": 1,
+                "data_type": 6,
+                "data_id": 311,
+                "data_num": 20
+            },
+            {
+                "bonus_name": "吉田綾乃クリスティーのツバサ",
+                "bonus_count": 7,
+                "first_flag": 1,
+                "data_type": 6,
+                "data_id": 311,
+                "data_num": 20
+            },
+            {
+                "bonus_name": "吉田綾乃クリスティーのツバサ",
+                "bonus_count": 8,
+                "first_flag": 1,
+                "data_type": 6,
+                "data_id": 311,
+                "data_num": 20
+            },
+            {
+                "bonus_name": "吉田綾乃クリスティーのツバサ",
+                "bonus_count": 9,
+                "first_flag": 1,
+                "data_type": 6,
+                "data_id": 311,
+                "data_num": 20
+            },
+            {
+                "bonus_name": "吉田綾乃クリスティーのツバサ",
+                "bonus_count": 10,
+                "first_flag": 1,
+                "data_type": 6,
+                "data_id": 311,
+                "data_num": 20
+            },
+            {
+                "bonus_name": "吉田綾乃クリスティーのツバサ",
+                "bonus_count": 11,
+                "first_flag": 1,
+                "data_type": 6,
+                "data_id": 311,
+                "data_num": 20
+            },
+            {
+                "bonus_name": "吉田綾乃クリスティーのツバサ",
+                "bonus_count": 12,
+                "first_flag": 1,
+                "data_type": 6,
+                "data_id": 311,
+                "data_num": 20
+            },
+            {
+                "bonus_name": "吉田綾乃クリスティーのツバサ",
+                "bonus_count": 13,
+                "first_flag": 1,
+                "data_type": 6,
+                "data_id": 311,
+                "data_num": 20
+            },
+            {
+                "bonus_name": "吉田綾乃クリスティーのツバサ",
+                "bonus_count": 14,
+                "first_flag": 1,
+                "data_type": 6,
+                "data_id": 311,
+                "data_num": 20
+            },
+            {
+                "bonus_name": "吉田綾乃クリスティーのツバサ",
+                "bonus_count": 15,
+                "first_flag": 1,
+                "data_type": 6,
+                "data_id": 311,
+                "data_num": 20
+            },
+            {
+                "bonus_name": "吉田綾乃クリスティーのツバサ",
+                "bonus_count": 16,
+                "first_flag": 1,
+                "data_type": 6,
+                "data_id": 311,
+                "data_num": 20
+            },
+            {
+                "bonus_name": "吉田綾乃クリスティーのツバサ",
+                "bonus_count": 17,
+                "first_flag": 1,
+                "data_type": 6,
+                "data_id": 311,
+                "data_num": 20
+            },
+            {
+                "bonus_name": "吉田綾乃クリスティーのツバサ",
+                "bonus_count": 18,
+                "first_flag": 1,
+                "data_type": 6,
+                "data_id": 311,
+                "data_num": 20
+            },
+            {
+                "bonus_name": "吉田綾乃クリスティーのツバサ",
+                "bonus_count": 19,
+                "first_flag": 1,
+                "data_type": 6,
+                "data_id": 311,
+                "data_num": 20
+            },
+            {
+                "bonus_name": "吉田綾乃クリスティー BIRTHDAYガチャSSR引換チケット",
+                "bonus_count": 20,
+                "first_flag": 1,
+                "data_type": 22,
+                "data_id": 961,
+                "data_num": 1
+            }
+        ]
     }
 ]

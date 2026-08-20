@@ -4230,6 +4230,24 @@
         "live_location": "大阪城ホール"
     },
     {
+        "live_bg_id": 420051,
+        "live_bg_name": "懐かない仔猫",
+        "live_bg_type": 1,
+        "music_id": 420050,
+        "live_name": "Coupling Collection 2022-2025",
+        "live_date": "2026年2月20日",
+        "live_location": "有明アリーナ"
+    },
+    {
+        "live_bg_id": 420052,
+        "live_bg_name": "懐かない仔猫",
+        "live_bg_type": 2,
+        "music_id": 420050,
+        "live_name": "Coupling Collection 2022-2025",
+        "live_date": "2026年2月20日",
+        "live_location": "有明アリーナ"
+    },
+    {
         "live_bg_id": 420071,
         "live_bg_name": "熱狂の捌け口",
         "live_bg_type": 1,
@@ -4531,6 +4549,24 @@
         "live_bg_name": "My respect",
         "live_bg_type": 2,
         "music_id": 470010,
+        "live_name": "5th ALBUM MEMORIAL LIVE 『My respect』",
+        "live_date": "2026年2月23日",
+        "live_location": "有明アリーナ"
+    },
+    {
+        "live_bg_id": 470021,
+        "live_bg_name": "全力ラップタイム",
+        "live_bg_type": 1,
+        "music_id": 470020,
+        "live_name": "5th ALBUM MEMORIAL LIVE 『My respect』",
+        "live_date": "2026年2月23日",
+        "live_location": "有明アリーナ"
+    },
+    {
+        "live_bg_id": 470022,
+        "live_bg_name": "全力ラップタイム",
+        "live_bg_type": 2,
+        "music_id": 470020,
         "live_name": "5th ALBUM MEMORIAL LIVE 『My respect』",
         "live_date": "2026年2月23日",
         "live_location": "有明アリーナ"

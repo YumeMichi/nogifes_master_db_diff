@@ -4240,5 +4240,41 @@
         "real_goods_name": "<girl_name> 推しメンタオル（サイン無し）抽選券",
         "real_goods_type": 2,
         "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 708,
+        "real_goods_name": "<girl_name> 直筆サイン入り推しメンフルグラフィックTシャツ",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 709,
+        "real_goods_name": "<girl_name> 直筆サイン入り推しメンフルグラフィックTシャツ抽選券",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 710,
+        "real_goods_name": "<girl_name> 推しメンフルグラフィックTシャツ（サイン無し）抽選券",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 711,
+        "real_goods_name": "<girl_name> リアルイベント参加券＆直筆サイン入りオリジナルチケットホルダー",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 712,
+        "real_goods_name": "<girl_name> リアルイベント参加券＆直筆サイン入りオリジナルチケットホルダー抽選券",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 713,
+        "real_goods_name": "<girl_name> リアルイベント抽選券＆オリジナルチケットホルダー（サインなし）抽選券",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
     }
 ]

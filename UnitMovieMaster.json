@@ -15900,5 +15900,67 @@
                 "unit_id": 135821
             }
         ]
+    },
+    {
+        "unit_movie_id": 1171,
+        "unit_movie_name": "にゃ！にゃ！にゃんだふる！ ホームMOVIE",
+        "unit_movie_name_kana": "にゃにゃにゃんだふる　ほーむむーびー",
+        "start_date": 1787205600,
+        "unit_data": [
+            {
+                "unit_id": 136180
+            },
+            {
+                "unit_id": 136181
+            }
+        ]
+    },
+    {
+        "unit_movie_id": 1172,
+        "unit_movie_name": "にゃ！にゃ！にゃんだふる！ ホームMOVIE",
+        "unit_movie_name_kana": "にゃにゃにゃんだふる　ほーむむーびー",
+        "start_date": 1787205600,
+        "unit_data": [
+            {
+                "unit_id": 136190
+            },
+            {
+                "unit_id": 136191
+            }
+        ]
+    },
+    {
+        "unit_movie_id": 1173,
+        "unit_movie_name": "にゃ！にゃ！にゃんだふる！ ホームMOVIE",
+        "unit_movie_name_kana": "にゃにゃにゃんだふる　ほーむむーびー",
+        "start_date": 1787205600,
+        "unit_data": [
+            {
+                "unit_id": 136200
+            },
+            {
+                "unit_id": 136201
+            }
+        ]
+    },
+    {
+        "unit_movie_id": 1174,
+        "unit_movie_name": "Happy Birthday 2026 ホームMOVIE",
+        "unit_movie_name_kana": "はっぴーばーすでーにせんにじゅうろく　ほーむむーびー",
+        "start_date": 1788620400,
+        "unit_data": [
+            {
+                "unit_id": 137420
+            },
+            {
+                "unit_id": 137421
+            },
+            {
+                "unit_id": 137430
+            },
+            {
+                "unit_id": 137431
+            }
+        ]
     }
 ]

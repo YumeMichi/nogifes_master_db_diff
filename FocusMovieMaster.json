@@ -25735,5 +25735,125 @@
         "start_date": 1786773600,
         "high_quality": 0,
         "high_quality_start_date": 1924959599
+    },
+    {
+        "focus_movie_id": 1292,
+        "focus_movie_name": "懐かない仔猫",
+        "unit_data": [
+            {
+                "unit_id": 136100
+            },
+            {
+                "unit_id": 136101
+            }
+        ],
+        "music_id": 420050,
+        "live_name": "Coupling Collection 2022-2025",
+        "live_date": "2026年2月20日",
+        "live_date_unixtime": 1771513200,
+        "live_location": "有明アリーナ",
+        "start_date": 1788188400,
+        "high_quality": 0,
+        "high_quality_start_date": 1924959599
+    },
+    {
+        "focus_movie_id": 1293,
+        "focus_movie_name": "ガールズルール",
+        "unit_data": [
+            {
+                "unit_id": 136800
+            },
+            {
+                "unit_id": 136801
+            }
+        ],
+        "music_id": 60010,
+        "live_name": "真夏の全国ツアー2025",
+        "live_date": "2025年7月17日",
+        "live_date_unixtime": 1752678000,
+        "live_location": "大阪城ホール",
+        "start_date": 1788328800,
+        "high_quality": 1,
+        "high_quality_start_date": 1788328800
+    },
+    {
+        "focus_movie_id": 1294,
+        "focus_movie_name": "嫉妬の権利",
+        "unit_data": [
+            {
+                "unit_id": 136810
+            },
+            {
+                "unit_id": 136811
+            }
+        ],
+        "music_id": 140020,
+        "live_name": "39thSGアンダーライブ",
+        "live_date": "2025年10月7日",
+        "live_date_unixtime": 1759762800,
+        "live_location": "横浜BUNTAI",
+        "start_date": 1788328800,
+        "high_quality": 1,
+        "high_quality_start_date": 1788328800
+    },
+    {
+        "focus_movie_id": 1295,
+        "focus_movie_name": "My rule",
+        "unit_data": [
+            {
+                "unit_id": 136820
+            },
+            {
+                "unit_id": 136821
+            }
+        ],
+        "music_id": 220050,
+        "live_name": "39thSGアンダーライブ",
+        "live_date": "2025年10月7日",
+        "live_date_unixtime": 1759762800,
+        "live_location": "横浜BUNTAI",
+        "start_date": 1788328800,
+        "high_quality": 1,
+        "high_quality_start_date": 1788328800
+    },
+    {
+        "focus_movie_id": 1296,
+        "focus_movie_name": "三番目の風",
+        "unit_data": [
+            {
+                "unit_id": 136830
+            },
+            {
+                "unit_id": 136831
+            }
+        ],
+        "music_id": 190060,
+        "live_name": "5th ALBUM MEMORIAL LIVE 『My respect』",
+        "live_date": "2026年2月23日",
+        "live_date_unixtime": 1771772400,
+        "live_location": "有明アリーナ",
+        "start_date": 1788328800,
+        "high_quality": 1,
+        "high_quality_start_date": 1788328800
+    },
+    {
+        "focus_movie_id": 1297,
+        "focus_movie_name": "おひとりさま天国",
+        "unit_data": [
+            {
+                "unit_id": 137270
+            },
+            {
+                "unit_id": 137271
+            }
+        ],
+        "music_id": 390010,
+        "live_name": "真夏の全国ツアー2025",
+        "live_date": "2025年7月17日",
+        "live_date_unixtime": 1752678000,
+        "live_location": "大阪城ホール",
+        "start_date": 1789398000,
+        "high_quality": 1,
+        "high_quality_start_date": 1789398000
     }
 ]
