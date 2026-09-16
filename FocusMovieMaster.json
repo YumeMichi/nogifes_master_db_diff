@@ -19653,8 +19653,8 @@
         "live_date_unixtime": 1677078000,
         "live_location": "横浜アリーナ",
         "start_date": 1695999600,
-        "high_quality": 0,
-        "high_quality_start_date": 1924959599
+        "high_quality": 1,
+        "high_quality_start_date": 1789452000
     },
     {
         "focus_movie_id": 988,
@@ -25453,8 +25453,8 @@
         "live_date_unixtime": 1771686000,
         "live_location": "有明アリーナ",
         "start_date": 1783836000,
-        "high_quality": 0,
-        "high_quality_start_date": 1924959599
+        "high_quality": 1,
+        "high_quality_start_date": 1789452000
     },
     {
         "focus_movie_id": 1278,
@@ -25513,8 +25513,8 @@
         "live_date_unixtime": 1771686000,
         "live_location": "有明アリーナ",
         "start_date": 1783836000,
-        "high_quality": 0,
-        "high_quality_start_date": 1924959599
+        "high_quality": 1,
+        "high_quality_start_date": 1789452000
     },
     {
         "focus_movie_id": 1281,
@@ -25855,5 +25855,45 @@
         "start_date": 1789398000,
         "high_quality": 1,
         "high_quality_start_date": 1789398000
+    },
+    {
+        "focus_movie_id": 1298,
+        "focus_movie_name": "「じゃあね」が切ない",
+        "unit_data": [
+            {
+                "unit_id": 137300
+            },
+            {
+                "unit_id": 137301
+            }
+        ],
+        "music_id": 410030,
+        "live_name": "5th ALBUM MEMORIAL LIVE 『My respect』",
+        "live_date": "2026年2月23日",
+        "live_date_unixtime": 1771772400,
+        "live_location": "有明アリーナ",
+        "start_date": 1790607600,
+        "high_quality": 0,
+        "high_quality_start_date": 1924959599
+    },
+    {
+        "focus_movie_id": 1299,
+        "focus_movie_name": "バンドエイド剥がすような別れ方",
+        "unit_data": [
+            {
+                "unit_id": 137410
+            },
+            {
+                "unit_id": 137411
+            }
+        ],
+        "music_id": 360050,
+        "live_name": "5th ALBUM MEMORIAL LIVE 『My respect』",
+        "live_date": "2026年2月22日",
+        "live_date_unixtime": 1771686000,
+        "live_location": "有明アリーナ",
+        "start_date": 1789711200,
+        "high_quality": 1,
+        "high_quality_start_date": 1789711200
     }
 ]

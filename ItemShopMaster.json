@@ -46179,7 +46179,7 @@
         "item_shop_purchase_type": 1,
         "max_purchase_num": 5,
         "start_date": 1788242400,
-        "end_date": 1793113199,
+        "end_date": 1789444799,
         "description": "吉田綾乃クリスティーのカードの覚醒に必要な<br />「吉田綾乃クリスティーのツバサ」です！<br /><br />【セット内容】<br />・吉田綾乃クリスティーのツバサ×100<br /><br />※「吉田綾乃クリスティーのツバサ」は170個で<br />吉田綾乃クリスティーのSSRカードを、50個で<br />SRカードを1回覚醒させることができます。",
         "product_data": [
             {
@@ -47106,6 +47106,2051 @@
                 "data_type": 6,
                 "data_id": 311,
                 "data_num": 50
+            }
+        ]
+    },
+    {
+        "product_id": 1545,
+        "product_name": "[愛宕心響]バースデーガチャSSRチケット",
+        "product_type": 2,
+        "paid_diamond": 200,
+        "diamond": 0,
+        "gold": 0,
+        "item_shop_purchase_type": 1,
+        "max_purchase_num": 1,
+        "start_date": 1789570800,
+        "end_date": 1789829999,
+        "description": "愛宕心響のバースデーガチャが1回引けるチケットです。<br />SSRカードが確定で登場します！！<br />※愛宕心響が確定で出現するチケットではありません。<br /><br />【セット内容】<br />・愛宕心響バースデーガチャSSR確定チケット×1<br /><br />※本チケットは2026年に配信される愛宕心響の<br />バースデーガチャ以外には使用できません。",
+        "product_data": [
+            {
+                "data_type": 22,
+                "data_id": 966,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "product_id": 1546,
+        "product_name": "[愛宕心響]バースデーガチャ10連チケット",
+        "product_type": 2,
+        "paid_diamond": 130,
+        "diamond": 0,
+        "gold": 0,
+        "item_shop_purchase_type": 1,
+        "max_purchase_num": 1,
+        "start_date": 1789570800,
+        "end_date": 1789829999,
+        "description": "愛宕心響のバースデーガチャの10連を引くことができる<br />「愛宕心響バースデーガチャ10連チケット」です！<br /><br />【セット内容】<br />・愛宕心響バースデーガチャ10連チケット×1<br /><br />※本チケットは2026年に配信される愛宕心響の<br />バースデーガチャ以外には使用できません。",
+        "product_data": [
+            {
+                "data_type": 22,
+                "data_id": 965,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "product_id": 1547,
+        "product_name": "[愛宕心響]SPバースデーセット（月属性）",
+        "product_type": 2,
+        "paid_diamond": 200,
+        "diamond": 0,
+        "gold": 0,
+        "item_shop_purchase_type": 1,
+        "max_purchase_num": 1,
+        "start_date": 1789570800,
+        "end_date": 1789829999,
+        "description": "愛宕心響のSSRカードを3回覚醒させることができる分の<br />「愛宕心響のツバサ」、<br />愛宕心響のSSRカード（月属性）を進化させ<br />レベルMAXまで強化できる分の「育成アイテム各種」が<br />入ったスペシャルバースデーセットです！<br /><br />【セット内容】<br />・愛宕心響のツバサ×556（46個おまけ！）<br />・ムーンチャージ（大）×46（5個おまけ！）<br />・ムーンクォーツ（大）×30<br />・ムーンクォーツ（特大）×10<br />・ミラクルクォーツ×8（4個おまけ！）<br /><br />※「愛宕心響のツバサ」は170個で愛宕心響の<br />SSRカードを1回覚醒させることができます。",
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 601,
+                "data_num": 556
+            },
+            {
+                "data_type": 4,
+                "data_id": 8,
+                "data_num": 46
+            },
+            {
+                "data_type": 5,
+                "data_id": 8,
+                "data_num": 30
+            },
+            {
+                "data_type": 5,
+                "data_id": 11,
+                "data_num": 10
+            },
+            {
+                "data_type": 5,
+                "data_id": 13,
+                "data_num": 8
+            }
+        ]
+    },
+    {
+        "product_id": 1548,
+        "product_name": "[愛宕心響]SPバースデーセット（太陽属性）",
+        "product_type": 2,
+        "paid_diamond": 200,
+        "diamond": 0,
+        "gold": 0,
+        "item_shop_purchase_type": 1,
+        "max_purchase_num": 1,
+        "start_date": 1789570800,
+        "end_date": 1789829999,
+        "description": "愛宕心響のSSRカードを3回覚醒させることができる分の<br />「愛宕心響のツバサ」、<br />愛宕心響のSSRカード（太陽属性）を進化させ<br />レベルMAXまで強化できる分の「育成アイテム各種」が<br />入ったスペシャルバースデーセットです！<br /><br />【セット内容】<br />・愛宕心響のツバサ×556（46個おまけ！）<br />・サンチャージ（大）×46（5個おまけ！）<br />・サンクォーツ（大）×30<br />・サンクォーツ（特大）×10<br />・ミラクルクォーツ×8（4個おまけ！）<br /><br />※「愛宕心響のツバサ」は170個で愛宕心響の<br />SSRカードを1回覚醒させることができます。",
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 601,
+                "data_num": 556
+            },
+            {
+                "data_type": 4,
+                "data_id": 9,
+                "data_num": 46
+            },
+            {
+                "data_type": 5,
+                "data_id": 9,
+                "data_num": 30
+            },
+            {
+                "data_type": 5,
+                "data_id": 12,
+                "data_num": 10
+            },
+            {
+                "data_type": 5,
+                "data_id": 13,
+                "data_num": 8
+            }
+        ]
+    },
+    {
+        "product_id": 1549,
+        "product_name": "[愛宕心響]SPバースデーセット（星属性）",
+        "product_type": 2,
+        "paid_diamond": 200,
+        "diamond": 0,
+        "gold": 0,
+        "item_shop_purchase_type": 1,
+        "max_purchase_num": 1,
+        "start_date": 1789570800,
+        "end_date": 1789829999,
+        "description": "愛宕心響のSSRカードを3回覚醒させることができる分の<br />「愛宕心響のツバサ」、<br />愛宕心響のSSRカード（星属性）を進化させ<br />レベルMAXまで強化できる分の「育成アイテム各種」が<br />入ったスペシャルバースデーセットです！<br /><br />【セット内容】<br />・愛宕心響のツバサ×556（46個おまけ！）<br />・スターチャージ（大）×46（5個おまけ！）<br />・スタークォーツ（大）×30<br />・スタークォーツ（特大）×10<br />・ミラクルクォーツ×8（4個おまけ！）<br /><br />※「愛宕心響のツバサ」は170個で愛宕心響の<br />SSRカードを1回覚醒させることができます。",
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 601,
+                "data_num": 556
+            },
+            {
+                "data_type": 4,
+                "data_id": 7,
+                "data_num": 46
+            },
+            {
+                "data_type": 5,
+                "data_id": 7,
+                "data_num": 30
+            },
+            {
+                "data_type": 5,
+                "data_id": 10,
+                "data_num": 10
+            },
+            {
+                "data_type": 5,
+                "data_id": 13,
+                "data_num": 8
+            }
+        ]
+    },
+    {
+        "product_id": 1550,
+        "product_name": "[愛宕心響]ぷちバースデーセット（月属性）",
+        "product_type": 2,
+        "paid_diamond": 0,
+        "diamond": 80,
+        "gold": 0,
+        "item_shop_purchase_type": 1,
+        "max_purchase_num": 1,
+        "start_date": 1789570800,
+        "end_date": 1789829999,
+        "description": "愛宕心響のSRカードを1回覚醒させることができる分の<br />「愛宕心響のツバサ」、<br />愛宕心響のSRカード（月属性）を強化・進化させるために<br />使用できる「育成アイテム各種」が入った<br />バースデーセットです！<br /><br />【セット内容】<br />・愛宕心響のツバサ×50<br />・ムーンチャージ（大）×10<br />・ムーンクォーツ（小）×60<br />・ムーンクォーツ（中）×40<br />・ミラクルクォーツ×2<br /><br />※「愛宕心響のツバサ」は50個で愛宕心響の<br />SRカードを1回覚醒させることができます。",
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 601,
+                "data_num": 50
+            },
+            {
+                "data_type": 4,
+                "data_id": 8,
+                "data_num": 10
+            },
+            {
+                "data_type": 5,
+                "data_id": 2,
+                "data_num": 60
+            },
+            {
+                "data_type": 5,
+                "data_id": 5,
+                "data_num": 40
+            },
+            {
+                "data_type": 5,
+                "data_id": 13,
+                "data_num": 2
+            }
+        ]
+    },
+    {
+        "product_id": 1551,
+        "product_name": "[愛宕心響]ぷちバースデーセット（太陽属性）",
+        "product_type": 2,
+        "paid_diamond": 0,
+        "diamond": 80,
+        "gold": 0,
+        "item_shop_purchase_type": 1,
+        "max_purchase_num": 1,
+        "start_date": 1789570800,
+        "end_date": 1789829999,
+        "description": "愛宕心響のSRカードを1回覚醒させることができる分の<br />「愛宕心響のツバサ」、<br />愛宕心響のSRカード（太陽属性）を強化・進化させるために<br />使用できる「育成アイテム各種」が入った<br />バースデーセットです！<br /><br />【セット内容】<br />・愛宕心響のツバサ×50<br />・サンチャージ（大）×10<br />・サンクォーツ（小）×60<br />・サンクォーツ（中）×40<br />・ミラクルクォーツ×2<br /><br />※「愛宕心響のツバサ」は50個で愛宕心響の<br />SRカードを1回覚醒させることができます。",
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 601,
+                "data_num": 50
+            },
+            {
+                "data_type": 4,
+                "data_id": 9,
+                "data_num": 10
+            },
+            {
+                "data_type": 5,
+                "data_id": 3,
+                "data_num": 60
+            },
+            {
+                "data_type": 5,
+                "data_id": 6,
+                "data_num": 40
+            },
+            {
+                "data_type": 5,
+                "data_id": 13,
+                "data_num": 2
+            }
+        ]
+    },
+    {
+        "product_id": 1552,
+        "product_name": "[愛宕心響]ぷちバースデーセット（星属性）",
+        "product_type": 2,
+        "paid_diamond": 0,
+        "diamond": 80,
+        "gold": 0,
+        "item_shop_purchase_type": 1,
+        "max_purchase_num": 1,
+        "start_date": 1789570800,
+        "end_date": 1789829999,
+        "description": "愛宕心響のSRカードを1回覚醒させることができる分の<br />「愛宕心響のツバサ」、<br />愛宕心響のSRカード（星属性）を強化・進化させるために<br />使用できる「育成アイテム各種」が入った<br />バースデーセットです！<br /><br />【セット内容】<br />・愛宕心響のツバサ×50<br />・スターチャージ（大）×10<br />・スタークォーツ（小）×60<br />・スタークォーツ（中）×40<br />・ミラクルクォーツ×2<br /><br />※「愛宕心響のツバサ」は50個で愛宕心響の<br />SRカードを1回覚醒させることができます。",
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 601,
+                "data_num": 50
+            },
+            {
+                "data_type": 4,
+                "data_id": 7,
+                "data_num": 10
+            },
+            {
+                "data_type": 5,
+                "data_id": 1,
+                "data_num": 60
+            },
+            {
+                "data_type": 5,
+                "data_id": 4,
+                "data_num": 40
+            },
+            {
+                "data_type": 5,
+                "data_id": 13,
+                "data_num": 2
+            }
+        ]
+    },
+    {
+        "product_id": 1553,
+        "product_name": "愛宕心響のツバサ×50",
+        "product_type": 2,
+        "paid_diamond": 0,
+        "diamond": 50,
+        "gold": 0,
+        "item_shop_purchase_type": 1,
+        "max_purchase_num": 10,
+        "start_date": 1789570800,
+        "end_date": 1789829999,
+        "description": "愛宕心響のカードの覚醒に必要な「愛宕心響のツバサ」です！<br /><br />【セット内容】<br />・愛宕心響のツバサ×50<br /><br />※「愛宕心響のツバサ」は170個で愛宕心響の<br />SSRカードを、50個でSRカードを1回覚醒させる<br />ことができます。",
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 601,
+                "data_num": 50
+            }
+        ]
+    },
+    {
+        "product_id": 1554,
+        "product_name": "[冨里奈央]バースデーガチャSSRチケット",
+        "product_type": 2,
+        "paid_diamond": 200,
+        "diamond": 0,
+        "gold": 0,
+        "item_shop_purchase_type": 1,
+        "max_purchase_num": 1,
+        "start_date": 1789657200,
+        "end_date": 1789916399,
+        "description": "冨里奈央のバースデーガチャが1回引けるチケットです。<br />SSRカードが確定で登場します！！<br />※冨里奈央が確定で出現するチケットではありません。<br /><br />【セット内容】<br />・冨里奈央バースデーガチャSSR確定チケット×1<br /><br />※本チケットは2026年に配信される冨里奈央の<br />バースデーガチャ以外には使用できません。",
+        "product_data": [
+            {
+                "data_type": 22,
+                "data_id": 969,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "product_id": 1555,
+        "product_name": "[冨里奈央]バースデーガチャ10連チケット",
+        "product_type": 2,
+        "paid_diamond": 130,
+        "diamond": 0,
+        "gold": 0,
+        "item_shop_purchase_type": 1,
+        "max_purchase_num": 1,
+        "start_date": 1789657200,
+        "end_date": 1789916399,
+        "description": "冨里奈央のバースデーガチャの10連を引くことができる<br />「冨里奈央バースデーガチャ10連チケット」です！<br /><br />【セット内容】<br />・冨里奈央バースデーガチャ10連チケット×1<br /><br />※本チケットは2026年に配信される冨里奈央の<br />バースデーガチャ以外には使用できません。",
+        "product_data": [
+            {
+                "data_type": 22,
+                "data_id": 968,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "product_id": 1556,
+        "product_name": "[冨里奈央]SPバースデーセット（月属性）",
+        "product_type": 2,
+        "paid_diamond": 200,
+        "diamond": 0,
+        "gold": 0,
+        "item_shop_purchase_type": 1,
+        "max_purchase_num": 1,
+        "start_date": 1789657200,
+        "end_date": 1789916399,
+        "description": "冨里奈央のSSRカードを3回覚醒させることができる分の<br />「冨里奈央のツバサ」、<br />冨里奈央のSSRカード（月属性）を進化させ<br />レベルMAXまで強化できる分の「育成アイテム各種」が<br />入ったスペシャルバースデーセットです！<br /><br />【セット内容】<br />・冨里奈央のツバサ×556（46個おまけ！）<br />・ムーンチャージ（大）×46（5個おまけ！）<br />・ムーンクォーツ（大）×30<br />・ムーンクォーツ（特大）×10<br />・ミラクルクォーツ×8（4個おまけ！）<br /><br />※「冨里奈央のツバサ」は170個で冨里奈央の<br />SSRカードを1回覚醒させることができます。",
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 510,
+                "data_num": 556
+            },
+            {
+                "data_type": 4,
+                "data_id": 8,
+                "data_num": 46
+            },
+            {
+                "data_type": 5,
+                "data_id": 8,
+                "data_num": 30
+            },
+            {
+                "data_type": 5,
+                "data_id": 11,
+                "data_num": 10
+            },
+            {
+                "data_type": 5,
+                "data_id": 13,
+                "data_num": 8
+            }
+        ]
+    },
+    {
+        "product_id": 1557,
+        "product_name": "[冨里奈央]SPバースデーセット（太陽属性）",
+        "product_type": 2,
+        "paid_diamond": 200,
+        "diamond": 0,
+        "gold": 0,
+        "item_shop_purchase_type": 1,
+        "max_purchase_num": 1,
+        "start_date": 1789657200,
+        "end_date": 1789916399,
+        "description": "冨里奈央のSSRカードを3回覚醒させることができる分の<br />「冨里奈央のツバサ」、<br />冨里奈央のSSRカード（太陽属性）を進化させ<br />レベルMAXまで強化できる分の「育成アイテム各種」が<br />入ったスペシャルバースデーセットです！<br /><br />【セット内容】<br />・冨里奈央のツバサ×556（46個おまけ！）<br />・サンチャージ（大）×46（5個おまけ！）<br />・サンクォーツ（大）×30<br />・サンクォーツ（特大）×10<br />・ミラクルクォーツ×8（4個おまけ！）<br /><br />※「冨里奈央のツバサ」は170個で冨里奈央の<br />SSRカードを1回覚醒させることができます。",
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 510,
+                "data_num": 556
+            },
+            {
+                "data_type": 4,
+                "data_id": 9,
+                "data_num": 46
+            },
+            {
+                "data_type": 5,
+                "data_id": 9,
+                "data_num": 30
+            },
+            {
+                "data_type": 5,
+                "data_id": 12,
+                "data_num": 10
+            },
+            {
+                "data_type": 5,
+                "data_id": 13,
+                "data_num": 8
+            }
+        ]
+    },
+    {
+        "product_id": 1558,
+        "product_name": "[冨里奈央]SPバースデーセット（星属性）",
+        "product_type": 2,
+        "paid_diamond": 200,
+        "diamond": 0,
+        "gold": 0,
+        "item_shop_purchase_type": 1,
+        "max_purchase_num": 1,
+        "start_date": 1789657200,
+        "end_date": 1789916399,
+        "description": "冨里奈央のSSRカードを3回覚醒させることができる分の<br />「冨里奈央のツバサ」、<br />冨里奈央のSSRカード（星属性）を進化させ<br />レベルMAXまで強化できる分の「育成アイテム各種」が<br />入ったスペシャルバースデーセットです！<br /><br />【セット内容】<br />・冨里奈央のツバサ×556（46個おまけ！）<br />・スターチャージ（大）×46（5個おまけ！）<br />・スタークォーツ（大）×30<br />・スタークォーツ（特大）×10<br />・ミラクルクォーツ×8（4個おまけ！）<br /><br />※「冨里奈央のツバサ」は170個で冨里奈央の<br />SSRカードを1回覚醒させることができます。",
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 510,
+                "data_num": 556
+            },
+            {
+                "data_type": 4,
+                "data_id": 7,
+                "data_num": 46
+            },
+            {
+                "data_type": 5,
+                "data_id": 7,
+                "data_num": 30
+            },
+            {
+                "data_type": 5,
+                "data_id": 10,
+                "data_num": 10
+            },
+            {
+                "data_type": 5,
+                "data_id": 13,
+                "data_num": 8
+            }
+        ]
+    },
+    {
+        "product_id": 1559,
+        "product_name": "[冨里奈央]ぷちバースデーセット（月属性）",
+        "product_type": 2,
+        "paid_diamond": 0,
+        "diamond": 80,
+        "gold": 0,
+        "item_shop_purchase_type": 1,
+        "max_purchase_num": 1,
+        "start_date": 1789657200,
+        "end_date": 1789916399,
+        "description": "冨里奈央のSRカードを1回覚醒させることができる分の<br />「冨里奈央のツバサ」、<br />冨里奈央のSRカード（月属性）を強化・進化させるために<br />使用できる「育成アイテム各種」が入った<br />バースデーセットです！<br /><br />【セット内容】<br />・冨里奈央のツバサ×50<br />・ムーンチャージ（大）×10<br />・ムーンクォーツ（小）×60<br />・ムーンクォーツ（中）×40<br />・ミラクルクォーツ×2<br /><br />※「冨里奈央のツバサ」は50個で冨里奈央の<br />SRカードを1回覚醒させることができます。",
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 510,
+                "data_num": 50
+            },
+            {
+                "data_type": 4,
+                "data_id": 8,
+                "data_num": 10
+            },
+            {
+                "data_type": 5,
+                "data_id": 2,
+                "data_num": 60
+            },
+            {
+                "data_type": 5,
+                "data_id": 5,
+                "data_num": 40
+            },
+            {
+                "data_type": 5,
+                "data_id": 13,
+                "data_num": 2
+            }
+        ]
+    },
+    {
+        "product_id": 1560,
+        "product_name": "[冨里奈央]ぷちバースデーセット（太陽属性）",
+        "product_type": 2,
+        "paid_diamond": 0,
+        "diamond": 80,
+        "gold": 0,
+        "item_shop_purchase_type": 1,
+        "max_purchase_num": 1,
+        "start_date": 1789657200,
+        "end_date": 1789916399,
+        "description": "冨里奈央のSRカードを1回覚醒させることができる分の<br />「冨里奈央のツバサ」、<br />冨里奈央のSRカード（太陽属性）を強化・進化させるために<br />使用できる「育成アイテム各種」が入った<br />バースデーセットです！<br /><br />【セット内容】<br />・冨里奈央のツバサ×50<br />・サンチャージ（大）×10<br />・サンクォーツ（小）×60<br />・サンクォーツ（中）×40<br />・ミラクルクォーツ×2<br /><br />※「冨里奈央のツバサ」は50個で冨里奈央の<br />SRカードを1回覚醒させることができます。",
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 510,
+                "data_num": 50
+            },
+            {
+                "data_type": 4,
+                "data_id": 9,
+                "data_num": 10
+            },
+            {
+                "data_type": 5,
+                "data_id": 3,
+                "data_num": 60
+            },
+            {
+                "data_type": 5,
+                "data_id": 6,
+                "data_num": 40
+            },
+            {
+                "data_type": 5,
+                "data_id": 13,
+                "data_num": 2
+            }
+        ]
+    },
+    {
+        "product_id": 1561,
+        "product_name": "[冨里奈央]ぷちバースデーセット（星属性）",
+        "product_type": 2,
+        "paid_diamond": 0,
+        "diamond": 80,
+        "gold": 0,
+        "item_shop_purchase_type": 1,
+        "max_purchase_num": 1,
+        "start_date": 1789657200,
+        "end_date": 1789916399,
+        "description": "冨里奈央のSRカードを1回覚醒させることができる分の<br />「冨里奈央のツバサ」、<br />冨里奈央のSRカード（星属性）を強化・進化させるために<br />使用できる「育成アイテム各種」が入った<br />バースデーセットです！<br /><br />【セット内容】<br />・冨里奈央のツバサ×50<br />・スターチャージ（大）×10<br />・スタークォーツ（小）×60<br />・スタークォーツ（中）×40<br />・ミラクルクォーツ×2<br /><br />※「冨里奈央のツバサ」は50個で冨里奈央の<br />SRカードを1回覚醒させることができます。",
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 510,
+                "data_num": 50
+            },
+            {
+                "data_type": 4,
+                "data_id": 7,
+                "data_num": 10
+            },
+            {
+                "data_type": 5,
+                "data_id": 1,
+                "data_num": 60
+            },
+            {
+                "data_type": 5,
+                "data_id": 4,
+                "data_num": 40
+            },
+            {
+                "data_type": 5,
+                "data_id": 13,
+                "data_num": 2
+            }
+        ]
+    },
+    {
+        "product_id": 1562,
+        "product_name": "冨里奈央のツバサ×50",
+        "product_type": 2,
+        "paid_diamond": 0,
+        "diamond": 50,
+        "gold": 0,
+        "item_shop_purchase_type": 1,
+        "max_purchase_num": 10,
+        "start_date": 1789657200,
+        "end_date": 1789916399,
+        "description": "冨里奈央のカードの覚醒に必要な「冨里奈央のツバサ」です！<br /><br />【セット内容】<br />・冨里奈央のツバサ×50<br /><br />※「冨里奈央のツバサ」は170個で冨里奈央の<br />SSRカードを、50個でSRカードを1回覚醒させる<br />ことができます。",
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 510,
+                "data_num": 50
+            }
+        ]
+    },
+    {
+        "product_id": 1563,
+        "product_name": "[林瑠奈]バースデーガチャSSRチケット",
+        "product_type": 2,
+        "paid_diamond": 200,
+        "diamond": 0,
+        "gold": 0,
+        "item_shop_purchase_type": 1,
+        "max_purchase_num": 1,
+        "start_date": 1790866800,
+        "end_date": 1791125999,
+        "description": "林瑠奈のバースデーガチャが1回引けるチケットです。<br />SSRカードが確定で登場します！！<br />※林瑠奈が確定で出現するチケットではありません。<br /><br />【セット内容】<br />・林瑠奈バースデーガチャSSR確定チケット×1<br /><br />※本チケットは2026年に配信される林瑠奈の<br />バースデーガチャ以外には使用できません。",
+        "product_data": [
+            {
+                "data_type": 22,
+                "data_id": 972,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "product_id": 1564,
+        "product_name": "[林瑠奈]バースデーガチャ10連チケット",
+        "product_type": 2,
+        "paid_diamond": 130,
+        "diamond": 0,
+        "gold": 0,
+        "item_shop_purchase_type": 1,
+        "max_purchase_num": 1,
+        "start_date": 1790866800,
+        "end_date": 1791125999,
+        "description": "林瑠奈のバースデーガチャの10連を引くことができる<br />「林瑠奈バースデーガチャ10連チケット」です！<br /><br />【セット内容】<br />・林瑠奈バースデーガチャ10連チケット×1<br /><br />※本チケットは2026年に配信される林瑠奈の<br />バースデーガチャ以外には使用できません。",
+        "product_data": [
+            {
+                "data_type": 22,
+                "data_id": 971,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "product_id": 1565,
+        "product_name": "[林瑠奈]SPバースデーセット（月属性）",
+        "product_type": 2,
+        "paid_diamond": 200,
+        "diamond": 0,
+        "gold": 0,
+        "item_shop_purchase_type": 1,
+        "max_purchase_num": 1,
+        "start_date": 1790866800,
+        "end_date": 1791125999,
+        "description": "林瑠奈のSSRカードを3回覚醒させることができる分の<br />「林瑠奈のツバサ」、<br />林瑠奈のSSRカード（月属性）を進化させ<br />レベルMAXまで強化できる分の「育成アイテム各種」が<br />入ったスペシャルバースデーセットです！<br /><br />【セット内容】<br />・林瑠奈のツバサ×556（46個おまけ！）<br />・ムーンチャージ（大）×46（5個おまけ！）<br />・ムーンクォーツ（大）×30<br />・ムーンクォーツ（特大）×10<br />・ミラクルクォーツ×8（4個おまけ！）<br /><br />※「林瑠奈のツバサ」は170個で林瑠奈の<br />SSRカードを1回覚醒させることができます。",
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 414,
+                "data_num": 556
+            },
+            {
+                "data_type": 4,
+                "data_id": 8,
+                "data_num": 46
+            },
+            {
+                "data_type": 5,
+                "data_id": 8,
+                "data_num": 30
+            },
+            {
+                "data_type": 5,
+                "data_id": 11,
+                "data_num": 10
+            },
+            {
+                "data_type": 5,
+                "data_id": 13,
+                "data_num": 8
+            }
+        ]
+    },
+    {
+        "product_id": 1566,
+        "product_name": "[林瑠奈]SPバースデーセット（太陽属性）",
+        "product_type": 2,
+        "paid_diamond": 200,
+        "diamond": 0,
+        "gold": 0,
+        "item_shop_purchase_type": 1,
+        "max_purchase_num": 1,
+        "start_date": 1790866800,
+        "end_date": 1791125999,
+        "description": "林瑠奈のSSRカードを3回覚醒させることができる分の<br />「林瑠奈のツバサ」、<br />林瑠奈のSSRカード（太陽属性）を進化させ<br />レベルMAXまで強化できる分の「育成アイテム各種」が<br />入ったスペシャルバースデーセットです！<br /><br />【セット内容】<br />・林瑠奈のツバサ×556（46個おまけ！）<br />・サンチャージ（大）×46（5個おまけ！）<br />・サンクォーツ（大）×30<br />・サンクォーツ（特大）×10<br />・ミラクルクォーツ×8（4個おまけ！）<br /><br />※「林瑠奈のツバサ」は170個で林瑠奈の<br />SSRカードを1回覚醒させることができます。",
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 414,
+                "data_num": 556
+            },
+            {
+                "data_type": 4,
+                "data_id": 9,
+                "data_num": 46
+            },
+            {
+                "data_type": 5,
+                "data_id": 9,
+                "data_num": 30
+            },
+            {
+                "data_type": 5,
+                "data_id": 12,
+                "data_num": 10
+            },
+            {
+                "data_type": 5,
+                "data_id": 13,
+                "data_num": 8
+            }
+        ]
+    },
+    {
+        "product_id": 1567,
+        "product_name": "[林瑠奈]SPバースデーセット（星属性）",
+        "product_type": 2,
+        "paid_diamond": 200,
+        "diamond": 0,
+        "gold": 0,
+        "item_shop_purchase_type": 1,
+        "max_purchase_num": 1,
+        "start_date": 1790866800,
+        "end_date": 1791125999,
+        "description": "林瑠奈のSSRカードを3回覚醒させることができる分の<br />「林瑠奈のツバサ」、<br />林瑠奈のSSRカード（星属性）を進化させ<br />レベルMAXまで強化できる分の「育成アイテム各種」が<br />入ったスペシャルバースデーセットです！<br /><br />【セット内容】<br />・林瑠奈のツバサ×556（46個おまけ！）<br />・スターチャージ（大）×46（5個おまけ！）<br />・スタークォーツ（大）×30<br />・スタークォーツ（特大）×10<br />・ミラクルクォーツ×8（4個おまけ！）<br /><br />※「林瑠奈のツバサ」は170個で林瑠奈の<br />SSRカードを1回覚醒させることができます。",
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 414,
+                "data_num": 556
+            },
+            {
+                "data_type": 4,
+                "data_id": 7,
+                "data_num": 46
+            },
+            {
+                "data_type": 5,
+                "data_id": 7,
+                "data_num": 30
+            },
+            {
+                "data_type": 5,
+                "data_id": 10,
+                "data_num": 10
+            },
+            {
+                "data_type": 5,
+                "data_id": 13,
+                "data_num": 8
+            }
+        ]
+    },
+    {
+        "product_id": 1568,
+        "product_name": "[林瑠奈]ぷちバースデーセット（月属性）",
+        "product_type": 2,
+        "paid_diamond": 0,
+        "diamond": 80,
+        "gold": 0,
+        "item_shop_purchase_type": 1,
+        "max_purchase_num": 1,
+        "start_date": 1790866800,
+        "end_date": 1791125999,
+        "description": "林瑠奈のSRカードを1回覚醒させることができる分の<br />「林瑠奈のツバサ」、<br />林瑠奈のSRカード（月属性）を強化・進化させるために<br />使用できる「育成アイテム各種」が入った<br />バースデーセットです！<br /><br />【セット内容】<br />・林瑠奈のツバサ×50<br />・ムーンチャージ（大）×10<br />・ムーンクォーツ（小）×60<br />・ムーンクォーツ（中）×40<br />・ミラクルクォーツ×2<br /><br />※「林瑠奈のツバサ」は50個で林瑠奈の<br />SRカードを1回覚醒させることができます。",
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 414,
+                "data_num": 50
+            },
+            {
+                "data_type": 4,
+                "data_id": 8,
+                "data_num": 10
+            },
+            {
+                "data_type": 5,
+                "data_id": 2,
+                "data_num": 60
+            },
+            {
+                "data_type": 5,
+                "data_id": 5,
+                "data_num": 40
+            },
+            {
+                "data_type": 5,
+                "data_id": 13,
+                "data_num": 2
+            }
+        ]
+    },
+    {
+        "product_id": 1569,
+        "product_name": "[林瑠奈]ぷちバースデーセット（太陽属性）",
+        "product_type": 2,
+        "paid_diamond": 0,
+        "diamond": 80,
+        "gold": 0,
+        "item_shop_purchase_type": 1,
+        "max_purchase_num": 1,
+        "start_date": 1790866800,
+        "end_date": 1791125999,
+        "description": "林瑠奈のSRカードを1回覚醒させることができる分の<br />「林瑠奈のツバサ」、<br />林瑠奈のSRカード（太陽属性）を強化・進化させるために<br />使用できる「育成アイテム各種」が入った<br />バースデーセットです！<br /><br />【セット内容】<br />・林瑠奈のツバサ×50<br />・サンチャージ（大）×10<br />・サンクォーツ（小）×60<br />・サンクォーツ（中）×40<br />・ミラクルクォーツ×2<br /><br />※「林瑠奈のツバサ」は50個で林瑠奈の<br />SRカードを1回覚醒させることができます。",
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 414,
+                "data_num": 50
+            },
+            {
+                "data_type": 4,
+                "data_id": 9,
+                "data_num": 10
+            },
+            {
+                "data_type": 5,
+                "data_id": 3,
+                "data_num": 60
+            },
+            {
+                "data_type": 5,
+                "data_id": 6,
+                "data_num": 40
+            },
+            {
+                "data_type": 5,
+                "data_id": 13,
+                "data_num": 2
+            }
+        ]
+    },
+    {
+        "product_id": 1570,
+        "product_name": "[林瑠奈]ぷちバースデーセット（星属性）",
+        "product_type": 2,
+        "paid_diamond": 0,
+        "diamond": 80,
+        "gold": 0,
+        "item_shop_purchase_type": 1,
+        "max_purchase_num": 1,
+        "start_date": 1790866800,
+        "end_date": 1791125999,
+        "description": "林瑠奈のSRカードを1回覚醒させることができる分の<br />「林瑠奈のツバサ」、<br />林瑠奈のSRカード（星属性）を強化・進化させるために<br />使用できる「育成アイテム各種」が入った<br />バースデーセットです！<br /><br />【セット内容】<br />・林瑠奈のツバサ×50<br />・スターチャージ（大）×10<br />・スタークォーツ（小）×60<br />・スタークォーツ（中）×40<br />・ミラクルクォーツ×2<br /><br />※「林瑠奈のツバサ」は50個で林瑠奈の<br />SRカードを1回覚醒させることができます。",
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 414,
+                "data_num": 50
+            },
+            {
+                "data_type": 4,
+                "data_id": 7,
+                "data_num": 10
+            },
+            {
+                "data_type": 5,
+                "data_id": 1,
+                "data_num": 60
+            },
+            {
+                "data_type": 5,
+                "data_id": 4,
+                "data_num": 40
+            },
+            {
+                "data_type": 5,
+                "data_id": 13,
+                "data_num": 2
+            }
+        ]
+    },
+    {
+        "product_id": 1571,
+        "product_name": "林瑠奈のツバサ×50",
+        "product_type": 2,
+        "paid_diamond": 0,
+        "diamond": 50,
+        "gold": 0,
+        "item_shop_purchase_type": 1,
+        "max_purchase_num": 10,
+        "start_date": 1790866800,
+        "end_date": 1791125999,
+        "description": "林瑠奈のカードの覚醒に必要な「林瑠奈のツバサ」です！<br /><br />【セット内容】<br />・林瑠奈のツバサ×50<br /><br />※「林瑠奈のツバサ」は170個で林瑠奈の<br />SSRカードを、50個でSRカードを1回覚醒させる<br />ことができます。",
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 414,
+                "data_num": 50
+            }
+        ]
+    },
+    {
+        "product_id": 1572,
+        "product_name": "[遠藤さくら]バースデーガチャSSRチケット",
+        "product_type": 2,
+        "paid_diamond": 200,
+        "diamond": 0,
+        "gold": 0,
+        "item_shop_purchase_type": 1,
+        "max_purchase_num": 1,
+        "start_date": 1790953200,
+        "end_date": 1791212399,
+        "description": "遠藤さくらのバースデーガチャが1回引けるチケットです。<br />SSRカードが確定で登場します！！<br />※遠藤さくらが確定で出現するチケットではありません。<br /><br />【セット内容】<br />・遠藤さくらバースデーガチャSSR確定チケット×1<br /><br />※本チケットは2026年に配信される遠藤さくらの<br />バースデーガチャ以外には使用できません。",
+        "product_data": [
+            {
+                "data_type": 22,
+                "data_id": 975,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "product_id": 1573,
+        "product_name": "[遠藤さくら]バースデーガチャ10連チケット",
+        "product_type": 2,
+        "paid_diamond": 130,
+        "diamond": 0,
+        "gold": 0,
+        "item_shop_purchase_type": 1,
+        "max_purchase_num": 1,
+        "start_date": 1790953200,
+        "end_date": 1791212399,
+        "description": "遠藤さくらのバースデーガチャの10連を引くことができる<br />「遠藤さくらバースデーガチャ10連チケット」です！<br /><br />【セット内容】<br />・遠藤さくらバースデーガチャ10連チケット×1<br /><br />※本チケットは2026年に配信される遠藤さくらの<br />バースデーガチャ以外には使用できません。",
+        "product_data": [
+            {
+                "data_type": 22,
+                "data_id": 974,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "product_id": 1574,
+        "product_name": "[遠藤さくら]SPバースデーセット（月属性）",
+        "product_type": 2,
+        "paid_diamond": 200,
+        "diamond": 0,
+        "gold": 0,
+        "item_shop_purchase_type": 1,
+        "max_purchase_num": 1,
+        "start_date": 1790953200,
+        "end_date": 1791212399,
+        "description": "遠藤さくらのSSRカードを3回覚醒させることができる分の<br />「遠藤さくらのツバサ」、<br />遠藤さくらのSSRカード（月属性）を進化させ<br />レベルMAXまで強化できる分の「育成アイテム各種」が<br />入ったスペシャルバースデーセットです！<br /><br />【セット内容】<br />・遠藤さくらのツバサ×556（46個おまけ！）<br />・ムーンチャージ（大）×46（5個おまけ！）<br />・ムーンクォーツ（大）×30<br />・ムーンクォーツ（特大）×10<br />・ミラクルクォーツ×8（4個おまけ！）<br /><br />※「遠藤さくらのツバサ」は170個で遠藤さくらの<br />SSRカードを1回覚醒させることができます。",
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 401,
+                "data_num": 556
+            },
+            {
+                "data_type": 4,
+                "data_id": 8,
+                "data_num": 46
+            },
+            {
+                "data_type": 5,
+                "data_id": 8,
+                "data_num": 30
+            },
+            {
+                "data_type": 5,
+                "data_id": 11,
+                "data_num": 10
+            },
+            {
+                "data_type": 5,
+                "data_id": 13,
+                "data_num": 8
+            }
+        ]
+    },
+    {
+        "product_id": 1575,
+        "product_name": "[遠藤さくら]SPバースデーセット（太陽属性）",
+        "product_type": 2,
+        "paid_diamond": 200,
+        "diamond": 0,
+        "gold": 0,
+        "item_shop_purchase_type": 1,
+        "max_purchase_num": 1,
+        "start_date": 1790953200,
+        "end_date": 1791212399,
+        "description": "遠藤さくらのSSRカードを3回覚醒させることができる分の<br />「遠藤さくらのツバサ」、<br />遠藤さくらのSSRカード（太陽属性）を進化させ<br />レベルMAXまで強化できる分の「育成アイテム各種」が<br />入ったスペシャルバースデーセットです！<br /><br />【セット内容】<br />・遠藤さくらのツバサ×556（46個おまけ！）<br />・サンチャージ（大）×46（5個おまけ！）<br />・サンクォーツ（大）×30<br />・サンクォーツ（特大）×10<br />・ミラクルクォーツ×8（4個おまけ！）<br /><br />※「遠藤さくらのツバサ」は170個で遠藤さくらの<br />SSRカードを1回覚醒させることができます。",
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 401,
+                "data_num": 556
+            },
+            {
+                "data_type": 4,
+                "data_id": 9,
+                "data_num": 46
+            },
+            {
+                "data_type": 5,
+                "data_id": 9,
+                "data_num": 30
+            },
+            {
+                "data_type": 5,
+                "data_id": 12,
+                "data_num": 10
+            },
+            {
+                "data_type": 5,
+                "data_id": 13,
+                "data_num": 8
+            }
+        ]
+    },
+    {
+        "product_id": 1576,
+        "product_name": "[遠藤さくら]SPバースデーセット（星属性）",
+        "product_type": 2,
+        "paid_diamond": 200,
+        "diamond": 0,
+        "gold": 0,
+        "item_shop_purchase_type": 1,
+        "max_purchase_num": 1,
+        "start_date": 1790953200,
+        "end_date": 1791212399,
+        "description": "遠藤さくらのSSRカードを3回覚醒させることができる分の<br />「遠藤さくらのツバサ」、<br />遠藤さくらのSSRカード（星属性）を進化させ<br />レベルMAXまで強化できる分の「育成アイテム各種」が<br />入ったスペシャルバースデーセットです！<br /><br />【セット内容】<br />・遠藤さくらのツバサ×556（46個おまけ！）<br />・スターチャージ（大）×46（5個おまけ！）<br />・スタークォーツ（大）×30<br />・スタークォーツ（特大）×10<br />・ミラクルクォーツ×8（4個おまけ！）<br /><br />※「遠藤さくらのツバサ」は170個で遠藤さくらの<br />SSRカードを1回覚醒させることができます。",
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 401,
+                "data_num": 556
+            },
+            {
+                "data_type": 4,
+                "data_id": 7,
+                "data_num": 46
+            },
+            {
+                "data_type": 5,
+                "data_id": 7,
+                "data_num": 30
+            },
+            {
+                "data_type": 5,
+                "data_id": 10,
+                "data_num": 10
+            },
+            {
+                "data_type": 5,
+                "data_id": 13,
+                "data_num": 8
+            }
+        ]
+    },
+    {
+        "product_id": 1577,
+        "product_name": "[遠藤さくら]ぷちバースデーセット（月属性）",
+        "product_type": 2,
+        "paid_diamond": 0,
+        "diamond": 80,
+        "gold": 0,
+        "item_shop_purchase_type": 1,
+        "max_purchase_num": 1,
+        "start_date": 1790953200,
+        "end_date": 1791212399,
+        "description": "遠藤さくらのSRカードを1回覚醒させることができる分の<br />「遠藤さくらのツバサ」、<br />遠藤さくらのSRカード（月属性）を強化・進化させるために<br />使用できる「育成アイテム各種」が入った<br />バースデーセットです！<br /><br />【セット内容】<br />・遠藤さくらのツバサ×50<br />・ムーンチャージ（大）×10<br />・ムーンクォーツ（小）×60<br />・ムーンクォーツ（中）×40<br />・ミラクルクォーツ×2<br /><br />※「遠藤さくらのツバサ」は50個で遠藤さくらの<br />SRカードを1回覚醒させることができます。",
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 401,
+                "data_num": 50
+            },
+            {
+                "data_type": 4,
+                "data_id": 8,
+                "data_num": 10
+            },
+            {
+                "data_type": 5,
+                "data_id": 2,
+                "data_num": 60
+            },
+            {
+                "data_type": 5,
+                "data_id": 5,
+                "data_num": 40
+            },
+            {
+                "data_type": 5,
+                "data_id": 13,
+                "data_num": 2
+            }
+        ]
+    },
+    {
+        "product_id": 1578,
+        "product_name": "[遠藤さくら]ぷちバースデーセット（太陽属性）",
+        "product_type": 2,
+        "paid_diamond": 0,
+        "diamond": 80,
+        "gold": 0,
+        "item_shop_purchase_type": 1,
+        "max_purchase_num": 1,
+        "start_date": 1790953200,
+        "end_date": 1791212399,
+        "description": "遠藤さくらのSRカードを1回覚醒させることができる分の<br />「遠藤さくらのツバサ」、<br />遠藤さくらのSRカード（太陽属性）を強化・進化させるために<br />使用できる「育成アイテム各種」が入った<br />バースデーセットです！<br /><br />【セット内容】<br />・遠藤さくらのツバサ×50<br />・サンチャージ（大）×10<br />・サンクォーツ（小）×60<br />・サンクォーツ（中）×40<br />・ミラクルクォーツ×2<br /><br />※「遠藤さくらのツバサ」は50個で遠藤さくらの<br />SRカードを1回覚醒させることができます。",
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 401,
+                "data_num": 50
+            },
+            {
+                "data_type": 4,
+                "data_id": 9,
+                "data_num": 10
+            },
+            {
+                "data_type": 5,
+                "data_id": 3,
+                "data_num": 60
+            },
+            {
+                "data_type": 5,
+                "data_id": 6,
+                "data_num": 40
+            },
+            {
+                "data_type": 5,
+                "data_id": 13,
+                "data_num": 2
+            }
+        ]
+    },
+    {
+        "product_id": 1579,
+        "product_name": "[遠藤さくら]ぷちバースデーセット（星属性）",
+        "product_type": 2,
+        "paid_diamond": 0,
+        "diamond": 80,
+        "gold": 0,
+        "item_shop_purchase_type": 1,
+        "max_purchase_num": 1,
+        "start_date": 1790953200,
+        "end_date": 1791212399,
+        "description": "遠藤さくらのSRカードを1回覚醒させることができる分の<br />「遠藤さくらのツバサ」、<br />遠藤さくらのSRカード（星属性）を強化・進化させるために<br />使用できる「育成アイテム各種」が入った<br />バースデーセットです！<br /><br />【セット内容】<br />・遠藤さくらのツバサ×50<br />・スターチャージ（大）×10<br />・スタークォーツ（小）×60<br />・スタークォーツ（中）×40<br />・ミラクルクォーツ×2<br /><br />※「遠藤さくらのツバサ」は50個で遠藤さくらの<br />SRカードを1回覚醒させることができます。",
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 401,
+                "data_num": 50
+            },
+            {
+                "data_type": 4,
+                "data_id": 7,
+                "data_num": 10
+            },
+            {
+                "data_type": 5,
+                "data_id": 1,
+                "data_num": 60
+            },
+            {
+                "data_type": 5,
+                "data_id": 4,
+                "data_num": 40
+            },
+            {
+                "data_type": 5,
+                "data_id": 13,
+                "data_num": 2
+            }
+        ]
+    },
+    {
+        "product_id": 1580,
+        "product_name": "遠藤さくらのツバサ×50",
+        "product_type": 2,
+        "paid_diamond": 0,
+        "diamond": 50,
+        "gold": 0,
+        "item_shop_purchase_type": 1,
+        "max_purchase_num": 10,
+        "start_date": 1790953200,
+        "end_date": 1791212399,
+        "description": "遠藤さくらのカードの覚醒に必要な「遠藤さくらのツバサ」です！<br /><br />【セット内容】<br />・遠藤さくらのツバサ×50<br /><br />※「遠藤さくらのツバサ」は170個で遠藤さくらの<br />SSRカードを、50個でSRカードを1回覚醒させる<br />ことができます。",
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 401,
+                "data_num": 50
+            }
+        ]
+    },
+    {
+        "product_id": 1581,
+        "product_name": "[森平麗心]バースデーガチャSSRチケット",
+        "product_type": 2,
+        "paid_diamond": 200,
+        "diamond": 0,
+        "gold": 0,
+        "item_shop_purchase_type": 1,
+        "max_purchase_num": 1,
+        "start_date": 1791126000,
+        "end_date": 1791385199,
+        "description": "森平麗心のバースデーガチャが1回引けるチケットです。<br />SSRカードが確定で登場します！！<br />※森平麗心が確定で出現するチケットではありません。<br /><br />【セット内容】<br />・森平麗心バースデーガチャSSR確定チケット×1<br /><br />※本チケットは2026年に配信される森平麗心の<br />バースデーガチャ以外には使用できません。",
+        "product_data": [
+            {
+                "data_type": 22,
+                "data_id": 978,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "product_id": 1582,
+        "product_name": "[森平麗心]バースデーガチャ10連チケット",
+        "product_type": 2,
+        "paid_diamond": 130,
+        "diamond": 0,
+        "gold": 0,
+        "item_shop_purchase_type": 1,
+        "max_purchase_num": 1,
+        "start_date": 1791126000,
+        "end_date": 1791385199,
+        "description": "森平麗心のバースデーガチャの10連を引くことができる<br />「森平麗心バースデーガチャ10連チケット」です！<br /><br />【セット内容】<br />・森平麗心バースデーガチャ10連チケット×1<br /><br />※本チケットは2026年に配信される森平麗心の<br />バースデーガチャ以外には使用できません。",
+        "product_data": [
+            {
+                "data_type": 22,
+                "data_id": 977,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "product_id": 1583,
+        "product_name": "[森平麗心]SPバースデーセット（月属性）",
+        "product_type": 2,
+        "paid_diamond": 200,
+        "diamond": 0,
+        "gold": 0,
+        "item_shop_purchase_type": 1,
+        "max_purchase_num": 1,
+        "start_date": 1791126000,
+        "end_date": 1791385199,
+        "description": "森平麗心のSSRカードを3回覚醒させることができる分の<br />「森平麗心のツバサ」、<br />森平麗心のSSRカード（月属性）を進化させ<br />レベルMAXまで強化できる分の「育成アイテム各種」が<br />入ったスペシャルバースデーセットです！<br /><br />【セット内容】<br />・森平麗心のツバサ×556（46個おまけ！）<br />・ムーンチャージ（大）×46（5個おまけ！）<br />・ムーンクォーツ（大）×30<br />・ムーンクォーツ（特大）×10<br />・ミラクルクォーツ×8（4個おまけ！）<br /><br />※「森平麗心のツバサ」は170個で森平麗心の<br />SSRカードを1回覚醒させることができます。",
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 610,
+                "data_num": 556
+            },
+            {
+                "data_type": 4,
+                "data_id": 8,
+                "data_num": 46
+            },
+            {
+                "data_type": 5,
+                "data_id": 8,
+                "data_num": 30
+            },
+            {
+                "data_type": 5,
+                "data_id": 11,
+                "data_num": 10
+            },
+            {
+                "data_type": 5,
+                "data_id": 13,
+                "data_num": 8
+            }
+        ]
+    },
+    {
+        "product_id": 1584,
+        "product_name": "[森平麗心]SPバースデーセット（太陽属性）",
+        "product_type": 2,
+        "paid_diamond": 200,
+        "diamond": 0,
+        "gold": 0,
+        "item_shop_purchase_type": 1,
+        "max_purchase_num": 1,
+        "start_date": 1791126000,
+        "end_date": 1791385199,
+        "description": "森平麗心のSSRカードを3回覚醒させることができる分の<br />「森平麗心のツバサ」、<br />森平麗心のSSRカード（太陽属性）を進化させ<br />レベルMAXまで強化できる分の「育成アイテム各種」が<br />入ったスペシャルバースデーセットです！<br /><br />【セット内容】<br />・森平麗心のツバサ×556（46個おまけ！）<br />・サンチャージ（大）×46（5個おまけ！）<br />・サンクォーツ（大）×30<br />・サンクォーツ（特大）×10<br />・ミラクルクォーツ×8（4個おまけ！）<br /><br />※「森平麗心のツバサ」は170個で森平麗心の<br />SSRカードを1回覚醒させることができます。",
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 610,
+                "data_num": 556
+            },
+            {
+                "data_type": 4,
+                "data_id": 9,
+                "data_num": 46
+            },
+            {
+                "data_type": 5,
+                "data_id": 9,
+                "data_num": 30
+            },
+            {
+                "data_type": 5,
+                "data_id": 12,
+                "data_num": 10
+            },
+            {
+                "data_type": 5,
+                "data_id": 13,
+                "data_num": 8
+            }
+        ]
+    },
+    {
+        "product_id": 1585,
+        "product_name": "[森平麗心]SPバースデーセット（星属性）",
+        "product_type": 2,
+        "paid_diamond": 200,
+        "diamond": 0,
+        "gold": 0,
+        "item_shop_purchase_type": 1,
+        "max_purchase_num": 1,
+        "start_date": 1791126000,
+        "end_date": 1791385199,
+        "description": "森平麗心のSSRカードを3回覚醒させることができる分の<br />「森平麗心のツバサ」、<br />森平麗心のSSRカード（星属性）を進化させ<br />レベルMAXまで強化できる分の「育成アイテム各種」が<br />入ったスペシャルバースデーセットです！<br /><br />【セット内容】<br />・森平麗心のツバサ×556（46個おまけ！）<br />・スターチャージ（大）×46（5個おまけ！）<br />・スタークォーツ（大）×30<br />・スタークォーツ（特大）×10<br />・ミラクルクォーツ×8（4個おまけ！）<br /><br />※「森平麗心のツバサ」は170個で森平麗心の<br />SSRカードを1回覚醒させることができます。",
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 610,
+                "data_num": 556
+            },
+            {
+                "data_type": 4,
+                "data_id": 7,
+                "data_num": 46
+            },
+            {
+                "data_type": 5,
+                "data_id": 7,
+                "data_num": 30
+            },
+            {
+                "data_type": 5,
+                "data_id": 10,
+                "data_num": 10
+            },
+            {
+                "data_type": 5,
+                "data_id": 13,
+                "data_num": 8
+            }
+        ]
+    },
+    {
+        "product_id": 1586,
+        "product_name": "[森平麗心]ぷちバースデーセット（月属性）",
+        "product_type": 2,
+        "paid_diamond": 0,
+        "diamond": 80,
+        "gold": 0,
+        "item_shop_purchase_type": 1,
+        "max_purchase_num": 1,
+        "start_date": 1791126000,
+        "end_date": 1791385199,
+        "description": "森平麗心のSRカードを1回覚醒させることができる分の<br />「森平麗心のツバサ」、<br />森平麗心のSRカード（月属性）を強化・進化させるために<br />使用できる「育成アイテム各種」が入った<br />バースデーセットです！<br /><br />【セット内容】<br />・森平麗心のツバサ×50<br />・ムーンチャージ（大）×10<br />・ムーンクォーツ（小）×60<br />・ムーンクォーツ（中）×40<br />・ミラクルクォーツ×2<br /><br />※「森平麗心のツバサ」は50個で森平麗心の<br />SRカードを1回覚醒させることができます。",
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 610,
+                "data_num": 50
+            },
+            {
+                "data_type": 4,
+                "data_id": 8,
+                "data_num": 10
+            },
+            {
+                "data_type": 5,
+                "data_id": 2,
+                "data_num": 60
+            },
+            {
+                "data_type": 5,
+                "data_id": 5,
+                "data_num": 40
+            },
+            {
+                "data_type": 5,
+                "data_id": 13,
+                "data_num": 2
+            }
+        ]
+    },
+    {
+        "product_id": 1587,
+        "product_name": "[森平麗心]ぷちバースデーセット（太陽属性）",
+        "product_type": 2,
+        "paid_diamond": 0,
+        "diamond": 80,
+        "gold": 0,
+        "item_shop_purchase_type": 1,
+        "max_purchase_num": 1,
+        "start_date": 1791126000,
+        "end_date": 1791385199,
+        "description": "森平麗心のSRカードを1回覚醒させることができる分の<br />「森平麗心のツバサ」、<br />森平麗心のSRカード（太陽属性）を強化・進化させるために<br />使用できる「育成アイテム各種」が入った<br />バースデーセットです！<br /><br />【セット内容】<br />・森平麗心のツバサ×50<br />・サンチャージ（大）×10<br />・サンクォーツ（小）×60<br />・サンクォーツ（中）×40<br />・ミラクルクォーツ×2<br /><br />※「森平麗心のツバサ」は50個で森平麗心の<br />SRカードを1回覚醒させることができます。",
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 610,
+                "data_num": 50
+            },
+            {
+                "data_type": 4,
+                "data_id": 9,
+                "data_num": 10
+            },
+            {
+                "data_type": 5,
+                "data_id": 3,
+                "data_num": 60
+            },
+            {
+                "data_type": 5,
+                "data_id": 6,
+                "data_num": 40
+            },
+            {
+                "data_type": 5,
+                "data_id": 13,
+                "data_num": 2
+            }
+        ]
+    },
+    {
+        "product_id": 1588,
+        "product_name": "[森平麗心]ぷちバースデーセット（星属性）",
+        "product_type": 2,
+        "paid_diamond": 0,
+        "diamond": 80,
+        "gold": 0,
+        "item_shop_purchase_type": 1,
+        "max_purchase_num": 1,
+        "start_date": 1791126000,
+        "end_date": 1791385199,
+        "description": "森平麗心のSRカードを1回覚醒させることができる分の<br />「森平麗心のツバサ」、<br />森平麗心のSRカード（星属性）を強化・進化させるために<br />使用できる「育成アイテム各種」が入った<br />バースデーセットです！<br /><br />【セット内容】<br />・森平麗心のツバサ×50<br />・スターチャージ（大）×10<br />・スタークォーツ（小）×60<br />・スタークォーツ（中）×40<br />・ミラクルクォーツ×2<br /><br />※「森平麗心のツバサ」は50個で森平麗心の<br />SRカードを1回覚醒させることができます。",
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 610,
+                "data_num": 50
+            },
+            {
+                "data_type": 4,
+                "data_id": 7,
+                "data_num": 10
+            },
+            {
+                "data_type": 5,
+                "data_id": 1,
+                "data_num": 60
+            },
+            {
+                "data_type": 5,
+                "data_id": 4,
+                "data_num": 40
+            },
+            {
+                "data_type": 5,
+                "data_id": 13,
+                "data_num": 2
+            }
+        ]
+    },
+    {
+        "product_id": 1589,
+        "product_name": "森平麗心のツバサ×50",
+        "product_type": 2,
+        "paid_diamond": 0,
+        "diamond": 50,
+        "gold": 0,
+        "item_shop_purchase_type": 1,
+        "max_purchase_num": 10,
+        "start_date": 1791126000,
+        "end_date": 1791385199,
+        "description": "森平麗心のカードの覚醒に必要な「森平麗心のツバサ」です！<br /><br />【セット内容】<br />・森平麗心のツバサ×50<br /><br />※「森平麗心のツバサ」は170個で森平麗心の<br />SSRカードを、50個でSRカードを1回覚醒させる<br />ことができます。",
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 610,
+                "data_num": 50
+            }
+        ]
+    },
+    {
+        "product_id": 1590,
+        "product_name": "[伊藤理々杏]バースデーガチャSSRチケット",
+        "product_type": 2,
+        "paid_diamond": 200,
+        "diamond": 0,
+        "gold": 0,
+        "item_shop_purchase_type": 1,
+        "max_purchase_num": 1,
+        "start_date": 1791385200,
+        "end_date": 1791644399,
+        "description": "伊藤理々杏のバースデーガチャが1回引けるチケットです。<br />SSRカードが確定で登場します！！<br />※伊藤理々杏が確定で出現するチケットではありません。<br /><br />【セット内容】<br />・伊藤理々杏バースデーガチャSSR確定チケット×1<br /><br />※本チケットは2026年に配信される伊藤理々杏の<br />バースデーガチャ以外には使用できません。",
+        "product_data": [
+            {
+                "data_type": 22,
+                "data_id": 981,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "product_id": 1591,
+        "product_name": "[伊藤理々杏]バースデーガチャ10連チケット",
+        "product_type": 2,
+        "paid_diamond": 130,
+        "diamond": 0,
+        "gold": 0,
+        "item_shop_purchase_type": 1,
+        "max_purchase_num": 1,
+        "start_date": 1791385200,
+        "end_date": 1791644399,
+        "description": "伊藤理々杏のバースデーガチャの10連を引くことができる<br />「伊藤理々杏バースデーガチャ10連チケット」です！<br /><br />【セット内容】<br />・伊藤理々杏バースデーガチャ10連チケット×1<br /><br />※本チケットは2026年に配信される伊藤理々杏の<br />バースデーガチャ以外には使用できません。",
+        "product_data": [
+            {
+                "data_type": 22,
+                "data_id": 980,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "product_id": 1592,
+        "product_name": "[伊藤理々杏]SPバースデーセット（月属性）",
+        "product_type": 2,
+        "paid_diamond": 200,
+        "diamond": 0,
+        "gold": 0,
+        "item_shop_purchase_type": 1,
+        "max_purchase_num": 1,
+        "start_date": 1791385200,
+        "end_date": 1791644399,
+        "description": "伊藤理々杏のSSRカードを3回覚醒させることができる分の<br />「伊藤理々杏のツバサ」、<br />伊藤理々杏のSSRカード（月属性）を進化させ<br />レベルMAXまで強化できる分の「育成アイテム各種」が<br />入ったスペシャルバースデーセットです！<br /><br />【セット内容】<br />・伊藤理々杏のツバサ×556（46個おまけ！）<br />・ムーンチャージ（大）×46（5個おまけ！）<br />・ムーンクォーツ（大）×30<br />・ムーンクォーツ（特大）×10<br />・ミラクルクォーツ×8（4個おまけ！）<br /><br />※「伊藤理々杏のツバサ」は170個で伊藤理々杏の<br />SSRカードを1回覚醒させることができます。",
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 301,
+                "data_num": 556
+            },
+            {
+                "data_type": 4,
+                "data_id": 8,
+                "data_num": 46
+            },
+            {
+                "data_type": 5,
+                "data_id": 8,
+                "data_num": 30
+            },
+            {
+                "data_type": 5,
+                "data_id": 11,
+                "data_num": 10
+            },
+            {
+                "data_type": 5,
+                "data_id": 13,
+                "data_num": 8
+            }
+        ]
+    },
+    {
+        "product_id": 1593,
+        "product_name": "[伊藤理々杏]SPバースデーセット（太陽属性）",
+        "product_type": 2,
+        "paid_diamond": 200,
+        "diamond": 0,
+        "gold": 0,
+        "item_shop_purchase_type": 1,
+        "max_purchase_num": 1,
+        "start_date": 1791385200,
+        "end_date": 1791644399,
+        "description": "伊藤理々杏のSSRカードを3回覚醒させることができる分の<br />「伊藤理々杏のツバサ」、<br />伊藤理々杏のSSRカード（太陽属性）を進化させ<br />レベルMAXまで強化できる分の「育成アイテム各種」が<br />入ったスペシャルバースデーセットです！<br /><br />【セット内容】<br />・伊藤理々杏のツバサ×556（46個おまけ！）<br />・サンチャージ（大）×46（5個おまけ！）<br />・サンクォーツ（大）×30<br />・サンクォーツ（特大）×10<br />・ミラクルクォーツ×8（4個おまけ！）<br /><br />※「伊藤理々杏のツバサ」は170個で伊藤理々杏の<br />SSRカードを1回覚醒させることができます。",
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 301,
+                "data_num": 556
+            },
+            {
+                "data_type": 4,
+                "data_id": 9,
+                "data_num": 46
+            },
+            {
+                "data_type": 5,
+                "data_id": 9,
+                "data_num": 30
+            },
+            {
+                "data_type": 5,
+                "data_id": 12,
+                "data_num": 10
+            },
+            {
+                "data_type": 5,
+                "data_id": 13,
+                "data_num": 8
+            }
+        ]
+    },
+    {
+        "product_id": 1594,
+        "product_name": "[伊藤理々杏]SPバースデーセット（星属性）",
+        "product_type": 2,
+        "paid_diamond": 200,
+        "diamond": 0,
+        "gold": 0,
+        "item_shop_purchase_type": 1,
+        "max_purchase_num": 1,
+        "start_date": 1791385200,
+        "end_date": 1791644399,
+        "description": "伊藤理々杏のSSRカードを3回覚醒させることができる分の<br />「伊藤理々杏のツバサ」、<br />伊藤理々杏のSSRカード（星属性）を進化させ<br />レベルMAXまで強化できる分の「育成アイテム各種」が<br />入ったスペシャルバースデーセットです！<br /><br />【セット内容】<br />・伊藤理々杏のツバサ×556（46個おまけ！）<br />・スターチャージ（大）×46（5個おまけ！）<br />・スタークォーツ（大）×30<br />・スタークォーツ（特大）×10<br />・ミラクルクォーツ×8（4個おまけ！）<br /><br />※「伊藤理々杏のツバサ」は170個で伊藤理々杏の<br />SSRカードを1回覚醒させることができます。",
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 301,
+                "data_num": 556
+            },
+            {
+                "data_type": 4,
+                "data_id": 7,
+                "data_num": 46
+            },
+            {
+                "data_type": 5,
+                "data_id": 7,
+                "data_num": 30
+            },
+            {
+                "data_type": 5,
+                "data_id": 10,
+                "data_num": 10
+            },
+            {
+                "data_type": 5,
+                "data_id": 13,
+                "data_num": 8
+            }
+        ]
+    },
+    {
+        "product_id": 1595,
+        "product_name": "[伊藤理々杏]ぷちバースデーセット（月属性）",
+        "product_type": 2,
+        "paid_diamond": 0,
+        "diamond": 80,
+        "gold": 0,
+        "item_shop_purchase_type": 1,
+        "max_purchase_num": 1,
+        "start_date": 1791385200,
+        "end_date": 1791644399,
+        "description": "伊藤理々杏のSRカードを1回覚醒させることができる分の<br />「伊藤理々杏のツバサ」、<br />伊藤理々杏のSRカード（月属性）を強化・進化させるために<br />使用できる「育成アイテム各種」が入った<br />バースデーセットです！<br /><br />【セット内容】<br />・伊藤理々杏のツバサ×50<br />・ムーンチャージ（大）×10<br />・ムーンクォーツ（小）×60<br />・ムーンクォーツ（中）×40<br />・ミラクルクォーツ×2<br /><br />※「伊藤理々杏のツバサ」は50個で伊藤理々杏の<br />SRカードを1回覚醒させることができます。",
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 301,
+                "data_num": 50
+            },
+            {
+                "data_type": 4,
+                "data_id": 8,
+                "data_num": 10
+            },
+            {
+                "data_type": 5,
+                "data_id": 2,
+                "data_num": 60
+            },
+            {
+                "data_type": 5,
+                "data_id": 5,
+                "data_num": 40
+            },
+            {
+                "data_type": 5,
+                "data_id": 13,
+                "data_num": 2
+            }
+        ]
+    },
+    {
+        "product_id": 1596,
+        "product_name": "[伊藤理々杏]ぷちバースデーセット（太陽属性）",
+        "product_type": 2,
+        "paid_diamond": 0,
+        "diamond": 80,
+        "gold": 0,
+        "item_shop_purchase_type": 1,
+        "max_purchase_num": 1,
+        "start_date": 1791385200,
+        "end_date": 1791644399,
+        "description": "伊藤理々杏のSRカードを1回覚醒させることができる分の<br />「伊藤理々杏のツバサ」、<br />伊藤理々杏のSRカード（太陽属性）を強化・進化させるために<br />使用できる「育成アイテム各種」が入った<br />バースデーセットです！<br /><br />【セット内容】<br />・伊藤理々杏のツバサ×50<br />・サンチャージ（大）×10<br />・サンクォーツ（小）×60<br />・サンクォーツ（中）×40<br />・ミラクルクォーツ×2<br /><br />※「伊藤理々杏のツバサ」は50個で伊藤理々杏の<br />SRカードを1回覚醒させることができます。",
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 301,
+                "data_num": 50
+            },
+            {
+                "data_type": 4,
+                "data_id": 9,
+                "data_num": 10
+            },
+            {
+                "data_type": 5,
+                "data_id": 3,
+                "data_num": 60
+            },
+            {
+                "data_type": 5,
+                "data_id": 6,
+                "data_num": 40
+            },
+            {
+                "data_type": 5,
+                "data_id": 13,
+                "data_num": 2
+            }
+        ]
+    },
+    {
+        "product_id": 1597,
+        "product_name": "[伊藤理々杏]ぷちバースデーセット（星属性）",
+        "product_type": 2,
+        "paid_diamond": 0,
+        "diamond": 80,
+        "gold": 0,
+        "item_shop_purchase_type": 1,
+        "max_purchase_num": 1,
+        "start_date": 1791385200,
+        "end_date": 1791644399,
+        "description": "伊藤理々杏のSRカードを1回覚醒させることができる分の<br />「伊藤理々杏のツバサ」、<br />伊藤理々杏のSRカード（星属性）を強化・進化させるために<br />使用できる「育成アイテム各種」が入った<br />バースデーセットです！<br /><br />【セット内容】<br />・伊藤理々杏のツバサ×50<br />・スターチャージ（大）×10<br />・スタークォーツ（小）×60<br />・スタークォーツ（中）×40<br />・ミラクルクォーツ×2<br /><br />※「伊藤理々杏のツバサ」は50個で伊藤理々杏の<br />SRカードを1回覚醒させることができます。",
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 301,
+                "data_num": 50
+            },
+            {
+                "data_type": 4,
+                "data_id": 7,
+                "data_num": 10
+            },
+            {
+                "data_type": 5,
+                "data_id": 1,
+                "data_num": 60
+            },
+            {
+                "data_type": 5,
+                "data_id": 4,
+                "data_num": 40
+            },
+            {
+                "data_type": 5,
+                "data_id": 13,
+                "data_num": 2
+            }
+        ]
+    },
+    {
+        "product_id": 1598,
+        "product_name": "伊藤理々杏のツバサ×50",
+        "product_type": 2,
+        "paid_diamond": 0,
+        "diamond": 50,
+        "gold": 0,
+        "item_shop_purchase_type": 1,
+        "max_purchase_num": 10,
+        "start_date": 1791385200,
+        "end_date": 1791644399,
+        "description": "伊藤理々杏のカードの覚醒に必要な「伊藤理々杏のツバサ」です！<br /><br />【セット内容】<br />・伊藤理々杏のツバサ×50<br /><br />※「伊藤理々杏のツバサ」は170個で伊藤理々杏の<br />SSRカードを、50個でSRカードを1回覚醒させる<br />ことができます。",
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 301,
+                "data_num": 50
+            }
+        ]
+    },
+    {
+        "product_id": 1599,
+        "product_name": "【月初限定】期間限定ガチャ10連チケット",
+        "product_type": 2,
+        "paid_diamond": 130,
+        "diamond": 0,
+        "gold": 0,
+        "item_shop_purchase_type": 1,
+        "max_purchase_num": 1,
+        "start_date": 1790780400,
+        "end_date": 1791385199,
+        "description": "期間限定ガチャの10連を1回引くことができる<br />「期間限定ガチャ10連チケット」です！<br /><br />【セット内容】<br />・期間限定ガチャ10連チケット×1<br />",
+        "product_data": [
+            {
+                "data_type": 22,
+                "data_id": 4,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "product_id": 1600,
+        "product_name": "【月初限定】SSR育成パック（月属性）",
+        "product_type": 2,
+        "paid_diamond": 0,
+        "diamond": 100,
+        "gold": 0,
+        "item_shop_purchase_type": 1,
+        "max_purchase_num": 1,
+        "start_date": 1790780400,
+        "end_date": 1791385199,
+        "description": "月属性のSSRカードを進化させた後、レベルMAXまで<br />強化できる分の「育成アイテム各種」が入った育成<br />パックです！<br /><br />【セット内容】<br />・ムーンチャージ（大）×41<br />・ムーンクォーツ（大）×30<br />・ムーンクォーツ（特大）×10<br />・ミラクルクォーツ×4<br /><br />",
+        "product_data": [
+            {
+                "data_type": 4,
+                "data_id": 8,
+                "data_num": 41
+            },
+            {
+                "data_type": 5,
+                "data_id": 8,
+                "data_num": 30
+            },
+            {
+                "data_type": 5,
+                "data_id": 11,
+                "data_num": 10
+            },
+            {
+                "data_type": 5,
+                "data_id": 13,
+                "data_num": 4
+            }
+        ]
+    },
+    {
+        "product_id": 1601,
+        "product_name": "【月初限定】SSR育成パック（太陽属性）",
+        "product_type": 2,
+        "paid_diamond": 0,
+        "diamond": 100,
+        "gold": 0,
+        "item_shop_purchase_type": 1,
+        "max_purchase_num": 1,
+        "start_date": 1790780400,
+        "end_date": 1791385199,
+        "description": "太陽属性のSSRカードを進化させた後、レベルMAXまで<br />強化できる分の「育成アイテム各種」が入った育成<br />パックです！<br /><br />【セット内容】<br />・サンチャージ（大）×41<br />・サンクォーツ（大）×30<br />・サンクォーツ（特大）×10<br />・ミラクルクォーツ×4<br /><br />",
+        "product_data": [
+            {
+                "data_type": 4,
+                "data_id": 9,
+                "data_num": 41
+            },
+            {
+                "data_type": 5,
+                "data_id": 9,
+                "data_num": 30
+            },
+            {
+                "data_type": 5,
+                "data_id": 12,
+                "data_num": 10
+            },
+            {
+                "data_type": 5,
+                "data_id": 13,
+                "data_num": 4
+            }
+        ]
+    },
+    {
+        "product_id": 1602,
+        "product_name": "【月初限定】SSR育成パック（星属性）",
+        "product_type": 2,
+        "paid_diamond": 0,
+        "diamond": 100,
+        "gold": 0,
+        "item_shop_purchase_type": 1,
+        "max_purchase_num": 1,
+        "start_date": 1790780400,
+        "end_date": 1791385199,
+        "description": "<br />星属性のSSRカードを進化させた後、レベルMAXまで<br />強化できる分の「育成アイテム各種」が入った育成<br />パックです！<br /><br />【セット内容】<br />・スターチャージ（大）×41<br />・スタークォーツ（大）×30<br />・スタークォーツ（特大）×10<br />・ミラクルクォーツ×4<br /><br />",
+        "product_data": [
+            {
+                "data_type": 4,
+                "data_id": 7,
+                "data_num": 41
+            },
+            {
+                "data_type": 5,
+                "data_id": 7,
+                "data_num": 30
+            },
+            {
+                "data_type": 5,
+                "data_id": 10,
+                "data_num": 10
+            },
+            {
+                "data_type": 5,
+                "data_id": 13,
+                "data_num": 4
+            }
+        ]
+    },
+    {
+        "product_id": 1603,
+        "product_name": "【月初限定】SR育成パック（月属性）",
+        "product_type": 2,
+        "paid_diamond": 0,
+        "diamond": 50,
+        "gold": 0,
+        "item_shop_purchase_type": 1,
+        "max_purchase_num": 1,
+        "start_date": 1790780400,
+        "end_date": 1791385199,
+        "description": "月属性のSRカードを進化させた後、レベルMAXまで<br />強化できる分の「育成アイテム各種」が入った育成<br />パックです！<br /><br />【セット内容】<br />・ムーンチャージ（大）×21<br />・ムーンチャージ（小）×1<br />・ムーンクォーツ（小）×60<br />・ムーンクォーツ（中）×40<br />・ミラクルクォーツ×2<br />",
+        "product_data": [
+            {
+                "data_type": 4,
+                "data_id": 8,
+                "data_num": 21
+            },
+            {
+                "data_type": 4,
+                "data_id": 2,
+                "data_num": 1
+            },
+            {
+                "data_type": 5,
+                "data_id": 2,
+                "data_num": 60
+            },
+            {
+                "data_type": 5,
+                "data_id": 5,
+                "data_num": 40
+            },
+            {
+                "data_type": 5,
+                "data_id": 13,
+                "data_num": 2
+            }
+        ]
+    },
+    {
+        "product_id": 1604,
+        "product_name": "【月初限定】SR育成パック（太陽属性）",
+        "product_type": 2,
+        "paid_diamond": 0,
+        "diamond": 50,
+        "gold": 0,
+        "item_shop_purchase_type": 1,
+        "max_purchase_num": 1,
+        "start_date": 1790780400,
+        "end_date": 1791385199,
+        "description": "太陽属性のSRカードを進化させた後、レベルMAXまで<br />強化できる分の「育成アイテム各種」が入った育成<br />パックです！<br /><br />【セット内容】<br />・サンチャージ（大）×21<br />・サンチャージ（小）×1<br />・サンクォーツ（小）×60<br />・サンクォーツ（中）×40<br />・ミラクルクォーツ×2<br />",
+        "product_data": [
+            {
+                "data_type": 4,
+                "data_id": 9,
+                "data_num": 21
+            },
+            {
+                "data_type": 4,
+                "data_id": 3,
+                "data_num": 1
+            },
+            {
+                "data_type": 5,
+                "data_id": 3,
+                "data_num": 60
+            },
+            {
+                "data_type": 5,
+                "data_id": 6,
+                "data_num": 40
+            },
+            {
+                "data_type": 5,
+                "data_id": 13,
+                "data_num": 2
+            }
+        ]
+    },
+    {
+        "product_id": 1605,
+        "product_name": "【月初限定】SR育成パック（星属性）",
+        "product_type": 2,
+        "paid_diamond": 0,
+        "diamond": 50,
+        "gold": 0,
+        "item_shop_purchase_type": 1,
+        "max_purchase_num": 1,
+        "start_date": 1790780400,
+        "end_date": 1791385199,
+        "description": "星属性のSRカードを進化させた後、レベルMAXまで<br />強化できる分の「育成アイテム各種」が入った育成<br />パックです！<br /><br />【セット内容】<br />・スターチャージ（大）×21<br />・スターチャージ（小）×1<br />・スタークォーツ（小）×60<br />・スタークォーツ（中）×40<br />・ミラクルクォーツ×2<br />",
+        "product_data": [
+            {
+                "data_type": 4,
+                "data_id": 7,
+                "data_num": 21
+            },
+            {
+                "data_type": 4,
+                "data_id": 1,
+                "data_num": 1
+            },
+            {
+                "data_type": 5,
+                "data_id": 1,
+                "data_num": 60
+            },
+            {
+                "data_type": 5,
+                "data_id": 4,
+                "data_num": 40
+            },
+            {
+                "data_type": 5,
+                "data_id": 13,
+                "data_num": 2
             }
         ]
     }

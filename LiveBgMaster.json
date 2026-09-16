@@ -4104,6 +4104,24 @@
         "live_location": "有明アリーナ"
     },
     {
+        "live_bg_id": 410031,
+        "live_bg_name": "「じゃあね」が切ない",
+        "live_bg_type": 1,
+        "music_id": 410030,
+        "live_name": "5th ALBUM MEMORIAL LIVE 『My respect』",
+        "live_date": "2026年2月23日",
+        "live_location": "有明アリーナ"
+    },
+    {
+        "live_bg_id": 410032,
+        "live_bg_name": "「じゃあね」が切ない",
+        "live_bg_type": 2,
+        "music_id": 410030,
+        "live_name": "5th ALBUM MEMORIAL LIVE 『My respect』",
+        "live_date": "2026年2月23日",
+        "live_location": "有明アリーナ"
+    },
+    {
         "live_bg_id": 410041,
         "live_bg_name": "あと7曲",
         "live_bg_type": 1,
@@ -4567,6 +4585,24 @@
         "live_bg_name": "全力ラップタイム",
         "live_bg_type": 2,
         "music_id": 470020,
+        "live_name": "5th ALBUM MEMORIAL LIVE 『My respect』",
+        "live_date": "2026年2月23日",
+        "live_location": "有明アリーナ"
+    },
+    {
+        "live_bg_id": 470041,
+        "live_bg_name": "Fake Doctor",
+        "live_bg_type": 1,
+        "music_id": 470040,
+        "live_name": "5th ALBUM MEMORIAL LIVE 『My respect』",
+        "live_date": "2026年2月23日",
+        "live_location": "有明アリーナ"
+    },
+    {
+        "live_bg_id": 470042,
+        "live_bg_name": "Fake Doctor",
+        "live_bg_type": 2,
+        "music_id": 470040,
         "live_name": "5th ALBUM MEMORIAL LIVE 『My respect』",
         "live_date": "2026年2月23日",
         "live_location": "有明アリーナ"

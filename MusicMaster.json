@@ -3961,6 +3961,30 @@
         "arranger": "APAZZI"
     },
     {
+        "music_id": 410030,
+        "music_name": "「じゃあね」が切ない",
+        "music_name_kana": "「じゃあね」がせつない",
+        "search_word": [
+            {
+                "word": "じゃあねが切ない"
+            },
+            {
+                "word": "じゃあねがせつない"
+            },
+            {
+                "word": "5期生曲"
+            }
+        ],
+        "music_type": 1,
+        "center_girl_id": 104,
+        "release_date": 2024041003,
+        "music_length": 144,
+        "information": "すごく良い曲だよー",
+        "lyricist": "秋元 康",
+        "composer": "Yuya Fujinaka",
+        "arranger": "Yuya Fujinaka"
+    },
+    {
         "music_id": 410040,
         "music_name": "あと7曲",
         "music_name_kana": "あと7きょく",
@@ -4423,6 +4447,24 @@
         "lyricist": "秋元 康",
         "composer": "岩野 コウ，石口 侑弥",
         "arranger": "石口 侑弥"
+    },
+    {
+        "music_id": 470040,
+        "music_name": "Fake Doctor",
+        "music_name_kana": "ふぇいくどくたー",
+        "search_word": [
+            {
+                "word": "4期生曲"
+            }
+        ],
+        "music_type": 1,
+        "center_girl_id": 104,
+        "release_date": 2026011404,
+        "music_length": 133,
+        "information": "すごく良い曲だよー",
+        "lyricist": "秋元 康",
+        "composer": "鎌田 瑞輝",
+        "arranger": "鎌田 瑞輝"
     },
     {
         "music_id": 480020,
