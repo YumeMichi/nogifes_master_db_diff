@@ -2385,7 +2385,7 @@
         "live_location": "国立代々木競技場",
         "start_date": 1682056800,
         "end_date": 1924959599,
-        "high_quality": 0
+        "high_quality": 1
     },
     {
         "other_movie_id": 117,
@@ -2994,5 +2994,24 @@
         "start_date": 1784646000,
         "end_date": 1924959599,
         "high_quality": 0
+    },
+    {
+        "other_movie_id": 149,
+        "other_movie_name": "狼に口笛を_37thSGアンダーライブ",
+        "unit_data": [
+            {
+                "unit_id": 138470
+            },
+            {
+                "unit_id": 138471
+            }
+        ],
+        "music_id": 20050,
+        "live_name": "37thSGアンダーライブ",
+        "live_date": "2025年1月30日",
+        "live_location": "幕張ﾒｯｾ 幕張ｲﾍﾞﾝﾄﾎｰﾙ",
+        "start_date": 1792303200,
+        "end_date": 1924959599,
+        "high_quality": 1
     }
 ]

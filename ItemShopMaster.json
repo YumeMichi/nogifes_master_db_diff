@@ -49153,5 +49153,1340 @@
                 "data_num": 2
             }
         ]
+    },
+    {
+        "product_id": 1606,
+        "product_name": "【月初限定】期間限定ガチャ10連チケット",
+        "product_type": 2,
+        "paid_diamond": 130,
+        "diamond": 0,
+        "gold": 0,
+        "item_shop_purchase_type": 1,
+        "max_purchase_num": 1,
+        "start_date": 1793458800,
+        "end_date": 1794063599,
+        "description": "期間限定ガチャの10連を1回引くことができる<br />「期間限定ガチャ10連チケット」です！<br /><br />【セット内容】<br />・期間限定ガチャ10連チケット×1<br />",
+        "product_data": [
+            {
+                "data_type": 22,
+                "data_id": 4,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "product_id": 1607,
+        "product_name": "【月初限定】SSR育成パック（月属性）",
+        "product_type": 2,
+        "paid_diamond": 0,
+        "diamond": 100,
+        "gold": 0,
+        "item_shop_purchase_type": 1,
+        "max_purchase_num": 1,
+        "start_date": 1793458800,
+        "end_date": 1794063599,
+        "description": "月属性のSSRカードを進化させた後、レベルMAXまで<br />強化できる分の「育成アイテム各種」が入った育成<br />パックです！<br /><br />【セット内容】<br />・ムーンチャージ（大）×41<br />・ムーンクォーツ（大）×30<br />・ムーンクォーツ（特大）×10<br />・ミラクルクォーツ×4<br /><br />",
+        "product_data": [
+            {
+                "data_type": 4,
+                "data_id": 8,
+                "data_num": 41
+            },
+            {
+                "data_type": 5,
+                "data_id": 8,
+                "data_num": 30
+            },
+            {
+                "data_type": 5,
+                "data_id": 11,
+                "data_num": 10
+            },
+            {
+                "data_type": 5,
+                "data_id": 13,
+                "data_num": 4
+            }
+        ]
+    },
+    {
+        "product_id": 1608,
+        "product_name": "【月初限定】SSR育成パック（太陽属性）",
+        "product_type": 2,
+        "paid_diamond": 0,
+        "diamond": 100,
+        "gold": 0,
+        "item_shop_purchase_type": 1,
+        "max_purchase_num": 1,
+        "start_date": 1793458800,
+        "end_date": 1794063599,
+        "description": "太陽属性のSSRカードを進化させた後、レベルMAXまで<br />強化できる分の「育成アイテム各種」が入った育成<br />パックです！<br /><br />【セット内容】<br />・サンチャージ（大）×41<br />・サンクォーツ（大）×30<br />・サンクォーツ（特大）×10<br />・ミラクルクォーツ×4<br /><br />",
+        "product_data": [
+            {
+                "data_type": 4,
+                "data_id": 9,
+                "data_num": 41
+            },
+            {
+                "data_type": 5,
+                "data_id": 9,
+                "data_num": 30
+            },
+            {
+                "data_type": 5,
+                "data_id": 12,
+                "data_num": 10
+            },
+            {
+                "data_type": 5,
+                "data_id": 13,
+                "data_num": 4
+            }
+        ]
+    },
+    {
+        "product_id": 1609,
+        "product_name": "【月初限定】SSR育成パック（星属性）",
+        "product_type": 2,
+        "paid_diamond": 0,
+        "diamond": 100,
+        "gold": 0,
+        "item_shop_purchase_type": 1,
+        "max_purchase_num": 1,
+        "start_date": 1793458800,
+        "end_date": 1794063599,
+        "description": "<br />星属性のSSRカードを進化させた後、レベルMAXまで<br />強化できる分の「育成アイテム各種」が入った育成<br />パックです！<br /><br />【セット内容】<br />・スターチャージ（大）×41<br />・スタークォーツ（大）×30<br />・スタークォーツ（特大）×10<br />・ミラクルクォーツ×4<br /><br />",
+        "product_data": [
+            {
+                "data_type": 4,
+                "data_id": 7,
+                "data_num": 41
+            },
+            {
+                "data_type": 5,
+                "data_id": 7,
+                "data_num": 30
+            },
+            {
+                "data_type": 5,
+                "data_id": 10,
+                "data_num": 10
+            },
+            {
+                "data_type": 5,
+                "data_id": 13,
+                "data_num": 4
+            }
+        ]
+    },
+    {
+        "product_id": 1610,
+        "product_name": "【月初限定】SR育成パック（月属性）",
+        "product_type": 2,
+        "paid_diamond": 0,
+        "diamond": 50,
+        "gold": 0,
+        "item_shop_purchase_type": 1,
+        "max_purchase_num": 1,
+        "start_date": 1793458800,
+        "end_date": 1794063599,
+        "description": "月属性のSRカードを進化させた後、レベルMAXまで<br />強化できる分の「育成アイテム各種」が入った育成<br />パックです！<br /><br />【セット内容】<br />・ムーンチャージ（大）×21<br />・ムーンチャージ（小）×1<br />・ムーンクォーツ（小）×60<br />・ムーンクォーツ（中）×40<br />・ミラクルクォーツ×2<br />",
+        "product_data": [
+            {
+                "data_type": 4,
+                "data_id": 8,
+                "data_num": 21
+            },
+            {
+                "data_type": 4,
+                "data_id": 2,
+                "data_num": 1
+            },
+            {
+                "data_type": 5,
+                "data_id": 2,
+                "data_num": 60
+            },
+            {
+                "data_type": 5,
+                "data_id": 5,
+                "data_num": 40
+            },
+            {
+                "data_type": 5,
+                "data_id": 13,
+                "data_num": 2
+            }
+        ]
+    },
+    {
+        "product_id": 1611,
+        "product_name": "【月初限定】SR育成パック（太陽属性）",
+        "product_type": 2,
+        "paid_diamond": 0,
+        "diamond": 50,
+        "gold": 0,
+        "item_shop_purchase_type": 1,
+        "max_purchase_num": 1,
+        "start_date": 1793458800,
+        "end_date": 1794063599,
+        "description": "太陽属性のSRカードを進化させた後、レベルMAXまで<br />強化できる分の「育成アイテム各種」が入った育成<br />パックです！<br /><br />【セット内容】<br />・サンチャージ（大）×21<br />・サンチャージ（小）×1<br />・サンクォーツ（小）×60<br />・サンクォーツ（中）×40<br />・ミラクルクォーツ×2<br />",
+        "product_data": [
+            {
+                "data_type": 4,
+                "data_id": 9,
+                "data_num": 21
+            },
+            {
+                "data_type": 4,
+                "data_id": 3,
+                "data_num": 1
+            },
+            {
+                "data_type": 5,
+                "data_id": 3,
+                "data_num": 60
+            },
+            {
+                "data_type": 5,
+                "data_id": 6,
+                "data_num": 40
+            },
+            {
+                "data_type": 5,
+                "data_id": 13,
+                "data_num": 2
+            }
+        ]
+    },
+    {
+        "product_id": 1612,
+        "product_name": "【月初限定】SR育成パック（星属性）",
+        "product_type": 2,
+        "paid_diamond": 0,
+        "diamond": 50,
+        "gold": 0,
+        "item_shop_purchase_type": 1,
+        "max_purchase_num": 1,
+        "start_date": 1793458800,
+        "end_date": 1794063599,
+        "description": "星属性のSRカードを進化させた後、レベルMAXまで<br />強化できる分の「育成アイテム各種」が入った育成<br />パックです！<br /><br />【セット内容】<br />・スターチャージ（大）×21<br />・スターチャージ（小）×1<br />・スタークォーツ（小）×60<br />・スタークォーツ（中）×40<br />・ミラクルクォーツ×2<br />",
+        "product_data": [
+            {
+                "data_type": 4,
+                "data_id": 7,
+                "data_num": 21
+            },
+            {
+                "data_type": 4,
+                "data_id": 1,
+                "data_num": 1
+            },
+            {
+                "data_type": 5,
+                "data_id": 1,
+                "data_num": 60
+            },
+            {
+                "data_type": 5,
+                "data_id": 4,
+                "data_num": 40
+            },
+            {
+                "data_type": 5,
+                "data_id": 13,
+                "data_num": 2
+            }
+        ]
+    },
+    {
+        "product_id": 1613,
+        "product_name": "【月初限定】期間限定ガチャ10連チケット",
+        "product_type": 2,
+        "paid_diamond": 130,
+        "diamond": 0,
+        "gold": 0,
+        "item_shop_purchase_type": 1,
+        "max_purchase_num": 1,
+        "start_date": 1796050800,
+        "end_date": 1796655599,
+        "description": "期間限定ガチャの10連を1回引くことができる<br />「期間限定ガチャ10連チケット」です！<br /><br />【セット内容】<br />・期間限定ガチャ10連チケット×1<br />",
+        "product_data": [
+            {
+                "data_type": 22,
+                "data_id": 4,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "product_id": 1614,
+        "product_name": "【月初限定】SSR育成パック（月属性）",
+        "product_type": 2,
+        "paid_diamond": 0,
+        "diamond": 100,
+        "gold": 0,
+        "item_shop_purchase_type": 1,
+        "max_purchase_num": 1,
+        "start_date": 1796050800,
+        "end_date": 1796655599,
+        "description": "月属性のSSRカードを進化させた後、レベルMAXまで<br />強化できる分の「育成アイテム各種」が入った育成<br />パックです！<br /><br />【セット内容】<br />・ムーンチャージ（大）×41<br />・ムーンクォーツ（大）×30<br />・ムーンクォーツ（特大）×10<br />・ミラクルクォーツ×4<br /><br />",
+        "product_data": [
+            {
+                "data_type": 4,
+                "data_id": 8,
+                "data_num": 41
+            },
+            {
+                "data_type": 5,
+                "data_id": 8,
+                "data_num": 30
+            },
+            {
+                "data_type": 5,
+                "data_id": 11,
+                "data_num": 10
+            },
+            {
+                "data_type": 5,
+                "data_id": 13,
+                "data_num": 4
+            }
+        ]
+    },
+    {
+        "product_id": 1615,
+        "product_name": "【月初限定】SSR育成パック（太陽属性）",
+        "product_type": 2,
+        "paid_diamond": 0,
+        "diamond": 100,
+        "gold": 0,
+        "item_shop_purchase_type": 1,
+        "max_purchase_num": 1,
+        "start_date": 1796050800,
+        "end_date": 1796655599,
+        "description": "太陽属性のSSRカードを進化させた後、レベルMAXまで<br />強化できる分の「育成アイテム各種」が入った育成<br />パックです！<br /><br />【セット内容】<br />・サンチャージ（大）×41<br />・サンクォーツ（大）×30<br />・サンクォーツ（特大）×10<br />・ミラクルクォーツ×4<br /><br />",
+        "product_data": [
+            {
+                "data_type": 4,
+                "data_id": 9,
+                "data_num": 41
+            },
+            {
+                "data_type": 5,
+                "data_id": 9,
+                "data_num": 30
+            },
+            {
+                "data_type": 5,
+                "data_id": 12,
+                "data_num": 10
+            },
+            {
+                "data_type": 5,
+                "data_id": 13,
+                "data_num": 4
+            }
+        ]
+    },
+    {
+        "product_id": 1616,
+        "product_name": "【月初限定】SSR育成パック（星属性）",
+        "product_type": 2,
+        "paid_diamond": 0,
+        "diamond": 100,
+        "gold": 0,
+        "item_shop_purchase_type": 1,
+        "max_purchase_num": 1,
+        "start_date": 1796050800,
+        "end_date": 1796655599,
+        "description": "<br />星属性のSSRカードを進化させた後、レベルMAXまで<br />強化できる分の「育成アイテム各種」が入った育成<br />パックです！<br /><br />【セット内容】<br />・スターチャージ（大）×41<br />・スタークォーツ（大）×30<br />・スタークォーツ（特大）×10<br />・ミラクルクォーツ×4<br /><br />",
+        "product_data": [
+            {
+                "data_type": 4,
+                "data_id": 7,
+                "data_num": 41
+            },
+            {
+                "data_type": 5,
+                "data_id": 7,
+                "data_num": 30
+            },
+            {
+                "data_type": 5,
+                "data_id": 10,
+                "data_num": 10
+            },
+            {
+                "data_type": 5,
+                "data_id": 13,
+                "data_num": 4
+            }
+        ]
+    },
+    {
+        "product_id": 1617,
+        "product_name": "【月初限定】SR育成パック（月属性）",
+        "product_type": 2,
+        "paid_diamond": 0,
+        "diamond": 50,
+        "gold": 0,
+        "item_shop_purchase_type": 1,
+        "max_purchase_num": 1,
+        "start_date": 1796050800,
+        "end_date": 1796655599,
+        "description": "月属性のSRカードを進化させた後、レベルMAXまで<br />強化できる分の「育成アイテム各種」が入った育成<br />パックです！<br /><br />【セット内容】<br />・ムーンチャージ（大）×21<br />・ムーンチャージ（小）×1<br />・ムーンクォーツ（小）×60<br />・ムーンクォーツ（中）×40<br />・ミラクルクォーツ×2<br />",
+        "product_data": [
+            {
+                "data_type": 4,
+                "data_id": 8,
+                "data_num": 21
+            },
+            {
+                "data_type": 4,
+                "data_id": 2,
+                "data_num": 1
+            },
+            {
+                "data_type": 5,
+                "data_id": 2,
+                "data_num": 60
+            },
+            {
+                "data_type": 5,
+                "data_id": 5,
+                "data_num": 40
+            },
+            {
+                "data_type": 5,
+                "data_id": 13,
+                "data_num": 2
+            }
+        ]
+    },
+    {
+        "product_id": 1618,
+        "product_name": "【月初限定】SR育成パック（太陽属性）",
+        "product_type": 2,
+        "paid_diamond": 0,
+        "diamond": 50,
+        "gold": 0,
+        "item_shop_purchase_type": 1,
+        "max_purchase_num": 1,
+        "start_date": 1796050800,
+        "end_date": 1796655599,
+        "description": "太陽属性のSRカードを進化させた後、レベルMAXまで<br />強化できる分の「育成アイテム各種」が入った育成<br />パックです！<br /><br />【セット内容】<br />・サンチャージ（大）×21<br />・サンチャージ（小）×1<br />・サンクォーツ（小）×60<br />・サンクォーツ（中）×40<br />・ミラクルクォーツ×2<br />",
+        "product_data": [
+            {
+                "data_type": 4,
+                "data_id": 9,
+                "data_num": 21
+            },
+            {
+                "data_type": 4,
+                "data_id": 3,
+                "data_num": 1
+            },
+            {
+                "data_type": 5,
+                "data_id": 3,
+                "data_num": 60
+            },
+            {
+                "data_type": 5,
+                "data_id": 6,
+                "data_num": 40
+            },
+            {
+                "data_type": 5,
+                "data_id": 13,
+                "data_num": 2
+            }
+        ]
+    },
+    {
+        "product_id": 1619,
+        "product_name": "【月初限定】SR育成パック（星属性）",
+        "product_type": 2,
+        "paid_diamond": 0,
+        "diamond": 50,
+        "gold": 0,
+        "item_shop_purchase_type": 1,
+        "max_purchase_num": 1,
+        "start_date": 1796050800,
+        "end_date": 1796655599,
+        "description": "星属性のSRカードを進化させた後、レベルMAXまで<br />強化できる分の「育成アイテム各種」が入った育成<br />パックです！<br /><br />【セット内容】<br />・スターチャージ（大）×21<br />・スターチャージ（小）×1<br />・スタークォーツ（小）×60<br />・スタークォーツ（中）×40<br />・ミラクルクォーツ×2<br />",
+        "product_data": [
+            {
+                "data_type": 4,
+                "data_id": 7,
+                "data_num": 21
+            },
+            {
+                "data_type": 4,
+                "data_id": 1,
+                "data_num": 1
+            },
+            {
+                "data_type": 5,
+                "data_id": 1,
+                "data_num": 60
+            },
+            {
+                "data_type": 5,
+                "data_id": 4,
+                "data_num": 40
+            },
+            {
+                "data_type": 5,
+                "data_id": 13,
+                "data_num": 2
+            }
+        ]
+    },
+    {
+        "product_id": 1620,
+        "product_name": "【月初限定】期間限定ガチャ10連チケット",
+        "product_type": 2,
+        "paid_diamond": 130,
+        "diamond": 0,
+        "gold": 0,
+        "item_shop_purchase_type": 1,
+        "max_purchase_num": 1,
+        "start_date": 1798729200,
+        "end_date": 1799333999,
+        "description": "期間限定ガチャの10連を1回引くことができる<br />「期間限定ガチャ10連チケット」です！<br /><br />【セット内容】<br />・期間限定ガチャ10連チケット×1<br />",
+        "product_data": [
+            {
+                "data_type": 22,
+                "data_id": 4,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "product_id": 1621,
+        "product_name": "【月初限定】SSR育成パック（月属性）",
+        "product_type": 2,
+        "paid_diamond": 0,
+        "diamond": 100,
+        "gold": 0,
+        "item_shop_purchase_type": 1,
+        "max_purchase_num": 1,
+        "start_date": 1798729200,
+        "end_date": 1799333999,
+        "description": "月属性のSSRカードを進化させた後、レベルMAXまで<br />強化できる分の「育成アイテム各種」が入った育成<br />パックです！<br /><br />【セット内容】<br />・ムーンチャージ（大）×41<br />・ムーンクォーツ（大）×30<br />・ムーンクォーツ（特大）×10<br />・ミラクルクォーツ×4<br /><br />",
+        "product_data": [
+            {
+                "data_type": 4,
+                "data_id": 8,
+                "data_num": 41
+            },
+            {
+                "data_type": 5,
+                "data_id": 8,
+                "data_num": 30
+            },
+            {
+                "data_type": 5,
+                "data_id": 11,
+                "data_num": 10
+            },
+            {
+                "data_type": 5,
+                "data_id": 13,
+                "data_num": 4
+            }
+        ]
+    },
+    {
+        "product_id": 1622,
+        "product_name": "【月初限定】SSR育成パック（太陽属性）",
+        "product_type": 2,
+        "paid_diamond": 0,
+        "diamond": 100,
+        "gold": 0,
+        "item_shop_purchase_type": 1,
+        "max_purchase_num": 1,
+        "start_date": 1798729200,
+        "end_date": 1799333999,
+        "description": "太陽属性のSSRカードを進化させた後、レベルMAXまで<br />強化できる分の「育成アイテム各種」が入った育成<br />パックです！<br /><br />【セット内容】<br />・サンチャージ（大）×41<br />・サンクォーツ（大）×30<br />・サンクォーツ（特大）×10<br />・ミラクルクォーツ×4<br /><br />",
+        "product_data": [
+            {
+                "data_type": 4,
+                "data_id": 9,
+                "data_num": 41
+            },
+            {
+                "data_type": 5,
+                "data_id": 9,
+                "data_num": 30
+            },
+            {
+                "data_type": 5,
+                "data_id": 12,
+                "data_num": 10
+            },
+            {
+                "data_type": 5,
+                "data_id": 13,
+                "data_num": 4
+            }
+        ]
+    },
+    {
+        "product_id": 1623,
+        "product_name": "【月初限定】SSR育成パック（星属性）",
+        "product_type": 2,
+        "paid_diamond": 0,
+        "diamond": 100,
+        "gold": 0,
+        "item_shop_purchase_type": 1,
+        "max_purchase_num": 1,
+        "start_date": 1798729200,
+        "end_date": 1799333999,
+        "description": "<br />星属性のSSRカードを進化させた後、レベルMAXまで<br />強化できる分の「育成アイテム各種」が入った育成<br />パックです！<br /><br />【セット内容】<br />・スターチャージ（大）×41<br />・スタークォーツ（大）×30<br />・スタークォーツ（特大）×10<br />・ミラクルクォーツ×4<br /><br />",
+        "product_data": [
+            {
+                "data_type": 4,
+                "data_id": 7,
+                "data_num": 41
+            },
+            {
+                "data_type": 5,
+                "data_id": 7,
+                "data_num": 30
+            },
+            {
+                "data_type": 5,
+                "data_id": 10,
+                "data_num": 10
+            },
+            {
+                "data_type": 5,
+                "data_id": 13,
+                "data_num": 4
+            }
+        ]
+    },
+    {
+        "product_id": 1624,
+        "product_name": "【月初限定】SR育成パック（月属性）",
+        "product_type": 2,
+        "paid_diamond": 0,
+        "diamond": 50,
+        "gold": 0,
+        "item_shop_purchase_type": 1,
+        "max_purchase_num": 1,
+        "start_date": 1798729200,
+        "end_date": 1799333999,
+        "description": "月属性のSRカードを進化させた後、レベルMAXまで<br />強化できる分の「育成アイテム各種」が入った育成<br />パックです！<br /><br />【セット内容】<br />・ムーンチャージ（大）×21<br />・ムーンチャージ（小）×1<br />・ムーンクォーツ（小）×60<br />・ムーンクォーツ（中）×40<br />・ミラクルクォーツ×2<br />",
+        "product_data": [
+            {
+                "data_type": 4,
+                "data_id": 8,
+                "data_num": 21
+            },
+            {
+                "data_type": 4,
+                "data_id": 2,
+                "data_num": 1
+            },
+            {
+                "data_type": 5,
+                "data_id": 2,
+                "data_num": 60
+            },
+            {
+                "data_type": 5,
+                "data_id": 5,
+                "data_num": 40
+            },
+            {
+                "data_type": 5,
+                "data_id": 13,
+                "data_num": 2
+            }
+        ]
+    },
+    {
+        "product_id": 1625,
+        "product_name": "【月初限定】SR育成パック（太陽属性）",
+        "product_type": 2,
+        "paid_diamond": 0,
+        "diamond": 50,
+        "gold": 0,
+        "item_shop_purchase_type": 1,
+        "max_purchase_num": 1,
+        "start_date": 1798729200,
+        "end_date": 1799333999,
+        "description": "太陽属性のSRカードを進化させた後、レベルMAXまで<br />強化できる分の「育成アイテム各種」が入った育成<br />パックです！<br /><br />【セット内容】<br />・サンチャージ（大）×21<br />・サンチャージ（小）×1<br />・サンクォーツ（小）×60<br />・サンクォーツ（中）×40<br />・ミラクルクォーツ×2<br />",
+        "product_data": [
+            {
+                "data_type": 4,
+                "data_id": 9,
+                "data_num": 21
+            },
+            {
+                "data_type": 4,
+                "data_id": 3,
+                "data_num": 1
+            },
+            {
+                "data_type": 5,
+                "data_id": 3,
+                "data_num": 60
+            },
+            {
+                "data_type": 5,
+                "data_id": 6,
+                "data_num": 40
+            },
+            {
+                "data_type": 5,
+                "data_id": 13,
+                "data_num": 2
+            }
+        ]
+    },
+    {
+        "product_id": 1626,
+        "product_name": "【月初限定】SR育成パック（星属性）",
+        "product_type": 2,
+        "paid_diamond": 0,
+        "diamond": 50,
+        "gold": 0,
+        "item_shop_purchase_type": 1,
+        "max_purchase_num": 1,
+        "start_date": 1798729200,
+        "end_date": 1799333999,
+        "description": "星属性のSRカードを進化させた後、レベルMAXまで<br />強化できる分の「育成アイテム各種」が入った育成<br />パックです！<br /><br />【セット内容】<br />・スターチャージ（大）×21<br />・スターチャージ（小）×1<br />・スタークォーツ（小）×60<br />・スタークォーツ（中）×40<br />・ミラクルクォーツ×2<br />",
+        "product_data": [
+            {
+                "data_type": 4,
+                "data_id": 7,
+                "data_num": 21
+            },
+            {
+                "data_type": 4,
+                "data_id": 1,
+                "data_num": 1
+            },
+            {
+                "data_type": 5,
+                "data_id": 1,
+                "data_num": 60
+            },
+            {
+                "data_type": 5,
+                "data_id": 4,
+                "data_num": 40
+            },
+            {
+                "data_type": 5,
+                "data_id": 13,
+                "data_num": 2
+            }
+        ]
+    },
+    {
+        "product_id": 1627,
+        "product_name": "[金川紗耶]バースデーガチャSSRチケット",
+        "product_type": 2,
+        "paid_diamond": 200,
+        "diamond": 0,
+        "gold": 0,
+        "item_shop_purchase_type": 1,
+        "max_purchase_num": 1,
+        "start_date": 1793372400,
+        "end_date": 1793631599,
+        "description": "金川紗耶のバースデーガチャが1回引けるチケットです。<br />SSRカードが確定で登場します！！<br />※金川紗耶が確定で出現するチケットではありません。<br /><br />【セット内容】<br />・金川紗耶バースデーガチャSSR確定チケット×1<br /><br />※本チケットは2026年に配信される金川紗耶の<br />バースデーガチャ以外には使用できません。",
+        "product_data": [
+            {
+                "data_type": 22,
+                "data_id": 987,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "product_id": 1628,
+        "product_name": "[金川紗耶]バースデーガチャ10連チケット",
+        "product_type": 2,
+        "paid_diamond": 130,
+        "diamond": 0,
+        "gold": 0,
+        "item_shop_purchase_type": 1,
+        "max_purchase_num": 1,
+        "start_date": 1793372400,
+        "end_date": 1793631599,
+        "description": "金川紗耶のバースデーガチャの10連を引くことができる<br />「金川紗耶バースデーガチャ10連チケット」です！<br /><br />【セット内容】<br />・金川紗耶バースデーガチャ10連チケット×1<br /><br />※本チケットは2026年に配信される金川紗耶の<br />バースデーガチャ以外には使用できません。",
+        "product_data": [
+            {
+                "data_type": 22,
+                "data_id": 986,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "product_id": 1629,
+        "product_name": "[金川紗耶]SPバースデーセット（月属性）",
+        "product_type": 2,
+        "paid_diamond": 200,
+        "diamond": 0,
+        "gold": 0,
+        "item_shop_purchase_type": 1,
+        "max_purchase_num": 1,
+        "start_date": 1793372400,
+        "end_date": 1793631599,
+        "description": "金川紗耶のSSRカードを3回覚醒させることができる分の<br />「金川紗耶のツバサ」、<br />金川紗耶のSSRカード（月属性）を進化させ<br />レベルMAXまで強化できる分の「育成アイテム各種」が<br />入ったスペシャルバースデーセットです！<br /><br />【セット内容】<br />・金川紗耶のツバサ×556（46個おまけ！）<br />・ムーンチャージ（大）×46（5個おまけ！）<br />・ムーンクォーツ（大）×30<br />・ムーンクォーツ（特大）×10<br />・ミラクルクォーツ×8（4個おまけ！）<br /><br />※「金川紗耶のツバサ」は170個で金川紗耶の<br />SSRカードを1回覚醒させることができます。",
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 404,
+                "data_num": 556
+            },
+            {
+                "data_type": 4,
+                "data_id": 8,
+                "data_num": 46
+            },
+            {
+                "data_type": 5,
+                "data_id": 8,
+                "data_num": 30
+            },
+            {
+                "data_type": 5,
+                "data_id": 11,
+                "data_num": 10
+            },
+            {
+                "data_type": 5,
+                "data_id": 13,
+                "data_num": 8
+            }
+        ]
+    },
+    {
+        "product_id": 1630,
+        "product_name": "[金川紗耶]SPバースデーセット（太陽属性）",
+        "product_type": 2,
+        "paid_diamond": 200,
+        "diamond": 0,
+        "gold": 0,
+        "item_shop_purchase_type": 1,
+        "max_purchase_num": 1,
+        "start_date": 1793372400,
+        "end_date": 1793631599,
+        "description": "金川紗耶のSSRカードを3回覚醒させることができる分の<br />「金川紗耶のツバサ」、<br />金川紗耶のSSRカード（太陽属性）を進化させ<br />レベルMAXまで強化できる分の「育成アイテム各種」が<br />入ったスペシャルバースデーセットです！<br /><br />【セット内容】<br />・金川紗耶のツバサ×556（46個おまけ！）<br />・サンチャージ（大）×46（5個おまけ！）<br />・サンクォーツ（大）×30<br />・サンクォーツ（特大）×10<br />・ミラクルクォーツ×8（4個おまけ！）<br /><br />※「金川紗耶のツバサ」は170個で金川紗耶の<br />SSRカードを1回覚醒させることができます。",
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 404,
+                "data_num": 556
+            },
+            {
+                "data_type": 4,
+                "data_id": 9,
+                "data_num": 46
+            },
+            {
+                "data_type": 5,
+                "data_id": 9,
+                "data_num": 30
+            },
+            {
+                "data_type": 5,
+                "data_id": 12,
+                "data_num": 10
+            },
+            {
+                "data_type": 5,
+                "data_id": 13,
+                "data_num": 8
+            }
+        ]
+    },
+    {
+        "product_id": 1631,
+        "product_name": "[金川紗耶]SPバースデーセット（星属性）",
+        "product_type": 2,
+        "paid_diamond": 200,
+        "diamond": 0,
+        "gold": 0,
+        "item_shop_purchase_type": 1,
+        "max_purchase_num": 1,
+        "start_date": 1793372400,
+        "end_date": 1793631599,
+        "description": "金川紗耶のSSRカードを3回覚醒させることができる分の<br />「金川紗耶のツバサ」、<br />金川紗耶のSSRカード（星属性）を進化させ<br />レベルMAXまで強化できる分の「育成アイテム各種」が<br />入ったスペシャルバースデーセットです！<br /><br />【セット内容】<br />・金川紗耶のツバサ×556（46個おまけ！）<br />・スターチャージ（大）×46（5個おまけ！）<br />・スタークォーツ（大）×30<br />・スタークォーツ（特大）×10<br />・ミラクルクォーツ×8（4個おまけ！）<br /><br />※「金川紗耶のツバサ」は170個で金川紗耶の<br />SSRカードを1回覚醒させることができます。",
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 404,
+                "data_num": 556
+            },
+            {
+                "data_type": 4,
+                "data_id": 7,
+                "data_num": 46
+            },
+            {
+                "data_type": 5,
+                "data_id": 7,
+                "data_num": 30
+            },
+            {
+                "data_type": 5,
+                "data_id": 10,
+                "data_num": 10
+            },
+            {
+                "data_type": 5,
+                "data_id": 13,
+                "data_num": 8
+            }
+        ]
+    },
+    {
+        "product_id": 1632,
+        "product_name": "[金川紗耶]ぷちバースデーセット（月属性）",
+        "product_type": 2,
+        "paid_diamond": 0,
+        "diamond": 80,
+        "gold": 0,
+        "item_shop_purchase_type": 1,
+        "max_purchase_num": 1,
+        "start_date": 1793372400,
+        "end_date": 1793631599,
+        "description": "金川紗耶のSRカードを1回覚醒させることができる分の<br />「金川紗耶のツバサ」、<br />金川紗耶のSRカード（月属性）を強化・進化させるために<br />使用できる「育成アイテム各種」が入った<br />バースデーセットです！<br /><br />【セット内容】<br />・金川紗耶のツバサ×50<br />・ムーンチャージ（大）×10<br />・ムーンクォーツ（小）×60<br />・ムーンクォーツ（中）×40<br />・ミラクルクォーツ×2<br /><br />※「金川紗耶のツバサ」は50個で金川紗耶の<br />SRカードを1回覚醒させることができます。",
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 404,
+                "data_num": 50
+            },
+            {
+                "data_type": 4,
+                "data_id": 8,
+                "data_num": 10
+            },
+            {
+                "data_type": 5,
+                "data_id": 2,
+                "data_num": 60
+            },
+            {
+                "data_type": 5,
+                "data_id": 5,
+                "data_num": 40
+            },
+            {
+                "data_type": 5,
+                "data_id": 13,
+                "data_num": 2
+            }
+        ]
+    },
+    {
+        "product_id": 1633,
+        "product_name": "[金川紗耶]ぷちバースデーセット（太陽属性）",
+        "product_type": 2,
+        "paid_diamond": 0,
+        "diamond": 80,
+        "gold": 0,
+        "item_shop_purchase_type": 1,
+        "max_purchase_num": 1,
+        "start_date": 1793372400,
+        "end_date": 1793631599,
+        "description": "金川紗耶のSRカードを1回覚醒させることができる分の<br />「金川紗耶のツバサ」、<br />金川紗耶のSRカード（太陽属性）を強化・進化させるために<br />使用できる「育成アイテム各種」が入った<br />バースデーセットです！<br /><br />【セット内容】<br />・金川紗耶のツバサ×50<br />・サンチャージ（大）×10<br />・サンクォーツ（小）×60<br />・サンクォーツ（中）×40<br />・ミラクルクォーツ×2<br /><br />※「金川紗耶のツバサ」は50個で金川紗耶の<br />SRカードを1回覚醒させることができます。",
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 404,
+                "data_num": 50
+            },
+            {
+                "data_type": 4,
+                "data_id": 9,
+                "data_num": 10
+            },
+            {
+                "data_type": 5,
+                "data_id": 3,
+                "data_num": 60
+            },
+            {
+                "data_type": 5,
+                "data_id": 6,
+                "data_num": 40
+            },
+            {
+                "data_type": 5,
+                "data_id": 13,
+                "data_num": 2
+            }
+        ]
+    },
+    {
+        "product_id": 1634,
+        "product_name": "[金川紗耶]ぷちバースデーセット（星属性）",
+        "product_type": 2,
+        "paid_diamond": 0,
+        "diamond": 80,
+        "gold": 0,
+        "item_shop_purchase_type": 1,
+        "max_purchase_num": 1,
+        "start_date": 1793372400,
+        "end_date": 1793631599,
+        "description": "金川紗耶のSRカードを1回覚醒させることができる分の<br />「金川紗耶のツバサ」、<br />金川紗耶のSRカード（星属性）を強化・進化させるために<br />使用できる「育成アイテム各種」が入った<br />バースデーセットです！<br /><br />【セット内容】<br />・金川紗耶のツバサ×50<br />・スターチャージ（大）×10<br />・スタークォーツ（小）×60<br />・スタークォーツ（中）×40<br />・ミラクルクォーツ×2<br /><br />※「金川紗耶のツバサ」は50個で金川紗耶の<br />SRカードを1回覚醒させることができます。",
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 404,
+                "data_num": 50
+            },
+            {
+                "data_type": 4,
+                "data_id": 7,
+                "data_num": 10
+            },
+            {
+                "data_type": 5,
+                "data_id": 1,
+                "data_num": 60
+            },
+            {
+                "data_type": 5,
+                "data_id": 4,
+                "data_num": 40
+            },
+            {
+                "data_type": 5,
+                "data_id": 13,
+                "data_num": 2
+            }
+        ]
+    },
+    {
+        "product_id": 1635,
+        "product_name": "金川紗耶のツバサ×50",
+        "product_type": 2,
+        "paid_diamond": 0,
+        "diamond": 50,
+        "gold": 0,
+        "item_shop_purchase_type": 1,
+        "max_purchase_num": 10,
+        "start_date": 1793372400,
+        "end_date": 1793631599,
+        "description": "金川紗耶のカードの覚醒に必要な「金川紗耶のツバサ」です！<br /><br />【セット内容】<br />・金川紗耶のツバサ×50<br /><br />※「金川紗耶のツバサ」は170個で金川紗耶の<br />SSRカードを、50個でSRカードを1回覚醒させる<br />ことができます。",
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 404,
+                "data_num": 50
+            }
+        ]
+    },
+    {
+        "product_id": 1636,
+        "product_name": "[菅原咲月]バースデーガチャSSRチケット",
+        "product_type": 2,
+        "paid_diamond": 200,
+        "diamond": 0,
+        "gold": 0,
+        "item_shop_purchase_type": 1,
+        "max_purchase_num": 1,
+        "start_date": 1793372400,
+        "end_date": 1793631599,
+        "description": "菅原咲月のバースデーガチャが1回引けるチケットです。<br />SSRカードが確定で登場します！！<br />※菅原咲月が確定で出現するチケットではありません。<br /><br />【セット内容】<br />・菅原咲月バースデーガチャSSR確定チケット×1<br /><br />※本チケットは2026年に配信される菅原咲月の<br />バースデーガチャ以外には使用できません。",
+        "product_data": [
+            {
+                "data_type": 22,
+                "data_id": 990,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "product_id": 1637,
+        "product_name": "[菅原咲月]バースデーガチャ10連チケット",
+        "product_type": 2,
+        "paid_diamond": 130,
+        "diamond": 0,
+        "gold": 0,
+        "item_shop_purchase_type": 1,
+        "max_purchase_num": 1,
+        "start_date": 1793372400,
+        "end_date": 1793631599,
+        "description": "菅原咲月のバースデーガチャの10連を引くことができる<br />「菅原咲月バースデーガチャ10連チケット」です！<br /><br />【セット内容】<br />・菅原咲月バースデーガチャ10連チケット×1<br /><br />※本チケットは2026年に配信される菅原咲月の<br />バースデーガチャ以外には使用できません。",
+        "product_data": [
+            {
+                "data_type": 22,
+                "data_id": 989,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "product_id": 1638,
+        "product_name": "[菅原咲月]SPバースデーセット（月属性）",
+        "product_type": 2,
+        "paid_diamond": 200,
+        "diamond": 0,
+        "gold": 0,
+        "item_shop_purchase_type": 1,
+        "max_purchase_num": 1,
+        "start_date": 1793372400,
+        "end_date": 1793631599,
+        "description": "菅原咲月のSSRカードを3回覚醒させることができる分の<br />「菅原咲月のツバサ」、<br />菅原咲月のSSRカード（月属性）を進化させ<br />レベルMAXまで強化できる分の「育成アイテム各種」が<br />入ったスペシャルバースデーセットです！<br /><br />【セット内容】<br />・菅原咲月のツバサ×556（46個おまけ！）<br />・ムーンチャージ（大）×46（5個おまけ！）<br />・ムーンクォーツ（大）×30<br />・ムーンクォーツ（特大）×10<br />・ミラクルクォーツ×8（4個おまけ！）<br /><br />※「菅原咲月のツバサ」は170個で菅原咲月の<br />SSRカードを1回覚醒させることができます。",
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 509,
+                "data_num": 556
+            },
+            {
+                "data_type": 4,
+                "data_id": 8,
+                "data_num": 46
+            },
+            {
+                "data_type": 5,
+                "data_id": 8,
+                "data_num": 30
+            },
+            {
+                "data_type": 5,
+                "data_id": 11,
+                "data_num": 10
+            },
+            {
+                "data_type": 5,
+                "data_id": 13,
+                "data_num": 8
+            }
+        ]
+    },
+    {
+        "product_id": 1639,
+        "product_name": "[菅原咲月]SPバースデーセット（太陽属性）",
+        "product_type": 2,
+        "paid_diamond": 200,
+        "diamond": 0,
+        "gold": 0,
+        "item_shop_purchase_type": 1,
+        "max_purchase_num": 1,
+        "start_date": 1793372400,
+        "end_date": 1793631599,
+        "description": "菅原咲月のSSRカードを3回覚醒させることができる分の<br />「菅原咲月のツバサ」、<br />菅原咲月のSSRカード（太陽属性）を進化させ<br />レベルMAXまで強化できる分の「育成アイテム各種」が<br />入ったスペシャルバースデーセットです！<br /><br />【セット内容】<br />・菅原咲月のツバサ×556（46個おまけ！）<br />・サンチャージ（大）×46（5個おまけ！）<br />・サンクォーツ（大）×30<br />・サンクォーツ（特大）×10<br />・ミラクルクォーツ×8（4個おまけ！）<br /><br />※「菅原咲月のツバサ」は170個で菅原咲月の<br />SSRカードを1回覚醒させることができます。",
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 509,
+                "data_num": 556
+            },
+            {
+                "data_type": 4,
+                "data_id": 9,
+                "data_num": 46
+            },
+            {
+                "data_type": 5,
+                "data_id": 9,
+                "data_num": 30
+            },
+            {
+                "data_type": 5,
+                "data_id": 12,
+                "data_num": 10
+            },
+            {
+                "data_type": 5,
+                "data_id": 13,
+                "data_num": 8
+            }
+        ]
+    },
+    {
+        "product_id": 1640,
+        "product_name": "[菅原咲月]SPバースデーセット（星属性）",
+        "product_type": 2,
+        "paid_diamond": 200,
+        "diamond": 0,
+        "gold": 0,
+        "item_shop_purchase_type": 1,
+        "max_purchase_num": 1,
+        "start_date": 1793372400,
+        "end_date": 1793631599,
+        "description": "菅原咲月のSSRカードを3回覚醒させることができる分の<br />「菅原咲月のツバサ」、<br />菅原咲月のSSRカード（星属性）を進化させ<br />レベルMAXまで強化できる分の「育成アイテム各種」が<br />入ったスペシャルバースデーセットです！<br /><br />【セット内容】<br />・菅原咲月のツバサ×556（46個おまけ！）<br />・スターチャージ（大）×46（5個おまけ！）<br />・スタークォーツ（大）×30<br />・スタークォーツ（特大）×10<br />・ミラクルクォーツ×8（4個おまけ！）<br /><br />※「菅原咲月のツバサ」は170個で菅原咲月の<br />SSRカードを1回覚醒させることができます。",
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 509,
+                "data_num": 556
+            },
+            {
+                "data_type": 4,
+                "data_id": 7,
+                "data_num": 46
+            },
+            {
+                "data_type": 5,
+                "data_id": 7,
+                "data_num": 30
+            },
+            {
+                "data_type": 5,
+                "data_id": 10,
+                "data_num": 10
+            },
+            {
+                "data_type": 5,
+                "data_id": 13,
+                "data_num": 8
+            }
+        ]
+    },
+    {
+        "product_id": 1641,
+        "product_name": "[菅原咲月]ぷちバースデーセット（月属性）",
+        "product_type": 2,
+        "paid_diamond": 0,
+        "diamond": 80,
+        "gold": 0,
+        "item_shop_purchase_type": 1,
+        "max_purchase_num": 1,
+        "start_date": 1793372400,
+        "end_date": 1793631599,
+        "description": "菅原咲月のSRカードを1回覚醒させることができる分の<br />「菅原咲月のツバサ」、<br />菅原咲月のSRカード（月属性）を強化・進化させるために<br />使用できる「育成アイテム各種」が入った<br />バースデーセットです！<br /><br />【セット内容】<br />・菅原咲月のツバサ×50<br />・ムーンチャージ（大）×10<br />・ムーンクォーツ（小）×60<br />・ムーンクォーツ（中）×40<br />・ミラクルクォーツ×2<br /><br />※「菅原咲月のツバサ」は50個で菅原咲月の<br />SRカードを1回覚醒させることができます。",
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 509,
+                "data_num": 50
+            },
+            {
+                "data_type": 4,
+                "data_id": 8,
+                "data_num": 10
+            },
+            {
+                "data_type": 5,
+                "data_id": 2,
+                "data_num": 60
+            },
+            {
+                "data_type": 5,
+                "data_id": 5,
+                "data_num": 40
+            },
+            {
+                "data_type": 5,
+                "data_id": 13,
+                "data_num": 2
+            }
+        ]
+    },
+    {
+        "product_id": 1642,
+        "product_name": "[菅原咲月]ぷちバースデーセット（太陽属性）",
+        "product_type": 2,
+        "paid_diamond": 0,
+        "diamond": 80,
+        "gold": 0,
+        "item_shop_purchase_type": 1,
+        "max_purchase_num": 1,
+        "start_date": 1793372400,
+        "end_date": 1793631599,
+        "description": "菅原咲月のSRカードを1回覚醒させることができる分の<br />「菅原咲月のツバサ」、<br />菅原咲月のSRカード（太陽属性）を強化・進化させるために<br />使用できる「育成アイテム各種」が入った<br />バースデーセットです！<br /><br />【セット内容】<br />・菅原咲月のツバサ×50<br />・サンチャージ（大）×10<br />・サンクォーツ（小）×60<br />・サンクォーツ（中）×40<br />・ミラクルクォーツ×2<br /><br />※「菅原咲月のツバサ」は50個で菅原咲月の<br />SRカードを1回覚醒させることができます。",
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 509,
+                "data_num": 50
+            },
+            {
+                "data_type": 4,
+                "data_id": 9,
+                "data_num": 10
+            },
+            {
+                "data_type": 5,
+                "data_id": 3,
+                "data_num": 60
+            },
+            {
+                "data_type": 5,
+                "data_id": 6,
+                "data_num": 40
+            },
+            {
+                "data_type": 5,
+                "data_id": 13,
+                "data_num": 2
+            }
+        ]
+    },
+    {
+        "product_id": 1643,
+        "product_name": "[菅原咲月]ぷちバースデーセット（星属性）",
+        "product_type": 2,
+        "paid_diamond": 0,
+        "diamond": 80,
+        "gold": 0,
+        "item_shop_purchase_type": 1,
+        "max_purchase_num": 1,
+        "start_date": 1793372400,
+        "end_date": 1793631599,
+        "description": "菅原咲月のSRカードを1回覚醒させることができる分の<br />「菅原咲月のツバサ」、<br />菅原咲月のSRカード（星属性）を強化・進化させるために<br />使用できる「育成アイテム各種」が入った<br />バースデーセットです！<br /><br />【セット内容】<br />・菅原咲月のツバサ×50<br />・スターチャージ（大）×10<br />・スタークォーツ（小）×60<br />・スタークォーツ（中）×40<br />・ミラクルクォーツ×2<br /><br />※「菅原咲月のツバサ」は50個で菅原咲月の<br />SRカードを1回覚醒させることができます。",
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 509,
+                "data_num": 50
+            },
+            {
+                "data_type": 4,
+                "data_id": 7,
+                "data_num": 10
+            },
+            {
+                "data_type": 5,
+                "data_id": 1,
+                "data_num": 60
+            },
+            {
+                "data_type": 5,
+                "data_id": 4,
+                "data_num": 40
+            },
+            {
+                "data_type": 5,
+                "data_id": 13,
+                "data_num": 2
+            }
+        ]
+    },
+    {
+        "product_id": 1644,
+        "product_name": "菅原咲月のツバサ×50",
+        "product_type": 2,
+        "paid_diamond": 0,
+        "diamond": 50,
+        "gold": 0,
+        "item_shop_purchase_type": 1,
+        "max_purchase_num": 10,
+        "start_date": 1793372400,
+        "end_date": 1793631599,
+        "description": "菅原咲月のカードの覚醒に必要な「菅原咲月のツバサ」です！<br /><br />【セット内容】<br />・菅原咲月のツバサ×50<br /><br />※「菅原咲月のツバサ」は170個で菅原咲月の<br />SSRカードを、50個でSRカードを1回覚醒させる<br />ことができます。",
+        "product_data": [
+            {
+                "data_type": 6,
+                "data_id": 509,
+                "data_num": 50
+            }
+        ]
     }
 ]

@@ -49042,5 +49042,22 @@
                 "movie_get_type": 1
             }
         ]
+    },
+    {
+        "reward_movie_id": 2967,
+        "reward_movie_name": "12th YEAR BIRTHDAY LIVE<br />～Do my best～じゃ意味はない SPライブMOVIE",
+        "reward_movie_name_kana": "とぅえるぶすいやーばーすでーらいぶ　どぅまいべすとじゃいみはない　すぺしゃるらいぶむーびー",
+        "movie_type": 3,
+        "start_date": 1792303200,
+        "unit_data": [
+            {
+                "unit_id": 138480,
+                "movie_get_type": 1
+            },
+            {
+                "unit_id": 138481,
+                "movie_get_type": 1
+            }
+        ]
     }
 ]

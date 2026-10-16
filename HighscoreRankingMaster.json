@@ -2771,5 +2771,70 @@
                 ]
             }
         ]
+    },
+    {
+        "event_id": 296,
+        "target_live_data": [
+            {
+                "live_id": 20002960
+            }
+        ],
+        "ranking_reward_data": [
+            {
+                "rank_from": 1,
+                "rank_to": 10,
+                "reward_data": [
+                    {
+                        "data_type": 19,
+                        "data_id": 1211,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "rank_from": 11,
+                "rank_to": 100,
+                "reward_data": [
+                    {
+                        "data_type": 19,
+                        "data_id": 1212,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "rank_from": 101,
+                "rank_to": 500,
+                "reward_data": [
+                    {
+                        "data_type": 19,
+                        "data_id": 1213,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "rank_from": 501,
+                "rank_to": 2000,
+                "reward_data": [
+                    {
+                        "data_type": 19,
+                        "data_id": 1214,
+                        "data_num": 1
+                    }
+                ]
+            },
+            {
+                "rank_from": 2001,
+                "rank_to": 5000,
+                "reward_data": [
+                    {
+                        "data_type": 19,
+                        "data_id": 1215,
+                        "data_num": 1
+                    }
+                ]
+            }
+        ]
     }
 ]

@@ -4590,6 +4590,24 @@
         "live_location": "有明アリーナ"
     },
     {
+        "live_bg_id": 470031,
+        "live_bg_name": "世界はここにある",
+        "live_bg_type": 1,
+        "music_id": 470030,
+        "live_name": "5th ALBUM MEMORIAL LIVE 『My respect』",
+        "live_date": "2026年2月23日",
+        "live_location": "有明アリーナ"
+    },
+    {
+        "live_bg_id": 470032,
+        "live_bg_name": "世界はここにある",
+        "live_bg_type": 2,
+        "music_id": 470030,
+        "live_name": "5th ALBUM MEMORIAL LIVE 『My respect』",
+        "live_date": "2026年2月23日",
+        "live_location": "有明アリーナ"
+    },
+    {
         "live_bg_id": 470041,
         "live_bg_name": "Fake Doctor",
         "live_bg_type": 1,

@@ -3118,5 +3118,437 @@
                 "data_num": 1
             }
         ]
+    },
+    {
+        "special_mission_id": 7691,
+        "special_mission_name": "【3期生】3期生を編成してLIVEを1回クリア",
+        "disp_order": 7682,
+        "start_date": 1792044000,
+        "end_date": 1793246399,
+        "mission_type": 125,
+        "mission_param": "2256@0@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 3,
+                "data_id": 3,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7692,
+        "special_mission_name": "【3期生】3期生を編成してLIVEを3回クリア",
+        "disp_order": 7683,
+        "start_date": 1792044000,
+        "end_date": 1793246399,
+        "mission_type": 125,
+        "mission_param": "2257@0@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 23,
+                "data_id": 0,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7693,
+        "special_mission_name": "【3期生】3期生を編成してLIVEを5回クリア",
+        "disp_order": 7684,
+        "start_date": 1792044000,
+        "end_date": 1793246399,
+        "mission_type": 125,
+        "mission_param": "2258@0@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 29,
+                "data_id": 0,
+                "data_num": 20
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7694,
+        "special_mission_name": "【3期生】伊藤理々杏を1枚以上編成してLIVEを1回クリア",
+        "disp_order": 7685,
+        "start_date": 1792044000,
+        "end_date": 1793246399,
+        "mission_type": 125,
+        "mission_param": "1879@0@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 6,
+                "data_id": 301,
+                "data_num": 30
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7695,
+        "special_mission_name": "【3期生】岩本蓮加を1枚以上編成してLIVEを1回クリア",
+        "disp_order": 7686,
+        "start_date": 1792044000,
+        "end_date": 1793246399,
+        "mission_type": 125,
+        "mission_param": "1880@0@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 6,
+                "data_id": 302,
+                "data_num": 30
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7696,
+        "special_mission_name": "【3期生】ミッションを全てクリア",
+        "disp_order": 7687,
+        "start_date": 1792044000,
+        "end_date": 1793246399,
+        "mission_type": 118,
+        "mission_param": "7691@7692@7693@7694@7695@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 13,
+                "data_id": 0,
+                "data_num": 10
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7697,
+        "special_mission_name": "「世界はここにある」のLIVEを20回クリアしよう",
+        "disp_order": 7688,
+        "start_date": 1792303200,
+        "end_date": 1793113199,
+        "mission_type": 101,
+        "mission_param": "20002960@0@20@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 13,
+                "data_id": 0,
+                "data_num": 10
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7698,
+        "special_mission_name": "「愛の地球儀」を240個集めよう",
+        "disp_order": 7689,
+        "start_date": 1792303200,
+        "end_date": 1792335599,
+        "mission_type": 119,
+        "mission_param": "296@240@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 13,
+                "data_id": 0,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7699,
+        "special_mission_name": "「世界はここにある」のLIVEを1回クリアしよう",
+        "disp_order": 7690,
+        "start_date": 1792303200,
+        "end_date": 1792335599,
+        "mission_type": 101,
+        "mission_param": "20002960@0@1@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 18,
+                "data_id": 735,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7700,
+        "special_mission_name": "「愛の地球儀」を240個集めよう",
+        "disp_order": 7691,
+        "start_date": 1792335600,
+        "end_date": 1792421999,
+        "mission_type": 119,
+        "mission_param": "296@240@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 13,
+                "data_id": 0,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7701,
+        "special_mission_name": "「世界はここにある」のLIVEを1回クリアしよう",
+        "disp_order": 7692,
+        "start_date": 1792335600,
+        "end_date": 1792421999,
+        "mission_type": 101,
+        "mission_param": "20002960@0@1@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 18,
+                "data_id": 735,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7702,
+        "special_mission_name": "「愛の地球儀」を240個集めよう",
+        "disp_order": 7693,
+        "start_date": 1792422000,
+        "end_date": 1792508399,
+        "mission_type": 119,
+        "mission_param": "296@240@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 13,
+                "data_id": 0,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7703,
+        "special_mission_name": "「世界はここにある」のLIVEを1回クリアしよう",
+        "disp_order": 7694,
+        "start_date": 1792422000,
+        "end_date": 1792508399,
+        "mission_type": 101,
+        "mission_param": "20002960@0@1@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 18,
+                "data_id": 735,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7704,
+        "special_mission_name": "「愛の地球儀」を240個集めよう",
+        "disp_order": 7695,
+        "start_date": 1792508400,
+        "end_date": 1792594799,
+        "mission_type": 119,
+        "mission_param": "296@240@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 13,
+                "data_id": 0,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7705,
+        "special_mission_name": "「世界はここにある」のLIVEを1回クリアしよう",
+        "disp_order": 7696,
+        "start_date": 1792508400,
+        "end_date": 1792594799,
+        "mission_type": 101,
+        "mission_param": "20002960@0@1@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 18,
+                "data_id": 735,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7706,
+        "special_mission_name": "「愛の地球儀」を240個集めよう",
+        "disp_order": 7697,
+        "start_date": 1792594800,
+        "end_date": 1792681199,
+        "mission_type": 119,
+        "mission_param": "296@240@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 13,
+                "data_id": 0,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7707,
+        "special_mission_name": "「世界はここにある」のLIVEを1回クリアしよう",
+        "disp_order": 7698,
+        "start_date": 1792594800,
+        "end_date": 1792681199,
+        "mission_type": 101,
+        "mission_param": "20002960@0@1@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 18,
+                "data_id": 735,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7708,
+        "special_mission_name": "「愛の地球儀」を240個集めよう",
+        "disp_order": 7699,
+        "start_date": 1792681200,
+        "end_date": 1792767599,
+        "mission_type": 119,
+        "mission_param": "296@240@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 13,
+                "data_id": 0,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7709,
+        "special_mission_name": "「世界はここにある」のLIVEを1回クリアしよう",
+        "disp_order": 7700,
+        "start_date": 1792681200,
+        "end_date": 1792767599,
+        "mission_type": 101,
+        "mission_param": "20002960@0@1@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 18,
+                "data_id": 735,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7710,
+        "special_mission_name": "「愛の地球儀」を240個集めよう",
+        "disp_order": 7701,
+        "start_date": 1792767600,
+        "end_date": 1792853999,
+        "mission_type": 119,
+        "mission_param": "296@240@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 13,
+                "data_id": 0,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7711,
+        "special_mission_name": "「世界はここにある」のLIVEを1回クリアしよう",
+        "disp_order": 7702,
+        "start_date": 1792767600,
+        "end_date": 1792853999,
+        "mission_type": 101,
+        "mission_param": "20002960@0@1@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 18,
+                "data_id": 735,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7712,
+        "special_mission_name": "「愛の地球儀」を240個集めよう",
+        "disp_order": 7703,
+        "start_date": 1792854000,
+        "end_date": 1792940399,
+        "mission_type": 119,
+        "mission_param": "296@240@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 13,
+                "data_id": 0,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7713,
+        "special_mission_name": "「世界はここにある」のLIVEを1回クリアしよう",
+        "disp_order": 7704,
+        "start_date": 1792854000,
+        "end_date": 1792940399,
+        "mission_type": 101,
+        "mission_param": "20002960@0@1@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 18,
+                "data_id": 735,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7714,
+        "special_mission_name": "「愛の地球儀」を240個集めよう",
+        "disp_order": 7705,
+        "start_date": 1792940400,
+        "end_date": 1793026799,
+        "mission_type": 119,
+        "mission_param": "296@240@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 13,
+                "data_id": 0,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7715,
+        "special_mission_name": "「世界はここにある」のLIVEを1回クリアしよう",
+        "disp_order": 7706,
+        "start_date": 1792940400,
+        "end_date": 1793026799,
+        "mission_type": 101,
+        "mission_param": "20002960@0@1@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 18,
+                "data_id": 735,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7716,
+        "special_mission_name": "「愛の地球儀」を240個集めよう",
+        "disp_order": 7707,
+        "start_date": 1793026800,
+        "end_date": 1793113199,
+        "mission_type": 119,
+        "mission_param": "296@240@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 13,
+                "data_id": 0,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7717,
+        "special_mission_name": "「世界はここにある」のLIVEを1回クリアしよう",
+        "disp_order": 7708,
+        "start_date": 1793026800,
+        "end_date": 1793113199,
+        "mission_type": 101,
+        "mission_param": "20002960@0@1@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 18,
+                "data_id": 735,
+                "data_num": 1
+            }
+        ]
     }
 ]

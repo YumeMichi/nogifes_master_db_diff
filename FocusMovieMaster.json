@@ -10593,8 +10593,8 @@
         "live_date_unixtime": 1610982000,
         "live_location": "--",
         "start_date": 1624201200,
-        "high_quality": 0,
-        "high_quality_start_date": 1924959599
+        "high_quality": 1,
+        "high_quality_start_date": 1792044000
     },
     {
         "focus_movie_id": 535,
@@ -10613,8 +10613,8 @@
         "live_date_unixtime": 1610982000,
         "live_location": "--",
         "start_date": 1623477600,
-        "high_quality": 0,
-        "high_quality_start_date": 1924959599
+        "high_quality": 1,
+        "high_quality_start_date": 1792044000
     },
     {
         "focus_movie_id": 536,
@@ -10633,8 +10633,8 @@
         "live_date_unixtime": 1610982000,
         "live_location": "--",
         "start_date": 1623477600,
-        "high_quality": 0,
-        "high_quality_start_date": 1924959599
+        "high_quality": 1,
+        "high_quality_start_date": 1792044000
     },
     {
         "focus_movie_id": 537,
@@ -10653,8 +10653,8 @@
         "live_date_unixtime": 1610982000,
         "live_location": "--",
         "start_date": 1623477600,
-        "high_quality": 0,
-        "high_quality_start_date": 1924959599
+        "high_quality": 1,
+        "high_quality_start_date": 1792044000
     },
     {
         "focus_movie_id": 538,
@@ -10673,8 +10673,8 @@
         "live_date_unixtime": 1610982000,
         "live_location": "--",
         "start_date": 1623477600,
-        "high_quality": 0,
-        "high_quality_start_date": 1924959599
+        "high_quality": 1,
+        "high_quality_start_date": 1792044000
     },
     {
         "focus_movie_id": 539,
@@ -13713,8 +13713,8 @@
         "live_date_unixtime": 1574694000,
         "live_location": "国立代々木競技場",
         "start_date": 1646200800,
-        "high_quality": 0,
-        "high_quality_start_date": 1924959599
+        "high_quality": 1,
+        "high_quality_start_date": 1792044000
     },
     {
         "focus_movie_id": 691,
@@ -25895,5 +25895,45 @@
         "start_date": 1789711200,
         "high_quality": 1,
         "high_quality_start_date": 1789711200
+    },
+    {
+        "focus_movie_id": 1300,
+        "focus_movie_name": "世界はここにある",
+        "unit_data": [
+            {
+                "unit_id": 138430
+            },
+            {
+                "unit_id": 138431
+            }
+        ],
+        "music_id": 470030,
+        "live_name": "5th ALBUM MEMORIAL LIVE 『My respect』",
+        "live_date": "2026年2月23日",
+        "live_date_unixtime": 1771772400,
+        "live_location": "有明アリーナ",
+        "start_date": 1793199600,
+        "high_quality": 0,
+        "high_quality_start_date": 1924959599
+    },
+    {
+        "focus_movie_id": 1301,
+        "focus_movie_name": "世界はここにある",
+        "unit_data": [
+            {
+                "unit_id": 138440
+            },
+            {
+                "unit_id": 138441
+            }
+        ],
+        "music_id": 470030,
+        "live_name": "5th ALBUM MEMORIAL LIVE 『My respect』",
+        "live_date": "2026年2月22日",
+        "live_date_unixtime": 1771686000,
+        "live_location": "有明アリーナ",
+        "start_date": 1793199600,
+        "high_quality": 0,
+        "high_quality_start_date": 1924959599
     }
 ]
