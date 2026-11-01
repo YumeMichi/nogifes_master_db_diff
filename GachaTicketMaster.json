@@ -10836,7 +10836,7 @@
     },
     {
         "gacha_ticket_id": 986,
-        "ticket_name": "金川紗耶 BIRTHDAYガチャ10連チケット",
+        "ticket_name": "金川紗耶 バースデーガチャ10連チケット",
         "ticket_type": 1,
         "num_type": 2,
         "gacha_type": 0,
@@ -10847,7 +10847,7 @@
     },
     {
         "gacha_ticket_id": 987,
-        "ticket_name": "金川紗耶 BIRTHDAYガチャSSR確定チケット",
+        "ticket_name": "金川紗耶 バースデーガチャSSR確定チケット",
         "ticket_type": 2,
         "num_type": 1,
         "gacha_type": 0,
@@ -10869,7 +10869,7 @@
     },
     {
         "gacha_ticket_id": 989,
-        "ticket_name": "菅原咲月 BIRTHDAYガチャ10連チケット",
+        "ticket_name": "菅原咲月 バースデーガチャ10連チケット",
         "ticket_type": 1,
         "num_type": 2,
         "gacha_type": 0,
@@ -10880,11 +10880,55 @@
     },
     {
         "gacha_ticket_id": 990,
-        "ticket_name": "菅原咲月 BIRTHDAYガチャSSR確定チケット",
+        "ticket_name": "菅原咲月 バースデーガチャSSR確定チケット",
         "ticket_type": 2,
         "num_type": 1,
         "gacha_type": 0,
         "gacha_id": 2273,
+        "rarity": 5,
+        "resource_id": 19,
+        "description": "対象のガチャを1回引ける、且つSSRが確定で出現するチケット。"
+    },
+    {
+        "gacha_ticket_id": 991,
+        "ticket_name": "真夏の全国ツアー2026 vol.2フォトガチャ1回チケット",
+        "ticket_type": 1,
+        "num_type": 1,
+        "gacha_type": 0,
+        "gacha_id": 2308,
+        "rarity": 0,
+        "resource_id": 16,
+        "description": "対象のガチャを1回引けるチケット。"
+    },
+    {
+        "gacha_ticket_id": 992,
+        "ticket_name": "増田三莉音 BIRTHDAYガチャSSR引換チケット",
+        "ticket_type": 4,
+        "num_type": 1,
+        "gacha_type": 0,
+        "gacha_id": 2309,
+        "rarity": 5,
+        "resource_id": 23,
+        "description": "対象ガチャからSSR以下の対象カードを引き換えることができるチケット"
+    },
+    {
+        "gacha_ticket_id": 993,
+        "ticket_name": "増田三莉音 バースデーガチャ10連チケット",
+        "ticket_type": 1,
+        "num_type": 2,
+        "gacha_type": 0,
+        "gacha_id": 2309,
+        "rarity": 0,
+        "resource_id": 17,
+        "description": "対象のガチャを10回引けるチケット。"
+    },
+    {
+        "gacha_ticket_id": 994,
+        "ticket_name": "増田三莉音 バースデーガチャSSR確定チケット",
+        "ticket_type": 2,
+        "num_type": 1,
+        "gacha_type": 0,
+        "gacha_id": 2309,
         "rarity": 5,
         "resource_id": 19,
         "description": "対象のガチャを1回引ける、且つSSRが確定で出現するチケット。"

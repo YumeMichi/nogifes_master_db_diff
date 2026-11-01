@@ -25935,5 +25935,105 @@
         "start_date": 1793199600,
         "high_quality": 0,
         "high_quality_start_date": 1924959599
+    },
+    {
+        "focus_movie_id": 1302,
+        "focus_movie_name": "光合成希望",
+        "unit_data": [
+            {
+                "unit_id": 139070
+            },
+            {
+                "unit_id": 139071
+            }
+        ],
+        "music_id": 160050,
+        "live_name": "真夏の全国ツアー2026",
+        "live_date": "2026年7月15日",
+        "live_date_unixtime": 1784041200,
+        "live_location": "大阪城ホール",
+        "start_date": 1793977200,
+        "high_quality": 0,
+        "high_quality_start_date": 1924959599
+    },
+    {
+        "focus_movie_id": 1303,
+        "focus_movie_name": "光合成希望",
+        "unit_data": [
+            {
+                "unit_id": 139080
+            },
+            {
+                "unit_id": 139081
+            }
+        ],
+        "music_id": 160050,
+        "live_name": "真夏の全国ツアー2026",
+        "live_date": "2026年7月16日",
+        "live_date_unixtime": 1784127600,
+        "live_location": "大阪城ホール",
+        "start_date": 1793340000,
+        "high_quality": 0,
+        "high_quality_start_date": 1924959599
+    },
+    {
+        "focus_movie_id": 1304,
+        "focus_movie_name": "I see...",
+        "unit_data": [
+            {
+                "unit_id": 139170
+            },
+            {
+                "unit_id": 139171
+            }
+        ],
+        "music_id": 300060,
+        "live_name": "真夏の全国ツアー2025",
+        "live_date": "2025年7月16日",
+        "live_date_unixtime": 1752591600,
+        "live_location": "大阪城ホール",
+        "start_date": 1794841200,
+        "high_quality": 1,
+        "high_quality_start_date": 1794841200
+    },
+    {
+        "focus_movie_id": 1305,
+        "focus_movie_name": "Monopoly",
+        "unit_data": [
+            {
+                "unit_id": 139180
+            },
+            {
+                "unit_id": 139181
+            }
+        ],
+        "music_id": 400010,
+        "live_name": "真夏の全国ツアー2024",
+        "live_date": "2024年8月25日",
+        "live_date_unixtime": 1724511600,
+        "live_location": "バンテリンドーム ナゴヤ",
+        "start_date": 1794841200,
+        "high_quality": 1,
+        "high_quality_start_date": 1794841200
+    },
+    {
+        "focus_movie_id": 1306,
+        "focus_movie_name": "パッションフルーツの食べ方",
+        "unit_data": [
+            {
+                "unit_id": 139190
+            },
+            {
+                "unit_id": 139191
+            }
+        ],
+        "music_id": 360060,
+        "live_name": "Coupling Collection 2022-2025",
+        "live_date": "2026年2月21日",
+        "live_date_unixtime": 1771599600,
+        "live_location": "有明アリーナ",
+        "start_date": 1794841200,
+        "high_quality": 0,
+        "high_quality_start_date": 1924959599
     }
 ]

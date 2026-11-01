@@ -577,7 +577,7 @@
         "paid_amount": 0,
         "paid_amount_10": 200,
         "gacha_multiple_type": 4,
-        "priority": 1905,
+        "priority": 1907,
         "use_priority": 0,
         "paid_restriction": 0,
         "restriction_value": 0,
@@ -1510,7 +1510,7 @@
         "paid_amount": 6,
         "paid_amount_10": 0,
         "gacha_multiple_type": 2,
-        "priority": 2279,
+        "priority": 2281,
         "use_priority": 0,
         "paid_restriction": 2,
         "restriction_value": 1,
@@ -2615,7 +2615,7 @@
         "paid_amount": 0,
         "paid_amount_10": 200,
         "gacha_multiple_type": 4,
-        "priority": 1906,
+        "priority": 1908,
         "use_priority": 0,
         "paid_restriction": 0,
         "restriction_value": 0,
@@ -3578,7 +3578,7 @@
         "paid_amount": 0,
         "paid_amount_10": 200,
         "gacha_multiple_type": 4,
-        "priority": 1907,
+        "priority": 1909,
         "use_priority": 0,
         "paid_restriction": 0,
         "restriction_value": 0,
@@ -4369,7 +4369,7 @@
         "paid_amount": 0,
         "paid_amount_10": 200,
         "gacha_multiple_type": 4,
-        "priority": 1908,
+        "priority": 1910,
         "use_priority": 0,
         "paid_restriction": 0,
         "restriction_value": 0,
@@ -5288,7 +5288,7 @@
         "paid_amount": 6,
         "paid_amount_10": 0,
         "gacha_multiple_type": 2,
-        "priority": 2280,
+        "priority": 2282,
         "use_priority": 0,
         "paid_restriction": 2,
         "restriction_value": 1,
@@ -5343,7 +5343,7 @@
         "paid_amount": 6,
         "paid_amount_10": 0,
         "gacha_multiple_type": 2,
-        "priority": 2281,
+        "priority": 2283,
         "use_priority": 0,
         "paid_restriction": 2,
         "restriction_value": 1,
@@ -5426,7 +5426,7 @@
         "paid_amount": 6,
         "paid_amount_10": 0,
         "gacha_multiple_type": 2,
-        "priority": 2282,
+        "priority": 2284,
         "use_priority": 0,
         "paid_restriction": 2,
         "restriction_value": 1,
@@ -8172,7 +8172,7 @@
         "paid_amount": 0,
         "paid_amount_10": 200,
         "gacha_multiple_type": 4,
-        "priority": 1909,
+        "priority": 1911,
         "use_priority": 0,
         "paid_restriction": 0,
         "restriction_value": 0,
@@ -8662,7 +8662,7 @@
         "paid_amount": 6,
         "paid_amount_10": 0,
         "gacha_multiple_type": 2,
-        "priority": 2283,
+        "priority": 2285,
         "use_priority": 0,
         "paid_restriction": 2,
         "restriction_value": 1,
@@ -9190,7 +9190,7 @@
         "paid_amount": 6,
         "paid_amount_10": 0,
         "gacha_multiple_type": 2,
-        "priority": 2284,
+        "priority": 2286,
         "use_priority": 0,
         "paid_restriction": 2,
         "restriction_value": 1,
@@ -9267,7 +9267,7 @@
         "paid_amount": 6,
         "paid_amount_10": 0,
         "gacha_multiple_type": 2,
-        "priority": 2285,
+        "priority": 2287,
         "use_priority": 0,
         "paid_restriction": 2,
         "restriction_value": 1,
@@ -9350,7 +9350,7 @@
         "paid_amount": 6,
         "paid_amount_10": 0,
         "gacha_multiple_type": 2,
-        "priority": 2286,
+        "priority": 2288,
         "use_priority": 0,
         "paid_restriction": 2,
         "restriction_value": 1,
@@ -9433,7 +9433,7 @@
         "paid_amount": 6,
         "paid_amount_10": 0,
         "gacha_multiple_type": 2,
-        "priority": 2287,
+        "priority": 2289,
         "use_priority": 0,
         "paid_restriction": 2,
         "restriction_value": 1,
@@ -9522,7 +9522,7 @@
         "paid_amount": 6,
         "paid_amount_10": 0,
         "gacha_multiple_type": 2,
-        "priority": 2288,
+        "priority": 2290,
         "use_priority": 0,
         "paid_restriction": 2,
         "restriction_value": 1,
@@ -9599,7 +9599,7 @@
         "paid_amount": 6,
         "paid_amount_10": 0,
         "gacha_multiple_type": 2,
-        "priority": 2289,
+        "priority": 2291,
         "use_priority": 0,
         "paid_restriction": 2,
         "restriction_value": 1,
@@ -10116,7 +10116,7 @@
         "paid_amount": 6,
         "paid_amount_10": 0,
         "gacha_multiple_type": 2,
-        "priority": 1962,
+        "priority": 1964,
         "use_priority": 0,
         "paid_restriction": 2,
         "restriction_value": 1,
@@ -10180,7 +10180,7 @@
         "paid_amount": 6,
         "paid_amount_10": 0,
         "gacha_multiple_type": 2,
-        "priority": 1961,
+        "priority": 1963,
         "use_priority": 0,
         "paid_restriction": 2,
         "restriction_value": 1,
@@ -10467,7 +10467,7 @@
         "paid_amount": 6,
         "paid_amount_10": 0,
         "gacha_multiple_type": 2,
-        "priority": 2291,
+        "priority": 2293,
         "use_priority": 0,
         "paid_restriction": 2,
         "restriction_value": 1,
@@ -10556,7 +10556,7 @@
         "paid_amount": 6,
         "paid_amount_10": 0,
         "gacha_multiple_type": 2,
-        "priority": 2290,
+        "priority": 2292,
         "use_priority": 0,
         "paid_restriction": 2,
         "restriction_value": 1,
@@ -10639,7 +10639,7 @@
         "paid_amount": 0,
         "paid_amount_10": 200,
         "gacha_multiple_type": 4,
-        "priority": 1910,
+        "priority": 1912,
         "use_priority": 0,
         "paid_restriction": 0,
         "restriction_value": 0,
@@ -28360,6 +28360,415 @@
             },
             {
                 "unit_id": 116450
+            }
+        ],
+        "mission_unit_data": [],
+        "select_gacha_unit_data": [],
+        "unit_level_data": []
+    },
+    {
+        "gacha_id": 2308,
+        "gacha_name": "真夏の全国ツアー2026 vol.2フォトガチャ",
+        "gacha_type": 2,
+        "amount": 20,
+        "paid_amount": 6,
+        "paid_amount_10": 0,
+        "gacha_multiple_type": 2,
+        "priority": 1755,
+        "use_priority": 0,
+        "paid_restriction": 2,
+        "restriction_value": 1,
+        "paid_restriction_10": 0,
+        "restriction_value_10": 0,
+        "restriction_10_group_id": 0,
+        "start_date": 1793253600,
+        "end_date": 1794290399,
+        "term_display": 1,
+        "gacha_bonus_id": 0,
+        "loop_flag": 0,
+        "movie_resource_id": 2308,
+        "logo_flag": 1,
+        "catchphrase_flag": 0,
+        "bg_line_flag": 0,
+        "bg_frame_flag": 0,
+        "description": "",
+        "display_data": [],
+        "ticket_exchange_unit_data": [],
+        "pickup_data": [
+            {
+                "unit_id": 138800
+            },
+            {
+                "unit_id": 138810
+            },
+            {
+                "unit_id": 138820
+            },
+            {
+                "unit_id": 138830
+            },
+            {
+                "unit_id": 138840
+            },
+            {
+                "unit_id": 138850
+            },
+            {
+                "unit_id": 138860
+            },
+            {
+                "unit_id": 138870
+            },
+            {
+                "unit_id": 138880
+            },
+            {
+                "unit_id": 138890
+            },
+            {
+                "unit_id": 138900
+            },
+            {
+                "unit_id": 138910
+            },
+            {
+                "unit_id": 138920
+            },
+            {
+                "unit_id": 138930
+            },
+            {
+                "unit_id": 138940
+            },
+            {
+                "unit_id": 138950
+            },
+            {
+                "unit_id": 138960
+            },
+            {
+                "unit_id": 138970
+            },
+            {
+                "unit_id": 138980
+            },
+            {
+                "unit_id": 138990
+            },
+            {
+                "unit_id": 139000
+            },
+            {
+                "unit_id": 139010
+            },
+            {
+                "unit_id": 139020
+            },
+            {
+                "unit_id": 139030
+            },
+            {
+                "unit_id": 139040
+            },
+            {
+                "unit_id": 139050
+            },
+            {
+                "unit_id": 139060
+            }
+        ],
+        "mission_unit_data": [],
+        "select_gacha_unit_data": [],
+        "unit_level_data": []
+    },
+    {
+        "gacha_id": 2309,
+        "gacha_name": "増田三莉音 BIRTHDAYガチャ",
+        "gacha_type": 6,
+        "amount": 20,
+        "paid_amount": 6,
+        "paid_amount_10": 0,
+        "gacha_multiple_type": 2,
+        "priority": 2294,
+        "use_priority": 0,
+        "paid_restriction": 2,
+        "restriction_value": 1,
+        "paid_restriction_10": 0,
+        "restriction_value_10": 0,
+        "restriction_10_group_id": 0,
+        "start_date": 1793458800,
+        "end_date": 1793717999,
+        "term_display": 1,
+        "gacha_bonus_id": 2309,
+        "loop_flag": 0,
+        "movie_resource_id": 0,
+        "logo_flag": 1,
+        "catchphrase_flag": 0,
+        "bg_line_flag": 0,
+        "bg_frame_flag": 0,
+        "description": "",
+        "display_data": [],
+        "ticket_exchange_unit_data": [
+            {
+                "unit_id": 116210
+            },
+            {
+                "unit_id": 139140
+            },
+            {
+                "unit_id": 139150
+            },
+            {
+                "unit_id": 126640
+            },
+            {
+                "unit_id": 116320
+            },
+            {
+                "unit_id": 139160
+            },
+            {
+                "unit_id": 116430
+            }
+        ],
+        "pickup_data": [
+            {
+                "unit_id": 116210
+            },
+            {
+                "unit_id": 139140
+            },
+            {
+                "unit_id": 139150
+            },
+            {
+                "unit_id": 126640
+            },
+            {
+                "unit_id": 116320
+            },
+            {
+                "unit_id": 139160
+            },
+            {
+                "unit_id": 116430
+            }
+        ],
+        "mission_unit_data": [],
+        "select_gacha_unit_data": [],
+        "unit_level_data": []
+    },
+    {
+        "gacha_id": 2310,
+        "gacha_name": "復刻8th Anniv -Navel Orange-",
+        "gacha_type": 2,
+        "amount": 20,
+        "paid_amount": 6,
+        "paid_amount_10": 0,
+        "gacha_multiple_type": 2,
+        "priority": 1756,
+        "use_priority": 0,
+        "paid_restriction": 2,
+        "restriction_value": 1,
+        "paid_restriction_10": 0,
+        "restriction_value_10": 0,
+        "restriction_10_group_id": 0,
+        "start_date": 1794031200,
+        "end_date": 1794887999,
+        "term_display": 1,
+        "gacha_bonus_id": 0,
+        "loop_flag": 0,
+        "movie_resource_id": 2310,
+        "logo_flag": 1,
+        "catchphrase_flag": 0,
+        "bg_line_flag": 0,
+        "bg_frame_flag": 0,
+        "description": "",
+        "display_data": [],
+        "ticket_exchange_unit_data": [],
+        "pickup_data": [
+            {
+                "unit_id": 122870
+            },
+            {
+                "unit_id": 122880
+            },
+            {
+                "unit_id": 122890
+            },
+            {
+                "unit_id": 122900
+            },
+            {
+                "unit_id": 122910
+            },
+            {
+                "unit_id": 122950
+            },
+            {
+                "unit_id": 122960
+            },
+            {
+                "unit_id": 122970
+            },
+            {
+                "unit_id": 122980
+            },
+            {
+                "unit_id": 122990
+            },
+            {
+                "unit_id": 123000
+            },
+            {
+                "unit_id": 123020
+            },
+            {
+                "unit_id": 123040
+            },
+            {
+                "unit_id": 123060
+            },
+            {
+                "unit_id": 123070
+            },
+            {
+                "unit_id": 123080
+            },
+            {
+                "unit_id": 123090
+            },
+            {
+                "unit_id": 123100
+            },
+            {
+                "unit_id": 123110
+            },
+            {
+                "unit_id": 123120
+            },
+            {
+                "unit_id": 123130
+            },
+            {
+                "unit_id": 123140
+            },
+            {
+                "unit_id": 123150
+            },
+            {
+                "unit_id": 123160
+            },
+            {
+                "unit_id": 123170
+            },
+            {
+                "unit_id": 123180
+            },
+            {
+                "unit_id": 123190
+            },
+            {
+                "unit_id": 123200
+            },
+            {
+                "unit_id": 123210
+            },
+            {
+                "unit_id": 123220
+            },
+            {
+                "unit_id": 123230
+            },
+            {
+                "unit_id": 123270
+            },
+            {
+                "unit_id": 123280
+            },
+            {
+                "unit_id": 123290
+            },
+            {
+                "unit_id": 123300
+            },
+            {
+                "unit_id": 123310
+            },
+            {
+                "unit_id": 123320
+            },
+            {
+                "unit_id": 123340
+            },
+            {
+                "unit_id": 123360
+            },
+            {
+                "unit_id": 123380
+            },
+            {
+                "unit_id": 123390
+            },
+            {
+                "unit_id": 123400
+            },
+            {
+                "unit_id": 123410
+            },
+            {
+                "unit_id": 123420
+            },
+            {
+                "unit_id": 123430
+            },
+            {
+                "unit_id": 123440
+            },
+            {
+                "unit_id": 123450
+            },
+            {
+                "unit_id": 123460
+            },
+            {
+                "unit_id": 123470
+            },
+            {
+                "unit_id": 123480
+            },
+            {
+                "unit_id": 123490
+            },
+            {
+                "unit_id": 123500
+            },
+            {
+                "unit_id": 123510
+            },
+            {
+                "unit_id": 123520
+            },
+            {
+                "unit_id": 123530
+            },
+            {
+                "unit_id": 123540
+            },
+            {
+                "unit_id": 123550
+            },
+            {
+                "unit_id": 123560
+            },
+            {
+                "unit_id": 123570
+            },
+            {
+                "unit_id": 123580
+            },
+            {
+                "unit_id": 123590
             }
         ],
         "mission_unit_data": [],

@@ -474298,5 +474298,815 @@
         "sub_id": 102272,
         "filename": "home_banner_102272.png",
         "version": 1
+    },
+    {
+        "resource_id": 53270,
+        "resource_data_type": 3,
+        "resource_type": 22,
+        "path_id": 22,
+        "sub_id": 296,
+        "filename": "sequential_login_bonus_background_00296.png",
+        "version": 1
+    },
+    {
+        "resource_id": 53271,
+        "resource_data_type": 3,
+        "resource_type": 20,
+        "path_id": 20,
+        "sub_id": 99,
+        "filename": "shop_campaign_000099.png",
+        "version": 1
+    },
+    {
+        "resource_id": 53272,
+        "resource_data_type": 3,
+        "resource_type": 20,
+        "path_id": 20,
+        "sub_id": 100,
+        "filename": "shop_campaign_000100.png",
+        "version": 1
+    },
+    {
+        "resource_id": 53273,
+        "resource_data_type": 3,
+        "resource_type": 20,
+        "path_id": 20,
+        "sub_id": 101,
+        "filename": "shop_campaign_000101.png",
+        "version": 1
+    },
+    {
+        "resource_id": 53274,
+        "resource_data_type": 3,
+        "resource_type": 20,
+        "path_id": 20,
+        "sub_id": 102,
+        "filename": "shop_campaign_000102.png",
+        "version": 1
+    },
+    {
+        "resource_id": 53275,
+        "resource_data_type": 3,
+        "resource_type": 4,
+        "path_id": 4,
+        "sub_id": 102308,
+        "filename": "home_banner_102308.png",
+        "version": 1
+    },
+    {
+        "resource_id": 53276,
+        "resource_data_type": 3,
+        "resource_type": 4,
+        "path_id": 4,
+        "sub_id": 102309,
+        "filename": "home_banner_102309.png",
+        "version": 1
+    },
+    {
+        "resource_id": 53277,
+        "resource_data_type": 3,
+        "resource_type": 4,
+        "path_id": 4,
+        "sub_id": 102310,
+        "filename": "home_banner_102310.png",
+        "version": 1
+    },
+    {
+        "resource_id": 53278,
+        "resource_data_type": 3,
+        "resource_type": 4,
+        "path_id": 4,
+        "sub_id": 102311,
+        "filename": "home_banner_102311.png",
+        "version": 1
+    },
+    {
+        "resource_id": 53279,
+        "resource_data_type": 5,
+        "resource_type": 41,
+        "path_id": 41,
+        "sub_id": 2308,
+        "filename": "gacha_preview_movie_002308.usme",
+        "version": 1
+    },
+    {
+        "resource_id": 53281,
+        "resource_data_type": 5,
+        "resource_type": 41,
+        "path_id": 41,
+        "sub_id": 2310,
+        "filename": "gacha_preview_movie_002310.usme",
+        "version": 1
+    },
+    {
+        "resource_id": 53282,
+        "resource_data_type": 3,
+        "resource_type": 38,
+        "path_id": 38,
+        "sub_id": 18049,
+        "filename": "photo_common_18049.png",
+        "version": 1
+    },
+    {
+        "resource_id": 53283,
+        "resource_data_type": 3,
+        "resource_type": 38,
+        "path_id": 38,
+        "sub_id": 18050,
+        "filename": "photo_common_18050.png",
+        "version": 1
+    },
+    {
+        "resource_id": 53284,
+        "resource_data_type": 3,
+        "resource_type": 38,
+        "path_id": 38,
+        "sub_id": 18051,
+        "filename": "photo_common_18051.png",
+        "version": 1
+    },
+    {
+        "resource_id": 53285,
+        "resource_data_type": 3,
+        "resource_type": 38,
+        "path_id": 38,
+        "sub_id": 18052,
+        "filename": "photo_common_18052.png",
+        "version": 1
+    },
+    {
+        "resource_id": 53286,
+        "resource_data_type": 3,
+        "resource_type": 38,
+        "path_id": 38,
+        "sub_id": 18053,
+        "filename": "photo_common_18053.png",
+        "version": 1
+    },
+    {
+        "resource_id": 53287,
+        "resource_data_type": 3,
+        "resource_type": 38,
+        "path_id": 38,
+        "sub_id": 18054,
+        "filename": "photo_common_18054.png",
+        "version": 1
+    },
+    {
+        "resource_id": 53288,
+        "resource_data_type": 3,
+        "resource_type": 38,
+        "path_id": 38,
+        "sub_id": 18055,
+        "filename": "photo_common_18055.png",
+        "version": 1
+    },
+    {
+        "resource_id": 53289,
+        "resource_data_type": 3,
+        "resource_type": 38,
+        "path_id": 38,
+        "sub_id": 18056,
+        "filename": "photo_common_18056.png",
+        "version": 1
+    },
+    {
+        "resource_id": 53290,
+        "resource_data_type": 3,
+        "resource_type": 38,
+        "path_id": 38,
+        "sub_id": 18057,
+        "filename": "photo_common_18057.png",
+        "version": 1
+    },
+    {
+        "resource_id": 53291,
+        "resource_data_type": 3,
+        "resource_type": 38,
+        "path_id": 38,
+        "sub_id": 18058,
+        "filename": "photo_common_18058.png",
+        "version": 1
+    },
+    {
+        "resource_id": 53292,
+        "resource_data_type": 3,
+        "resource_type": 38,
+        "path_id": 38,
+        "sub_id": 18059,
+        "filename": "photo_common_18059.png",
+        "version": 1
+    },
+    {
+        "resource_id": 53293,
+        "resource_data_type": 3,
+        "resource_type": 38,
+        "path_id": 38,
+        "sub_id": 18060,
+        "filename": "photo_common_18060.png",
+        "version": 1
+    },
+    {
+        "resource_id": 53294,
+        "resource_data_type": 3,
+        "resource_type": 38,
+        "path_id": 38,
+        "sub_id": 18061,
+        "filename": "photo_common_18061.png",
+        "version": 1
+    },
+    {
+        "resource_id": 53295,
+        "resource_data_type": 3,
+        "resource_type": 38,
+        "path_id": 38,
+        "sub_id": 18062,
+        "filename": "photo_common_18062.png",
+        "version": 1
+    },
+    {
+        "resource_id": 53296,
+        "resource_data_type": 3,
+        "resource_type": 38,
+        "path_id": 38,
+        "sub_id": 18063,
+        "filename": "photo_common_18063.png",
+        "version": 1
+    },
+    {
+        "resource_id": 53297,
+        "resource_data_type": 3,
+        "resource_type": 38,
+        "path_id": 38,
+        "sub_id": 18064,
+        "filename": "photo_common_18064.png",
+        "version": 1
+    },
+    {
+        "resource_id": 53298,
+        "resource_data_type": 3,
+        "resource_type": 38,
+        "path_id": 38,
+        "sub_id": 18065,
+        "filename": "photo_common_18065.png",
+        "version": 1
+    },
+    {
+        "resource_id": 53299,
+        "resource_data_type": 3,
+        "resource_type": 38,
+        "path_id": 38,
+        "sub_id": 18066,
+        "filename": "photo_common_18066.png",
+        "version": 1
+    },
+    {
+        "resource_id": 53300,
+        "resource_data_type": 3,
+        "resource_type": 38,
+        "path_id": 38,
+        "sub_id": 18067,
+        "filename": "photo_common_18067.png",
+        "version": 1
+    },
+    {
+        "resource_id": 53301,
+        "resource_data_type": 3,
+        "resource_type": 38,
+        "path_id": 38,
+        "sub_id": 18068,
+        "filename": "photo_common_18068.png",
+        "version": 1
+    },
+    {
+        "resource_id": 53302,
+        "resource_data_type": 3,
+        "resource_type": 38,
+        "path_id": 38,
+        "sub_id": 18069,
+        "filename": "photo_common_18069.png",
+        "version": 1
+    },
+    {
+        "resource_id": 53303,
+        "resource_data_type": 3,
+        "resource_type": 40,
+        "path_id": 40,
+        "sub_id": 18049,
+        "filename": "photo_thumbnail_18049.png",
+        "version": 1
+    },
+    {
+        "resource_id": 53304,
+        "resource_data_type": 3,
+        "resource_type": 40,
+        "path_id": 40,
+        "sub_id": 18050,
+        "filename": "photo_thumbnail_18050.png",
+        "version": 1
+    },
+    {
+        "resource_id": 53305,
+        "resource_data_type": 3,
+        "resource_type": 40,
+        "path_id": 40,
+        "sub_id": 18051,
+        "filename": "photo_thumbnail_18051.png",
+        "version": 1
+    },
+    {
+        "resource_id": 53306,
+        "resource_data_type": 3,
+        "resource_type": 40,
+        "path_id": 40,
+        "sub_id": 18052,
+        "filename": "photo_thumbnail_18052.png",
+        "version": 1
+    },
+    {
+        "resource_id": 53307,
+        "resource_data_type": 3,
+        "resource_type": 40,
+        "path_id": 40,
+        "sub_id": 18053,
+        "filename": "photo_thumbnail_18053.png",
+        "version": 1
+    },
+    {
+        "resource_id": 53308,
+        "resource_data_type": 3,
+        "resource_type": 40,
+        "path_id": 40,
+        "sub_id": 18054,
+        "filename": "photo_thumbnail_18054.png",
+        "version": 1
+    },
+    {
+        "resource_id": 53309,
+        "resource_data_type": 3,
+        "resource_type": 40,
+        "path_id": 40,
+        "sub_id": 18055,
+        "filename": "photo_thumbnail_18055.png",
+        "version": 1
+    },
+    {
+        "resource_id": 53310,
+        "resource_data_type": 3,
+        "resource_type": 40,
+        "path_id": 40,
+        "sub_id": 18056,
+        "filename": "photo_thumbnail_18056.png",
+        "version": 1
+    },
+    {
+        "resource_id": 53311,
+        "resource_data_type": 3,
+        "resource_type": 40,
+        "path_id": 40,
+        "sub_id": 18057,
+        "filename": "photo_thumbnail_18057.png",
+        "version": 1
+    },
+    {
+        "resource_id": 53312,
+        "resource_data_type": 3,
+        "resource_type": 40,
+        "path_id": 40,
+        "sub_id": 18058,
+        "filename": "photo_thumbnail_18058.png",
+        "version": 1
+    },
+    {
+        "resource_id": 53313,
+        "resource_data_type": 3,
+        "resource_type": 40,
+        "path_id": 40,
+        "sub_id": 18059,
+        "filename": "photo_thumbnail_18059.png",
+        "version": 1
+    },
+    {
+        "resource_id": 53314,
+        "resource_data_type": 3,
+        "resource_type": 40,
+        "path_id": 40,
+        "sub_id": 18060,
+        "filename": "photo_thumbnail_18060.png",
+        "version": 1
+    },
+    {
+        "resource_id": 53315,
+        "resource_data_type": 3,
+        "resource_type": 40,
+        "path_id": 40,
+        "sub_id": 18061,
+        "filename": "photo_thumbnail_18061.png",
+        "version": 1
+    },
+    {
+        "resource_id": 53316,
+        "resource_data_type": 3,
+        "resource_type": 40,
+        "path_id": 40,
+        "sub_id": 18062,
+        "filename": "photo_thumbnail_18062.png",
+        "version": 1
+    },
+    {
+        "resource_id": 53317,
+        "resource_data_type": 3,
+        "resource_type": 40,
+        "path_id": 40,
+        "sub_id": 18063,
+        "filename": "photo_thumbnail_18063.png",
+        "version": 1
+    },
+    {
+        "resource_id": 53318,
+        "resource_data_type": 3,
+        "resource_type": 40,
+        "path_id": 40,
+        "sub_id": 18064,
+        "filename": "photo_thumbnail_18064.png",
+        "version": 1
+    },
+    {
+        "resource_id": 53319,
+        "resource_data_type": 3,
+        "resource_type": 40,
+        "path_id": 40,
+        "sub_id": 18065,
+        "filename": "photo_thumbnail_18065.png",
+        "version": 1
+    },
+    {
+        "resource_id": 53320,
+        "resource_data_type": 3,
+        "resource_type": 40,
+        "path_id": 40,
+        "sub_id": 18066,
+        "filename": "photo_thumbnail_18066.png",
+        "version": 1
+    },
+    {
+        "resource_id": 53321,
+        "resource_data_type": 3,
+        "resource_type": 40,
+        "path_id": 40,
+        "sub_id": 18067,
+        "filename": "photo_thumbnail_18067.png",
+        "version": 1
+    },
+    {
+        "resource_id": 53322,
+        "resource_data_type": 3,
+        "resource_type": 40,
+        "path_id": 40,
+        "sub_id": 18068,
+        "filename": "photo_thumbnail_18068.png",
+        "version": 1
+    },
+    {
+        "resource_id": 53323,
+        "resource_data_type": 3,
+        "resource_type": 40,
+        "path_id": 40,
+        "sub_id": 18069,
+        "filename": "photo_thumbnail_18069.png",
+        "version": 1
+    },
+    {
+        "resource_id": 53324,
+        "resource_data_type": 3,
+        "resource_type": 30,
+        "path_id": 30,
+        "sub_id": 437,
+        "filename": "campaign_login_bonus_background_00437.png",
+        "version": 1
+    },
+    {
+        "resource_id": 53325,
+        "resource_data_type": 2,
+        "resource_type": 1,
+        "path_id": 1,
+        "sub_id": 90000890,
+        "filename": "notes.bytes",
+        "version": 1
+    },
+    {
+        "resource_id": 53326,
+        "resource_data_type": 2,
+        "resource_type": 1,
+        "path_id": 1,
+        "sub_id": 20002970,
+        "filename": "notes.bytes",
+        "version": 1
+    },
+    {
+        "resource_id": 53327,
+        "resource_data_type": 2,
+        "resource_type": 1,
+        "path_id": 1,
+        "sub_id": 90000900,
+        "filename": "notes.bytes",
+        "version": 1
+    },
+    {
+        "resource_id": 53328,
+        "resource_data_type": 2,
+        "resource_type": 1,
+        "path_id": 1,
+        "sub_id": 20002980,
+        "filename": "notes.bytes",
+        "version": 1
+    },
+    {
+        "resource_id": 53329,
+        "resource_data_type": 2,
+        "resource_type": 1,
+        "path_id": 1,
+        "sub_id": 20002981,
+        "filename": "notes.bytes",
+        "version": 1
+    },
+    {
+        "resource_id": 53330,
+        "resource_data_type": 2,
+        "resource_type": 1,
+        "path_id": 1,
+        "sub_id": 20002982,
+        "filename": "notes.bytes",
+        "version": 1
+    },
+    {
+        "resource_id": 53331,
+        "resource_data_type": 7,
+        "resource_type": 21,
+        "path_id": 21,
+        "sub_id": 90000890,
+        "filename": "preview_music_90000890.acb",
+        "version": 1
+    },
+    {
+        "resource_id": 53332,
+        "resource_data_type": 7,
+        "resource_type": 21,
+        "path_id": 21,
+        "sub_id": 90000900,
+        "filename": "preview_music_90000900.acb",
+        "version": 1
+    },
+    {
+        "resource_id": 53333,
+        "resource_data_type": 3,
+        "resource_type": 19,
+        "path_id": 19,
+        "sub_id": 293,
+        "filename": "jacket_00293.png",
+        "version": 1
+    },
+    {
+        "resource_id": 53334,
+        "resource_data_type": 3,
+        "resource_type": 19,
+        "path_id": 19,
+        "sub_id": 294,
+        "filename": "jacket_00294.png",
+        "version": 1
+    },
+    {
+        "resource_id": 53335,
+        "resource_data_type": 4,
+        "resource_type": 8,
+        "path_id": 8,
+        "sub_id": 90000891,
+        "filename": "live_bg_data_90000891.cpk",
+        "version": 1
+    },
+    {
+        "resource_id": 53336,
+        "resource_data_type": 4,
+        "resource_type": 8,
+        "path_id": 8,
+        "sub_id": 90000892,
+        "filename": "live_bg_data_90000892.cpk",
+        "version": 1
+    },
+    {
+        "resource_id": 53337,
+        "resource_data_type": 4,
+        "resource_type": 8,
+        "path_id": 8,
+        "sub_id": 90000901,
+        "filename": "live_bg_data_90000901.cpk",
+        "version": 1
+    },
+    {
+        "resource_id": 53338,
+        "resource_data_type": 4,
+        "resource_type": 8,
+        "path_id": 8,
+        "sub_id": 90000902,
+        "filename": "live_bg_data_90000902.cpk",
+        "version": 1
+    },
+    {
+        "resource_id": 53339,
+        "resource_data_type": 5,
+        "resource_type": 43,
+        "path_id": 43,
+        "sub_id": 90000890,
+        "filename": "live_preview_movie_90000890.usme",
+        "version": 1
+    },
+    {
+        "resource_id": 53340,
+        "resource_data_type": 5,
+        "resource_type": 43,
+        "path_id": 43,
+        "sub_id": 90000900,
+        "filename": "live_preview_movie_90000900.usme",
+        "version": 1
+    },
+    {
+        "resource_id": 53341,
+        "resource_data_type": 3,
+        "resource_type": 5,
+        "path_id": 5,
+        "sub_id": 400297,
+        "filename": "event_banner_400297.png",
+        "version": 1
+    },
+    {
+        "resource_id": 53342,
+        "resource_data_type": 6,
+        "resource_type": 14,
+        "path_id": 14,
+        "sub_id": 200297,
+        "filename": "scenario_200297.txt",
+        "version": 1
+    },
+    {
+        "resource_id": 53343,
+        "resource_data_type": 3,
+        "resource_type": 4,
+        "path_id": 4,
+        "sub_id": 102313,
+        "filename": "home_banner_102313.png",
+        "version": 1
+    },
+    {
+        "resource_id": 53344,
+        "resource_data_type": 4,
+        "resource_type": 9,
+        "path_id": 9,
+        "sub_id": 1302,
+        "filename": "focus_data_01302.cpk",
+        "version": 1
+    },
+    {
+        "resource_id": 53345,
+        "resource_data_type": 4,
+        "resource_type": 9,
+        "path_id": 9,
+        "sub_id": 1303,
+        "filename": "focus_data_01303.cpk",
+        "version": 1
+    },
+    {
+        "resource_id": 53346,
+        "resource_data_type": 4,
+        "resource_type": 9,
+        "path_id": 9,
+        "sub_id": 1304,
+        "filename": "focus_data_01304.cpk",
+        "version": 1
+    },
+    {
+        "resource_id": 53347,
+        "resource_data_type": 4,
+        "resource_type": 9,
+        "path_id": 9,
+        "sub_id": 1305,
+        "filename": "focus_data_01305.cpk",
+        "version": 1
+    },
+    {
+        "resource_id": 53348,
+        "resource_data_type": 4,
+        "resource_type": 9,
+        "path_id": 9,
+        "sub_id": 1306,
+        "filename": "focus_data_01306.cpk",
+        "version": 1
+    },
+    {
+        "resource_id": 53349,
+        "resource_data_type": 3,
+        "resource_type": 5,
+        "path_id": 5,
+        "sub_id": 400298,
+        "filename": "event_banner_400298.png",
+        "version": 1
+    },
+    {
+        "resource_id": 53350,
+        "resource_data_type": 6,
+        "resource_type": 14,
+        "path_id": 14,
+        "sub_id": 200298,
+        "filename": "scenario_200298.txt",
+        "version": 1
+    },
+    {
+        "resource_id": 53351,
+        "resource_data_type": 3,
+        "resource_type": 55,
+        "path_id": 55,
+        "sub_id": 71,
+        "filename": "splash_image_00071.png",
+        "version": 1
+    },
+    {
+        "resource_id": 53352,
+        "resource_data_type": 5,
+        "resource_type": 54,
+        "path_id": 54,
+        "sub_id": 72,
+        "filename": "splash_movie_00072.usme",
+        "version": 1
+    },
+    {
+        "resource_id": 53353,
+        "resource_data_type": 5,
+        "resource_type": 54,
+        "path_id": 54,
+        "sub_id": 73,
+        "filename": "splash_movie_00073.usme",
+        "version": 1
+    },
+    {
+        "resource_id": 53354,
+        "resource_data_type": 3,
+        "resource_type": 55,
+        "path_id": 55,
+        "sub_id": 74,
+        "filename": "splash_image_00074.png",
+        "version": 1
+    },
+    {
+        "resource_id": 53355,
+        "resource_data_type": 3,
+        "resource_type": 55,
+        "path_id": 55,
+        "sub_id": 75,
+        "filename": "splash_image_00075.png",
+        "version": 1
+    },
+    {
+        "resource_id": 53356,
+        "resource_data_type": 3,
+        "resource_type": 55,
+        "path_id": 55,
+        "sub_id": 76,
+        "filename": "splash_image_00076.png",
+        "version": 1
+    },
+    {
+        "resource_id": 53357,
+        "resource_data_type": 3,
+        "resource_type": 55,
+        "path_id": 55,
+        "sub_id": 77,
+        "filename": "splash_image_00077.png",
+        "version": 1
+    },
+    {
+        "resource_id": 53358,
+        "resource_data_type": 3,
+        "resource_type": 55,
+        "path_id": 55,
+        "sub_id": 78,
+        "filename": "splash_image_00078.png",
+        "version": 1
+    },
+    {
+        "resource_id": 53359,
+        "resource_data_type": 4,
+        "resource_type": 34,
+        "path_id": 34,
+        "sub_id": 1304,
+        "filename": "focus_data_high_01304.cpk",
+        "version": 1
+    },
+    {
+        "resource_id": 53360,
+        "resource_data_type": 4,
+        "resource_type": 34,
+        "path_id": 34,
+        "sub_id": 1305,
+        "filename": "focus_data_high_01305.cpk",
+        "version": 1
     }
 ]

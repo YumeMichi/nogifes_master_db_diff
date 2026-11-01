@@ -2662,5 +2662,23 @@
         "start_date": 1792303200,
         "end_date": 1793339999,
         "priority": 296
+    },
+    {
+        "banner_id": 400297,
+        "banner_type": 2,
+        "banner_value": "event",
+        "resource_sub_id": 297,
+        "start_date": 1793340000,
+        "end_date": 1794117599,
+        "priority": 297
+    },
+    {
+        "banner_id": 400298,
+        "banner_type": 2,
+        "banner_value": "event",
+        "resource_sub_id": 298,
+        "start_date": 1794117600,
+        "end_date": 1795154399,
+        "priority": 298
     }
 ]

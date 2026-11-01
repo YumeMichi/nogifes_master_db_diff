@@ -6202,5 +6202,33 @@
         "lyricist": "秋元 康",
         "composer": "youth case",
         "arranger": "youth case，石塚知生"
+    },
+    {
+        "music_id": 90000890,
+        "music_name": "光合成希望 -真夏の全国ツアー2026 ver-",
+        "music_name_kana": "こうごうせいきぼうまなつのぜんこくつあーにせんにじゅうろくばーじょん",
+        "search_word": [],
+        "music_type": 1,
+        "center_girl_id": 104,
+        "release_date": 2099032900,
+        "music_length": 162,
+        "information": "すごく良い曲だよー",
+        "lyricist": "秋元 康",
+        "composer": "吉田 博",
+        "arranger": "野中“まさ”雄一"
+    },
+    {
+        "music_id": 90000900,
+        "music_name": "Against -真夏の全国ツアー2025 ver-",
+        "music_name_kana": "あげいんすとまなつのぜんこくつあーにせんにじゅうごばーじょん",
+        "search_word": [],
+        "music_type": 1,
+        "center_girl_id": 104,
+        "release_date": 2099033000,
+        "music_length": 120,
+        "information": "すごく良い曲だよー",
+        "lyricist": "秋元 康",
+        "composer": "古川 貴浩",
+        "arranger": "古川 貴浩"
     }
 ]

@@ -6264,6 +6264,42 @@
         "live_location": "大阪城ホール"
     },
     {
+        "live_bg_id": 90000891,
+        "live_bg_name": "光合成希望 -真夏の全国ツアー2026 ver-",
+        "live_bg_type": 1,
+        "music_id": 90000890,
+        "live_name": "真夏の全国ツアー2026",
+        "live_date": "2026年7月16日",
+        "live_location": "大阪城ホール"
+    },
+    {
+        "live_bg_id": 90000892,
+        "live_bg_name": "光合成希望 -真夏の全国ツアー2026 ver-",
+        "live_bg_type": 2,
+        "music_id": 90000890,
+        "live_name": "真夏の全国ツアー2026",
+        "live_date": "2026年7月16日",
+        "live_location": "大阪城ホール"
+    },
+    {
+        "live_bg_id": 90000901,
+        "live_bg_name": "Against -真夏の全国ツアー2025 ver-",
+        "live_bg_type": 1,
+        "music_id": 90000900,
+        "live_name": "真夏の全国ツアー2025",
+        "live_date": "2025年7月17日",
+        "live_location": "大阪城ホール"
+    },
+    {
+        "live_bg_id": 90000902,
+        "live_bg_name": "Against -真夏の全国ツアー2025 ver-",
+        "live_bg_type": 2,
+        "music_id": 90000900,
+        "live_name": "真夏の全国ツアー2025",
+        "live_date": "2025年7月17日",
+        "live_location": "大阪城ホール"
+    },
+    {
         "live_bg_id": 90010011,
         "live_bg_name": "メドレー1st＜Type-A＞",
         "live_bg_type": 1,
