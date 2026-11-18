@@ -4500,6 +4500,24 @@
         "live_location": "マリンメッセ福岡"
     },
     {
+        "live_bg_id": 460011,
+        "live_bg_name": "ビリヤニ",
+        "live_bg_type": 1,
+        "music_id": 460010,
+        "live_name": "14th YEAR BIRTHDAY LIVE",
+        "live_date": "2026年5月19日",
+        "live_location": "東京ドーム"
+    },
+    {
+        "live_bg_id": 460012,
+        "live_bg_name": "ビリヤニ",
+        "live_bg_type": 2,
+        "music_id": 460010,
+        "live_name": "14th YEAR BIRTHDAY LIVE",
+        "live_date": "2026年5月19日",
+        "live_location": "東京ドーム"
+    },
+    {
         "live_bg_id": 460021,
         "live_bg_name": "市営ダンスホール",
         "live_bg_type": 1,

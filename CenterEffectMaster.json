@@ -110929,5 +110929,1859 @@
         "step_work_value2": 0,
         "step_gp2": 0,
         "description": "LIVEクリア時、XP・ノギー・メダルの獲得量70％アップ。"
+    },
+    {
+        "center_effect_id": 1078,
+        "target_attribute_data": [
+            {
+                "attribute": 0,
+                "enable": 1
+            },
+            {
+                "attribute": 1,
+                "enable": 1
+            },
+            {
+                "attribute": 2,
+                "enable": 1
+            },
+            {
+                "attribute": 3,
+                "enable": 1
+            }
+        ],
+        "target_lineage_data": [
+            {
+                "lineage": 1,
+                "enable": 1
+            },
+            {
+                "lineage": 2,
+                "enable": 1
+            },
+            {
+                "lineage": 3,
+                "enable": 1
+            },
+            {
+                "lineage": 4,
+                "enable": 1
+            },
+            {
+                "lineage": 5,
+                "enable": 1
+            }
+        ],
+        "target_class_data": 0,
+        "work_terms": 1,
+        "work_value": 1,
+        "hp": 0,
+        "gp": 1200,
+        "gold": 0,
+        "medal": 0,
+        "exp": 0,
+        "step_work_terms": 0,
+        "step_work_value": 0,
+        "step_gp": 0,
+        "target_attribute_data2": [
+            {
+                "attribute": 0,
+                "enable": 0
+            },
+            {
+                "attribute": 1,
+                "enable": 0
+            },
+            {
+                "attribute": 2,
+                "enable": 0
+            },
+            {
+                "attribute": 3,
+                "enable": 0
+            }
+        ],
+        "target_lineage_data2": [
+            {
+                "lineage": 1,
+                "enable": 0
+            },
+            {
+                "lineage": 2,
+                "enable": 0
+            },
+            {
+                "lineage": 3,
+                "enable": 0
+            },
+            {
+                "lineage": 4,
+                "enable": 0
+            },
+            {
+                "lineage": 5,
+                "enable": 0
+            }
+        ],
+        "target_class_data2": 0,
+        "work_terms2": 0,
+        "work_value2": 0,
+        "hp2": 0,
+        "gp2": 0,
+        "step_work_terms2": 0,
+        "step_work_value2": 0,
+        "step_gp2": 0,
+        "description": "太陽属性のみ編成時、全員のGPを12％アップ。"
+    },
+    {
+        "center_effect_id": 1079,
+        "target_attribute_data": [
+            {
+                "attribute": 0,
+                "enable": 1
+            },
+            {
+                "attribute": 1,
+                "enable": 1
+            },
+            {
+                "attribute": 2,
+                "enable": 1
+            },
+            {
+                "attribute": 3,
+                "enable": 1
+            }
+        ],
+        "target_lineage_data": [
+            {
+                "lineage": 1,
+                "enable": 1
+            },
+            {
+                "lineage": 2,
+                "enable": 1
+            },
+            {
+                "lineage": 3,
+                "enable": 1
+            },
+            {
+                "lineage": 4,
+                "enable": 1
+            },
+            {
+                "lineage": 5,
+                "enable": 1
+            }
+        ],
+        "target_class_data": 0,
+        "work_terms": 1,
+        "work_value": 2,
+        "hp": 0,
+        "gp": 1200,
+        "gold": 0,
+        "medal": 0,
+        "exp": 0,
+        "step_work_terms": 0,
+        "step_work_value": 0,
+        "step_gp": 0,
+        "target_attribute_data2": [
+            {
+                "attribute": 0,
+                "enable": 0
+            },
+            {
+                "attribute": 1,
+                "enable": 0
+            },
+            {
+                "attribute": 2,
+                "enable": 0
+            },
+            {
+                "attribute": 3,
+                "enable": 0
+            }
+        ],
+        "target_lineage_data2": [
+            {
+                "lineage": 1,
+                "enable": 0
+            },
+            {
+                "lineage": 2,
+                "enable": 0
+            },
+            {
+                "lineage": 3,
+                "enable": 0
+            },
+            {
+                "lineage": 4,
+                "enable": 0
+            },
+            {
+                "lineage": 5,
+                "enable": 0
+            }
+        ],
+        "target_class_data2": 0,
+        "work_terms2": 0,
+        "work_value2": 0,
+        "hp2": 0,
+        "gp2": 0,
+        "step_work_terms2": 0,
+        "step_work_value2": 0,
+        "step_gp2": 0,
+        "description": "星属性のみ編成時、全員のGPを12％アップ。"
+    },
+    {
+        "center_effect_id": 1080,
+        "target_attribute_data": [
+            {
+                "attribute": 0,
+                "enable": 1
+            },
+            {
+                "attribute": 1,
+                "enable": 1
+            },
+            {
+                "attribute": 2,
+                "enable": 1
+            },
+            {
+                "attribute": 3,
+                "enable": 1
+            }
+        ],
+        "target_lineage_data": [
+            {
+                "lineage": 1,
+                "enable": 1
+            },
+            {
+                "lineage": 2,
+                "enable": 1
+            },
+            {
+                "lineage": 3,
+                "enable": 1
+            },
+            {
+                "lineage": 4,
+                "enable": 1
+            },
+            {
+                "lineage": 5,
+                "enable": 1
+            }
+        ],
+        "target_class_data": 0,
+        "work_terms": 1,
+        "work_value": 3,
+        "hp": 0,
+        "gp": 1200,
+        "gold": 0,
+        "medal": 0,
+        "exp": 0,
+        "step_work_terms": 0,
+        "step_work_value": 0,
+        "step_gp": 0,
+        "target_attribute_data2": [
+            {
+                "attribute": 0,
+                "enable": 0
+            },
+            {
+                "attribute": 1,
+                "enable": 0
+            },
+            {
+                "attribute": 2,
+                "enable": 0
+            },
+            {
+                "attribute": 3,
+                "enable": 0
+            }
+        ],
+        "target_lineage_data2": [
+            {
+                "lineage": 1,
+                "enable": 0
+            },
+            {
+                "lineage": 2,
+                "enable": 0
+            },
+            {
+                "lineage": 3,
+                "enable": 0
+            },
+            {
+                "lineage": 4,
+                "enable": 0
+            },
+            {
+                "lineage": 5,
+                "enable": 0
+            }
+        ],
+        "target_class_data2": 0,
+        "work_terms2": 0,
+        "work_value2": 0,
+        "hp2": 0,
+        "gp2": 0,
+        "step_work_terms2": 0,
+        "step_work_value2": 0,
+        "step_gp2": 0,
+        "description": "月属性のみ編成時、全員のGPを12％アップ。"
+    },
+    {
+        "center_effect_id": 1081,
+        "target_attribute_data": [
+            {
+                "attribute": 0,
+                "enable": 1
+            },
+            {
+                "attribute": 1,
+                "enable": 1
+            },
+            {
+                "attribute": 2,
+                "enable": 1
+            },
+            {
+                "attribute": 3,
+                "enable": 1
+            }
+        ],
+        "target_lineage_data": [
+            {
+                "lineage": 1,
+                "enable": 1
+            },
+            {
+                "lineage": 2,
+                "enable": 1
+            },
+            {
+                "lineage": 3,
+                "enable": 1
+            },
+            {
+                "lineage": 4,
+                "enable": 1
+            },
+            {
+                "lineage": 5,
+                "enable": 1
+            }
+        ],
+        "target_class_data": 0,
+        "work_terms": 1,
+        "work_value": 1,
+        "hp": 0,
+        "gp": 1500,
+        "gold": 0,
+        "medal": 0,
+        "exp": 0,
+        "step_work_terms": 0,
+        "step_work_value": 0,
+        "step_gp": 0,
+        "target_attribute_data2": [
+            {
+                "attribute": 0,
+                "enable": 0
+            },
+            {
+                "attribute": 1,
+                "enable": 0
+            },
+            {
+                "attribute": 2,
+                "enable": 0
+            },
+            {
+                "attribute": 3,
+                "enable": 0
+            }
+        ],
+        "target_lineage_data2": [
+            {
+                "lineage": 1,
+                "enable": 0
+            },
+            {
+                "lineage": 2,
+                "enable": 0
+            },
+            {
+                "lineage": 3,
+                "enable": 0
+            },
+            {
+                "lineage": 4,
+                "enable": 0
+            },
+            {
+                "lineage": 5,
+                "enable": 0
+            }
+        ],
+        "target_class_data2": 0,
+        "work_terms2": 0,
+        "work_value2": 0,
+        "hp2": 0,
+        "gp2": 0,
+        "step_work_terms2": 0,
+        "step_work_value2": 0,
+        "step_gp2": 0,
+        "description": "太陽属性のみ編成時、全員のGPを15％アップ。"
+    },
+    {
+        "center_effect_id": 1082,
+        "target_attribute_data": [
+            {
+                "attribute": 0,
+                "enable": 1
+            },
+            {
+                "attribute": 1,
+                "enable": 1
+            },
+            {
+                "attribute": 2,
+                "enable": 1
+            },
+            {
+                "attribute": 3,
+                "enable": 1
+            }
+        ],
+        "target_lineage_data": [
+            {
+                "lineage": 1,
+                "enable": 1
+            },
+            {
+                "lineage": 2,
+                "enable": 1
+            },
+            {
+                "lineage": 3,
+                "enable": 1
+            },
+            {
+                "lineage": 4,
+                "enable": 1
+            },
+            {
+                "lineage": 5,
+                "enable": 1
+            }
+        ],
+        "target_class_data": 0,
+        "work_terms": 1,
+        "work_value": 2,
+        "hp": 0,
+        "gp": 1500,
+        "gold": 0,
+        "medal": 0,
+        "exp": 0,
+        "step_work_terms": 0,
+        "step_work_value": 0,
+        "step_gp": 0,
+        "target_attribute_data2": [
+            {
+                "attribute": 0,
+                "enable": 0
+            },
+            {
+                "attribute": 1,
+                "enable": 0
+            },
+            {
+                "attribute": 2,
+                "enable": 0
+            },
+            {
+                "attribute": 3,
+                "enable": 0
+            }
+        ],
+        "target_lineage_data2": [
+            {
+                "lineage": 1,
+                "enable": 0
+            },
+            {
+                "lineage": 2,
+                "enable": 0
+            },
+            {
+                "lineage": 3,
+                "enable": 0
+            },
+            {
+                "lineage": 4,
+                "enable": 0
+            },
+            {
+                "lineage": 5,
+                "enable": 0
+            }
+        ],
+        "target_class_data2": 0,
+        "work_terms2": 0,
+        "work_value2": 0,
+        "hp2": 0,
+        "gp2": 0,
+        "step_work_terms2": 0,
+        "step_work_value2": 0,
+        "step_gp2": 0,
+        "description": "星属性のみ編成時、全員のGPを15％アップ。"
+    },
+    {
+        "center_effect_id": 1083,
+        "target_attribute_data": [
+            {
+                "attribute": 0,
+                "enable": 1
+            },
+            {
+                "attribute": 1,
+                "enable": 1
+            },
+            {
+                "attribute": 2,
+                "enable": 1
+            },
+            {
+                "attribute": 3,
+                "enable": 1
+            }
+        ],
+        "target_lineage_data": [
+            {
+                "lineage": 1,
+                "enable": 1
+            },
+            {
+                "lineage": 2,
+                "enable": 1
+            },
+            {
+                "lineage": 3,
+                "enable": 1
+            },
+            {
+                "lineage": 4,
+                "enable": 1
+            },
+            {
+                "lineage": 5,
+                "enable": 1
+            }
+        ],
+        "target_class_data": 0,
+        "work_terms": 1,
+        "work_value": 3,
+        "hp": 0,
+        "gp": 1500,
+        "gold": 0,
+        "medal": 0,
+        "exp": 0,
+        "step_work_terms": 0,
+        "step_work_value": 0,
+        "step_gp": 0,
+        "target_attribute_data2": [
+            {
+                "attribute": 0,
+                "enable": 0
+            },
+            {
+                "attribute": 1,
+                "enable": 0
+            },
+            {
+                "attribute": 2,
+                "enable": 0
+            },
+            {
+                "attribute": 3,
+                "enable": 0
+            }
+        ],
+        "target_lineage_data2": [
+            {
+                "lineage": 1,
+                "enable": 0
+            },
+            {
+                "lineage": 2,
+                "enable": 0
+            },
+            {
+                "lineage": 3,
+                "enable": 0
+            },
+            {
+                "lineage": 4,
+                "enable": 0
+            },
+            {
+                "lineage": 5,
+                "enable": 0
+            }
+        ],
+        "target_class_data2": 0,
+        "work_terms2": 0,
+        "work_value2": 0,
+        "hp2": 0,
+        "gp2": 0,
+        "step_work_terms2": 0,
+        "step_work_value2": 0,
+        "step_gp2": 0,
+        "description": "月属性のみ編成時、全員のGPを15％アップ。"
+    },
+    {
+        "center_effect_id": 1084,
+        "target_attribute_data": [
+            {
+                "attribute": 0,
+                "enable": 1
+            },
+            {
+                "attribute": 1,
+                "enable": 1
+            },
+            {
+                "attribute": 2,
+                "enable": 1
+            },
+            {
+                "attribute": 3,
+                "enable": 1
+            }
+        ],
+        "target_lineage_data": [
+            {
+                "lineage": 1,
+                "enable": 1
+            },
+            {
+                "lineage": 2,
+                "enable": 1
+            },
+            {
+                "lineage": 3,
+                "enable": 1
+            },
+            {
+                "lineage": 4,
+                "enable": 1
+            },
+            {
+                "lineage": 5,
+                "enable": 1
+            }
+        ],
+        "target_class_data": 0,
+        "work_terms": 1,
+        "work_value": 1,
+        "hp": 0,
+        "gp": 1500,
+        "gold": 0,
+        "medal": 0,
+        "exp": 0,
+        "step_work_terms": 0,
+        "step_work_value": 0,
+        "step_gp": 0,
+        "target_attribute_data2": [
+            {
+                "attribute": 0,
+                "enable": 0
+            },
+            {
+                "attribute": 1,
+                "enable": 0
+            },
+            {
+                "attribute": 2,
+                "enable": 0
+            },
+            {
+                "attribute": 3,
+                "enable": 0
+            }
+        ],
+        "target_lineage_data2": [
+            {
+                "lineage": 1,
+                "enable": 0
+            },
+            {
+                "lineage": 2,
+                "enable": 0
+            },
+            {
+                "lineage": 3,
+                "enable": 0
+            },
+            {
+                "lineage": 4,
+                "enable": 0
+            },
+            {
+                "lineage": 5,
+                "enable": 0
+            }
+        ],
+        "target_class_data2": 0,
+        "work_terms2": 0,
+        "work_value2": 0,
+        "hp2": 0,
+        "gp2": 0,
+        "step_work_terms2": 0,
+        "step_work_value2": 0,
+        "step_gp2": 0,
+        "description": "太陽属性のみ編成時、全員のGPを15％アップ。"
+    },
+    {
+        "center_effect_id": 1085,
+        "target_attribute_data": [
+            {
+                "attribute": 0,
+                "enable": 1
+            },
+            {
+                "attribute": 1,
+                "enable": 1
+            },
+            {
+                "attribute": 2,
+                "enable": 1
+            },
+            {
+                "attribute": 3,
+                "enable": 1
+            }
+        ],
+        "target_lineage_data": [
+            {
+                "lineage": 1,
+                "enable": 1
+            },
+            {
+                "lineage": 2,
+                "enable": 1
+            },
+            {
+                "lineage": 3,
+                "enable": 1
+            },
+            {
+                "lineage": 4,
+                "enable": 1
+            },
+            {
+                "lineage": 5,
+                "enable": 1
+            }
+        ],
+        "target_class_data": 0,
+        "work_terms": 1,
+        "work_value": 2,
+        "hp": 0,
+        "gp": 1500,
+        "gold": 0,
+        "medal": 0,
+        "exp": 0,
+        "step_work_terms": 0,
+        "step_work_value": 0,
+        "step_gp": 0,
+        "target_attribute_data2": [
+            {
+                "attribute": 0,
+                "enable": 0
+            },
+            {
+                "attribute": 1,
+                "enable": 0
+            },
+            {
+                "attribute": 2,
+                "enable": 0
+            },
+            {
+                "attribute": 3,
+                "enable": 0
+            }
+        ],
+        "target_lineage_data2": [
+            {
+                "lineage": 1,
+                "enable": 0
+            },
+            {
+                "lineage": 2,
+                "enable": 0
+            },
+            {
+                "lineage": 3,
+                "enable": 0
+            },
+            {
+                "lineage": 4,
+                "enable": 0
+            },
+            {
+                "lineage": 5,
+                "enable": 0
+            }
+        ],
+        "target_class_data2": 0,
+        "work_terms2": 0,
+        "work_value2": 0,
+        "hp2": 0,
+        "gp2": 0,
+        "step_work_terms2": 0,
+        "step_work_value2": 0,
+        "step_gp2": 0,
+        "description": "星属性のみ編成時、全員のGPを15％アップ。"
+    },
+    {
+        "center_effect_id": 1086,
+        "target_attribute_data": [
+            {
+                "attribute": 0,
+                "enable": 1
+            },
+            {
+                "attribute": 1,
+                "enable": 1
+            },
+            {
+                "attribute": 2,
+                "enable": 1
+            },
+            {
+                "attribute": 3,
+                "enable": 1
+            }
+        ],
+        "target_lineage_data": [
+            {
+                "lineage": 1,
+                "enable": 1
+            },
+            {
+                "lineage": 2,
+                "enable": 1
+            },
+            {
+                "lineage": 3,
+                "enable": 1
+            },
+            {
+                "lineage": 4,
+                "enable": 1
+            },
+            {
+                "lineage": 5,
+                "enable": 1
+            }
+        ],
+        "target_class_data": 0,
+        "work_terms": 1,
+        "work_value": 3,
+        "hp": 0,
+        "gp": 1500,
+        "gold": 0,
+        "medal": 0,
+        "exp": 0,
+        "step_work_terms": 0,
+        "step_work_value": 0,
+        "step_gp": 0,
+        "target_attribute_data2": [
+            {
+                "attribute": 0,
+                "enable": 0
+            },
+            {
+                "attribute": 1,
+                "enable": 0
+            },
+            {
+                "attribute": 2,
+                "enable": 0
+            },
+            {
+                "attribute": 3,
+                "enable": 0
+            }
+        ],
+        "target_lineage_data2": [
+            {
+                "lineage": 1,
+                "enable": 0
+            },
+            {
+                "lineage": 2,
+                "enable": 0
+            },
+            {
+                "lineage": 3,
+                "enable": 0
+            },
+            {
+                "lineage": 4,
+                "enable": 0
+            },
+            {
+                "lineage": 5,
+                "enable": 0
+            }
+        ],
+        "target_class_data2": 0,
+        "work_terms2": 0,
+        "work_value2": 0,
+        "hp2": 0,
+        "gp2": 0,
+        "step_work_terms2": 0,
+        "step_work_value2": 0,
+        "step_gp2": 0,
+        "description": "月属性のみ編成時、全員のGPを15％アップ。"
+    },
+    {
+        "center_effect_id": 1087,
+        "target_attribute_data": [
+            {
+                "attribute": 0,
+                "enable": 1
+            },
+            {
+                "attribute": 1,
+                "enable": 1
+            },
+            {
+                "attribute": 2,
+                "enable": 1
+            },
+            {
+                "attribute": 3,
+                "enable": 1
+            }
+        ],
+        "target_lineage_data": [
+            {
+                "lineage": 1,
+                "enable": 1
+            },
+            {
+                "lineage": 2,
+                "enable": 1
+            },
+            {
+                "lineage": 3,
+                "enable": 1
+            },
+            {
+                "lineage": 4,
+                "enable": 1
+            },
+            {
+                "lineage": 5,
+                "enable": 1
+            }
+        ],
+        "target_class_data": 0,
+        "work_terms": 1,
+        "work_value": 1,
+        "hp": 0,
+        "gp": 2100,
+        "gold": 0,
+        "medal": 0,
+        "exp": 0,
+        "step_work_terms": 0,
+        "step_work_value": 0,
+        "step_gp": 0,
+        "target_attribute_data2": [
+            {
+                "attribute": 0,
+                "enable": 0
+            },
+            {
+                "attribute": 1,
+                "enable": 0
+            },
+            {
+                "attribute": 2,
+                "enable": 0
+            },
+            {
+                "attribute": 3,
+                "enable": 0
+            }
+        ],
+        "target_lineage_data2": [
+            {
+                "lineage": 1,
+                "enable": 0
+            },
+            {
+                "lineage": 2,
+                "enable": 0
+            },
+            {
+                "lineage": 3,
+                "enable": 0
+            },
+            {
+                "lineage": 4,
+                "enable": 0
+            },
+            {
+                "lineage": 5,
+                "enable": 0
+            }
+        ],
+        "target_class_data2": 0,
+        "work_terms2": 0,
+        "work_value2": 0,
+        "hp2": 0,
+        "gp2": 0,
+        "step_work_terms2": 0,
+        "step_work_value2": 0,
+        "step_gp2": 0,
+        "description": "太陽属性のみ編成時、全員のGPを21％アップ。"
+    },
+    {
+        "center_effect_id": 1088,
+        "target_attribute_data": [
+            {
+                "attribute": 0,
+                "enable": 1
+            },
+            {
+                "attribute": 1,
+                "enable": 1
+            },
+            {
+                "attribute": 2,
+                "enable": 1
+            },
+            {
+                "attribute": 3,
+                "enable": 1
+            }
+        ],
+        "target_lineage_data": [
+            {
+                "lineage": 1,
+                "enable": 1
+            },
+            {
+                "lineage": 2,
+                "enable": 1
+            },
+            {
+                "lineage": 3,
+                "enable": 1
+            },
+            {
+                "lineage": 4,
+                "enable": 1
+            },
+            {
+                "lineage": 5,
+                "enable": 1
+            }
+        ],
+        "target_class_data": 0,
+        "work_terms": 1,
+        "work_value": 2,
+        "hp": 0,
+        "gp": 2100,
+        "gold": 0,
+        "medal": 0,
+        "exp": 0,
+        "step_work_terms": 0,
+        "step_work_value": 0,
+        "step_gp": 0,
+        "target_attribute_data2": [
+            {
+                "attribute": 0,
+                "enable": 0
+            },
+            {
+                "attribute": 1,
+                "enable": 0
+            },
+            {
+                "attribute": 2,
+                "enable": 0
+            },
+            {
+                "attribute": 3,
+                "enable": 0
+            }
+        ],
+        "target_lineage_data2": [
+            {
+                "lineage": 1,
+                "enable": 0
+            },
+            {
+                "lineage": 2,
+                "enable": 0
+            },
+            {
+                "lineage": 3,
+                "enable": 0
+            },
+            {
+                "lineage": 4,
+                "enable": 0
+            },
+            {
+                "lineage": 5,
+                "enable": 0
+            }
+        ],
+        "target_class_data2": 0,
+        "work_terms2": 0,
+        "work_value2": 0,
+        "hp2": 0,
+        "gp2": 0,
+        "step_work_terms2": 0,
+        "step_work_value2": 0,
+        "step_gp2": 0,
+        "description": "星属性のみ編成時、全員のGPを21％アップ。"
+    },
+    {
+        "center_effect_id": 1089,
+        "target_attribute_data": [
+            {
+                "attribute": 0,
+                "enable": 1
+            },
+            {
+                "attribute": 1,
+                "enable": 1
+            },
+            {
+                "attribute": 2,
+                "enable": 1
+            },
+            {
+                "attribute": 3,
+                "enable": 1
+            }
+        ],
+        "target_lineage_data": [
+            {
+                "lineage": 1,
+                "enable": 1
+            },
+            {
+                "lineage": 2,
+                "enable": 1
+            },
+            {
+                "lineage": 3,
+                "enable": 1
+            },
+            {
+                "lineage": 4,
+                "enable": 1
+            },
+            {
+                "lineage": 5,
+                "enable": 1
+            }
+        ],
+        "target_class_data": 0,
+        "work_terms": 1,
+        "work_value": 3,
+        "hp": 0,
+        "gp": 2100,
+        "gold": 0,
+        "medal": 0,
+        "exp": 0,
+        "step_work_terms": 0,
+        "step_work_value": 0,
+        "step_gp": 0,
+        "target_attribute_data2": [
+            {
+                "attribute": 0,
+                "enable": 0
+            },
+            {
+                "attribute": 1,
+                "enable": 0
+            },
+            {
+                "attribute": 2,
+                "enable": 0
+            },
+            {
+                "attribute": 3,
+                "enable": 0
+            }
+        ],
+        "target_lineage_data2": [
+            {
+                "lineage": 1,
+                "enable": 0
+            },
+            {
+                "lineage": 2,
+                "enable": 0
+            },
+            {
+                "lineage": 3,
+                "enable": 0
+            },
+            {
+                "lineage": 4,
+                "enable": 0
+            },
+            {
+                "lineage": 5,
+                "enable": 0
+            }
+        ],
+        "target_class_data2": 0,
+        "work_terms2": 0,
+        "work_value2": 0,
+        "hp2": 0,
+        "gp2": 0,
+        "step_work_terms2": 0,
+        "step_work_value2": 0,
+        "step_gp2": 0,
+        "description": "月属性のみ編成時、全員のGPを21％アップ。"
+    },
+    {
+        "center_effect_id": 1090,
+        "target_attribute_data": [
+            {
+                "attribute": 0,
+                "enable": 1
+            },
+            {
+                "attribute": 1,
+                "enable": 1
+            },
+            {
+                "attribute": 2,
+                "enable": 1
+            },
+            {
+                "attribute": 3,
+                "enable": 1
+            }
+        ],
+        "target_lineage_data": [
+            {
+                "lineage": 1,
+                "enable": 1
+            },
+            {
+                "lineage": 2,
+                "enable": 1
+            },
+            {
+                "lineage": 3,
+                "enable": 1
+            },
+            {
+                "lineage": 4,
+                "enable": 1
+            },
+            {
+                "lineage": 5,
+                "enable": 1
+            }
+        ],
+        "target_class_data": 0,
+        "work_terms": 1,
+        "work_value": 1,
+        "hp": 0,
+        "gp": 1500,
+        "gold": 0,
+        "medal": 0,
+        "exp": 0,
+        "step_work_terms": 0,
+        "step_work_value": 0,
+        "step_gp": 0,
+        "target_attribute_data2": [
+            {
+                "attribute": 0,
+                "enable": 0
+            },
+            {
+                "attribute": 1,
+                "enable": 0
+            },
+            {
+                "attribute": 2,
+                "enable": 0
+            },
+            {
+                "attribute": 3,
+                "enable": 0
+            }
+        ],
+        "target_lineage_data2": [
+            {
+                "lineage": 1,
+                "enable": 0
+            },
+            {
+                "lineage": 2,
+                "enable": 0
+            },
+            {
+                "lineage": 3,
+                "enable": 0
+            },
+            {
+                "lineage": 4,
+                "enable": 0
+            },
+            {
+                "lineage": 5,
+                "enable": 0
+            }
+        ],
+        "target_class_data2": 0,
+        "work_terms2": 0,
+        "work_value2": 0,
+        "hp2": 0,
+        "gp2": 0,
+        "step_work_terms2": 0,
+        "step_work_value2": 0,
+        "step_gp2": 0,
+        "description": "太陽属性のみ編成時、全員のGPを15％アップ。"
+    },
+    {
+        "center_effect_id": 1091,
+        "target_attribute_data": [
+            {
+                "attribute": 0,
+                "enable": 1
+            },
+            {
+                "attribute": 1,
+                "enable": 1
+            },
+            {
+                "attribute": 2,
+                "enable": 1
+            },
+            {
+                "attribute": 3,
+                "enable": 1
+            }
+        ],
+        "target_lineage_data": [
+            {
+                "lineage": 1,
+                "enable": 1
+            },
+            {
+                "lineage": 2,
+                "enable": 1
+            },
+            {
+                "lineage": 3,
+                "enable": 1
+            },
+            {
+                "lineage": 4,
+                "enable": 1
+            },
+            {
+                "lineage": 5,
+                "enable": 1
+            }
+        ],
+        "target_class_data": 0,
+        "work_terms": 1,
+        "work_value": 2,
+        "hp": 0,
+        "gp": 1500,
+        "gold": 0,
+        "medal": 0,
+        "exp": 0,
+        "step_work_terms": 0,
+        "step_work_value": 0,
+        "step_gp": 0,
+        "target_attribute_data2": [
+            {
+                "attribute": 0,
+                "enable": 0
+            },
+            {
+                "attribute": 1,
+                "enable": 0
+            },
+            {
+                "attribute": 2,
+                "enable": 0
+            },
+            {
+                "attribute": 3,
+                "enable": 0
+            }
+        ],
+        "target_lineage_data2": [
+            {
+                "lineage": 1,
+                "enable": 0
+            },
+            {
+                "lineage": 2,
+                "enable": 0
+            },
+            {
+                "lineage": 3,
+                "enable": 0
+            },
+            {
+                "lineage": 4,
+                "enable": 0
+            },
+            {
+                "lineage": 5,
+                "enable": 0
+            }
+        ],
+        "target_class_data2": 0,
+        "work_terms2": 0,
+        "work_value2": 0,
+        "hp2": 0,
+        "gp2": 0,
+        "step_work_terms2": 0,
+        "step_work_value2": 0,
+        "step_gp2": 0,
+        "description": "星属性のみ編成時、全員のGPを15％アップ。"
+    },
+    {
+        "center_effect_id": 1092,
+        "target_attribute_data": [
+            {
+                "attribute": 0,
+                "enable": 1
+            },
+            {
+                "attribute": 1,
+                "enable": 1
+            },
+            {
+                "attribute": 2,
+                "enable": 1
+            },
+            {
+                "attribute": 3,
+                "enable": 1
+            }
+        ],
+        "target_lineage_data": [
+            {
+                "lineage": 1,
+                "enable": 1
+            },
+            {
+                "lineage": 2,
+                "enable": 1
+            },
+            {
+                "lineage": 3,
+                "enable": 1
+            },
+            {
+                "lineage": 4,
+                "enable": 1
+            },
+            {
+                "lineage": 5,
+                "enable": 1
+            }
+        ],
+        "target_class_data": 0,
+        "work_terms": 1,
+        "work_value": 3,
+        "hp": 0,
+        "gp": 1500,
+        "gold": 0,
+        "medal": 0,
+        "exp": 0,
+        "step_work_terms": 0,
+        "step_work_value": 0,
+        "step_gp": 0,
+        "target_attribute_data2": [
+            {
+                "attribute": 0,
+                "enable": 0
+            },
+            {
+                "attribute": 1,
+                "enable": 0
+            },
+            {
+                "attribute": 2,
+                "enable": 0
+            },
+            {
+                "attribute": 3,
+                "enable": 0
+            }
+        ],
+        "target_lineage_data2": [
+            {
+                "lineage": 1,
+                "enable": 0
+            },
+            {
+                "lineage": 2,
+                "enable": 0
+            },
+            {
+                "lineage": 3,
+                "enable": 0
+            },
+            {
+                "lineage": 4,
+                "enable": 0
+            },
+            {
+                "lineage": 5,
+                "enable": 0
+            }
+        ],
+        "target_class_data2": 0,
+        "work_terms2": 0,
+        "work_value2": 0,
+        "hp2": 0,
+        "gp2": 0,
+        "step_work_terms2": 0,
+        "step_work_value2": 0,
+        "step_gp2": 0,
+        "description": "月属性のみ編成時、全員のGPを15％アップ。"
+    },
+    {
+        "center_effect_id": 1093,
+        "target_attribute_data": [
+            {
+                "attribute": 0,
+                "enable": 1
+            },
+            {
+                "attribute": 1,
+                "enable": 1
+            },
+            {
+                "attribute": 2,
+                "enable": 1
+            },
+            {
+                "attribute": 3,
+                "enable": 1
+            }
+        ],
+        "target_lineage_data": [
+            {
+                "lineage": 1,
+                "enable": 1
+            },
+            {
+                "lineage": 2,
+                "enable": 1
+            },
+            {
+                "lineage": 3,
+                "enable": 1
+            },
+            {
+                "lineage": 4,
+                "enable": 1
+            },
+            {
+                "lineage": 5,
+                "enable": 1
+            }
+        ],
+        "target_class_data": 0,
+        "work_terms": 1,
+        "work_value": 1,
+        "hp": 0,
+        "gp": 2100,
+        "gold": 0,
+        "medal": 0,
+        "exp": 0,
+        "step_work_terms": 0,
+        "step_work_value": 0,
+        "step_gp": 0,
+        "target_attribute_data2": [
+            {
+                "attribute": 0,
+                "enable": 0
+            },
+            {
+                "attribute": 1,
+                "enable": 0
+            },
+            {
+                "attribute": 2,
+                "enable": 0
+            },
+            {
+                "attribute": 3,
+                "enable": 0
+            }
+        ],
+        "target_lineage_data2": [
+            {
+                "lineage": 1,
+                "enable": 0
+            },
+            {
+                "lineage": 2,
+                "enable": 0
+            },
+            {
+                "lineage": 3,
+                "enable": 0
+            },
+            {
+                "lineage": 4,
+                "enable": 0
+            },
+            {
+                "lineage": 5,
+                "enable": 0
+            }
+        ],
+        "target_class_data2": 0,
+        "work_terms2": 0,
+        "work_value2": 0,
+        "hp2": 0,
+        "gp2": 0,
+        "step_work_terms2": 0,
+        "step_work_value2": 0,
+        "step_gp2": 0,
+        "description": "太陽属性のみ編成時、全員のGPを21％アップ。"
+    },
+    {
+        "center_effect_id": 1094,
+        "target_attribute_data": [
+            {
+                "attribute": 0,
+                "enable": 1
+            },
+            {
+                "attribute": 1,
+                "enable": 1
+            },
+            {
+                "attribute": 2,
+                "enable": 1
+            },
+            {
+                "attribute": 3,
+                "enable": 1
+            }
+        ],
+        "target_lineage_data": [
+            {
+                "lineage": 1,
+                "enable": 1
+            },
+            {
+                "lineage": 2,
+                "enable": 1
+            },
+            {
+                "lineage": 3,
+                "enable": 1
+            },
+            {
+                "lineage": 4,
+                "enable": 1
+            },
+            {
+                "lineage": 5,
+                "enable": 1
+            }
+        ],
+        "target_class_data": 0,
+        "work_terms": 1,
+        "work_value": 2,
+        "hp": 0,
+        "gp": 2100,
+        "gold": 0,
+        "medal": 0,
+        "exp": 0,
+        "step_work_terms": 0,
+        "step_work_value": 0,
+        "step_gp": 0,
+        "target_attribute_data2": [
+            {
+                "attribute": 0,
+                "enable": 0
+            },
+            {
+                "attribute": 1,
+                "enable": 0
+            },
+            {
+                "attribute": 2,
+                "enable": 0
+            },
+            {
+                "attribute": 3,
+                "enable": 0
+            }
+        ],
+        "target_lineage_data2": [
+            {
+                "lineage": 1,
+                "enable": 0
+            },
+            {
+                "lineage": 2,
+                "enable": 0
+            },
+            {
+                "lineage": 3,
+                "enable": 0
+            },
+            {
+                "lineage": 4,
+                "enable": 0
+            },
+            {
+                "lineage": 5,
+                "enable": 0
+            }
+        ],
+        "target_class_data2": 0,
+        "work_terms2": 0,
+        "work_value2": 0,
+        "hp2": 0,
+        "gp2": 0,
+        "step_work_terms2": 0,
+        "step_work_value2": 0,
+        "step_gp2": 0,
+        "description": "星属性のみ編成時、全員のGPを21％アップ。"
+    },
+    {
+        "center_effect_id": 1095,
+        "target_attribute_data": [
+            {
+                "attribute": 0,
+                "enable": 1
+            },
+            {
+                "attribute": 1,
+                "enable": 1
+            },
+            {
+                "attribute": 2,
+                "enable": 1
+            },
+            {
+                "attribute": 3,
+                "enable": 1
+            }
+        ],
+        "target_lineage_data": [
+            {
+                "lineage": 1,
+                "enable": 1
+            },
+            {
+                "lineage": 2,
+                "enable": 1
+            },
+            {
+                "lineage": 3,
+                "enable": 1
+            },
+            {
+                "lineage": 4,
+                "enable": 1
+            },
+            {
+                "lineage": 5,
+                "enable": 1
+            }
+        ],
+        "target_class_data": 0,
+        "work_terms": 1,
+        "work_value": 3,
+        "hp": 0,
+        "gp": 2100,
+        "gold": 0,
+        "medal": 0,
+        "exp": 0,
+        "step_work_terms": 0,
+        "step_work_value": 0,
+        "step_gp": 0,
+        "target_attribute_data2": [
+            {
+                "attribute": 0,
+                "enable": 0
+            },
+            {
+                "attribute": 1,
+                "enable": 0
+            },
+            {
+                "attribute": 2,
+                "enable": 0
+            },
+            {
+                "attribute": 3,
+                "enable": 0
+            }
+        ],
+        "target_lineage_data2": [
+            {
+                "lineage": 1,
+                "enable": 0
+            },
+            {
+                "lineage": 2,
+                "enable": 0
+            },
+            {
+                "lineage": 3,
+                "enable": 0
+            },
+            {
+                "lineage": 4,
+                "enable": 0
+            },
+            {
+                "lineage": 5,
+                "enable": 0
+            }
+        ],
+        "target_class_data2": 0,
+        "work_terms2": 0,
+        "work_value2": 0,
+        "hp2": 0,
+        "gp2": 0,
+        "step_work_terms2": 0,
+        "step_work_value2": 0,
+        "step_gp2": 0,
+        "description": "月属性のみ編成時、全員のGPを21％アップ。"
     }
 ]

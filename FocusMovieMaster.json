@@ -26035,5 +26035,45 @@
         "start_date": 1794841200,
         "high_quality": 0,
         "high_quality_start_date": 1924959599
+    },
+    {
+        "focus_movie_id": 1307,
+        "focus_movie_name": "ビリヤニ",
+        "unit_data": [
+            {
+                "unit_id": 139890
+            },
+            {
+                "unit_id": 139891
+            }
+        ],
+        "music_id": 460010,
+        "live_name": "真夏の全国ツアー2026",
+        "live_date": "2026年7月15日",
+        "live_date_unixtime": 1784041200,
+        "live_location": "大阪城ホール",
+        "start_date": 1796050800,
+        "high_quality": 0,
+        "high_quality_start_date": 1924959599
+    },
+    {
+        "focus_movie_id": 1308,
+        "focus_movie_name": "ビリヤニ",
+        "unit_data": [
+            {
+                "unit_id": 139900
+            },
+            {
+                "unit_id": 139901
+            }
+        ],
+        "music_id": 460010,
+        "live_name": "5th ALBUM MEMORIAL LIVE 『My respect』",
+        "live_date": "2026年2月23日",
+        "live_date_unixtime": 1771772400,
+        "live_location": "有明アリーナ",
+        "start_date": 1795154400,
+        "high_quality": 0,
+        "high_quality_start_date": 1924959599
     }
 ]

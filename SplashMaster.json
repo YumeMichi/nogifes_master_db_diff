@@ -6,7 +6,8 @@
         "start_date": 1731391200,
         "end_date": 1732766399,
         "bg_frame_flag": 1,
-        "resource_id": 1
+        "resource_id": 1,
+        "link_value": ""
     },
     {
         "splash_id": 2,
@@ -15,7 +16,8 @@
         "start_date": 1731650400,
         "end_date": 1732460399,
         "bg_frame_flag": 1,
-        "resource_id": 2
+        "resource_id": 2,
+        "link_value": ""
     },
     {
         "splash_id": 3,
@@ -24,7 +26,8 @@
         "start_date": 1731391200,
         "end_date": 1735271999,
         "bg_frame_flag": 0,
-        "resource_id": 3
+        "resource_id": 3,
+        "link_value": ""
     },
     {
         "splash_id": 4,
@@ -33,7 +36,8 @@
         "start_date": 1731391200,
         "end_date": 1731484799,
         "bg_frame_flag": 0,
-        "resource_id": 4
+        "resource_id": 4,
+        "link_value": ""
     },
     {
         "splash_id": 5,
@@ -42,7 +46,8 @@
         "start_date": 1732773600,
         "end_date": 1734062399,
         "bg_frame_flag": 1,
-        "resource_id": 5
+        "resource_id": 5,
+        "link_value": ""
     },
     {
         "splash_id": 6,
@@ -51,7 +56,8 @@
         "start_date": 1733032800,
         "end_date": 1733842799,
         "bg_frame_flag": 1,
-        "resource_id": 6
+        "resource_id": 6,
+        "link_value": ""
     },
     {
         "splash_id": 7,
@@ -60,7 +66,8 @@
         "start_date": 1734069600,
         "end_date": 1735271999,
         "bg_frame_flag": 1,
-        "resource_id": 7
+        "resource_id": 7,
+        "link_value": ""
     },
     {
         "splash_id": 8,
@@ -69,7 +76,8 @@
         "start_date": 1734328800,
         "end_date": 1735138799,
         "bg_frame_flag": 1,
-        "resource_id": 8
+        "resource_id": 8,
+        "link_value": ""
     },
     {
         "splash_id": 9,
@@ -78,7 +86,8 @@
         "start_date": 1735657200,
         "end_date": 1735916399,
         "bg_frame_flag": 1,
-        "resource_id": 9
+        "resource_id": 9,
+        "link_value": ""
     },
     {
         "splash_id": 10,
@@ -87,7 +96,8 @@
         "start_date": 1739858400,
         "end_date": 1740981599,
         "bg_frame_flag": 1,
-        "resource_id": 10
+        "resource_id": 10,
+        "link_value": ""
     },
     {
         "splash_id": 11,
@@ -96,7 +106,8 @@
         "start_date": 1747288800,
         "end_date": 1748577599,
         "bg_frame_flag": 1,
-        "resource_id": 11
+        "resource_id": 11,
+        "link_value": ""
     },
     {
         "splash_id": 12,
@@ -105,7 +116,8 @@
         "start_date": 1747288800,
         "end_date": 1751255999,
         "bg_frame_flag": 0,
-        "resource_id": 12
+        "resource_id": 12,
+        "link_value": ""
     },
     {
         "splash_id": 13,
@@ -114,7 +126,8 @@
         "start_date": 1748584800,
         "end_date": 1750046399,
         "bg_frame_flag": 1,
-        "resource_id": 13
+        "resource_id": 13,
+        "link_value": ""
     },
     {
         "splash_id": 14,
@@ -123,7 +136,8 @@
         "start_date": 1748844000,
         "end_date": 1749653999,
         "bg_frame_flag": 1,
-        "resource_id": 14
+        "resource_id": 14,
+        "link_value": ""
     },
     {
         "splash_id": 15,
@@ -132,7 +146,8 @@
         "start_date": 1750053600,
         "end_date": 1751255999,
         "bg_frame_flag": 1,
-        "resource_id": 15
+        "resource_id": 15,
+        "link_value": ""
     },
     {
         "splash_id": 16,
@@ -141,7 +156,8 @@
         "start_date": 1751641200,
         "end_date": 1751813999,
         "bg_frame_flag": 0,
-        "resource_id": 16
+        "resource_id": 16,
+        "link_value": ""
     },
     {
         "splash_id": 17,
@@ -150,7 +166,8 @@
         "start_date": 1752246000,
         "end_date": 1752418799,
         "bg_frame_flag": 0,
-        "resource_id": 17
+        "resource_id": 17,
+        "link_value": ""
     },
     {
         "splash_id": 18,
@@ -159,7 +176,8 @@
         "start_date": 1752591600,
         "end_date": 1752764399,
         "bg_frame_flag": 0,
-        "resource_id": 18
+        "resource_id": 18,
+        "link_value": ""
     },
     {
         "splash_id": 19,
@@ -168,7 +186,8 @@
         "start_date": 1754060400,
         "end_date": 1754233199,
         "bg_frame_flag": 0,
-        "resource_id": 19
+        "resource_id": 19,
+        "link_value": ""
     },
     {
         "splash_id": 20,
@@ -177,7 +196,8 @@
         "start_date": 1754665200,
         "end_date": 1754837999,
         "bg_frame_flag": 0,
-        "resource_id": 20
+        "resource_id": 20,
+        "link_value": ""
     },
     {
         "splash_id": 21,
@@ -186,7 +206,8 @@
         "start_date": 1754665200,
         "end_date": 1754837999,
         "bg_frame_flag": 0,
-        "resource_id": 21
+        "resource_id": 21,
+        "link_value": ""
     },
     {
         "splash_id": 22,
@@ -195,7 +216,8 @@
         "start_date": 1755270000,
         "end_date": 1755442799,
         "bg_frame_flag": 0,
-        "resource_id": 22
+        "resource_id": 22,
+        "link_value": ""
     },
     {
         "splash_id": 23,
@@ -204,7 +226,8 @@
         "start_date": 1755270000,
         "end_date": 1755442799,
         "bg_frame_flag": 0,
-        "resource_id": 23
+        "resource_id": 23,
+        "link_value": ""
     },
     {
         "splash_id": 24,
@@ -213,7 +236,8 @@
         "start_date": 1756911600,
         "end_date": 1757257199,
         "bg_frame_flag": 0,
-        "resource_id": 24
+        "resource_id": 24,
+        "link_value": ""
     },
     {
         "splash_id": 25,
@@ -222,7 +246,8 @@
         "start_date": 1756911600,
         "end_date": 1757257199,
         "bg_frame_flag": 0,
-        "resource_id": 25
+        "resource_id": 25,
+        "link_value": ""
     },
     {
         "splash_id": 26,
@@ -231,7 +256,8 @@
         "start_date": 1763359200,
         "end_date": 1764514799,
         "bg_frame_flag": 1,
-        "resource_id": 26
+        "resource_id": 26,
+        "link_value": ""
     },
     {
         "splash_id": 27,
@@ -240,7 +266,8 @@
         "start_date": 1763618400,
         "end_date": 1764388799,
         "bg_frame_flag": 1,
-        "resource_id": 27
+        "resource_id": 27,
+        "link_value": ""
     },
     {
         "splash_id": 28,
@@ -249,7 +276,8 @@
         "start_date": 1763359200,
         "end_date": 1766721599,
         "bg_frame_flag": 0,
-        "resource_id": 28
+        "resource_id": 28,
+        "link_value": ""
     },
     {
         "splash_id": 29,
@@ -258,7 +286,8 @@
         "start_date": 1763359200,
         "end_date": 1763452799,
         "bg_frame_flag": 0,
-        "resource_id": 29
+        "resource_id": 29,
+        "link_value": ""
     },
     {
         "splash_id": 30,
@@ -267,7 +296,8 @@
         "start_date": 1764568800,
         "end_date": 1765724399,
         "bg_frame_flag": 1,
-        "resource_id": 30
+        "resource_id": 30,
+        "link_value": ""
     },
     {
         "splash_id": 31,
@@ -276,7 +306,8 @@
         "start_date": 1764568800,
         "end_date": 1764662399,
         "bg_frame_flag": 0,
-        "resource_id": 31
+        "resource_id": 31,
+        "link_value": ""
     },
     {
         "splash_id": 32,
@@ -285,7 +316,8 @@
         "start_date": 1765778400,
         "end_date": 1766721599,
         "bg_frame_flag": 1,
-        "resource_id": 32
+        "resource_id": 32,
+        "link_value": ""
     },
     {
         "splash_id": 33,
@@ -294,7 +326,8 @@
         "start_date": 1765778400,
         "end_date": 1765871999,
         "bg_frame_flag": 0,
-        "resource_id": 33
+        "resource_id": 33,
+        "link_value": ""
     },
     {
         "splash_id": 34,
@@ -303,7 +336,8 @@
         "start_date": 1770962400,
         "end_date": 1772204399,
         "bg_frame_flag": 1,
-        "resource_id": 34
+        "resource_id": 34,
+        "link_value": ""
     },
     {
         "splash_id": 35,
@@ -312,7 +346,8 @@
         "start_date": 1771740000,
         "end_date": 1772290799,
         "bg_frame_flag": 0,
-        "resource_id": 35
+        "resource_id": 35,
+        "link_value": ""
     },
     {
         "splash_id": 36,
@@ -321,7 +356,8 @@
         "start_date": 1771740000,
         "end_date": 1772290799,
         "bg_frame_flag": 0,
-        "resource_id": 36
+        "resource_id": 36,
+        "link_value": ""
     },
     {
         "splash_id": 37,
@@ -330,7 +366,8 @@
         "start_date": 1772258400,
         "end_date": 1773154799,
         "bg_frame_flag": 0,
-        "resource_id": 37
+        "resource_id": 37,
+        "link_value": ""
     },
     {
         "splash_id": 38,
@@ -339,7 +376,8 @@
         "start_date": 1772344800,
         "end_date": 1772895599,
         "bg_frame_flag": 0,
-        "resource_id": 38
+        "resource_id": 38,
+        "link_value": ""
     },
     {
         "splash_id": 39,
@@ -348,7 +386,8 @@
         "start_date": 1772344800,
         "end_date": 1772895599,
         "bg_frame_flag": 0,
-        "resource_id": 39
+        "resource_id": 39,
+        "link_value": ""
     },
     {
         "splash_id": 40,
@@ -357,7 +396,8 @@
         "start_date": 1774850400,
         "end_date": 1775055599,
         "bg_frame_flag": 0,
-        "resource_id": 40
+        "resource_id": 40,
+        "link_value": ""
     },
     {
         "splash_id": 41,
@@ -366,7 +406,8 @@
         "start_date": 1774850400,
         "end_date": 1775660399,
         "bg_frame_flag": 0,
-        "resource_id": 41
+        "resource_id": 41,
+        "link_value": ""
     },
     {
         "splash_id": 42,
@@ -375,7 +416,8 @@
         "start_date": 1775023200,
         "end_date": 1775919599,
         "bg_frame_flag": 0,
-        "resource_id": 42
+        "resource_id": 42,
+        "link_value": ""
     },
     {
         "splash_id": 43,
@@ -384,7 +426,8 @@
         "start_date": 1776924000,
         "end_date": 1778079599,
         "bg_frame_flag": 1,
-        "resource_id": 43
+        "resource_id": 43,
+        "link_value": ""
     },
     {
         "splash_id": 44,
@@ -393,7 +436,8 @@
         "start_date": 1776924000,
         "end_date": 1777993199,
         "bg_frame_flag": 0,
-        "resource_id": 44
+        "resource_id": 44,
+        "link_value": ""
     },
     {
         "splash_id": 45,
@@ -402,7 +446,8 @@
         "start_date": 1779084000,
         "end_date": 1780239599,
         "bg_frame_flag": 1,
-        "resource_id": 45
+        "resource_id": 45,
+        "link_value": ""
     },
     {
         "splash_id": 46,
@@ -411,7 +456,8 @@
         "start_date": 1779084000,
         "end_date": 1782658799,
         "bg_frame_flag": 0,
-        "resource_id": 46
+        "resource_id": 46,
+        "link_value": ""
     },
     {
         "splash_id": 47,
@@ -420,7 +466,8 @@
         "start_date": 1779084000,
         "end_date": 1782658799,
         "bg_frame_flag": 0,
-        "resource_id": 47
+        "resource_id": 47,
+        "link_value": ""
     },
     {
         "splash_id": 48,
@@ -429,7 +476,8 @@
         "start_date": 1779343200,
         "end_date": 1779355799,
         "bg_frame_flag": 1,
-        "resource_id": 48
+        "resource_id": 48,
+        "link_value": ""
     },
     {
         "splash_id": 49,
@@ -438,7 +486,8 @@
         "start_date": 1780293600,
         "end_date": 1781535599,
         "bg_frame_flag": 1,
-        "resource_id": 49
+        "resource_id": 49,
+        "link_value": ""
     },
     {
         "splash_id": 50,
@@ -447,7 +496,8 @@
         "start_date": 1781589600,
         "end_date": 1782658799,
         "bg_frame_flag": 1,
-        "resource_id": 50
+        "resource_id": 50,
+        "link_value": ""
     },
     {
         "splash_id": 51,
@@ -456,7 +506,8 @@
         "start_date": 1783090800,
         "end_date": 1783263599,
         "bg_frame_flag": 0,
-        "resource_id": 51
+        "resource_id": 51,
+        "link_value": ""
     },
     {
         "splash_id": 52,
@@ -465,7 +516,8 @@
         "start_date": 1783695600,
         "end_date": 1783868399,
         "bg_frame_flag": 0,
-        "resource_id": 52
+        "resource_id": 52,
+        "link_value": ""
     },
     {
         "splash_id": 53,
@@ -474,7 +526,8 @@
         "start_date": 1784041200,
         "end_date": 1784213999,
         "bg_frame_flag": 0,
-        "resource_id": 53
+        "resource_id": 53,
+        "link_value": ""
     },
     {
         "splash_id": 54,
@@ -483,7 +536,8 @@
         "start_date": 1784905200,
         "end_date": 1785077999,
         "bg_frame_flag": 0,
-        "resource_id": 54
+        "resource_id": 54,
+        "link_value": ""
     },
     {
         "splash_id": 55,
@@ -492,7 +546,8 @@
         "start_date": 1786114800,
         "end_date": 1786287599,
         "bg_frame_flag": 0,
-        "resource_id": 55
+        "resource_id": 55,
+        "link_value": ""
     },
     {
         "splash_id": 56,
@@ -501,7 +556,8 @@
         "start_date": 1784700000,
         "end_date": 1785470399,
         "bg_frame_flag": 1,
-        "resource_id": 56
+        "resource_id": 56,
+        "link_value": ""
     },
     {
         "splash_id": 57,
@@ -510,7 +566,8 @@
         "start_date": 1786114800,
         "end_date": 1786201199,
         "bg_frame_flag": 1,
-        "resource_id": 57
+        "resource_id": 57,
+        "link_value": ""
     },
     {
         "splash_id": 58,
@@ -519,7 +576,8 @@
         "start_date": 1787151600,
         "end_date": 1787237999,
         "bg_frame_flag": 1,
-        "resource_id": 58
+        "resource_id": 58,
+        "link_value": ""
     },
     {
         "splash_id": 59,
@@ -528,7 +586,8 @@
         "start_date": 1787151600,
         "end_date": 1787497199,
         "bg_frame_flag": 0,
-        "resource_id": 59
+        "resource_id": 59,
+        "link_value": ""
     },
     {
         "splash_id": 60,
@@ -537,7 +596,8 @@
         "start_date": 1787205600,
         "end_date": 1788188399,
         "bg_frame_flag": 1,
-        "resource_id": 60
+        "resource_id": 60,
+        "link_value": ""
     },
     {
         "splash_id": 61,
@@ -546,7 +606,8 @@
         "start_date": 1788242400,
         "end_date": 1789397999,
         "bg_frame_flag": 0,
-        "resource_id": 61
+        "resource_id": 61,
+        "link_value": ""
     },
     {
         "splash_id": 62,
@@ -555,7 +616,8 @@
         "start_date": 1789452000,
         "end_date": 1790607599,
         "bg_frame_flag": 0,
-        "resource_id": 62
+        "resource_id": 62,
+        "link_value": ""
     },
     {
         "splash_id": 63,
@@ -564,7 +626,8 @@
         "start_date": 1790834400,
         "end_date": 1791989999,
         "bg_frame_flag": 0,
-        "resource_id": 63
+        "resource_id": 63,
+        "link_value": ""
     },
     {
         "splash_id": 64,
@@ -573,7 +636,8 @@
         "start_date": 1789570800,
         "end_date": 1789657199,
         "bg_frame_flag": 1,
-        "resource_id": 64
+        "resource_id": 64,
+        "link_value": ""
     },
     {
         "splash_id": 65,
@@ -582,7 +646,8 @@
         "start_date": 1789657200,
         "end_date": 1789743599,
         "bg_frame_flag": 1,
-        "resource_id": 65
+        "resource_id": 65,
+        "link_value": ""
     },
     {
         "splash_id": 66,
@@ -591,7 +656,8 @@
         "start_date": 1790866800,
         "end_date": 1790953199,
         "bg_frame_flag": 1,
-        "resource_id": 66
+        "resource_id": 66,
+        "link_value": ""
     },
     {
         "splash_id": 67,
@@ -600,7 +666,8 @@
         "start_date": 1790953200,
         "end_date": 1791039599,
         "bg_frame_flag": 1,
-        "resource_id": 67
+        "resource_id": 67,
+        "link_value": ""
     },
     {
         "splash_id": 68,
@@ -609,7 +676,8 @@
         "start_date": 1791126000,
         "end_date": 1791212399,
         "bg_frame_flag": 1,
-        "resource_id": 68
+        "resource_id": 68,
+        "link_value": ""
     },
     {
         "splash_id": 69,
@@ -618,7 +686,8 @@
         "start_date": 1791385200,
         "end_date": 1791471599,
         "bg_frame_flag": 1,
-        "resource_id": 69
+        "resource_id": 69,
+        "link_value": ""
     },
     {
         "splash_id": 70,
@@ -627,7 +696,8 @@
         "start_date": 1792044000,
         "end_date": 1793199599,
         "bg_frame_flag": 0,
-        "resource_id": 70
+        "resource_id": 70,
+        "link_value": ""
     },
     {
         "splash_id": 71,
@@ -636,7 +706,8 @@
         "start_date": 1793253600,
         "end_date": 1794236399,
         "bg_frame_flag": 0,
-        "resource_id": 71
+        "resource_id": 71,
+        "link_value": ""
     },
     {
         "splash_id": 72,
@@ -645,7 +716,8 @@
         "start_date": 1793372400,
         "end_date": 1793458799,
         "bg_frame_flag": 1,
-        "resource_id": 72
+        "resource_id": 72,
+        "link_value": ""
     },
     {
         "splash_id": 73,
@@ -654,7 +726,8 @@
         "start_date": 1793372400,
         "end_date": 1793458799,
         "bg_frame_flag": 1,
-        "resource_id": 73
+        "resource_id": 73,
+        "link_value": ""
     },
     {
         "splash_id": 74,
@@ -663,7 +736,8 @@
         "start_date": 1793458800,
         "end_date": 1793545199,
         "bg_frame_flag": 0,
-        "resource_id": 74
+        "resource_id": 74,
+        "link_value": ""
     },
     {
         "splash_id": 75,
@@ -672,7 +746,8 @@
         "start_date": 1793977200,
         "end_date": 1794063599,
         "bg_frame_flag": 0,
-        "resource_id": 75
+        "resource_id": 75,
+        "link_value": ""
     },
     {
         "splash_id": 76,
@@ -681,7 +756,8 @@
         "start_date": 1794236400,
         "end_date": 1794322799,
         "bg_frame_flag": 0,
-        "resource_id": 76
+        "resource_id": 76,
+        "link_value": ""
     },
     {
         "splash_id": 77,
@@ -690,7 +766,8 @@
         "start_date": 1794495600,
         "end_date": 1794581999,
         "bg_frame_flag": 0,
-        "resource_id": 77
+        "resource_id": 77,
+        "link_value": ""
     },
     {
         "splash_id": 78,
@@ -699,6 +776,77 @@
         "start_date": 1794754800,
         "end_date": 1794841199,
         "bg_frame_flag": 0,
-        "resource_id": 78
+        "resource_id": 78,
+        "link_value": ""
+    },
+    {
+        "splash_id": 79,
+        "splash_type": 1,
+        "disp_order": 79,
+        "start_date": 1794895200,
+        "end_date": 1796050799,
+        "bg_frame_flag": 1,
+        "resource_id": 79,
+        "link_value": ""
+    },
+    {
+        "splash_id": 80,
+        "splash_type": 1,
+        "disp_order": 80,
+        "start_date": 1794895200,
+        "end_date": 1796050799,
+        "bg_frame_flag": 1,
+        "resource_id": 80,
+        "link_value": ""
+    },
+    {
+        "splash_id": 81,
+        "splash_type": 1,
+        "disp_order": 81,
+        "start_date": 1795154400,
+        "end_date": 1795924799,
+        "bg_frame_flag": 1,
+        "resource_id": 81,
+        "link_value": ""
+    },
+    {
+        "splash_id": 82,
+        "splash_type": 2,
+        "disp_order": 82,
+        "start_date": 1794895200,
+        "end_date": 1797739199,
+        "bg_frame_flag": 0,
+        "resource_id": 82,
+        "link_value": ""
+    },
+    {
+        "splash_id": 83,
+        "splash_type": 2,
+        "disp_order": 83,
+        "start_date": 1794981600,
+        "end_date": 1797739199,
+        "bg_frame_flag": 0,
+        "resource_id": 83,
+        "link_value": "gacha@2317"
+    },
+    {
+        "splash_id": 84,
+        "splash_type": 1,
+        "disp_order": 84,
+        "start_date": 1796050800,
+        "end_date": 1796137199,
+        "bg_frame_flag": 1,
+        "resource_id": 84,
+        "link_value": ""
+    },
+    {
+        "splash_id": 85,
+        "splash_type": 1,
+        "disp_order": 85,
+        "start_date": 1797433200,
+        "end_date": 1797519599,
+        "bg_frame_flag": 1,
+        "resource_id": 85,
+        "link_value": ""
     }
 ]

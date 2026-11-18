@@ -4276,5 +4276,23 @@
         "real_goods_name": "<girl_name> リアルイベント抽選券＆オリジナルチケットホルダー（サインなし）抽選券",
         "real_goods_type": 2,
         "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 714,
+        "real_goods_name": "<girl_name> 直筆サイン入りチェキ&宛名入り9周年メモリアルLEDフォトスタンド",
+        "real_goods_type": 1,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 715,
+        "real_goods_name": "<girl_name> 直筆サイン入り9周年メモリアルLEDフォトスタンド（宛名無し）抽選券",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
+    },
+    {
+        "real_goods_id": 716,
+        "real_goods_name": "<girl_name> 9周年メモリアルLEDフォトスタンド（宛名無し・サイン無し）抽選券",
+        "real_goods_type": 2,
+        "description": "<girl_name>を置換しよう。"
     }
 ]

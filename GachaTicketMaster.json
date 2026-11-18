@@ -10932,5 +10932,203 @@
         "rarity": 5,
         "resource_id": 19,
         "description": "対象のガチャを1回引ける、且つSSRが確定で出現するチケット。"
+    },
+    {
+        "gacha_ticket_id": 995,
+        "ticket_name": "9th Anniv -ビリヤニ-[A]限定SR・SSR確定チケット",
+        "ticket_type": 3,
+        "num_type": 1,
+        "gacha_type": 0,
+        "gacha_id": 2314,
+        "rarity": 3,
+        "resource_id": 20,
+        "description": "対象のガチャを1回引ける、且つSRかSSRの限定カードが確定で出現するチケット。"
+    },
+    {
+        "gacha_ticket_id": 996,
+        "ticket_name": "9th Anniv -ビリヤニ-[A]限定SSR確定チケット",
+        "ticket_type": 3,
+        "num_type": 1,
+        "gacha_type": 0,
+        "gacha_id": 2314,
+        "rarity": 5,
+        "resource_id": 21,
+        "description": "対象のガチャを1回引ける、且つSSRの限定カードが確定で出現するチケット。"
+    },
+    {
+        "gacha_ticket_id": 997,
+        "ticket_name": "9th Anniv -ビリヤニ-[A]10連チケット",
+        "ticket_type": 1,
+        "num_type": 2,
+        "gacha_type": 0,
+        "gacha_id": 2314,
+        "rarity": 0,
+        "resource_id": 17,
+        "description": "対象のガチャを10回引けるチケット。"
+    },
+    {
+        "gacha_ticket_id": 998,
+        "ticket_name": "9th Anniv -ビリヤニ-[B]限定SR・SSR確定チケット",
+        "ticket_type": 3,
+        "num_type": 1,
+        "gacha_type": 0,
+        "gacha_id": 2315,
+        "rarity": 3,
+        "resource_id": 20,
+        "description": "対象のガチャを1回引ける、且つSRかSSRの限定カードが確定で出現するチケット。"
+    },
+    {
+        "gacha_ticket_id": 999,
+        "ticket_name": "9th Anniv -ビリヤニ-[B]限定SSR確定チケット",
+        "ticket_type": 3,
+        "num_type": 1,
+        "gacha_type": 0,
+        "gacha_id": 2315,
+        "rarity": 5,
+        "resource_id": 21,
+        "description": "対象のガチャを1回引ける、且つSSRの限定カードが確定で出現するチケット。"
+    },
+    {
+        "gacha_ticket_id": 1000,
+        "ticket_name": "9th Anniv -ビリヤニ-[B]10連チケット",
+        "ticket_type": 1,
+        "num_type": 2,
+        "gacha_type": 0,
+        "gacha_id": 2315,
+        "rarity": 0,
+        "resource_id": 17,
+        "description": "対象のガチャを10回引けるチケット。"
+    },
+    {
+        "gacha_ticket_id": 1001,
+        "ticket_name": "9th Anniv -ビリヤニ-[C]限定SR・SSR確定チケット",
+        "ticket_type": 3,
+        "num_type": 1,
+        "gacha_type": 0,
+        "gacha_id": 2316,
+        "rarity": 3,
+        "resource_id": 20,
+        "description": "対象のガチャを1回引ける、且つSRかSSRの限定カードが確定で出現するチケット。"
+    },
+    {
+        "gacha_ticket_id": 1002,
+        "ticket_name": "9th Anniv -ビリヤニ-[C]限定SSR確定チケット",
+        "ticket_type": 3,
+        "num_type": 1,
+        "gacha_type": 0,
+        "gacha_id": 2316,
+        "rarity": 5,
+        "resource_id": 21,
+        "description": "対象のガチャを1回引ける、且つSSRの限定カードが確定で出現するチケット。"
+    },
+    {
+        "gacha_ticket_id": 1003,
+        "ticket_name": "9th Anniv -ビリヤニ-[C]10連チケット",
+        "ticket_type": 1,
+        "num_type": 2,
+        "gacha_type": 0,
+        "gacha_id": 2316,
+        "rarity": 0,
+        "resource_id": 17,
+        "description": "対象のガチャを10回引けるチケット。"
+    },
+    {
+        "gacha_ticket_id": 1004,
+        "ticket_name": "大越ひなの BIRTHDAYガチャSSR引換チケット",
+        "ticket_type": 4,
+        "num_type": 1,
+        "gacha_type": 0,
+        "gacha_id": 2319,
+        "rarity": 5,
+        "resource_id": 23,
+        "description": "対象ガチャからSSR以下の対象カードを引き換えることができるチケット"
+    },
+    {
+        "gacha_ticket_id": 1005,
+        "ticket_name": "大越ひなの バースデーガチャ10連チケット",
+        "ticket_type": 1,
+        "num_type": 2,
+        "gacha_type": 0,
+        "gacha_id": 2319,
+        "rarity": 0,
+        "resource_id": 17,
+        "description": "対象のガチャを10回引けるチケット。"
+    },
+    {
+        "gacha_ticket_id": 1006,
+        "ticket_name": "大越ひなの バースデーガチャSSR確定チケット",
+        "ticket_type": 2,
+        "num_type": 1,
+        "gacha_type": 0,
+        "gacha_id": 2319,
+        "rarity": 5,
+        "resource_id": 19,
+        "description": "対象のガチャを1回引ける、且つSSRが確定で出現するチケット。"
+    },
+    {
+        "gacha_ticket_id": 1007,
+        "ticket_name": "岡本姫奈 BIRTHDAYガチャSSR引換チケット",
+        "ticket_type": 4,
+        "num_type": 1,
+        "gacha_type": 0,
+        "gacha_id": 2320,
+        "rarity": 5,
+        "resource_id": 23,
+        "description": "対象ガチャからSSR以下の対象カードを引き換えることができるチケット"
+    },
+    {
+        "gacha_ticket_id": 1008,
+        "ticket_name": "岡本姫奈 バースデーガチャ10連チケット",
+        "ticket_type": 1,
+        "num_type": 2,
+        "gacha_type": 0,
+        "gacha_id": 2320,
+        "rarity": 0,
+        "resource_id": 17,
+        "description": "対象のガチャを10回引けるチケット。"
+    },
+    {
+        "gacha_ticket_id": 1009,
+        "ticket_name": "岡本姫奈 バースデーガチャSSR確定チケット",
+        "ticket_type": 2,
+        "num_type": 1,
+        "gacha_type": 0,
+        "gacha_id": 2320,
+        "rarity": 5,
+        "resource_id": 19,
+        "description": "対象のガチャを1回引ける、且つSSRが確定で出現するチケット。"
+    },
+    {
+        "gacha_ticket_id": 1010,
+        "ticket_name": "9th Anniv -ビリヤニ-[A]1回チケット",
+        "ticket_type": 1,
+        "num_type": 1,
+        "gacha_type": 0,
+        "gacha_id": 2314,
+        "rarity": 0,
+        "resource_id": 16,
+        "description": "対象のガチャを1回引けるチケット。"
+    },
+    {
+        "gacha_ticket_id": 1011,
+        "ticket_name": "9th Anniv -ビリヤニ-[B]1回チケット",
+        "ticket_type": 1,
+        "num_type": 1,
+        "gacha_type": 0,
+        "gacha_id": 2315,
+        "rarity": 0,
+        "resource_id": 16,
+        "description": "対象のガチャを1回引けるチケット。"
+    },
+    {
+        "gacha_ticket_id": 1012,
+        "ticket_name": "9th Anniv -ビリヤニ-[C]1回チケット",
+        "ticket_type": 1,
+        "num_type": 1,
+        "gacha_type": 0,
+        "gacha_id": 2316,
+        "rarity": 0,
+        "resource_id": 16,
+        "description": "対象のガチャを1回引けるチケット。"
     }
 ]

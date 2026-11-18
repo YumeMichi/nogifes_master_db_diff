@@ -3552,6 +3552,1334 @@
         ]
     },
     {
+        "special_mission_id": 7718,
+        "special_mission_name": "【9周年楽曲】のミッションを1個クリア",
+        "disp_order": 7709,
+        "start_date": 1794895200,
+        "end_date": 1798430399,
+        "mission_type": 128,
+        "mission_param": "7724@7741@1@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 13,
+                "data_id": 0,
+                "data_num": 5
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7719,
+        "special_mission_name": "【9周年楽曲】のミッションを3個クリア",
+        "disp_order": 7710,
+        "start_date": 1794895200,
+        "end_date": 1798430399,
+        "mission_type": 128,
+        "mission_param": "7724@7741@3@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 13,
+                "data_id": 0,
+                "data_num": 5
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7720,
+        "special_mission_name": "【9周年楽曲】のミッションを5個クリア",
+        "disp_order": 7711,
+        "start_date": 1794895200,
+        "end_date": 1798430399,
+        "mission_type": 128,
+        "mission_param": "7724@7741@5@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 13,
+                "data_id": 0,
+                "data_num": 5
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7721,
+        "special_mission_name": "【9周年楽曲】のミッションを10個クリア",
+        "disp_order": 7712,
+        "start_date": 1794895200,
+        "end_date": 1798430399,
+        "mission_type": 128,
+        "mission_param": "7724@7741@10@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 13,
+                "data_id": 0,
+                "data_num": 5
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7722,
+        "special_mission_name": "【9周年楽曲】のミッションを15個クリア",
+        "disp_order": 7713,
+        "start_date": 1794895200,
+        "end_date": 1798430399,
+        "mission_type": 128,
+        "mission_param": "7724@7741@15@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 13,
+                "data_id": 0,
+                "data_num": 5
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7723,
+        "special_mission_name": "【9周年楽曲】のミッションをすべてクリア",
+        "disp_order": 7714,
+        "start_date": 1794895200,
+        "end_date": 1798430399,
+        "mission_type": 128,
+        "mission_param": "7724@7741@18@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 13,
+                "data_id": 0,
+                "data_num": 10
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7724,
+        "special_mission_name": "【9周年楽曲】「My respect」のLIVEを1回クリア",
+        "disp_order": 7715,
+        "start_date": 1794895200,
+        "end_date": 1798430399,
+        "mission_type": 101,
+        "mission_param": "470010@0@1@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 5,
+                "data_id": 9,
+                "data_num": 15
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7725,
+        "special_mission_name": "【9周年楽曲】「My respect」のLIVEを1回クリア",
+        "disp_order": 7716,
+        "start_date": 1794895200,
+        "end_date": 1798430399,
+        "mission_type": 101,
+        "mission_param": "470010@0@1@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 5,
+                "data_id": 12,
+                "data_num": 5
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7726,
+        "special_mission_name": "【9周年楽曲】「ありがちな恋愛 -真夏の全国ツアー2025 ver-」のLIVEを1回クリア",
+        "disp_order": 7717,
+        "start_date": 1794895200,
+        "end_date": 1798430399,
+        "mission_type": 101,
+        "mission_param": "90000860@0@1@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 5,
+                "data_id": 8,
+                "data_num": 15
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7727,
+        "special_mission_name": "【9周年楽曲】「ありがちな恋愛 -真夏の全国ツアー2025 ver-」のLIVEを1回クリア",
+        "disp_order": 7718,
+        "start_date": 1794895200,
+        "end_date": 1798430399,
+        "mission_type": 101,
+        "mission_param": "90000860@0@1@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 5,
+                "data_id": 11,
+                "data_num": 5
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7728,
+        "special_mission_name": "【9周年楽曲】「Same numbers」のLIVEを1回クリア",
+        "disp_order": 7719,
+        "start_date": 1794895200,
+        "end_date": 1798430399,
+        "mission_type": 101,
+        "mission_param": "450010@0@1@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 5,
+                "data_id": 7,
+                "data_num": 15
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7729,
+        "special_mission_name": "【9周年楽曲】「Same numbers」のLIVEを1回クリア",
+        "disp_order": 7720,
+        "start_date": 1794895200,
+        "end_date": 1798430399,
+        "mission_type": 101,
+        "mission_param": "450010@0@1@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 5,
+                "data_id": 10,
+                "data_num": 5
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7730,
+        "special_mission_name": "【9周年楽曲】「僕たちのサヨナラ」のLIVEを1回クリア",
+        "disp_order": 7721,
+        "start_date": 1794895200,
+        "end_date": 1798430399,
+        "mission_type": 101,
+        "mission_param": "380020@0@1@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 22,
+                "data_id": 3,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7731,
+        "special_mission_name": "【9周年楽曲】「おひとりさま天国 -5th ALBUM MEMORIAL LIVE ver-」のLIVEを1回クリア",
+        "disp_order": 7722,
+        "start_date": 1794895200,
+        "end_date": 1798430399,
+        "mission_type": 101,
+        "mission_param": "90000870@0@1@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 22,
+                "data_id": 1,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7732,
+        "special_mission_name": "【9周年楽曲】「好きになってみた -真夏の全国ツアー2025 ver-」のLIVEを1回クリア",
+        "disp_order": 7723,
+        "start_date": 1794895200,
+        "end_date": 1798430399,
+        "mission_type": 101,
+        "mission_param": "90000880@0@1@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 22,
+                "data_id": 7,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7733,
+        "special_mission_name": "【9周年楽曲】「新宿バックオフ」のLIVEを1回クリア",
+        "disp_order": 7724,
+        "start_date": 1794895200,
+        "end_date": 1798430399,
+        "mission_type": 101,
+        "mission_param": "460040@0@1@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 3,
+                "data_id": 9,
+                "data_num": 2
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7734,
+        "special_mission_name": "【9周年楽曲】「愛って羨ましい」のLIVEを1回クリア",
+        "disp_order": 7725,
+        "start_date": 1794895200,
+        "end_date": 1798430399,
+        "mission_type": 101,
+        "mission_param": "480020@0@1@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 5,
+                "data_id": 13,
+                "data_num": 3
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7735,
+        "special_mission_name": "【9周年楽曲】「懐かない仔猫」のLIVEを1回クリア",
+        "disp_order": 7726,
+        "start_date": 1794895200,
+        "end_date": 1798430399,
+        "mission_type": 101,
+        "mission_param": "420050@0@1@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 3,
+                "data_id": 4,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7736,
+        "special_mission_name": "【9周年楽曲】「全力ラップタイム」のLIVEを1回クリア",
+        "disp_order": 7727,
+        "start_date": 1794895200,
+        "end_date": 1798430399,
+        "mission_type": 101,
+        "mission_param": "470020@0@1@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 31,
+                "data_id": 3,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7737,
+        "special_mission_name": "【9周年楽曲】「「じゃあね」が切ない」のLIVEを1回クリア",
+        "disp_order": 7728,
+        "start_date": 1794895200,
+        "end_date": 1798430399,
+        "mission_type": 101,
+        "mission_param": "410030@0@1@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 31,
+                "data_id": 21,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7738,
+        "special_mission_name": "【9周年楽曲】「Fake Doctor」のLIVEを1回クリア",
+        "disp_order": 7729,
+        "start_date": 1794895200,
+        "end_date": 1798430399,
+        "mission_type": 101,
+        "mission_param": "470040@0@1@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 31,
+                "data_id": 19,
+                "data_num": 10
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7739,
+        "special_mission_name": "【9周年楽曲】「世界はここにある」のLIVEを1回クリア",
+        "disp_order": 7730,
+        "start_date": 1794895200,
+        "end_date": 1798430399,
+        "mission_type": 101,
+        "mission_param": "470030@0@1@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 31,
+                "data_id": 20,
+                "data_num": 2
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7740,
+        "special_mission_name": "【9周年楽曲】「光合成希望 -真夏の全国ツアー2026 ver-」のLIVEを1回クリア",
+        "disp_order": 7731,
+        "start_date": 1794895200,
+        "end_date": 1798430399,
+        "mission_type": 101,
+        "mission_param": "90000890@0@1@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 29,
+                "data_id": 0,
+                "data_num": 10
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7741,
+        "special_mission_name": "【9周年楽曲】「Against -真夏の全国ツアー2025 ver-」のLIVEを1回クリア",
+        "disp_order": 7732,
+        "start_date": 1794895200,
+        "end_date": 1798430399,
+        "mission_type": 101,
+        "mission_param": "90000900@0@1@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 23,
+                "data_id": 0,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7742,
+        "special_mission_name": "【9周年メンバー】のミッションを1個クリア",
+        "disp_order": 7733,
+        "start_date": 1796104800,
+        "end_date": 1798430399,
+        "mission_type": 128,
+        "mission_param": "7749@7781@1@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 13,
+                "data_id": 0,
+                "data_num": 5
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7743,
+        "special_mission_name": "【9周年メンバー】のミッションを3個クリア",
+        "disp_order": 7734,
+        "start_date": 1796104800,
+        "end_date": 1798430399,
+        "mission_type": 128,
+        "mission_param": "7749@7781@3@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 13,
+                "data_id": 0,
+                "data_num": 5
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7744,
+        "special_mission_name": "【9周年メンバー】のミッションを5個クリア",
+        "disp_order": 7735,
+        "start_date": 1796104800,
+        "end_date": 1798430399,
+        "mission_type": 128,
+        "mission_param": "7749@7781@5@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 13,
+                "data_id": 0,
+                "data_num": 5
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7745,
+        "special_mission_name": "【9周年メンバー】のミッションを10個クリア",
+        "disp_order": 7736,
+        "start_date": 1796104800,
+        "end_date": 1798430399,
+        "mission_type": 128,
+        "mission_param": "7749@7781@10@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 13,
+                "data_id": 0,
+                "data_num": 5
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7746,
+        "special_mission_name": "【9周年メンバー】のミッションを20個クリア",
+        "disp_order": 7737,
+        "start_date": 1796104800,
+        "end_date": 1798430399,
+        "mission_type": 128,
+        "mission_param": "7749@7781@20@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 13,
+                "data_id": 0,
+                "data_num": 5
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7747,
+        "special_mission_name": "【9周年メンバー】のミッションを30個クリア",
+        "disp_order": 7738,
+        "start_date": 1796104800,
+        "end_date": 1798430399,
+        "mission_type": 128,
+        "mission_param": "7749@7781@30@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 13,
+                "data_id": 0,
+                "data_num": 5
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7748,
+        "special_mission_name": "【9周年メンバー】のミッションをすべてクリア",
+        "disp_order": 7739,
+        "start_date": 1796104800,
+        "end_date": 1798430399,
+        "mission_type": 128,
+        "mission_param": "7749@7781@33@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 13,
+                "data_id": 0,
+                "data_num": 10
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7749,
+        "special_mission_name": "【9周年メンバー】伊藤理々杏を1枚以上編成してLIVEを3回クリア",
+        "disp_order": 7740,
+        "start_date": 1796104800,
+        "end_date": 1798430399,
+        "mission_type": 125,
+        "mission_param": "2265@0@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 6,
+                "data_id": 301,
+                "data_num": 50
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7750,
+        "special_mission_name": "【9周年メンバー】岩本蓮加を1枚以上編成してLIVEを3回クリア",
+        "disp_order": 7741,
+        "start_date": 1796104800,
+        "end_date": 1798430399,
+        "mission_type": 125,
+        "mission_param": "2266@0@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 6,
+                "data_id": 302,
+                "data_num": 50
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7751,
+        "special_mission_name": "【9周年メンバー】遠藤さくらを1枚以上編成してLIVEを3回クリア",
+        "disp_order": 7742,
+        "start_date": 1796104800,
+        "end_date": 1798430399,
+        "mission_type": 125,
+        "mission_param": "2267@0@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 6,
+                "data_id": 401,
+                "data_num": 50
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7752,
+        "special_mission_name": "【9周年メンバー】賀喜遥香を1枚以上編成してLIVEを3回クリア",
+        "disp_order": 7743,
+        "start_date": 1796104800,
+        "end_date": 1798430399,
+        "mission_type": 125,
+        "mission_param": "2268@0@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 6,
+                "data_id": 402,
+                "data_num": 50
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7753,
+        "special_mission_name": "【9周年メンバー】金川紗耶を1枚以上編成してLIVEを3回クリア",
+        "disp_order": 7744,
+        "start_date": 1796104800,
+        "end_date": 1798430399,
+        "mission_type": 125,
+        "mission_param": "2269@0@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 6,
+                "data_id": 404,
+                "data_num": 50
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7754,
+        "special_mission_name": "【9周年メンバー】黒見明香を1枚以上編成してLIVEを3回クリア",
+        "disp_order": 7745,
+        "start_date": 1796104800,
+        "end_date": 1798430399,
+        "mission_type": 125,
+        "mission_param": "2270@0@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 6,
+                "data_id": 412,
+                "data_num": 50
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7755,
+        "special_mission_name": "【9周年メンバー】柴田柚菜を1枚以上編成してLIVEを3回クリア",
+        "disp_order": 7746,
+        "start_date": 1796104800,
+        "end_date": 1798430399,
+        "mission_type": 125,
+        "mission_param": "2271@0@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 6,
+                "data_id": 406,
+                "data_num": 50
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7756,
+        "special_mission_name": "【9周年メンバー】田村真佑を1枚以上編成してLIVEを3回クリア",
+        "disp_order": 7747,
+        "start_date": 1796104800,
+        "end_date": 1798430399,
+        "mission_type": 125,
+        "mission_param": "2272@0@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 6,
+                "data_id": 408,
+                "data_num": 50
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7757,
+        "special_mission_name": "【9周年メンバー】筒井あやめを1枚以上編成してLIVEを3回クリア",
+        "disp_order": 7748,
+        "start_date": 1796104800,
+        "end_date": 1798430399,
+        "mission_type": 125,
+        "mission_param": "2273@0@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 6,
+                "data_id": 409,
+                "data_num": 50
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7758,
+        "special_mission_name": "【9周年メンバー】林瑠奈を1枚以上編成してLIVEを3回クリア",
+        "disp_order": 7749,
+        "start_date": 1796104800,
+        "end_date": 1798430399,
+        "mission_type": 125,
+        "mission_param": "2274@0@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 6,
+                "data_id": 414,
+                "data_num": 50
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7759,
+        "special_mission_name": "【9周年メンバー】弓木奈於を1枚以上編成してLIVEを3回クリア",
+        "disp_order": 7750,
+        "start_date": 1796104800,
+        "end_date": 1798430399,
+        "mission_type": 125,
+        "mission_param": "2275@0@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 6,
+                "data_id": 416,
+                "data_num": 50
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7760,
+        "special_mission_name": "【9周年メンバー】五百城茉央を1枚以上編成してLIVEを3回クリア",
+        "disp_order": 7751,
+        "start_date": 1796104800,
+        "end_date": 1798430399,
+        "mission_type": 125,
+        "mission_param": "2276@0@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 6,
+                "data_id": 501,
+                "data_num": 50
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7761,
+        "special_mission_name": "【9周年メンバー】池田瑛紗を1枚以上編成してLIVEを3回クリア",
+        "disp_order": 7752,
+        "start_date": 1796104800,
+        "end_date": 1798430399,
+        "mission_type": 125,
+        "mission_param": "2277@0@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 6,
+                "data_id": 502,
+                "data_num": 50
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7762,
+        "special_mission_name": "【9周年メンバー】一ノ瀬美空を1枚以上編成してLIVEを3回クリア",
+        "disp_order": 7753,
+        "start_date": 1796104800,
+        "end_date": 1798430399,
+        "mission_type": 125,
+        "mission_param": "2278@0@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 6,
+                "data_id": 503,
+                "data_num": 50
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7763,
+        "special_mission_name": "【9周年メンバー】井上和を1枚以上編成してLIVEを3回クリア",
+        "disp_order": 7754,
+        "start_date": 1796104800,
+        "end_date": 1798430399,
+        "mission_type": 125,
+        "mission_param": "2279@0@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 6,
+                "data_id": 504,
+                "data_num": 50
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7764,
+        "special_mission_name": "【9周年メンバー】岡本姫奈を1枚以上編成してLIVEを3回クリア",
+        "disp_order": 7755,
+        "start_date": 1796104800,
+        "end_date": 1798430399,
+        "mission_type": 125,
+        "mission_param": "2280@0@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 6,
+                "data_id": 505,
+                "data_num": 50
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7765,
+        "special_mission_name": "【9周年メンバー】小川彩を1枚以上編成してLIVEを3回クリア",
+        "disp_order": 7756,
+        "start_date": 1796104800,
+        "end_date": 1798430399,
+        "mission_type": 125,
+        "mission_param": "2281@0@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 6,
+                "data_id": 506,
+                "data_num": 50
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7766,
+        "special_mission_name": "【9周年メンバー】奥田いろはを1枚以上編成してLIVEを3回クリア",
+        "disp_order": 7757,
+        "start_date": 1796104800,
+        "end_date": 1798430399,
+        "mission_type": 125,
+        "mission_param": "2282@0@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 6,
+                "data_id": 507,
+                "data_num": 50
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7767,
+        "special_mission_name": "【9周年メンバー】川﨑桜を1枚以上編成してLIVEを3回クリア",
+        "disp_order": 7758,
+        "start_date": 1796104800,
+        "end_date": 1798430399,
+        "mission_type": 125,
+        "mission_param": "2283@0@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 6,
+                "data_id": 508,
+                "data_num": 50
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7768,
+        "special_mission_name": "【9周年メンバー】菅原咲月を1枚以上編成してLIVEを3回クリア",
+        "disp_order": 7759,
+        "start_date": 1796104800,
+        "end_date": 1798430399,
+        "mission_type": 125,
+        "mission_param": "2284@0@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 6,
+                "data_id": 509,
+                "data_num": 50
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7769,
+        "special_mission_name": "【9周年メンバー】冨里奈央を1枚以上編成してLIVEを3回クリア",
+        "disp_order": 7760,
+        "start_date": 1796104800,
+        "end_date": 1798430399,
+        "mission_type": 125,
+        "mission_param": "2285@0@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 6,
+                "data_id": 510,
+                "data_num": 50
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7770,
+        "special_mission_name": "【9周年メンバー】中西アルノを1枚以上編成してLIVEを3回クリア",
+        "disp_order": 7761,
+        "start_date": 1796104800,
+        "end_date": 1798430399,
+        "mission_type": 125,
+        "mission_param": "2286@0@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 6,
+                "data_id": 511,
+                "data_num": 50
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7771,
+        "special_mission_name": "【9周年メンバー】愛宕心響を1枚以上編成してLIVEを3回クリア",
+        "disp_order": 7762,
+        "start_date": 1796104800,
+        "end_date": 1798430399,
+        "mission_type": 125,
+        "mission_param": "2287@0@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 6,
+                "data_id": 601,
+                "data_num": 50
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7772,
+        "special_mission_name": "【9周年メンバー】大越ひなのを1枚以上編成してLIVEを3回クリア",
+        "disp_order": 7763,
+        "start_date": 1796104800,
+        "end_date": 1798430399,
+        "mission_type": 125,
+        "mission_param": "2288@0@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 6,
+                "data_id": 602,
+                "data_num": 50
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7773,
+        "special_mission_name": "【9周年メンバー】小津玲奈を1枚以上編成してLIVEを3回クリア",
+        "disp_order": 7764,
+        "start_date": 1796104800,
+        "end_date": 1798430399,
+        "mission_type": 125,
+        "mission_param": "2289@0@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 6,
+                "data_id": 603,
+                "data_num": 50
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7774,
+        "special_mission_name": "【9周年メンバー】海邉朱莉を1枚以上編成してLIVEを3回クリア",
+        "disp_order": 7765,
+        "start_date": 1796104800,
+        "end_date": 1798430399,
+        "mission_type": 125,
+        "mission_param": "2290@0@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 6,
+                "data_id": 604,
+                "data_num": 50
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7775,
+        "special_mission_name": "【9周年メンバー】川端晃菜を1枚以上編成してLIVEを3回クリア",
+        "disp_order": 7766,
+        "start_date": 1796104800,
+        "end_date": 1798430399,
+        "mission_type": 125,
+        "mission_param": "2291@0@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 6,
+                "data_id": 605,
+                "data_num": 50
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7776,
+        "special_mission_name": "【9周年メンバー】鈴木佑捺を1枚以上編成してLIVEを3回クリア",
+        "disp_order": 7767,
+        "start_date": 1796104800,
+        "end_date": 1798430399,
+        "mission_type": 125,
+        "mission_param": "2292@0@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 6,
+                "data_id": 606,
+                "data_num": 50
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7777,
+        "special_mission_name": "【9周年メンバー】瀬戸口心月を1枚以上編成してLIVEを3回クリア",
+        "disp_order": 7768,
+        "start_date": 1796104800,
+        "end_date": 1798430399,
+        "mission_type": 125,
+        "mission_param": "2293@0@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 6,
+                "data_id": 607,
+                "data_num": 50
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7778,
+        "special_mission_name": "【9周年メンバー】長嶋凛桜を1枚以上編成してLIVEを3回クリア",
+        "disp_order": 7769,
+        "start_date": 1796104800,
+        "end_date": 1798430399,
+        "mission_type": 125,
+        "mission_param": "2294@0@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 6,
+                "data_id": 608,
+                "data_num": 50
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7779,
+        "special_mission_name": "【9周年メンバー】増田三莉音を1枚以上編成してLIVEを3回クリア",
+        "disp_order": 7770,
+        "start_date": 1796104800,
+        "end_date": 1798430399,
+        "mission_type": 125,
+        "mission_param": "2295@0@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 6,
+                "data_id": 609,
+                "data_num": 50
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7780,
+        "special_mission_name": "【9周年メンバー】森平麗心を1枚以上編成してLIVEを3回クリア",
+        "disp_order": 7771,
+        "start_date": 1796104800,
+        "end_date": 1798430399,
+        "mission_type": 125,
+        "mission_param": "2296@0@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 6,
+                "data_id": 610,
+                "data_num": 50
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7781,
+        "special_mission_name": "【9周年メンバー】矢田萌華を1枚以上編成してLIVEを3回クリア",
+        "disp_order": 7772,
+        "start_date": 1796104800,
+        "end_date": 1798430399,
+        "mission_type": 125,
+        "mission_param": "2297@0@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 6,
+                "data_id": 611,
+                "data_num": 50
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7782,
+        "special_mission_name": "【9周年シナジー】のミッションを1個クリア",
+        "disp_order": 7773,
+        "start_date": 1797228000,
+        "end_date": 1798430399,
+        "mission_type": 128,
+        "mission_param": "7787@7799@1@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 13,
+                "data_id": 0,
+                "data_num": 5
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7783,
+        "special_mission_name": "【9周年シナジー】のミッションを3個クリア",
+        "disp_order": 7774,
+        "start_date": 1797228000,
+        "end_date": 1798430399,
+        "mission_type": 128,
+        "mission_param": "7787@7799@3@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 13,
+                "data_id": 0,
+                "data_num": 5
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7784,
+        "special_mission_name": "【9周年シナジー】のミッションを5個クリア",
+        "disp_order": 7775,
+        "start_date": 1797228000,
+        "end_date": 1798430399,
+        "mission_type": 128,
+        "mission_param": "7787@7799@5@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 13,
+                "data_id": 0,
+                "data_num": 5
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7785,
+        "special_mission_name": "【9周年シナジー】のミッションを10個クリア",
+        "disp_order": 7776,
+        "start_date": 1797228000,
+        "end_date": 1798430399,
+        "mission_type": 128,
+        "mission_param": "7787@7799@10@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 13,
+                "data_id": 0,
+                "data_num": 5
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7786,
+        "special_mission_name": "【9周年シナジー】のミッションをすべてクリア",
+        "disp_order": 7777,
+        "start_date": 1797228000,
+        "end_date": 1798430399,
+        "mission_type": 128,
+        "mission_param": "7787@7799@13@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 13,
+                "data_id": 0,
+                "data_num": 10
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7787,
+        "special_mission_name": "【9周年シナジー】賀喜遥香・金川紗耶を編成してLIVEを1回クリア",
+        "disp_order": 7778,
+        "start_date": 1797228000,
+        "end_date": 1798430399,
+        "mission_type": 125,
+        "mission_param": "2298@0@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 13,
+                "data_id": 0,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7788,
+        "special_mission_name": "【9周年シナジー】小川彩・奥田いろは・菅原咲月・冨里奈央・中西アルノを編成してLIVEを1回クリア",
+        "disp_order": 7779,
+        "start_date": 1797228000,
+        "end_date": 1798430399,
+        "mission_type": 125,
+        "mission_param": "2299@0@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 13,
+                "data_id": 0,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7789,
+        "special_mission_name": "【9周年シナジー】五百城茉央・冨里奈央を編成してLIVEを1回クリア",
+        "disp_order": 7780,
+        "start_date": 1797228000,
+        "end_date": 1798430399,
+        "mission_type": 125,
+        "mission_param": "2300@0@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 13,
+                "data_id": 0,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7790,
+        "special_mission_name": "【9周年シナジー】井上和・菅原咲月を編成してLIVEを1回クリア",
+        "disp_order": 7781,
+        "start_date": 1797228000,
+        "end_date": 1798430399,
+        "mission_type": 125,
+        "mission_param": "2301@0@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 13,
+                "data_id": 0,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7791,
+        "special_mission_name": "【9周年シナジー】一ノ瀬美空・小川彩を編成してLIVEを1回クリア",
+        "disp_order": 7782,
+        "start_date": 1797228000,
+        "end_date": 1798430399,
+        "mission_type": 125,
+        "mission_param": "2302@0@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 13,
+                "data_id": 0,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7792,
+        "special_mission_name": "【9周年シナジー】五百城茉央・池田瑛紗・井上和・中西アルノを編成してLIVEを1回クリア",
+        "disp_order": 7783,
+        "start_date": 1797228000,
+        "end_date": 1798430399,
+        "mission_type": 125,
+        "mission_param": "2303@0@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 13,
+                "data_id": 0,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7793,
+        "special_mission_name": "【9周年シナジー】井上和・川﨑桜を編成してLIVEを1回クリア",
+        "disp_order": 7784,
+        "start_date": 1797228000,
+        "end_date": 1798430399,
+        "mission_type": 125,
+        "mission_param": "2304@0@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 13,
+                "data_id": 0,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7794,
+        "special_mission_name": "【9周年シナジー】五百城茉央・奥田いろはを編成してLIVEを1回クリア",
+        "disp_order": 7785,
+        "start_date": 1797228000,
+        "end_date": 1798430399,
+        "mission_type": 125,
+        "mission_param": "2305@0@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 13,
+                "data_id": 0,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7795,
+        "special_mission_name": "【9周年シナジー】池田瑛紗・井上和・菅原咲月を編成してLIVEを1回クリア",
+        "disp_order": 7786,
+        "start_date": 1797228000,
+        "end_date": 1798430399,
+        "mission_type": 125,
+        "mission_param": "2306@0@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 13,
+                "data_id": 0,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7796,
+        "special_mission_name": "【9周年シナジー】遠藤さくら・賀喜遥香を編成してLIVEを1回クリア",
+        "disp_order": 7787,
+        "start_date": 1797228000,
+        "end_date": 1798430399,
+        "mission_type": 125,
+        "mission_param": "2307@0@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 13,
+                "data_id": 0,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7797,
+        "special_mission_name": "【9周年シナジー】五百城茉央・奥田いろは・菅原咲月を編成してLIVEを1回クリア",
+        "disp_order": 7788,
+        "start_date": 1797228000,
+        "end_date": 1798430399,
+        "mission_type": 125,
+        "mission_param": "2308@0@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 13,
+                "data_id": 0,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7798,
+        "special_mission_name": "【9周年シナジー】田村真佑・池田瑛紗・一ノ瀬美空・小川彩・菅原咲月を編成してLIVEを1回クリア",
+        "disp_order": 7789,
+        "start_date": 1797228000,
+        "end_date": 1798430399,
+        "mission_type": 125,
+        "mission_param": "2309@0@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 13,
+                "data_id": 0,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7799,
+        "special_mission_name": "【9周年シナジー】筒井あやめ・弓木奈於・五百城茉央・奥田いろは・川﨑桜を編成してLIVEを1回クリア",
+        "disp_order": 7790,
+        "start_date": 1797228000,
+        "end_date": 1798430399,
+        "mission_type": 125,
+        "mission_param": "2310@0@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 13,
+                "data_id": 0,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7800,
+        "special_mission_name": "【乃木フェスプレイ】海邉朱莉・鈴木佑捺を編成して「タイムリミット片想い」のLIVEをFULL COMBO以上で1回クリアしよう",
+        "disp_order": 7791,
+        "start_date": 1794895200,
+        "end_date": 1796363999,
+        "mission_type": 125,
+        "mission_param": "2311@0@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 13,
+                "data_id": 0,
+                "data_num": 20
+            }
+        ]
+    },
+    {
         "special_mission_id": 7801,
         "special_mission_name": "「光合成希望 -真夏の全国ツアー2026 ver-」のLIVEを20回クリアしよう",
         "disp_order": 7792,
@@ -4108,6 +5436,342 @@
                 "data_type": 13,
                 "data_id": 0,
                 "data_num": 6
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7836,
+        "special_mission_name": "「ビリヤニ」のLIVEを20回クリアしよう",
+        "disp_order": 7827,
+        "start_date": 1795154400,
+        "end_date": 1795964399,
+        "mission_type": 101,
+        "mission_param": "20002990@0@20@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 13,
+                "data_id": 0,
+                "data_num": 10
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7837,
+        "special_mission_name": "「9周年キャンドル」を240個集めよう",
+        "disp_order": 7828,
+        "start_date": 1795154400,
+        "end_date": 1795186799,
+        "mission_type": 119,
+        "mission_param": "299@240@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 13,
+                "data_id": 0,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7838,
+        "special_mission_name": "「ビリヤニ」のLIVEを1回クリアしよう",
+        "disp_order": 7829,
+        "start_date": 1795154400,
+        "end_date": 1795186799,
+        "mission_type": 101,
+        "mission_param": "20002990@0@1@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 18,
+                "data_id": 743,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7839,
+        "special_mission_name": "「9周年キャンドル」を240個集めよう",
+        "disp_order": 7830,
+        "start_date": 1795186800,
+        "end_date": 1795273199,
+        "mission_type": 119,
+        "mission_param": "299@240@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 13,
+                "data_id": 0,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7840,
+        "special_mission_name": "「ビリヤニ」のLIVEを1回クリアしよう",
+        "disp_order": 7831,
+        "start_date": 1795186800,
+        "end_date": 1795273199,
+        "mission_type": 101,
+        "mission_param": "20002990@0@1@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 18,
+                "data_id": 743,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7841,
+        "special_mission_name": "「9周年キャンドル」を240個集めよう",
+        "disp_order": 7832,
+        "start_date": 1795273200,
+        "end_date": 1795359599,
+        "mission_type": 119,
+        "mission_param": "299@240@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 13,
+                "data_id": 0,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7842,
+        "special_mission_name": "「ビリヤニ」のLIVEを1回クリアしよう",
+        "disp_order": 7833,
+        "start_date": 1795273200,
+        "end_date": 1795359599,
+        "mission_type": 101,
+        "mission_param": "20002990@0@1@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 18,
+                "data_id": 743,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7843,
+        "special_mission_name": "「9周年キャンドル」を240個集めよう",
+        "disp_order": 7834,
+        "start_date": 1795359600,
+        "end_date": 1795445999,
+        "mission_type": 119,
+        "mission_param": "299@240@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 13,
+                "data_id": 0,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7844,
+        "special_mission_name": "「ビリヤニ」のLIVEを1回クリアしよう",
+        "disp_order": 7835,
+        "start_date": 1795359600,
+        "end_date": 1795445999,
+        "mission_type": 101,
+        "mission_param": "20002990@0@1@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 18,
+                "data_id": 743,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7845,
+        "special_mission_name": "「9周年キャンドル」を240個集めよう",
+        "disp_order": 7836,
+        "start_date": 1795446000,
+        "end_date": 1795532399,
+        "mission_type": 119,
+        "mission_param": "299@240@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 13,
+                "data_id": 0,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7846,
+        "special_mission_name": "「ビリヤニ」のLIVEを1回クリアしよう",
+        "disp_order": 7837,
+        "start_date": 1795446000,
+        "end_date": 1795532399,
+        "mission_type": 101,
+        "mission_param": "20002990@0@1@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 18,
+                "data_id": 743,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7847,
+        "special_mission_name": "「9周年キャンドル」を240個集めよう",
+        "disp_order": 7838,
+        "start_date": 1795532400,
+        "end_date": 1795618799,
+        "mission_type": 119,
+        "mission_param": "299@240@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 13,
+                "data_id": 0,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7848,
+        "special_mission_name": "「ビリヤニ」のLIVEを1回クリアしよう",
+        "disp_order": 7839,
+        "start_date": 1795532400,
+        "end_date": 1795618799,
+        "mission_type": 101,
+        "mission_param": "20002990@0@1@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 18,
+                "data_id": 743,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7849,
+        "special_mission_name": "「9周年キャンドル」を240個集めよう",
+        "disp_order": 7840,
+        "start_date": 1795618800,
+        "end_date": 1795705199,
+        "mission_type": 119,
+        "mission_param": "299@240@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 13,
+                "data_id": 0,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7850,
+        "special_mission_name": "「ビリヤニ」のLIVEを1回クリアしよう",
+        "disp_order": 7841,
+        "start_date": 1795618800,
+        "end_date": 1795705199,
+        "mission_type": 101,
+        "mission_param": "20002990@0@1@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 18,
+                "data_id": 743,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7851,
+        "special_mission_name": "「9周年キャンドル」を240個集めよう",
+        "disp_order": 7842,
+        "start_date": 1795705200,
+        "end_date": 1795791599,
+        "mission_type": 119,
+        "mission_param": "299@240@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 13,
+                "data_id": 0,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7852,
+        "special_mission_name": "「ビリヤニ」のLIVEを1回クリアしよう",
+        "disp_order": 7843,
+        "start_date": 1795705200,
+        "end_date": 1795791599,
+        "mission_type": 101,
+        "mission_param": "20002990@0@1@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 18,
+                "data_id": 743,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7853,
+        "special_mission_name": "「9周年キャンドル」を240個集めよう",
+        "disp_order": 7844,
+        "start_date": 1795791600,
+        "end_date": 1795877999,
+        "mission_type": 119,
+        "mission_param": "299@240@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 13,
+                "data_id": 0,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7854,
+        "special_mission_name": "「ビリヤニ」のLIVEを1回クリアしよう",
+        "disp_order": 7845,
+        "start_date": 1795791600,
+        "end_date": 1795877999,
+        "mission_type": 101,
+        "mission_param": "20002990@0@1@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 18,
+                "data_id": 743,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7855,
+        "special_mission_name": "「9周年キャンドル」を240個集めよう",
+        "disp_order": 7846,
+        "start_date": 1795878000,
+        "end_date": 1795964399,
+        "mission_type": 119,
+        "mission_param": "299@240@0@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 13,
+                "data_id": 0,
+                "data_num": 1
+            }
+        ]
+    },
+    {
+        "special_mission_id": 7856,
+        "special_mission_name": "「ビリヤニ」のLIVEを1回クリアしよう",
+        "disp_order": 7847,
+        "start_date": 1795878000,
+        "end_date": 1795964399,
+        "mission_type": 101,
+        "mission_param": "20002990@0@1@0@0@0@0@0@0@0",
+        "reward_data": [
+            {
+                "data_type": 18,
+                "data_id": 743,
+                "data_num": 1
             }
         ]
     }

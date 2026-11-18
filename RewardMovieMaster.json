@@ -49059,5 +49059,39 @@
                 "movie_get_type": 1
             }
         ]
+    },
+    {
+        "reward_movie_id": 2969,
+        "reward_movie_name": "14th YEAR BIRTHDAY LIVE<br />ビリヤニ 副音声MOVIE",
+        "reward_movie_name_kana": "ふぉーてぃーんすいやーばーすでーらいぶ　びりやに　ふくおんせいむーびー",
+        "movie_type": 1,
+        "start_date": 1795154400,
+        "unit_data": [
+            {
+                "unit_id": 139970,
+                "movie_get_type": 1
+            },
+            {
+                "unit_id": 139971,
+                "movie_get_type": 1
+            }
+        ]
+    },
+    {
+        "reward_movie_id": 2970,
+        "reward_movie_name": "オフショット撮影チャレンジ！<br />Photo by Teresa Ikeda",
+        "reward_movie_name_kana": "おふしょっとさつえいちゃれんじ　ふぉと　ばい　てれさ　いけだ",
+        "movie_type": 1,
+        "start_date": 1795154400,
+        "unit_data": [
+            {
+                "unit_id": 139980,
+                "movie_get_type": 1
+            },
+            {
+                "unit_id": 139981,
+                "movie_get_type": 1
+            }
+        ]
     }
 ]

@@ -3385,5 +3385,18 @@
                 "gacha_id": 2307
             }
         ]
+    },
+    {
+        "gacha_free_campaign_id": 140,
+        "term_type": 1,
+        "num_type": 2,
+        "possible_num": 1,
+        "start_date": 1796050800,
+        "end_date": 1797778799,
+        "gacha_data": [
+            {
+                "gacha_id": 2318
+            }
+        ]
     }
 ]
